@@ -173,7 +173,6 @@ Solo responde con el post, nada más.
 
 def main():
     enviar_telegram("🤖 Bot Chile Avanza iniciado.")
-
     try:
         noticias = obtener_noticias()
     except Exception as e:
@@ -185,12 +184,12 @@ def main():
         return
 
     for noticia in noticias[:5]:
-    try:
-        if es_avance_positivo(noticia["titulo"]):
-            post = generar_post(noticia)
-            enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
-    except Exception as e:
-        enviar_telegram(f"❌ Error generando post:\n{e}")
+        try:
+            if es_avance_positivo(noticia["titulo"]):
+                post = generar_post(noticia)
+                enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+        except Exception as e:
+            enviar_telegram(f"❌ Error generando post:\n{e}")
 
 if __name__ == "__main__":
     main()
