@@ -80,5 +80,5 @@ def main():
         post = generar_post(noticia)
         enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
