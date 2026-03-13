@@ -162,7 +162,8 @@ def main():
     if not noticias_nuevas:
         enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
         return
-            links_nuevos = set()
+
+    links_nuevos = set()
     for noticia in noticias_nuevas[:5]:
         try:
             decision = es_avance_positivo(noticia["titulo"])
@@ -175,6 +176,7 @@ def main():
         except Exception as e:
             enviar_telegram(f"❌ Error generando post:\n{e}")
             links_nuevos.add(noticia["link"])
+
     guardar_procesadas(procesadas | links_nuevos)
 
 if __name__ == "__main__":
