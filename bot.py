@@ -10,11 +10,43 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 # Fuentes RSS chilenas
 FUENTES = [
+    # Noticias generales
     "https://feeds.emol.com/emol/nacional",
     "https://feeds.emol.com/emol/economia",
     "https://www.cooperativa.cl/noticias/rss/",
     "https://www.24horas.cl/rss/ultimas-noticias",
     "https://radio.uchile.cl/feed/",
+    "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
+    "https://www.elmostrador.cl/feed/",
+    "https://www.theclinic.cl/feed/",
+    "https://www.cnnchile.com/feed/",
+    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
+    
+    # Economía y negocios
+    "https://www.df.cl/feed",
+    "https://www.pulso.cl/feed/",
+    "https://www.americaeconomia.com/rss.xml",
+    
+    # Investigación y análisis
+    "https://www.ciperchile.cl/feed/",
+    "https://interferencia.cl/feed/",
+    
+    # Gobierno y desarrollo
+    "https://www.gob.cl/feed/",
+    "https://www.hacienda.cl/feed/",
+    "https://www.corfo.cl/feed/",
+    "https://www.bcn.cl/rss",
+    
+    # Ciencia y universidades
+    "https://www.uchile.cl/rss.xml",
+    
+    # Tecnología
+    "https://www.fayerwayer.com/feed/",
+    "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
+    
+    # Noticias sobre Chile desde afuera
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
+    "https://en.mercopress.com/rss/chile",
 ]
 
 
@@ -34,7 +66,11 @@ KEYWORDS = [
     # Ciencia
     "descubrimiento", "investigación", "universidad",
     # General positivo
-    "récord", "avance", "logro", "histórico", "beneficio"
+    "récord", "avance", "logro", "histórico", "beneficio" KEYWORDS = [
+    "hidrogeno", "litio", "startup", "innovacion", "tecnologia",
+    "inteligencia artificial", "energia", "inversion", "infraestructura",
+    "exportaciones", "mineria", "ciencia", "desarrollo"
+
 ]
 
 
