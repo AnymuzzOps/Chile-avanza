@@ -164,15 +164,17 @@ def main():
         return
 
     links_nuevos = set()
-    for noticia in noticias_nuevas[:5]:
+        for noticia in noticias_nuevas[:5]:
         try:
-            if es_avance_positivo(noticia["titulo"]):
+            decision = es_avance_positivo(noticia["titulo"])
+            if decision:
                 post = generar_post(noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+            else:
+                enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
             links_nuevos.add(noticia["link"])
         except Exception as e:
             enviar_telegram(f"❌ Error generando post:\n{e}")
-
     guardar_procesadas(procesadas | links_nuevos)
 
 if __name__ == "__main__":
