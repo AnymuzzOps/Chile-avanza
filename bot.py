@@ -1,6 +1,7 @@
 import os
 import feedparser
 import requests
+import subprocess
 from groq import Groq
 
 # Configuración
@@ -10,7 +11,6 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 # Fuentes RSS chilenas
 FUENTES = [
-    # Noticias generales
     "https://feeds.emol.com/emol/nacional",
     "https://feeds.emol.com/emol/economia",
     "https://www.cooperativa.cl/noticias/rss/",
@@ -20,52 +20,23 @@ FUENTES = [
     "https://www.elmostrador.cl/feed/",
     "https://www.cnnchile.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
-    # Economía y negocios
     "https://www.df.cl/feed",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
-    # Gobierno y desarrollo
     "https://www.gob.cl/feed/",
     "https://www.hacienda.cl/feed/",
     "https://www.corfo.cl/feed/",
     "https://www.bcn.cl/rss",
-    # Minería y energía
     "https://www.mineria.cl/feed/",
     "https://www.cochilco.cl/feed/",
     "https://www.energiaabierta.cl/feed/",
-    # Tecnología y ciencia
     "https://www.fayerwayer.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
     "https://www.startupchile.org/feed/",
     "https://www.uchile.cl/rss.xml",
-    # Internacional
     "https://en.mercopress.com/rss/chile",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
 ]
-
-KEYWORDS = [
-    # Economía concreta
-    "inversión", "millones", "exportación", "crecimiento",
-    "financiamiento", "contrato firmado",
-    # Infraestructura
-    "inauguración", "construcción", "nuevo hospital",
-    "nuevo metro", "obra pública",
-    # Tecnología e innovación
-    "innovación", "startup", "energía renovable",
-    "hidrógeno verde", "litio", "cobre",
-    # Internacional positivo
-    "acuerdo comercial", "alianza estratégica", "tratado",
-    # Ciencia
-    "descubrimiento", "investigación científica",
-    # Logros
-    "récord", "histórico", "primer lugar", "avance"
-]
-
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; ChileAvanzaBot/1.0; +https://github.com/tuusuario/turepo)"
-}
-
 
 def enviar_telegram(mensaje):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -77,23 +48,9 @@ def enviar_telegram(mensaje):
     except Exception as e:
         print(f"Error enviando a Telegram: {e}")
 
-
-def leer_feed(url):
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        return feedparser.parse(resp.content)
-    except requests.RequestException as e:
-        print(f"Error leyendo {url}: {e}")
-        return None
-    except Exception as e:
-        print(f"Error inesperado en {url}: {e}")
-        return None
-
-
 def obtener_noticias():
     noticias = []
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; ChileAvanzaBot/1.0)"}
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
     for url in FUENTES:
         try:
             response = requests.get(url, headers=headers, timeout=10)
@@ -125,7 +82,7 @@ def obtener_noticias():
 
 def es_avance_positivo(titulo):
     cliente = Groq(api_key=GROQ_API_KEY)
-    prompt = f"""Eres un filtro editorial estricto del perfil @ChileAvanza en Twitter.
+    prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
 Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile.
 
 Criterios para decir SÍ:
@@ -143,7 +100,6 @@ Criterios para decir NO:
 Noticia: "{titulo}"
 
 Responde SOLO con SÍ o NO, sin explicación."""
-    
     respuesta = cliente.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}]
@@ -151,34 +107,45 @@ Responde SOLO con SÍ o NO, sin explicación."""
     resultado = respuesta.choices[0].message.content.strip().upper()
     return "SÍ" in resultado
 
-
 def generar_post(noticia):
     cliente = Groq(api_key=GROQ_API_KEY)
-    prompt = f"""
-Eres un editor de un perfil de Twitter llamado Chile Avanza.
-Tu criterio: solo publicas avances concretos que benefician a Chile, sin tinte político.
-Tono: optimista y motivador.
+    prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
+Tono: formal, informativo, sin exceso de emojis.
 
 Noticia: {noticia['titulo']}
-Fuente: {noticia['link']}
 
 Genera un post para Twitter de máximo 280 caracteres con:
-- Emoji relevante al inicio
-- El hecho concreto
+- Un emoji relevante al inicio
+- El hecho concreto en una línea
 - Por qué importa para Chile
-- El link al final
-- Hashtag #ChileAvanza al final
+- Fuente: [nombre del medio] al final
+- Sin hashtags
 
-Solo responde con el post, nada más.
-"""
+Solo responde con el post, nada más."""
     respuesta = cliente.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}]
     )
     return respuesta.choices[0].message.content
 
+def cargar_procesadas():
+    try:
+        with open("procesadas.txt", "r") as f:
+            return set(f.read().splitlines())
+    except FileNotFoundError:
+        return set()
+
+def guardar_procesadas(procesadas):
+    with open("procesadas.txt", "w") as f:
+        f.write("\n".join(procesadas))
+    subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"])
+    subprocess.run(["git", "config", "user.name", "ElChilometro Bot"])
+    subprocess.run(["git", "add", "procesadas.txt"])
+    subprocess.run(["git", "commit", "-m", "Update procesadas"])
+    subprocess.run(["git", "push"])
+
 def main():
-    enviar_telegram("🤖 Bot Chile Avanza iniciado.")
+    enviar_telegram("📡 ElChilometro iniciado.")
     try:
         noticias = obtener_noticias()
     except Exception as e:
@@ -189,16 +156,24 @@ def main():
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
         return
 
-    for noticia in noticias[:5]:
+    procesadas = cargar_procesadas()
+    noticias_nuevas = [n for n in noticias if n["link"] not in procesadas]
+
+    if not noticias_nuevas:
+        enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
+        return
+
+    links_nuevos = set()
+    for noticia in noticias_nuevas[:5]:
         try:
-            decision = es_avance_positivo(noticia["titulo"])
-            enviar_telegram(f"🔍 '{noticia['titulo']}'\n➡️ {'✅ PUBLICAR' if decision else '❌ DESCARTAR'}")
-            if decision:
+            if es_avance_positivo(noticia["titulo"]):
                 post = generar_post(noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+            links_nuevos.add(noticia["link"])
         except Exception as e:
             enviar_telegram(f"❌ Error generando post:\n{e}")
 
+    guardar_procesadas(procesadas | links_nuevos)
+
 if __name__ == "__main__":
     main()
-
