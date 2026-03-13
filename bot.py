@@ -118,7 +118,7 @@ Genera un post para Twitter de máximo 280 caracteres con:
 Solo responde con el post, nada más.
 """
     respuesta = cliente.chat.completions.create(
-        model="llama3-8b-8192",
+        model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}]
     )
     return respuesta.choices[0].message.content
