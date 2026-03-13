@@ -87,16 +87,29 @@ def leer_feed(url):
 def obtener_noticias():
     noticias = []
     for url in FUENTES:
-        feed = leer_feed(url)
-        if not feed:
-            continue
-
+        feed = feedparser.parse(url)
         for entry in feed.entries[:5]:
-            titulo = getattr(entry, "title", "").lower()
-            if any(k in titulo for k in KEYWORDS):
+            titulo = entry.title.lower()
+            # Filtro 1: excluir noticias negativas
+            negativos = [
+                "muerto", "herido", "accidente", "crimen",
+                "detenido", "imputado", "violencia", "ataque",
+                "incendio", "robo", "homicidio", "tragedia"
+            ]
+            if any(n in titulo for n in negativos):
+                continue
+            # Filtro 2: incluir keywords positivas
+            positivos = [
+                "inversión", "millones", "acuerdo", "inauguró",
+                "inauguración", "proyecto", "innovación", "récord",
+                "exportación", "crecimiento", "alianza", "avance",
+                "descubrimiento", "nuevo", "primera", "histórico",
+                "energía", "litio", "cobre", "tecnología"
+            ]
+            if any(p in titulo for p in positivos):
                 noticias.append({
-                    "titulo": getattr(entry, "title", "Sin título"),
-                    "link": getattr(entry, "link", url)
+                    "titulo": entry.title,
+                    "link": entry.link
                 })
     return noticias
 
