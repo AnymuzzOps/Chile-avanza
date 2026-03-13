@@ -135,6 +135,7 @@ def generar_post(noticia):
 Tono: formal, informativo, sin exceso de emojis.
 
 Noticia: {noticia['titulo']}
+Link: {noticia['link']}
 
 Genera un post para Twitter de máximo 280 caracteres con:
 - Un emoji relevante al inicio
@@ -142,6 +143,7 @@ Genera un post para Twitter de máximo 280 caracteres con:
 - Por qué importa para Chile
 - Fuente: [nombre del medio] al final
 - Sin hashtags
+- Incluye el link al final antes de la fuente
 
 Solo responde con el post, nada más."""
     respuesta = cliente.chat.completions.create(
