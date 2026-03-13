@@ -3,12 +3,12 @@ import feedparser
 import requests
 from groq import Groq
 
-# Configuración
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
-# Fuentes RSS chilenas
+cliente = Groq(api_key=GROQ_API_KEY)
+
 FUENTES = [
     "https://www.biobiochile.cl/feed/",
     "https://www.emol.com/rss/",
@@ -16,11 +16,10 @@ FUENTES = [
     "https://www.elmostrador.cl/feed/",
 ]
 
-# Palabras clave de avances
 KEYWORDS = [
-    "inversión", "acuerdo", "inauguración", "récord",
-    "exportación", "innovación", "infraestructura",
-    "descubrimiento", "crecimiento", "alianza"
+    "inversión","acuerdo","inauguración","récord",
+    "exportación","innovación","infraestructura",
+    "descubrimiento","crecimiento","alianza"
 ]
 
 def obtener_noticias():
@@ -37,42 +36,41 @@ def obtener_noticias():
     return noticias
 
 def generar_post(noticia):
-    cliente = Groq(api_key=GROQ_API_KEY)
     prompt = f"""
-Eres un editor de un perfil de Twitter llamado Chile Avanza.
-Tu criterio: solo publicas avances concretos que benefician a Chile, sin tinte político.
-Tono: optimista y motivador.
+Eres editor de Twitter de Chile Avanza.
+Publicas avances concretos que benefician al país.
 
 Noticia: {noticia['titulo']}
 Fuente: {noticia['link']}
 
-Genera un post para Twitter de máximo 280 caracteres con:
-- Emoji relevante al inicio
-- El hecho concreto
-- Por qué importa para Chile
-- El link al final
-- Hashtag #ChileAvanza al final
-
-Solo responde con el post, nada más.
+Genera un tweet de máximo 280 caracteres.
+Emoji al inicio.
+Explica por qué es positivo para Chile.
+Incluye el link.
+Termina con #ChileAvanza
 """
+
     respuesta = cliente.chat.completions.create(
         model="llama3-8b-8192",
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role":"user","content":prompt}]
     )
+
     return respuesta.choices[0].message.content
 
 def enviar_telegram(mensaje):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     requests.post(url, data={
         "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje
+        "text": mensaje[:4000]
     })
 
 def main():
     noticias = obtener_noticias()
+
     if not noticias:
-        print("No hay noticias relevantes hoy.")
+        print("No hay noticias relevantes.")
         return
+
     for noticia in noticias[:3]:
         post = generar_post(noticia)
         enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
