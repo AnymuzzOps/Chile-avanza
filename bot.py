@@ -7,7 +7,10 @@ from groq import Groq
 # Configuración
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
-TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+TELEGRAM_CHAT_IDS = [
+    os.environ["TELEGRAM_CHAT_ID"],
+    os.environ["TELEGRAM_CHAT_ID_2"],
+]
 
 # Fuentes RSS chilenas
 FUENTES = [
@@ -40,14 +43,15 @@ FUENTES = [
 
 def enviar_telegram(mensaje):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    try:
-        requests.post(url, data={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": mensaje
-        }, timeout=15)
-    except Exception as e:
-        print(f"Error enviando a Telegram: {e}")
-
+    for chat_id in TELEGRAM_CHAT_IDS:
+        try:
+            requests.post(url, data={
+                "chat_id": chat_id,
+                "text": mensaje
+            }, timeout=15)
+        except Exception as e:
+            print(f"Error enviando a {chat_id}: {e}")
+            
 def obtener_noticias():
     noticias = []
     headers = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
