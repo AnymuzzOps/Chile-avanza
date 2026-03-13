@@ -175,7 +175,7 @@ def main():
             links_nuevos.add(noticia["link"])
         except Exception as e:
             enviar_telegram(f"❌ Error generando post:\n{e}")
-    guardar_procesadas(procesadas | links_nuevos)
+    guardar_procesadas(procesadas | links_nuevos.add)
 
 if __name__ == "__main__":
     main()
