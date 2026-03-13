@@ -162,7 +162,6 @@ def main():
     if not noticias_nuevas:
         enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
         return
-
             links_nuevos = set()
     for noticia in noticias_nuevas[:5]:
         try:
