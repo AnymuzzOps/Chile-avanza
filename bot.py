@@ -163,8 +163,8 @@ def main():
         enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
         return
 
-    links_nuevos = set()
-        for noticia in noticias_nuevas[:5]:
+        links_nuevos = set()
+    for noticia in noticias_nuevas[:5]:
         try:
             decision = es_avance_positivo(noticia["titulo"])
             if decision:
