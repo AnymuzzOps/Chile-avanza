@@ -66,7 +66,7 @@ KEYWORDS = [
     # Ciencia
     "descubrimiento", "investigación", "universidad",
     # General positivo
-    "récord", "avance", "logro", "histórico", "beneficio" KEYWORDS = [
+    "récord", "avance", "logro", "histórico", "beneficio"
     "hidrogeno", "litio", "startup", "innovacion", "tecnologia",
     "inteligencia artificial", "energia", "inversion", "infraestructura",
     "exportaciones", "mineria", "ciencia", "desarrollo"
