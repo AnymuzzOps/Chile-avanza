@@ -84,14 +84,18 @@ def enviar_telegram(mensaje):
     })
 
 def main():
-    enviar_telegram("🤖 Bot Chile Avanza iniciado correctamente.")
-    noticias = obtener_noticias()
-    if not noticias:
-        enviar_telegram("⚠️ Bot activo pero sin noticias relevantes hoy.")
-        return
-    for noticia in noticias[:3]:
-        post = generar_post(noticia)
-        enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+    enviar_telegram("🤖 Bot iniciado, buscando noticias...")
+    noticias_vistas = []
+    for url in FUENTES:
+        feed = feedparser.parse(url)
+        for entry in feed.entries[:3]:
+            noticias_vistas.append(entry.title)
+    
+    if noticias_vistas:
+        mensaje = "📋 Títulos encontrados:\n\n" + "\n".join(noticias_vistas[:10])
+        enviar_telegram(mensaje)
+    else:
+        enviar_telegram("❌ No se pudo leer ningún RSS feed.")
 
-if __name__ == "__main__":
+name__ == "__main__":
     main()
