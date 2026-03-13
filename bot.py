@@ -10,7 +10,6 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 # Fuentes RSS chilenas
 FUENTES = [
-    # Noticias generales
     "https://feeds.emol.com/emol/nacional",
     "https://feeds.emol.com/emol/economia",
     "https://www.cooperativa.cl/noticias/rss/",
@@ -21,71 +20,83 @@ FUENTES = [
     "https://www.theclinic.cl/feed/",
     "https://www.cnnchile.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
-    
-    # Economía y negocios
     "https://www.df.cl/feed",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
-    
-    # Investigación y análisis
     "https://www.ciperchile.cl/feed/",
     "https://interferencia.cl/feed/",
-    
-    # Gobierno y desarrollo
     "https://www.gob.cl/feed/",
     "https://www.hacienda.cl/feed/",
     "https://www.corfo.cl/feed/",
     "https://www.bcn.cl/rss",
-    
-    # Ciencia y universidades
     "https://www.uchile.cl/rss.xml",
-    
-    # Tecnología
     "https://www.fayerwayer.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
-    
-    # Noticias sobre Chile desde afuera
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
     "https://en.mercopress.com/rss/chile",
 ]
 
-
-# Palabras clave de avances
 KEYWORDS = [
-    # Economía
     "inversión", "millones", "crecimiento", "exportación",
     "acuerdo", "contrato", "financiamiento", "fondo",
-    # Infraestructura
     "inauguración", "construcción", "obra", "proyecto",
     "hospital", "metro", "carretera", "puerto",
-    # Tecnología e innovación
     "innovación", "tecnología", "startup", "digital",
     "energía", "solar", "hidrógeno", "litio", "cobre",
-    # Internacional
     "alianza", "tratado", "cooperación", "embajada",
-    # Ciencia
     "descubrimiento", "investigación", "universidad",
-    # General positivo
-    "récord", "avance", "logro", "histórico", "beneficio"
-    "hidrogeno", "litio", "startup", "innovacion", "tecnologia",
-    "inteligencia artificial", "energia", "inversion", "infraestructura",
-    "exportaciones", "mineria", "ciencia", "desarrollo"
-
+    "récord", "avance", "logro", "histórico", "beneficio",
+    "hidrogeno", "innovacion", "tecnologia",
+    "inteligencia artificial", "energia", "inversion",
+    "infraestructura", "exportaciones", "mineria",
+    "ciencia", "desarrollo"
 ]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; ChileAvanzaBot/1.0; +https://github.com/tuusuario/turepo)"
+}
+
+
+def enviar_telegram(mensaje):
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    try:
+        requests.post(url, data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": mensaje
+        }, timeout=15)
+    except Exception as e:
+        print(f"Error enviando a Telegram: {e}")
+
+
+def leer_feed(url):
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        return feedparser.parse(resp.content)
+    except requests.RequestException as e:
+        print(f"Error leyendo {url}: {e}")
+        return None
+    except Exception as e:
+        print(f"Error inesperado en {url}: {e}")
+        return None
 
 
 def obtener_noticias():
     noticias = []
     for url in FUENTES:
-        feed = feedparser.parse(url)
+        feed = leer_feed(url)
+        if not feed:
+            continue
+
         for entry in feed.entries[:5]:
-            titulo = entry.title.lower()
+            titulo = getattr(entry, "title", "").lower()
             if any(k in titulo for k in KEYWORDS):
                 noticias.append({
-                    "titulo": entry.title,
-                    "link": entry.link
+                    "titulo": getattr(entry, "title", "Sin título"),
+                    "link": getattr(entry, "link", url)
                 })
     return noticias
+
 
 def generar_post(noticia):
     cliente = Groq(api_key=GROQ_API_KEY)
@@ -112,26 +123,37 @@ Solo responde con el post, nada más.
     )
     return respuesta.choices[0].message.content
 
-def enviar_telegram(mensaje):
-    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    requests.post(url, data={
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje
-    })
 
 def main():
     enviar_telegram("🤖 Bot iniciado, buscando noticias...")
+
     noticias_vistas = []
+    feeds_ok = 0
+    feeds_fallidos = 0
+
     for url in FUENTES:
-        feed = feedparser.parse(url)
+        feed = leer_feed(url)
+        if not feed:
+            feeds_fallidos += 1
+            continue
+
+        feeds_ok += 1
         for entry in feed.entries[:3]:
-            noticias_vistas.append(entry.title)
-    
+            titulo = getattr(entry, "title", None)
+            if titulo:
+                noticias_vistas.append(titulo)
+
+    resumen = (
+        f"✅ Feeds leídos: {feeds_ok}\n"
+        f"❌ Feeds fallidos: {feeds_fallidos}\n\n"
+    )
+
     if noticias_vistas:
-        mensaje = "📋 Títulos encontrados:\n\n" + "\n".join(noticias_vistas[:10])
+        mensaje = resumen + "📋 Títulos encontrados:\n\n" + "\n".join(noticias_vistas[:10])
         enviar_telegram(mensaje)
     else:
-        enviar_telegram("❌ No se pudo leer ningún RSS feed.")
+        enviar_telegram(resumen + "❌ No se pudo leer ningún RSS feed.")
+
 
 if __name__ == "__main__":
     main()
