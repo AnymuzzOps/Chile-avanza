@@ -37,20 +37,23 @@ FUENTES = [
 ]
 
 KEYWORDS = [
-    "inversión", "millones", "crecimiento", "exportación",
-    "acuerdo", "contrato", "financiamiento", "fondo",
-    "inauguración", "construcción", "obra", "proyecto",
-    "hospital", "metro", "carretera", "puerto",
-    "innovación", "tecnología", "startup", "digital",
-    "energía", "solar", "hidrógeno", "litio", "cobre",
-    "alianza", "tratado", "cooperación", "embajada",
-    "descubrimiento", "investigación", "universidad",
-    "récord", "avance", "logro", "histórico", "beneficio",
-    "hidrogeno", "innovacion", "tecnologia",
-    "inteligencia artificial", "energia", "inversion",
-    "infraestructura", "exportaciones", "mineria",
-    "ciencia", "desarrollo"
+    # Economía concreta
+    "inversión", "millones", "exportación", "crecimiento",
+    "financiamiento", "contrato firmado",
+    # Infraestructura
+    "inauguración", "construcción", "nuevo hospital",
+    "nuevo metro", "obra pública",
+    # Tecnología e innovación
+    "innovación", "startup", "energía renovable",
+    "hidrógeno verde", "litio", "cobre",
+    # Internacional positivo
+    "acuerdo comercial", "alianza estratégica", "tratado",
+    # Ciencia
+    "descubrimiento", "investigación científica",
+    # Logros
+    "récord", "histórico", "primer lugar", "avance"
 ]
+
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ChileAvanzaBot/1.0; +https://github.com/tuusuario/turepo)"
