@@ -116,6 +116,35 @@ def obtener_noticias():
             continue
     return noticias
 
+def es_avance_positivo(titulo):
+    cliente = Groq(api_key=GROQ_API_KEY)
+    prompt = f"""Eres un filtro editorial estricto del perfil @ChileAvanza en Twitter.
+Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile.
+
+Criterios para decir SÍ:
+- Inversiones, acuerdos comerciales, proyectos nuevos
+- Infraestructura, tecnología, energía, innovación
+- Logros científicos, récords económicos
+- Acuerdos internacionales beneficiosos
+
+Criterios para decir NO:
+- Noticias políticas sin impacto concreto
+- Declaraciones, opiniones o discursos
+- Conflictos, violencia, escándalos
+- Noticias negativas o neutras
+
+Noticia: "{titulo}"
+
+Responde SOLO con SÍ o NO, sin explicación."""
+    
+    respuesta = cliente.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    resultado = respuesta.choices[0].message.content.strip().upper()
+    return "SÍ" in resultado
+
+
 def generar_post(noticia):
     cliente = Groq(api_key=GROQ_API_KEY)
     prompt = f"""
@@ -155,12 +184,13 @@ def main():
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
         return
 
-    for noticia in noticias[:3]:
-        try:
+    for noticia in noticias[:5]:
+    try:
+        if es_avance_positivo(noticia["titulo"]):
             post = generar_post(noticia)
             enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
-        except Exception as e:
-            enviar_telegram(f"❌ Error generando post:\n{e}")
+    except Exception as e:
+        enviar_telegram(f"❌ Error generando post:\n{e}")
 
 if __name__ == "__main__":
     main()
