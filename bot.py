@@ -10,12 +10,13 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 # Fuentes RSS chilenas
 FUENTES = [
-    "https://www.biobiochile.cl/lista/categorias/noticias/feed",
-    "https://www.latercera.com/feed/",
-    "https://www.df.cl/feed/",
-    "https://www.emol.com/rss/Economia.xml",
-    "https://www.elmostrador.cl/feed/",
+    "https://feeds.emol.com/emol/nacional",
+    "https://feeds.emol.com/emol/economia",
+    "https://www.cooperativa.cl/noticias/rss/",
+    "https://www.24horas.cl/rss/ultimas-noticias",
+    "https://radio.uchile.cl/feed/",
 ]
+
 
 # Palabras clave de avances
 KEYWORDS = [
