@@ -12,6 +12,7 @@ TELEGRAM_CHAT_IDS = [
     os.environ["TELEGRAM_CHAT_ID_2"],
 ]
 
+
 # Fuentes RSS chilenas
 FUENTES = [
     "https://feeds.emol.com/emol/nacional",
