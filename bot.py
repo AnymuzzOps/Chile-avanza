@@ -98,7 +98,7 @@ def obtener_noticias():
         try:
             response = requests.get(url, headers=headers, timeout=10)
             feed = feedparser.parse(response.content)
-            for entry in feed.entries[:5]:
+            for entry in feed.entries[:15]:
                 titulo = entry.title.lower()
                 negativos = [
                     "muerto", "herido", "accidente", "crimen",
