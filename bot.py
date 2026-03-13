@@ -183,9 +183,11 @@ def main():
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
         return
 
-    for noticia in noticias[:5]:
+        for noticia in noticias[:5]:
         try:
-            if es_avance_positivo(noticia["titulo"]):
+            decision = es_avance_positivo(noticia["titulo"])
+            enviar_telegram(f"🔍 '{noticia['titulo']}'\n➡️ {'✅ PUBLICAR' if decision else '❌ DESCARTAR'}")
+            if decision:
                 post = generar_post(noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
         except Exception as e:
