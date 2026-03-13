@@ -170,7 +170,6 @@ Solo responde con el post, nada más.
     )
     return respuesta.choices[0].message.content
 
-
 def main():
     enviar_telegram("🤖 Bot Chile Avanza iniciado.")
     try:
@@ -183,7 +182,7 @@ def main():
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
         return
 
-        for noticia in noticias[:5]:
+    for noticia in noticias[:5]:
         try:
             decision = es_avance_positivo(noticia["titulo"])
             enviar_telegram(f"🔍 '{noticia['titulo']}'\n➡️ {'✅ PUBLICAR' if decision else '❌ DESCARTAR'}")
@@ -195,3 +194,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
