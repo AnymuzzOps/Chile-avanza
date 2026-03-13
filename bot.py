@@ -125,35 +125,24 @@ Solo responde con el post, nada más.
 
 
 def main():
-    enviar_telegram("🤖 Bot iniciado, buscando noticias...")
+    enviar_telegram("🤖 Bot Chile Avanza iniciado.")
 
-    noticias_vistas = []
-    feeds_ok = 0
-    feeds_fallidos = 0
+    try:
+        noticias = obtener_noticias()
+    except Exception as e:
+        enviar_telegram(f"❌ Error obteniendo noticias:\n{e}")
+        return
 
-    for url in FUENTES:
-        feed = leer_feed(url)
-        if not feed:
-            feeds_fallidos += 1
-            continue
+    if not noticias:
+        enviar_telegram("⚠️ Sin noticias relevantes hoy.")
+        return
 
-        feeds_ok += 1
-        for entry in feed.entries[:3]:
-            titulo = getattr(entry, "title", None)
-            if titulo:
-                noticias_vistas.append(titulo)
-
-    resumen = (
-        f"✅ Feeds leídos: {feeds_ok}\n"
-        f"❌ Feeds fallidos: {feeds_fallidos}\n\n"
-    )
-
-    if noticias_vistas:
-        mensaje = resumen + "📋 Títulos encontrados:\n\n" + "\n".join(noticias_vistas[:10])
-        enviar_telegram(mensaje)
-    else:
-        enviar_telegram(resumen + "❌ No se pudo leer ningún RSS feed.")
-
+    for noticia in noticias[:3]:
+        try:
+            post = generar_post(noticia)
+            enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+        except Exception as e:
+            enviar_telegram(f"❌ Error generando post:\n{e}")
 
 if __name__ == "__main__":
     main()
