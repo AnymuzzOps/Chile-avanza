@@ -86,33 +86,35 @@ def leer_feed(url):
 
 def obtener_noticias():
     noticias = []
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; ChileAvanzaBot/1.0)"}
     for url in FUENTES:
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:5]:
-            titulo = entry.title.lower()
-            # Filtro 1: excluir noticias negativas
-            negativos = [
-                "muerto", "herido", "accidente", "crimen",
-                "detenido", "imputado", "violencia", "ataque",
-                "incendio", "robo", "homicidio", "tragedia"
-            ]
-            if any(n in titulo for n in negativos):
-                continue
-            # Filtro 2: incluir keywords positivas
-            positivos = [
-                "inversión", "millones", "acuerdo", "inauguró",
-                "inauguración", "proyecto", "innovación", "récord",
-                "exportación", "crecimiento", "alianza", "avance",
-                "descubrimiento", "nuevo", "primera", "histórico",
-                "energía", "litio", "cobre", "tecnología"
-            ]
-            if any(p in titulo for p in positivos):
-                noticias.append({
-                    "titulo": entry.title,
-                    "link": entry.link
-                })
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            feed = feedparser.parse(response.content)
+            for entry in feed.entries[:5]:
+                titulo = entry.title.lower()
+                negativos = [
+                    "muerto", "herido", "accidente", "crimen",
+                    "detenido", "imputado", "violencia", "ataque",
+                    "incendio", "robo", "homicidio", "tragedia"
+                ]
+                if any(n in titulo for n in negativos):
+                    continue
+                positivos = [
+                    "inversión", "millones", "acuerdo", "inauguró",
+                    "proyecto", "innovación", "récord", "exportación",
+                    "crecimiento", "alianza", "avance", "descubrimiento",
+                    "nuevo", "histórico", "energía", "litio", "cobre"
+                ]
+                if any(p in titulo for p in positivos):
+                    noticias.append({
+                        "titulo": entry.title,
+                        "link": entry.link
+                    })
+        except Exception as e:
+            print(f"Error con {url}: {e}")
+            continue
     return noticias
-
 
 def generar_post(noticia):
     cliente = Groq(api_key=GROQ_API_KEY)
