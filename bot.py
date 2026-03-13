@@ -19,11 +19,23 @@ FUENTES = [
 
 # Palabras clave de avances
 KEYWORDS = [
-    "inversión", "acuerdo", "inauguración", "récord",
-    "exportación", "innovación", "infraestructura",
-    "descubrimiento", "crecimiento", "alianza",
-    "millones", "proyecto", "desarrollo", "avance"
+    # Economía
+    "inversión", "millones", "crecimiento", "exportación",
+    "acuerdo", "contrato", "financiamiento", "fondo",
+    # Infraestructura
+    "inauguración", "construcción", "obra", "proyecto",
+    "hospital", "metro", "carretera", "puerto",
+    # Tecnología e innovación
+    "innovación", "tecnología", "startup", "digital",
+    "energía", "solar", "hidrógeno", "litio", "cobre",
+    # Internacional
+    "alianza", "tratado", "cooperación", "embajada",
+    # Ciencia
+    "descubrimiento", "investigación", "universidad",
+    # General positivo
+    "récord", "avance", "logro", "histórico", "beneficio"
 ]
+
 
 def obtener_noticias():
     noticias = []
