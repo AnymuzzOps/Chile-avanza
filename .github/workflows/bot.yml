@@ -1,4 +1,4 @@
-name: Chile Avanza Bot
+name: Chile Avanza # Chile Avanza Bot v1.0
 
 on:
   schedule:
