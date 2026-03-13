@@ -15,6 +15,7 @@ TELEGRAM_CHAT_IDS = [
 
 # Fuentes RSS chilenas
 FUENTES = [
+    # Noticias generales
     "https://feeds.emol.com/emol/nacional",
     "https://feeds.emol.com/emol/economia",
     "https://www.cooperativa.cl/noticias/rss/",
@@ -24,22 +25,38 @@ FUENTES = [
     "https://www.elmostrador.cl/feed/",
     "https://www.cnnchile.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
+    # Economía y negocios
     "https://www.df.cl/feed",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
+    "https://www.estrategia.cl/feed/",
+    "https://www.ex-ante.cl/feed/",
+    "https://www.pauta.cl/feed/",
+    # Gobierno y desarrollo
     "https://www.gob.cl/feed/",
     "https://www.hacienda.cl/feed/",
     "https://www.corfo.cl/feed/",
     "https://www.bcn.cl/rss",
+    "https://www.prochile.gob.cl/feed/",
+    "https://www.sernac.cl/feed/",
+    # Minería y energía
     "https://www.mineria.cl/feed/",
     "https://www.cochilco.cl/feed/",
     "https://www.energiaabierta.cl/feed/",
+    "https://www.mch.cl/feed/",
+    "https://www.revistaei.cl/feed/",
+    # Tecnología y ciencia
     "https://www.fayerwayer.com/feed/",
     "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
     "https://www.startupchile.org/feed/",
     "https://www.uchile.cl/rss.xml",
+    "https://www.puc.cl/rss.xml",
+    "https://www.usach.cl/rss.xml",
+    # Internacional sobre Chile
     "https://en.mercopress.com/rss/chile",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
+    "https://www.reuters.com/rssFeed/businessNews",
+    "https://feeds.bloomberg.com/markets/news.rss",
 ]
 
 def enviar_telegram(mensaje):
