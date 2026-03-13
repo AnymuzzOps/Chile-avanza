@@ -97,5 +97,5 @@ def main():
     else:
         enviar_telegram("❌ No se pudo leer ningún RSS feed.")
 
-name__ == "__main__":
+if name__ == "__main__":
     main()
