@@ -324,7 +324,7 @@ Rechaza explícitamente si el titular trata de:
 - potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
 - cualquier caso donde el beneficio para Chile sea especulativo
 
-Noticia: "{titulo}"
+Noticia: \"{titulo}\"
 
 Responde SOLO con SÍ o NO, sin explicación."""
     respuesta = cliente.chat.completions.create(
