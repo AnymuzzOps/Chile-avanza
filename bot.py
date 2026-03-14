@@ -33,9 +33,8 @@ FUENTES = [
     "https://www.santiagotimes.cl/feed/",
     "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
     "https://www.ex-ante.cl/feed/",
+    "https://www.biobiochile.cl/feed/",
     "https://www.fayerwayer.com/feed/",
-    "https://cooperativa.cl/noticias/economia/rss/noticias.xml",
-    "https://cooperativa.cl/noticias/negocios/rss/noticias.xml",
     "https://en.mercopress.com/rss/chile",
     "https://en.mercopress.com/rss/economy",
     # Internacional sobre Chile y Latinoamerica
@@ -55,13 +54,11 @@ FUENTES = [
     # Ciencia
     "https://phys.org/rss-feed/",
     "https://futurism.com/feed",
+    "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
     # Mineria y energia (internacional)
     "https://www.mining.com/feed/",
     "https://oilprice.com/rss/main",
     # Extras para mejorar cobertura en Chile
-    "https://www.df.cl/feed",
-    "https://www.pulso.cl/feed/",
-    "https://www.biobiochile.cl/lista/categoria/economia-y-negocios/feed/",
     "https://www.mch.cl/feed/",
     "https://www.startupchile.org/feed/",
 ]
@@ -99,6 +96,44 @@ NEGATIVOS = {
     "marihuana",
     "incautacion",
     "carabineros",
+    "sopaipilla",
+    "receta",
+    "turistico",
+    "turismo",
+    "restaurante",
+    "cocina",
+    "gastronomia",
+    "centolla",
+    "merluza",
+    "copa chile",
+    "futbol",
+    "gol",
+    "partido",
+    "clasificacion",
+    "dormir",
+    "dieta",
+    "lugares para",
+    "temblor",
+    "sismo",
+    "epicentro",
+    "magnitud",
+    "oscar",
+    "ceremonia",
+    "alfombra roja",
+    "kast",
+    "boric",
+    "inauguracion",
+    "asume",
+    "sworn",
+    "presidente electo",
+    "migrantes",
+    "venezolanos",
+    "inmigracion",
+    "nueva era",
+    "giro conservador",
+    "100 dias",
+    "90 dias",
+    "plan de gobierno",
 }
 
 POSITIVOS_FUERTES = {
@@ -229,7 +264,7 @@ def _score_titulo(titulo: str) -> int:
 
 def _es_titulo_candidato(titulo: str) -> bool:
     # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
-    return _score_titulo(titulo) >= 3
+    return _score_titulo(titulo) >= 2
 
 
 def obtener_noticias() -> List[Dict[str, str]]:
@@ -273,11 +308,19 @@ Aprueba SOLO si el titular muestra un hecho real y verificable, como:
 - tecnología o innovación adoptada en Chile
 - logro económico medible
 - avance global con impacto directo en Chile (minería, litio, cobre, energía, exportaciones)
+- premios o reconocimientos internacionales obtenidos por chilenos
+- acuerdos de cooperación internacional firmados con impacto concreto
+- logros culturales o científicos que posicionen a Chile internacionalmente
+- declaraciones de autoridades con meta numérica o proyecto específico
 
 Rechaza explícitamente si el titular trata de:
 - política interna sin impacto económico concreto
+- noticias sobre política interna, cambio de gobierno o declaraciones sin proyecto concreto
 - turismo, gastronomía, historia, clima o policiales
+- noticias sobre sismos, clima o desastres naturales
 - noticias de otros países sin relación con Chile
+- noticias sobre migración o política exterior sin acuerdo económico concreto
+- rankings negativos donde Chile aparece mal posicionado
 - potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
 - cualquier caso donde el beneficio para Chile sea especulativo
 
