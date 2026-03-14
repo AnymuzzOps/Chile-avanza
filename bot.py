@@ -20,54 +20,50 @@ TELEGRAM_CHAT_IDS = [
     os.environ.get("TELEGRAM_CHAT_ID_2", "").strip(),
 ]
 TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
-MAX_NOTICIAS_POR_FEED = 15
-MAX_NOTICIAS_A_PROCESAR = 5
+MAX_NOTICIAS_POR_FEED = 20
+MAX_NOTICIAS_A_PROCESAR = 8
 
 
-# Fuentes RSS chilenas
+# Fuentes RSS verificadas y funcionando + adicionales
 FUENTES = [
-    # Noticias generales
-    "https://feeds.emol.com/emol/nacional",
-    "https://feeds.emol.com/emol/economia",
-    "https://www.cooperativa.cl/noticias/rss/",
-    "https://www.24horas.cl/rss/ultimas-noticias",
-    "https://radio.uchile.cl/feed/",
+    # Chile - medios verificados 2026
+    "https://www.theclinic.cl/feed/",
+    "https://www.cambio21.cl/rss",
+    "https://www.lanacion.cl/feed/",
+    "https://www.santiagotimes.cl/feed/",
     "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
-    "https://www.elmostrador.cl/feed/",
-    "https://www.cnnchile.com/feed/",
-    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
-    # Economía y negocios
+    "https://www.ex-ante.cl/feed/",
+    "https://www.fayerwayer.com/feed/",
+    "https://cooperativa.cl/noticias/economia/rss/noticias.xml",
+    "https://cooperativa.cl/noticias/negocios/rss/noticias.xml",
+    "https://en.mercopress.com/rss/chile",
+    "https://en.mercopress.com/rss/economy",
+    # Internacional sobre Chile y Latinoamerica
+    "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
+    "https://www.americaeconomia.com/rss.xml",
+    # Economia y negocios global
+    "https://feeds.bloomberg.com/markets/news.rss",
+    "https://feeds.bloomberg.com/technology/news.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.bbci.co.uk/news/business/rss.xml",
+    # Tecnologia e innovacion
+    "https://techcrunch.com/feed/",
+    "https://venturebeat.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    # Ciencia
+    "https://phys.org/rss-feed/",
+    "https://futurism.com/feed",
+    # Mineria y energia (internacional)
+    "https://www.mining.com/feed/",
+    "https://oilprice.com/rss/main",
+    # Extras para mejorar cobertura en Chile
     "https://www.df.cl/feed",
     "https://www.pulso.cl/feed/",
-    "https://www.americaeconomia.com/rss.xml",
-    "https://www.estrategia.cl/feed/",
-    "https://www.ex-ante.cl/feed/",
-    "https://www.pauta.cl/feed/",
-    # Gobierno y desarrollo
-    "https://www.gob.cl/feed/",
-    "https://www.hacienda.cl/feed/",
-    "https://www.corfo.cl/feed/",
-    "https://www.bcn.cl/rss",
-    "https://www.prochile.gob.cl/feed/",
-    "https://www.sernac.cl/feed/",
-    # Minería y energía
-    "https://www.mineria.cl/feed/",
-    "https://www.cochilco.cl/feed/",
-    "https://www.energiaabierta.cl/feed/",
+    "https://www.biobiochile.cl/lista/categoria/economia-y-negocios/feed/",
     "https://www.mch.cl/feed/",
-    "https://www.revistaei.cl/feed/",
-    # Tecnología y ciencia
-    "https://www.fayerwayer.com/feed/",
-    "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
     "https://www.startupchile.org/feed/",
-    "https://www.uchile.cl/rss.xml",
-    "https://www.puc.cl/rss.xml",
-    "https://www.usach.cl/rss.xml",
-    # Internacional sobre Chile
-    "https://en.mercopress.com/rss/chile",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
-    "https://www.reuters.com/rssFeed/businessNews",
-    "https://feeds.bloomberg.com/markets/news.rss",
 ]
 
 NEGATIVOS = {
@@ -83,26 +79,72 @@ NEGATIVOS = {
     "robo",
     "homicidio",
     "tragedia",
+    "guerra",
+    "fraude",
+    "escándalo",
+    "escandalo",
 }
 
-POSITIVOS = {
+POSITIVOS_FUERTES = {
     "inversión",
+    "inversion",
     "millones",
     "acuerdo",
-    "inauguró",
     "proyecto",
     "innovación",
+    "innovacion",
     "récord",
+    "record",
     "exportación",
+    "exportacion",
     "crecimiento",
     "alianza",
     "avance",
     "descubrimiento",
-    "nuevo",
     "histórico",
+    "historico",
     "energía",
+    "energia",
     "litio",
     "cobre",
+    "startup",
+    "ia",
+    "inteligencia artificial",
+    "hidrógeno",
+    "hidrogeno",
+}
+
+POSITIVOS_MODERADOS = {
+    "nuevo",
+    "nueva",
+    "expansión",
+    "expansion",
+    "apertura",
+    "anuncia",
+    "lanzan",
+    "implementa",
+    "desarrollo",
+    "tecnología",
+    "tecnologia",
+    "investigación",
+    "investigacion",
+    "infraestructura",
+    "planta",
+    "producción",
+    "produccion",
+}
+
+PALABRAS_CHILE_LATAM = {
+    "chile",
+    "chileno",
+    "chilena",
+    "santiago",
+    "valparaíso",
+    "valparaiso",
+    "antofagasta",
+    "latam",
+    "latinoamérica",
+    "latinoamerica",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
@@ -123,11 +165,24 @@ def enviar_telegram(mensaje: str) -> None:
             logger.exception("Error enviando a chat_id=%s: %s", chat_id, error)
 
 
-def _es_titulo_positivo(titulo: str) -> bool:
+def _score_titulo(titulo: str) -> int:
     titulo_normalizado = titulo.lower()
     if any(token in titulo_normalizado for token in NEGATIVOS):
-        return False
-    return any(token in titulo_normalizado for token in POSITIVOS)
+        return -10
+
+    score = 0
+    score += sum(2 for token in POSITIVOS_FUERTES if token in titulo_normalizado)
+    score += sum(1 for token in POSITIVOS_MODERADOS if token in titulo_normalizado)
+
+    if any(token in titulo_normalizado for token in PALABRAS_CHILE_LATAM):
+        score += 1
+
+    return score
+
+
+def _es_titulo_candidato(titulo: str) -> bool:
+    # Umbral más flexible para no quedar sin candidatos.
+    return _score_titulo(titulo) >= 1
 
 
 def obtener_noticias() -> List[Dict[str, str]]:
@@ -136,7 +191,7 @@ def obtener_noticias() -> List[Dict[str, str]]:
 
     for url in FUENTES:
         try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
+            response = requests.get(url, headers=HEADERS, timeout=12)
             response.raise_for_status()
             feed = feedparser.parse(response.content)
 
@@ -148,19 +203,21 @@ def obtener_noticias() -> List[Dict[str, str]]:
                 link = getattr(entry, "link", "").strip()
                 if not titulo or not link or link in vistos:
                     continue
-                if _es_titulo_positivo(titulo):
+                if _es_titulo_candidato(titulo):
                     noticias.append({"titulo": titulo, "link": link})
                     vistos.add(link)
         except (requests.RequestException, ValueError) as error:
             logger.warning("Error con %s: %s", url, error)
             continue
 
+    noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
+    logger.info("Total de noticias candidatas: %s", len(noticias))
     return noticias
 
 
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile.
+Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile o para la economía/innovación de LATAM con impacto posible en Chile.
 
 Criterios para decir SÍ:
 - Inversiones, acuerdos comerciales, proyectos nuevos
@@ -262,7 +319,10 @@ def main() -> None:
         return
 
     links_nuevos: Set[str] = set()
-    for noticia in noticias_nuevas[:MAX_NOTICIAS_A_PROCESAR]:
+    noticias_seleccionadas = noticias_nuevas[:MAX_NOTICIAS_A_PROCESAR]
+    enviar_telegram(f"🧮 Candidatas nuevas detectadas: {len(noticias_nuevas)}. Procesando {len(noticias_seleccionadas)}.")
+
+    for noticia in noticias_seleccionadas:
         try:
             decision = es_avance_positivo(cliente, noticia["titulo"])
             if decision:
