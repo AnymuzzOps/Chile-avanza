@@ -83,6 +83,22 @@ NEGATIVOS = {
     "fraude",
     "escándalo",
     "escandalo",
+    "sopaipillas",
+    "panoramas",
+    "que hacer",
+    "fin de semana",
+    "terremoto",
+    "historia",
+    "tradicion",
+    "sandwich",
+    "pronostico",
+    "forecast",
+    "indulto",
+    "subsidio vivienda",
+    "ketamina",
+    "marihuana",
+    "incautacion",
+    "carabineros",
 }
 
 POSITIVOS_FUERTES = {
@@ -112,6 +128,33 @@ POSITIVOS_FUERTES = {
     "inteligencia artificial",
     "hidrógeno",
     "hidrogeno",
+    "lanzó",
+    "firmó",
+    "anunció",
+    "aprobó",
+    "inauguró",
+    "alcanzó",
+    "superó",
+    "logró",
+    "obtuvo",
+    "construirá",
+    "invertirá",
+    "lanzo",
+    "firmo",
+    "aprobo",
+    "inauguro",
+    "alcanzo",
+    "supero",
+    "logro",
+    "invertira",
+    "construira",
+    "acuerdo comercial",
+    "millones de dolares",
+    "exportaciones chilenas",
+    "salmon",
+    "celulosa",
+    "puerto",
+    "corredor",
 }
 
 POSITIVOS_MODERADOS = {
@@ -134,17 +177,21 @@ POSITIVOS_MODERADOS = {
     "produccion",
 }
 
-PALABRAS_CHILE_LATAM = {
+PALABRAS_CHILE_RELEVANTE = {
     "chile",
     "chileno",
     "chilena",
-    "santiago",
-    "valparaíso",
-    "valparaiso",
-    "antofagasta",
-    "latam",
-    "latinoamérica",
-    "latinoamerica",
+    "litio",
+    "cobre",
+    "codelco",
+    "enap",
+    "corfo",
+    "banco central",
+    "minsal",
+    "atacama",
+    "patagonia",
+    "exportaciones",
+    "peso chileno",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
@@ -174,15 +221,15 @@ def _score_titulo(titulo: str) -> int:
     score += sum(2 for token in POSITIVOS_FUERTES if token in titulo_normalizado)
     score += sum(1 for token in POSITIVOS_MODERADOS if token in titulo_normalizado)
 
-    if any(token in titulo_normalizado for token in PALABRAS_CHILE_LATAM):
-        score += 1
+    if any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE):
+        score += 3
 
     return score
 
 
 def _es_titulo_candidato(titulo: str) -> bool:
-    # Umbral más flexible para no quedar sin candidatos.
-    return _score_titulo(titulo) >= 1
+    # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
+    return _score_titulo(titulo) >= 3
 
 
 def obtener_noticias() -> List[Dict[str, str]]:
@@ -217,19 +264,22 @@ def obtener_noticias() -> List[Dict[str, str]]:
 
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile o para la economía/innovación de LATAM con impacto posible en Chile.
+Pregunta central obligatoria: ¿Esta noticia representa un beneficio directo o indirecto concreto para Chile o los chilenos?
 
-Criterios para decir SÍ:
-- Inversiones, acuerdos comerciales, proyectos nuevos
-- Infraestructura, tecnología, energía, innovación
-- Logros científicos, récords económicos
-- Acuerdos internacionales beneficiosos
+Aprueba SOLO si el titular muestra un hecho real y verificable, como:
+- inversión en Chile o en un sector chileno clave
+- acuerdo comercial firmado
+- proyecto con cifras reales
+- tecnología o innovación adoptada en Chile
+- logro económico medible
+- avance global con impacto directo en Chile (minería, litio, cobre, energía, exportaciones)
 
-Criterios para decir NO:
-- Noticias políticas sin impacto concreto
-- Declaraciones, opiniones o discursos
-- Conflictos, violencia, escándalos
-- Noticias negativas o neutras
+Rechaza explícitamente si el titular trata de:
+- política interna sin impacto económico concreto
+- turismo, gastronomía, historia, clima o policiales
+- noticias de otros países sin relación con Chile
+- potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
+- cualquier caso donde el beneficio para Chile sea especulativo
 
 Noticia: \"{titulo}\"
 
@@ -245,7 +295,7 @@ Responde SOLO con SÍ o NO, sin explicación."""
 
 def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
     prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
-Tono: formal, informativo, sin exceso de emojis.
+Tono: directo, afirmativo e informativo.
 
 Noticia: {noticia['titulo']}
 Link: {noticia['link']}
@@ -253,7 +303,10 @@ Link: {noticia['link']}
 Genera un post para Twitter de máximo 280 caracteres con:
 - Un emoji relevante al inicio
 - El hecho concreto en una línea
-- Por qué importa para Chile
+- Una línea explicando por qué beneficia a Chile o a los chilenos
+- Usa solo hechos concretos que aparezcan en el título
+- Si el título contiene cifras, nombres, fechas o montos, inclúyelos
+- Prohibido usar frases especulativas: "puede", "podría", "es posible", "potencial"
 - Fuente: [nombre del medio] al final
 - Sin hashtags
 - Incluye el link al final antes de la fuente
