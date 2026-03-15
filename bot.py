@@ -22,6 +22,7 @@ TELEGRAM_CHAT_IDS = [
 TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
 MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
+MAX_EVALUACIONES_IA = 5
 
 
 # Fuentes RSS verificadas y funcionando + adicionales
@@ -34,18 +35,9 @@ FUENTES = [
     "https://www.lanacion.cl/feed/",
     "https://www.fayerwayer.com/feed/",
     "https://www.mch.cl/feed/",
-    "https://www.biobiochile.cl/feed/",
+    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
     "https://www.startupchile.org/feed/",
-    "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
-    "https://www.estrategia.cl/feed/",
-    "https://www.pauta.cl/feed/",
-    "https://www.revistaei.cl/feed/",
-    "https://www.energiaabierta.cl/feed/",
-    "https://www.cochilco.cl/feed/",
-    "https://www.gob.cl/feed/",
-    "https://www.hacienda.cl/feed/",
-    "https://www.corfo.cl/feed/",
-    "https://www.prochile.gob.cl/feed/",
+    "https://www.df.cl/feed",
     "https://www.cooperativa.cl/noticias/rss/",
     "https://feeds.emol.com/emol/economia",
     "https://feeds.emol.com/emol/nacional",
@@ -54,10 +46,11 @@ FUENTES = [
     "https://radio.uchile.cl/feed/",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
+    "https://www.revistaei.cl/feed/",
+    "https://www.corfo.cl/feed/",
     # Internacional en español con cobertura frecuente de Chile y su economía
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
-    "https://cnnespanol.cnn.com/feed/",
     "https://www.france24.com/es/rss",
     "https://es.euronews.com/rss",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
@@ -268,6 +261,18 @@ PALABRAS_CHILE_RELEVANTE = {
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
+FALLBACK_FUENTES = {
+    "https://www.biobiochile.cl/lista/categoria/nacional/feed/": [
+        "https://www.biobiochile.cl/feed/",
+    ],
+    "https://www.df.cl/feed": [
+        "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
+    ],
+    "https://www.pulso.cl/feed/": [
+        "https://www.latercera.com/canal/pulso/feed/",
+    ],
+}
+
 
 def enviar_telegram(mensaje: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -306,30 +311,46 @@ def _es_titulo_candidato(titulo: str) -> bool:
 def obtener_noticias() -> List[Dict[str, str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
+    errores_por_fuente = 0
+
+    session = requests.Session()
+    session.headers.update(HEADERS)
 
     for url in FUENTES:
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=12)
-            response.raise_for_status()
-            feed = feedparser.parse(response.content)
+        urls_intento = [url, *FALLBACK_FUENTES.get(url, [])]
+        feed_cargado = False
 
-            if getattr(feed, "bozo", False):
-                logger.warning("Feed con formato irregular: %s", url)
+        for fuente in urls_intento:
+            try:
+                response = session.get(fuente, timeout=12)
+                response.raise_for_status()
+                feed = feedparser.parse(response.content)
 
-            for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
-                titulo = getattr(entry, "title", "").strip()
-                link = getattr(entry, "link", "").strip()
-                if not titulo or not link or link in vistos:
-                    continue
-                if _es_titulo_candidato(titulo):
-                    noticias.append({"titulo": titulo, "link": link})
-                    vistos.add(link)
-        except (requests.RequestException, ValueError) as error:
-            logger.warning("Error con %s: %s", url, error)
-            continue
+                if getattr(feed, "bozo", False):
+                    logger.warning("Feed con formato irregular: %s", fuente)
+
+                for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
+                    titulo = getattr(entry, "title", "").strip()
+                    link = getattr(entry, "link", "").strip()
+                    if not titulo or not link or link in vistos:
+                        continue
+                    if _es_titulo_candidato(titulo):
+                        noticias.append({"titulo": titulo, "link": link})
+                        vistos.add(link)
+
+                if fuente != url:
+                    logger.info("Fuente recuperada con fallback: %s -> %s", url, fuente)
+                feed_cargado = True
+                break
+            except (requests.RequestException, ValueError) as error:
+                logger.warning("Error con %s: %s", fuente, error)
+
+        if not feed_cargado:
+            errores_por_fuente += 1
 
     noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
     logger.info("Total de noticias candidatas: %s", len(noticias))
+    logger.info("Fuentes sin respuesta útil: %s/%s", errores_por_fuente, len(FUENTES))
     return noticias
 
 
@@ -470,7 +491,7 @@ def main() -> None:
         return
 
     links_nuevos: Set[str] = set()
-    noticias_seleccionadas = noticias_nuevas[:MAX_NOTICIAS_A_PROCESAR]
+    noticias_seleccionadas = noticias_nuevas[:min(MAX_NOTICIAS_A_PROCESAR, MAX_EVALUACIONES_IA)]
     enviar_telegram(f"🧮 Candidatas nuevas detectadas: {len(noticias_nuevas)}. Procesando {len(noticias_seleccionadas)}.")
 
     for noticia in noticias_seleccionadas:
