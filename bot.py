@@ -35,15 +35,7 @@ FUENTES = [
     "https://www.lanacion.cl/feed/",
     "https://www.fayerwayer.com/feed/",
     "https://www.mch.cl/feed/",
-    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
     "https://www.startupchile.org/feed/",
-    "https://www.df.cl/feed",
-    "https://www.cooperativa.cl/noticias/rss/",
-    "https://feeds.emol.com/emol/economia",
-    "https://feeds.emol.com/emol/nacional",
-    "https://www.elmostrador.cl/feed/",
-    "https://www.cnnchile.com/feed/",
-    "https://radio.uchile.cl/feed/",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
     "https://www.revistaei.cl/feed/",
@@ -56,8 +48,6 @@ FUENTES = [
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
     "https://www.expansion.com/rss/empresas.xml",
 ]
-
-
 
 NEGATIVOS = {
     "muerto",
@@ -262,14 +252,11 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 FALLBACK_FUENTES = {
-    "https://www.biobiochile.cl/lista/categoria/nacional/feed/": [
-        "https://www.biobiochile.cl/feed/",
-    ],
-    "https://www.df.cl/feed": [
-        "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
-    ],
     "https://www.pulso.cl/feed/": [
         "https://www.latercera.com/canal/pulso/feed/",
+    ],
+    "https://www.corfo.cl/feed/": [
+        "https://www.corfo.cl/sites/cpp/feed",
     ],
 }
 
@@ -319,6 +306,7 @@ def obtener_noticias() -> List[Dict[str, str]]:
     for url in FUENTES:
         urls_intento = [url, *FALLBACK_FUENTES.get(url, [])]
         feed_cargado = False
+        ultimo_error = None
 
         for fuente in urls_intento:
             try:
@@ -343,10 +331,16 @@ def obtener_noticias() -> List[Dict[str, str]]:
                 feed_cargado = True
                 break
             except (requests.RequestException, ValueError) as error:
-                logger.warning("Error con %s: %s", fuente, error)
+                ultimo_error = error
 
         if not feed_cargado:
             errores_por_fuente += 1
+            logger.warning(
+                "Fuente sin respuesta útil (%s intentos): %s | último error: %s",
+                len(urls_intento),
+                url,
+                ultimo_error,
+            )
 
     noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
     logger.info("Total de noticias candidatas: %s", len(noticias))
