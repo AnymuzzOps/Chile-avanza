@@ -134,6 +134,39 @@ NEGATIVOS = {
     "100 dias",
     "90 dias",
     "plan de gobierno",
+    "lollapalooza",
+    "concierto",
+    "festival",
+    "escenario",
+    "fanaticada",
+    "album",
+    "debut musical",
+    "zelensky",
+    "rusia",
+    "iran",
+    "medio oriente",
+    "ucrania",
+    "india",
+    "california",
+    "indonesia",
+    "malaysia",
+    "greece",
+    "greek",
+    "strait of hormuz",
+    "black sea",
+    "narco",
+    "extradicion",
+    "extradited",
+    "capturan",
+    "fugado",
+    "rosalia",
+    "picasso",
+    "chef",
+    "renuncia",
+    "obituario",
+    "muere",
+    "dies",
+    "fallecio",
 }
 
 POSITIVOS_FUERTES = {
@@ -312,6 +345,9 @@ Aprueba SOLO si el titular muestra un hecho real y verificable, como:
 - acuerdos de cooperación internacional firmados con impacto concreto
 - logros culturales o científicos que posicionen a Chile internacionalmente
 - declaraciones de autoridades con meta numérica o proyecto específico
+- logros deportivos internacionales de chilenos o equipos chilenos (campeonatos, medallas, records)
+- inauguración de equipamiento o infraestructura pública con impacto directo en ciudadanos
+- inversiones en startups tech globales con valuación sobre $1 billón que impacten el mercado donde Chile participa
 
 Rechaza explícitamente si el titular trata de:
 - política interna sin impacto económico concreto
@@ -321,6 +357,10 @@ Rechaza explícitamente si el titular trata de:
 - noticias de otros países sin relación con Chile
 - noticias sobre migración o política exterior sin acuerdo económico concreto
 - rankings negativos donde Chile aparece mal posicionado
+- noticias de conflictos bélicos internacionales sin relación directa con Chile
+- noticias de farándula, música o entretenimiento aunque mencionen Chile
+- noticias policiales o de narcotráfico aunque ocurran en Chile
+- noticias de política internacional de otros países sin acuerdo concreto con Chile
 - potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
 - cualquier caso donde el beneficio para Chile sea especulativo
 
