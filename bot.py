@@ -26,6 +26,7 @@ MAX_NOTICIAS_A_PROCESAR = 8
 
 # Fuentes RSS verificadas y funcionando + adicionales
 FUENTES = [
+    # Chile: economía, inversión, minería, energía, tecnología e innovación
     "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
     "https://www.ex-ante.cl/feed/",
     "https://www.theclinic.cl/feed/",
@@ -36,7 +37,23 @@ FUENTES = [
     "https://www.biobiochile.cl/feed/",
     "https://www.startupchile.org/feed/",
     "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
+    "https://www.estrategia.cl/feed/",
+    "https://www.pauta.cl/feed/",
+    "https://www.revistaei.cl/feed/",
+    "https://www.energiaabierta.cl/feed/",
+    "https://www.cochilco.cl/feed/",
+    "https://www.gob.cl/feed/",
+    "https://www.hacienda.cl/feed/",
+    "https://www.corfo.cl/feed/",
+    "https://www.prochile.gob.cl/feed/",
+    # Internacional en español con cobertura frecuente de Chile y su economía
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "https://cnnespanol.cnn.com/feed/",
+    "https://www.france24.com/es/rss",
+    "https://es.euronews.com/rss",
 ]
+
 
 
 NEGATIVOS = {
