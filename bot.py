@@ -1,138 +1,384 @@
+import logging
 import os
+import subprocess
+from typing import Dict, List, Set
+
 import feedparser
 import requests
-import subprocess
 from groq import Groq
+
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger("elchilometro-bot")
+
 
 # Configuración
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 TELEGRAM_CHAT_IDS = [
     os.environ["TELEGRAM_CHAT_ID"],
-    os.environ["TELEGRAM_CHAT_ID_2"],
+    os.environ.get("TELEGRAM_CHAT_ID_2", "").strip(),
 ]
+TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
+MAX_NOTICIAS_POR_FEED = 20
+MAX_NOTICIAS_A_PROCESAR = 8
 
 
-# Fuentes RSS chilenas
+# Fuentes RSS verificadas y funcionando + adicionales
 FUENTES = [
-    # Noticias generales
-    "https://feeds.emol.com/emol/nacional",
-    "https://feeds.emol.com/emol/economia",
-    "https://www.cooperativa.cl/noticias/rss/",
-    "https://www.24horas.cl/rss/ultimas-noticias",
-    "https://radio.uchile.cl/feed/",
+    # Chile - medios verificados 2026
+    "https://www.theclinic.cl/feed/",
+    "https://www.cambio21.cl/rss",
+    "https://www.lanacion.cl/feed/",
+    "https://www.santiagotimes.cl/feed/",
     "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
-    "https://www.elmostrador.cl/feed/",
-    "https://www.cnnchile.com/feed/",
-    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
-    # Economía y negocios
-    "https://www.df.cl/feed",
-    "https://www.pulso.cl/feed/",
-    "https://www.americaeconomia.com/rss.xml",
-    "https://www.estrategia.cl/feed/",
     "https://www.ex-ante.cl/feed/",
-    "https://www.pauta.cl/feed/",
-    # Gobierno y desarrollo
-    "https://www.gob.cl/feed/",
-    "https://www.hacienda.cl/feed/",
-    "https://www.corfo.cl/feed/",
-    "https://www.bcn.cl/rss",
-    "https://www.prochile.gob.cl/feed/",
-    "https://www.sernac.cl/feed/",
-    # Minería y energía
-    "https://www.mineria.cl/feed/",
-    "https://www.cochilco.cl/feed/",
-    "https://www.energiaabierta.cl/feed/",
-    "https://www.mch.cl/feed/",
-    "https://www.revistaei.cl/feed/",
-    # Tecnología y ciencia
+    "https://www.biobiochile.cl/feed/",
     "https://www.fayerwayer.com/feed/",
-    "https://www.biobiochile.cl/lista/categoria/ciencia-y-tecnologia/feed/",
-    "https://www.startupchile.org/feed/",
-    "https://www.uchile.cl/rss.xml",
-    "https://www.puc.cl/rss.xml",
-    "https://www.usach.cl/rss.xml",
-    # Internacional sobre Chile
     "https://en.mercopress.com/rss/chile",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
-    "https://www.reuters.com/rssFeed/businessNews",
+    "https://en.mercopress.com/rss/economy",
+    # Internacional sobre Chile y Latinoamerica
+    "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
+    "https://www.americaeconomia.com/rss.xml",
+    # Economia y negocios global
     "https://feeds.bloomberg.com/markets/news.rss",
+    "https://feeds.bloomberg.com/technology/news.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.bbci.co.uk/news/business/rss.xml",
+    # Tecnologia e innovacion
+    "https://techcrunch.com/feed/",
+    "https://venturebeat.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    # Ciencia
+    "https://phys.org/rss-feed/",
+    "https://futurism.com/feed",
+    "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
+    # Mineria y energia (internacional)
+    "https://www.mining.com/feed/",
+    "https://oilprice.com/rss/main",
+    # Extras para mejorar cobertura en Chile
+    "https://www.mch.cl/feed/",
+    "https://www.startupchile.org/feed/",
 ]
 
-def enviar_telegram(mensaje):
+NEGATIVOS = {
+    "muerto",
+    "herido",
+    "accidente",
+    "crimen",
+    "detenido",
+    "imputado",
+    "violencia",
+    "ataque",
+    "incendio",
+    "robo",
+    "homicidio",
+    "tragedia",
+    "guerra",
+    "fraude",
+    "escándalo",
+    "escandalo",
+    "sopaipillas",
+    "panoramas",
+    "que hacer",
+    "fin de semana",
+    "terremoto",
+    "historia",
+    "tradicion",
+    "sandwich",
+    "pronostico",
+    "forecast",
+    "indulto",
+    "subsidio vivienda",
+    "ketamina",
+    "marihuana",
+    "incautacion",
+    "carabineros",
+    "sopaipilla",
+    "receta",
+    "turistico",
+    "turismo",
+    "restaurante",
+    "cocina",
+    "gastronomia",
+    "centolla",
+    "merluza",
+    "copa chile",
+    "futbol",
+    "gol",
+    "partido",
+    "clasificacion",
+    "dormir",
+    "dieta",
+    "lugares para",
+    "temblor",
+    "sismo",
+    "epicentro",
+    "magnitud",
+    "oscar",
+    "ceremonia",
+    "alfombra roja",
+    "kast",
+    "boric",
+    "inauguracion",
+    "asume",
+    "sworn",
+    "presidente electo",
+    "migrantes",
+    "venezolanos",
+    "inmigracion",
+    "nueva era",
+    "giro conservador",
+    "100 dias",
+    "90 dias",
+    "plan de gobierno",
+    "lollapalooza",
+    "concierto",
+    "festival",
+    "escenario",
+    "fanaticada",
+    "album",
+    "debut musical",
+    "zelensky",
+    "rusia",
+    "iran",
+    "medio oriente",
+    "ucrania",
+    "india",
+    "california",
+    "indonesia",
+    "malaysia",
+    "greece",
+    "greek",
+    "strait of hormuz",
+    "black sea",
+    "narco",
+    "extradicion",
+    "extradited",
+    "capturan",
+    "fugado",
+    "rosalia",
+    "picasso",
+    "chef",
+    "renuncia",
+    "obituario",
+    "muere",
+    "dies",
+    "fallecio",
+}
+
+POSITIVOS_FUERTES = {
+    "inversión",
+    "inversion",
+    "millones",
+    "acuerdo",
+    "proyecto",
+    "innovación",
+    "innovacion",
+    "récord",
+    "record",
+    "exportación",
+    "exportacion",
+    "crecimiento",
+    "alianza",
+    "avance",
+    "descubrimiento",
+    "histórico",
+    "historico",
+    "energía",
+    "energia",
+    "litio",
+    "cobre",
+    "startup",
+    "ia",
+    "inteligencia artificial",
+    "hidrógeno",
+    "hidrogeno",
+    "lanzó",
+    "firmó",
+    "anunció",
+    "aprobó",
+    "inauguró",
+    "alcanzó",
+    "superó",
+    "logró",
+    "obtuvo",
+    "construirá",
+    "invertirá",
+    "lanzo",
+    "firmo",
+    "aprobo",
+    "inauguro",
+    "alcanzo",
+    "supero",
+    "logro",
+    "invertira",
+    "construira",
+    "acuerdo comercial",
+    "millones de dolares",
+    "exportaciones chilenas",
+    "salmon",
+    "celulosa",
+    "puerto",
+    "corredor",
+}
+
+POSITIVOS_MODERADOS = {
+    "nuevo",
+    "nueva",
+    "expansión",
+    "expansion",
+    "apertura",
+    "anuncia",
+    "lanzan",
+    "implementa",
+    "desarrollo",
+    "tecnología",
+    "tecnologia",
+    "investigación",
+    "investigacion",
+    "infraestructura",
+    "planta",
+    "producción",
+    "produccion",
+}
+
+PALABRAS_CHILE_RELEVANTE = {
+    "chile",
+    "chileno",
+    "chilena",
+    "litio",
+    "cobre",
+    "codelco",
+    "enap",
+    "corfo",
+    "banco central",
+    "minsal",
+    "atacama",
+    "patagonia",
+    "exportaciones",
+    "peso chileno",
+}
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
+GROQ_MODEL = "llama-3.3-70b-versatile"
+
+
+def enviar_telegram(mensaje: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     for chat_id in TELEGRAM_CHAT_IDS:
         try:
-            requests.post(url, data={
-                "chat_id": chat_id,
-                "text": mensaje
-            }, timeout=15)
-        except Exception as e:
-            print(f"Error enviando a {chat_id}: {e}")
-            
-def obtener_noticias():
-    noticias = []
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
+            response = requests.post(
+                url,
+                data={"chat_id": chat_id, "text": mensaje},
+                timeout=15,
+            )
+            response.raise_for_status()
+        except requests.RequestException as error:
+            logger.exception("Error enviando a chat_id=%s: %s", chat_id, error)
+
+
+def _score_titulo(titulo: str) -> int:
+    titulo_normalizado = titulo.lower()
+    if any(token in titulo_normalizado for token in NEGATIVOS):
+        return -10
+
+    score = 0
+    score += sum(2 for token in POSITIVOS_FUERTES if token in titulo_normalizado)
+    score += sum(1 for token in POSITIVOS_MODERADOS if token in titulo_normalizado)
+
+    if any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE):
+        score += 3
+
+    return score
+
+
+def _es_titulo_candidato(titulo: str) -> bool:
+    # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
+    return _score_titulo(titulo) >= 2
+
+
+def obtener_noticias() -> List[Dict[str, str]]:
+    noticias: List[Dict[str, str]] = []
+    vistos: Set[str] = set()
+
     for url in FUENTES:
         try:
-            response = requests.get(url, headers=headers, timeout=10)
+            response = requests.get(url, headers=HEADERS, timeout=12)
+            response.raise_for_status()
             feed = feedparser.parse(response.content)
-            for entry in feed.entries[:15]:
-                titulo = entry.title.lower()
-                negativos = [
-                    "muerto", "herido", "accidente", "crimen",
-                    "detenido", "imputado", "violencia", "ataque",
-                    "incendio", "robo", "homicidio", "tragedia"
-                ]
-                if any(n in titulo for n in negativos):
+
+            if getattr(feed, "bozo", False):
+                logger.warning("Feed con formato irregular: %s", url)
+
+            for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
+                titulo = getattr(entry, "title", "").strip()
+                link = getattr(entry, "link", "").strip()
+                if not titulo or not link or link in vistos:
                     continue
-                positivos = [
-                    "inversión", "millones", "acuerdo", "inauguró",
-                    "proyecto", "innovación", "récord", "exportación",
-                    "crecimiento", "alianza", "avance", "descubrimiento",
-                    "nuevo", "histórico", "energía", "litio", "cobre"
-                ]
-                if any(p in titulo for p in positivos):
-                    noticias.append({
-                        "titulo": entry.title,
-                        "link": entry.link
-                    })
-        except Exception as e:
-            print(f"Error con {url}: {e}")
+                if _es_titulo_candidato(titulo):
+                    noticias.append({"titulo": titulo, "link": link})
+                    vistos.add(link)
+        except (requests.RequestException, ValueError) as error:
+            logger.warning("Error con %s: %s", url, error)
             continue
+
+    noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
+    logger.info("Total de noticias candidatas: %s", len(noticias))
     return noticias
 
-def es_avance_positivo(titulo):
-    cliente = Groq(api_key=GROQ_API_KEY)
+
+def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Tu única tarea es evaluar si una noticia representa un avance concreto y positivo para Chile.
+Pregunta central obligatoria: ¿Esta noticia representa un beneficio directo o indirecto concreto para Chile o los chilenos?
 
-Criterios para decir SÍ:
-- Inversiones, acuerdos comerciales, proyectos nuevos
-- Infraestructura, tecnología, energía, innovación
-- Logros científicos, récords económicos
-- Acuerdos internacionales beneficiosos
+Aprueba SOLO si el titular muestra un hecho real y verificable, como:
+- inversión en Chile o en un sector chileno clave
+- acuerdo comercial firmado
+- proyecto con cifras reales
+- tecnología o innovación adoptada en Chile
+- logro económico medible
+- avance global con impacto directo en Chile (minería, litio, cobre, energía, exportaciones)
+- premios o reconocimientos internacionales obtenidos por chilenos
+- acuerdos de cooperación internacional firmados con impacto concreto
+- logros culturales o científicos que posicionen a Chile internacionalmente
+- declaraciones de autoridades con meta numérica o proyecto específico
+- logros deportivos internacionales de chilenos o equipos chilenos (campeonatos, medallas, records)
+- inauguración de equipamiento o infraestructura pública con impacto directo en ciudadanos
+- inversiones en startups tech globales con valuación sobre $1 billón que impacten el mercado donde Chile participa
 
-Criterios para decir NO:
-- Noticias políticas sin impacto concreto
-- Declaraciones, opiniones o discursos
-- Conflictos, violencia, escándalos
-- Noticias negativas o neutras
+Rechaza explícitamente si el titular trata de:
+- política interna sin impacto económico concreto
+- noticias sobre política interna, cambio de gobierno o declaraciones sin proyecto concreto
+- turismo, gastronomía, historia, clima o policiales
+- noticias sobre sismos, clima o desastres naturales
+- noticias de otros países sin relación con Chile
+- noticias sobre migración o política exterior sin acuerdo económico concreto
+- rankings negativos donde Chile aparece mal posicionado
+- noticias de conflictos bélicos internacionales sin relación directa con Chile
+- noticias de farándula, música o entretenimiento aunque mencionen Chile
+- noticias policiales o de narcotráfico aunque ocurran en Chile
+- noticias de política internacional de otros países sin acuerdo concreto con Chile
+- potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
+- cualquier caso donde el beneficio para Chile sea especulativo
 
 Noticia: "{titulo}"
 
 Responde SOLO con SÍ o NO, sin explicación."""
     respuesta = cliente.chat.completions.create(
-        model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}]
+        model=GROQ_MODEL,
+        temperature=0,
+        messages=[{"role": "user", "content": prompt}],
     )
     resultado = respuesta.choices[0].message.content.strip().upper()
-    return "SÍ" in resultado
+    return resultado.startswith("SÍ")
 
-def generar_post(noticia):
-    cliente = Groq(api_key=GROQ_API_KEY)
+
+def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
     prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
-Tono: formal, informativo, sin exceso de emojis.
+Tono: directo, afirmativo e informativo.
 
 Noticia: {noticia['titulo']}
 Link: {noticia['link']}
@@ -140,40 +386,61 @@ Link: {noticia['link']}
 Genera un post para Twitter de máximo 280 caracteres con:
 - Un emoji relevante al inicio
 - El hecho concreto en una línea
-- Por qué importa para Chile
+- Una línea explicando por qué beneficia a Chile o a los chilenos
+- Usa solo hechos concretos que aparezcan en el título
+- Si el título contiene cifras, nombres, fechas o montos, inclúyelos
+- Prohibido usar frases especulativas: "puede", "podría", "es posible", "potencial"
 - Fuente: [nombre del medio] al final
 - Sin hashtags
 - Incluye el link al final antes de la fuente
 
 Solo responde con el post, nada más."""
     respuesta = cliente.chat.completions.create(
-        model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}]
+        model=GROQ_MODEL,
+        temperature=0.4,
+        messages=[{"role": "user", "content": prompt}],
     )
-    return respuesta.choices[0].message.content
+    return respuesta.choices[0].message.content.strip()
 
-def cargar_procesadas():
+
+def cargar_procesadas() -> Set[str]:
     try:
-        with open("procesadas.txt", "r") as f:
-            return set(f.read().splitlines())
+        with open("procesadas.txt", "r", encoding="utf-8") as file:
+            return {linea.strip() for linea in file if linea.strip()}
     except FileNotFoundError:
         return set()
 
-def guardar_procesadas(procesadas):
-    with open("procesadas.txt", "w") as f:
-        f.write("\n".join(procesadas))
-    subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"])
-    subprocess.run(["git", "config", "user.name", "ElChilometro Bot"])
-    subprocess.run(["git", "add", "procesadas.txt"])
-    subprocess.run(["git", "commit", "-m", "Update procesadas"])
-    subprocess.run(["git", "push"])
 
-def main():
+def guardar_procesadas(procesadas: Set[str]) -> None:
+    with open("procesadas.txt", "w", encoding="utf-8") as file:
+        file.write("\n".join(sorted(procesadas)))
+
+    subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"], check=True)
+    subprocess.run(["git", "config", "user.name", "ElChilometro Bot"], check=True)
+    subprocess.run(["git", "add", "procesadas.txt"], check=True)
+
+    estado = subprocess.run(
+        ["git", "status", "--porcelain", "procesadas.txt"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    if not estado.stdout.strip():
+        logger.info("Sin cambios en procesadas.txt; se omite commit.")
+        return
+
+    subprocess.run(["git", "commit", "-m", "Update procesadas"], check=True)
+    subprocess.run(["git", "push"], check=True)
+
+
+def main() -> None:
     enviar_telegram("📡 ElChilometro iniciado.")
+    cliente = Groq(api_key=GROQ_API_KEY)
+
     try:
         noticias = obtener_noticias()
-    except Exception as e:
-        enviar_telegram(f"❌ Error obteniendo noticias:\n{e}")
+    except Exception as error:
+        enviar_telegram(f"❌ Error obteniendo noticias:\n{error}")
         return
 
     if not noticias:
@@ -181,27 +448,31 @@ def main():
         return
 
     procesadas = cargar_procesadas()
-    noticias_nuevas = [n for n in noticias if n["link"] not in procesadas]
+    noticias_nuevas = [noticia for noticia in noticias if noticia["link"] not in procesadas]
 
     if not noticias_nuevas:
         enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
         return
 
-    links_nuevos = set()
-    for noticia in noticias_nuevas[:5]:
+    links_nuevos: Set[str] = set()
+    noticias_seleccionadas = noticias_nuevas[:MAX_NOTICIAS_A_PROCESAR]
+    enviar_telegram(f"🧮 Candidatas nuevas detectadas: {len(noticias_nuevas)}. Procesando {len(noticias_seleccionadas)}.")
+
+    for noticia in noticias_seleccionadas:
         try:
-            decision = es_avance_positivo(noticia["titulo"])
+            decision = es_avance_positivo(cliente, noticia["titulo"])
             if decision:
-                post = generar_post(noticia)
+                post = generar_post(cliente, noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
             else:
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
             links_nuevos.add(noticia["link"])
-        except Exception as e:
-            enviar_telegram(f"❌ Error generando post:\n{e}")
+        except Exception as error:
+            enviar_telegram(f"❌ Error generando post:\n{error}")
             links_nuevos.add(noticia["link"])
 
     guardar_procesadas(procesadas | links_nuevos)
+
 
 if __name__ == "__main__":
     main()
