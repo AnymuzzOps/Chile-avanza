@@ -5,6 +5,7 @@ http://es.euronews.com/business/2026/03/15/la-ampliacion-de-la-ue-abre-nuevas-op
 http://es.euronews.com/my-europe/2026/03/15/elecciones-municipales-2026-francia-votantes-acuden-urnas
 http://es.euronews.com/viajes/2026/03/15/nuevo-tren-de-bajo-coste-conecta-londres-y-escocia-por-menos-de-35
 http://es.euronews.com/video/2026/03/15/ultimas-noticias-15-marzo-2026-mediodia
+http://es.euronews.com/video/2026/03/15/ultimas-noticias-15-marzo-2026-tarde
 http://www.americaeconomia.com/negocios-e-industrias/camara-de-mineria-de-ecuador-responde-la-ministra-de-energia-sobre-la
 http://www.americaeconomia.com/negocios-e-industrias/petrobras-anuncia-medidas-para-defenderse-de-la-demanda-interpuesta-por-sete
 http://www.americaeconomia.com/negocios-e-industrias/produccion-industrial-en-eeuu-cayo-un-02-en-mayo-tras-subir-en-abril
@@ -22,6 +23,7 @@ https://elpais.com/chile/2026-03-14/de-urgencias-y-expectativas.html
 https://elpais.com/economia/2026-03-14/estados-unidos-iniciara-la-liberacion-de-86-millones-de-barriles-de-crudo-a-finales-de-la-proxima-semana.html
 https://elpais.com/economia/2026-03-14/seat-negocia-con-indra-su-entrada-en-defensa-para-fabricar-vehiculos-militares-ligeros.html
 https://elpais.com/economia/2026-03-15/jonathan-brill-futurologo-de-amazon-la-ia-hara-el-80-de-nuestro-trabajo-en-los-proximos-anos.html
+https://elpais.com/economia/2026-03-15/la-aie-anuncia-la-liberacion-inmediata-de-las-primeras-reservas-estrategicas-de-petroleo.html
 https://elpais.com/economia/negocios/2026-03-14/mayores-solos-y-estudiantes-sin-casa-una-respuesta-a-dos-crisis-con-dos-habitaciones-vacias-pense-que-no-era-justo-que-un-joven-se-quedase-sin-estudiar.html
 https://elpais.com/economia/negocios/2026-03-15/inteligencia-artificial-y-ficciones-explicativas.html
 https://elpais.com/economia/negocios/2026-03-15/jens-stoltenberg-ex-secretario-general-de-la-otan-seguro-que-los-miembros-de-la-alianza-permaneceremos-unidos-para-protegernos-mutuamente.html
@@ -57,7 +59,10 @@ https://www.fayerwayer.com/internet/2026/03/12/tesla-se-convierte-en-electrica-e
 https://www.fayerwayer.com/sneakers/2026/03/12/herederos-de-la-copa-nike-presenta-las-air-max-95-england-para-el-mundial-2026/
 https://www.fayerwayer.com/sneakers/2026/03/13/lego-le-hace-justicia-la-iconica-nike-air-max-95-neon-se-convierte-en-un-set-de-construccion-masivo/
 https://www.france24.com/es/deportes/20260314-venezuela-sacude-el-cl%C3%A1sico-mundial-elimina-a-jap%C3%B3n-y-se-enfrentar%C3%A1-a-italia-en-la-semifinal
+https://www.france24.com/es/francia/20260315-elecciones-municipales-en-francia-la-participaci%C3%B3n-alcanza-el-19-37-partidos-a-prueba-de-cara-a-las-presidenciales
 https://www.france24.com/es/video/20260314-francia-se-alista-para-renovar-alcaldes-y-consejeros-municipales
+https://www.france24.com/es/video/20260315-francia-elige-alcaldes-en-elecciones-municipales-con-48-9-de-participaci%C3%B3n
+https://www.france24.com/es/video/20260315-francia-vota-a-sus-alcaldes-en-unas-municipales-con-mirada-en-2027
 https://www.france24.com/es/video/20260315-informe-desde-par%C3%ADs-la-participaci%C3%B3n-supera-el-19-en-las-elecciones-municipales-en-francia
 https://www.france24.com/es/video/20260315-per%C3%BA-avanzan-las-campa%C3%B1as-de-los-candidatos-presidenciales
 https://www.lanacion.cl/eeuu-ofrece-cerca-de-diez-millones-de-dolares-por-mojtaba-jamenei/
