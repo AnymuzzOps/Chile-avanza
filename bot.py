@@ -394,7 +394,7 @@ Rechaza todo lo demás, incluyendo:
 - policiales
 - noticias en inglés
 
-Noticia: "{titulo}"
+Noticia: \"{titulo}\"
 
 Responde SOLO con SÍ o NO, sin explicación."""
     respuesta = cliente.chat.completions.create(
