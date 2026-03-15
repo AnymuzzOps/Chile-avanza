@@ -46,12 +46,22 @@ FUENTES = [
     "https://www.hacienda.cl/feed/",
     "https://www.corfo.cl/feed/",
     "https://www.prochile.gob.cl/feed/",
+    "https://www.cooperativa.cl/noticias/rss/",
+    "https://feeds.emol.com/emol/economia",
+    "https://feeds.emol.com/emol/nacional",
+    "https://www.elmostrador.cl/feed/",
+    "https://www.cnnchile.com/feed/",
+    "https://radio.uchile.cl/feed/",
+    "https://www.pulso.cl/feed/",
+    "https://www.americaeconomia.com/rss.xml",
     # Internacional en español con cobertura frecuente de Chile y su economía
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
     "https://cnnespanol.cnn.com/feed/",
     "https://www.france24.com/es/rss",
     "https://es.euronews.com/rss",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
+    "https://www.expansion.com/rss/empresas.xml",
 ]
 
 
