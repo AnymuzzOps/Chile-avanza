@@ -1,4 +1,5 @@
 http://es.euronews.com/2026/03/15/antonelli-gana-la-carrera-de-formula-1-en-china-primer-italiano-en-20-anos-y-el-2-piloto-m
+http://es.euronews.com/2026/03/15/parlamento-europeo-ppe-colaboro-estrechamente-con-afd
 http://es.euronews.com/business/2026/03/14/anthropic-identifica-empleos-mas-expuestos-al-avance-de-la-ia
 http://es.euronews.com/business/2026/03/15/la-ampliacion-de-la-ue-abre-nuevas-oportunidades-para-las-empresas-europeas
 http://es.euronews.com/my-europe/2026/03/15/elecciones-municipales-2026-francia-votantes-acuden-urnas
@@ -32,6 +33,7 @@ https://radio.uchile.cl/2026/03/13/lo-adictivo-no-es-el-celular-sino-los-conteni
 https://radio.uchile.cl/2026/03/14/fisico-chileno-descubre-nuevas-formas-de-controlar-la-luz-para-impulsar-tecnologias-mas-eficientes/
 https://radio.uchile.cl/2026/03/14/nicolas-postiglione-cineasta-una-exploracion-que-siempre-he-tratado-de-hacer-con-mis-proyectos-es-descubrir-chiles-diferentes/
 https://www.ex-ante.cl/las-inversiones-en-espana-y-estados-unidos-del-nieto-del-fundador-de-abcdin-y-lipigas/
+https://www.ex-ante.cl/que-hay-tras-el-acuerdo-de-sky-airline-con-la-espanola-air-europa-y-quien-gestionara-la-operacion/
 https://www.ex-ante.cl/un-liderazgo-presidencial-en-construccion-por-sergio-munoz-riveros/
 https://www.expansion.com/catalunya/2026/03/13/69b4689de5fdea814e8b4597.html
 https://www.expansion.com/economia-digital/companias/2026/03/13/69b437ffe5fdeade548b4585.html
@@ -41,7 +43,10 @@ https://www.expansion.com/empresas/2026/03/14/69b52490468aeb27798b4593.html
 https://www.expansion.com/empresas/banca/2026/03/14/69b46931e5fdeaf92d8b4594.html
 https://www.expansion.com/empresas/distribucion/2026/03/14/69b52585468aeb2b3c8b458c.html
 https://www.expansion.com/empresas/distribucion/2026/03/15/69b316f3468aebf61c8b4595.html
+https://www.expansion.com/empresas/energia/2026/03/13/69b440ee468aebea5b8b4594.html
 https://www.expansion.com/empresas/transporte/2026/03/14/69b46ce5468aeb661b8b45b0.html
+https://www.expansion.com/mercados/2026/03/13/69b431cee5fdeab71e8b4596.html
+https://www.expansion.com/valencia/2026/03/13/69b3f732e5fdead23a8b457a.html
 https://www.fayerwayer.com/ciencia/2026/03/12/un-cuchillo-en-el-pecho-por-8-anos-el-escalofriante-hallazgo-medico-que-desafia-las-leyes-de-la-biologia/
 https://www.fayerwayer.com/entretenimiento/2026/03/12/el-diablo-viste-a-la-moda-2-ya-tiene-fecha-de-estreno-cuando-estara-disponible-en-cines/
 https://www.fayerwayer.com/espacio/2026/03/13/artemis-ii-tiene-fecha-la-nasa-fija-para-abril-el-historico-regreso-de-la-humanidad-a-la-luna/
