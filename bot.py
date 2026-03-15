@@ -26,42 +26,18 @@ MAX_NOTICIAS_A_PROCESAR = 8
 
 # Fuentes RSS verificadas y funcionando + adicionales
 FUENTES = [
-    # Chile - medios verificados 2026
+    "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
+    "https://www.ex-ante.cl/feed/",
     "https://www.theclinic.cl/feed/",
     "https://www.cambio21.cl/rss",
     "https://www.lanacion.cl/feed/",
-    "https://www.santiagotimes.cl/feed/",
-    "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
-    "https://www.ex-ante.cl/feed/",
-    "https://www.biobiochile.cl/feed/",
     "https://www.fayerwayer.com/feed/",
-    "https://en.mercopress.com/rss/chile",
-    "https://en.mercopress.com/rss/economy",
-    # Internacional sobre Chile y Latinoamerica
-    "https://feeds.bbci.co.uk/mundo/rss.xml",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
-    "https://www.americaeconomia.com/rss.xml",
-    # Economia y negocios global
-    "https://feeds.bloomberg.com/markets/news.rss",
-    "https://feeds.bloomberg.com/technology/news.rss",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "https://feeds.bbci.co.uk/news/business/rss.xml",
-    # Tecnologia e innovacion
-    "https://techcrunch.com/feed/",
-    "https://venturebeat.com/feed/",
-    "https://www.theverge.com/rss/index.xml",
-    # Ciencia
-    "https://phys.org/rss-feed/",
-    "https://futurism.com/feed",
-    "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
-    # Mineria y energia (internacional)
-    "https://www.mining.com/feed/",
-    "https://oilprice.com/rss/main",
-    # Extras para mejorar cobertura en Chile
     "https://www.mch.cl/feed/",
+    "https://www.biobiochile.cl/feed/",
     "https://www.startupchile.org/feed/",
+    "https://www.df.cl/noticias/site/tax/seccion/lista/economia.html?format=feed&type=rss",
 ]
+
 
 NEGATIVOS = {
     "muerto",
@@ -330,39 +306,51 @@ def obtener_noticias() -> List[Dict[str, str]]:
     return noticias
 
 
+def _tiene_ingles_consecutivo(titulo: str) -> bool:
+    palabras = [
+        ''.join(ch for ch in token.lower() if ch.isalpha())
+        for token in titulo.split()
+    ]
+    palabras = [p for p in palabras if p]
+    ingles = {
+        "the", "and", "with", "from", "for", "new", "launch", "startup", "service", "market",
+        "agreement", "deal", "growth", "record", "wins", "award", "global", "tech", "business",
+        "economy", "energy", "mining", "copper", "lithium", "in", "on", "to", "of", "by",
+        "is", "are", "was", "were", "at", "or", "as", "after", "before", "first", "announces",
+    }
+    consecutivas = 0
+    for palabra in palabras:
+        if palabra in ingles:
+            consecutivas += 1
+            if consecutivas > 3:
+                return True
+        else:
+            consecutivas = 0
+    return False
+
+
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Pregunta central obligatoria: ¿Esta noticia representa un beneficio directo o indirecto concreto para Chile o los chilenos?
+Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a los chilenos?
 
-Aprueba SOLO si el titular muestra un hecho real y verificable, como:
-- inversión en Chile o en un sector chileno clave
-- acuerdo comercial firmado
-- proyecto con cifras reales
-- tecnología o innovación adoptada en Chile
-- logro económico medible
-- avance global con impacto directo en Chile (minería, litio, cobre, energía, exportaciones)
-- premios o reconocimientos internacionales obtenidos por chilenos
-- acuerdos de cooperación internacional firmados con impacto concreto
-- logros culturales o científicos que posicionen a Chile internacionalmente
-- declaraciones de autoridades con meta numérica o proyecto específico
-- logros deportivos internacionales de chilenos o equipos chilenos (campeonatos, medallas, records)
-- inauguración de equipamiento o infraestructura pública con impacto directo en ciudadanos
-- inversiones en startups tech globales con valuación sobre $1 billón que impacten el mercado donde Chile participa
+Aprueba SOLO si hay al menos uno de estos casos:
+- inversión en Chile con cifras
+- proyecto inaugurado o aprobado
+- acuerdo comercial firmado que involucre a Chile
+- logro de un chileno o institución chilena a nivel nacional o internacional
+- nuevo servicio o tecnología disponible en Chile
+- récord económico chileno medible
 
-Rechaza explícitamente si el titular trata de:
-- política interna sin impacto económico concreto
-- noticias sobre política interna, cambio de gobierno o declaraciones sin proyecto concreto
-- turismo, gastronomía, historia, clima o policiales
-- noticias sobre sismos, clima o desastres naturales
-- noticias de otros países sin relación con Chile
-- noticias sobre migración o política exterior sin acuerdo económico concreto
-- rankings negativos donde Chile aparece mal posicionado
-- noticias de conflictos bélicos internacionales sin relación directa con Chile
-- noticias de farándula, música o entretenimiento aunque mencionen Chile
-- noticias policiales o de narcotráfico aunque ocurran en Chile
-- noticias de política internacional de otros países sin acuerdo concreto con Chile
-- potencial, posibilidades o escenarios hipotéticos sin anuncio concreto
-- cualquier caso donde el beneficio para Chile sea especulativo
+Rechaza todo lo demás, incluyendo:
+- política interna
+- conflictos internacionales
+- deportes
+- farándula
+- gastronomía
+- turismo
+- clima
+- policiales
+- noticias en inglés
 
 Noticia: \"{titulo}\"
 
@@ -460,6 +448,11 @@ def main() -> None:
 
     for noticia in noticias_seleccionadas:
         try:
+            if _tiene_ingles_consecutivo(noticia["titulo"]):
+                enviar_telegram(f"❌ DESCARTADO IDIOMA (sin IA):\n{noticia['titulo']}")
+                links_nuevos.add(noticia["link"])
+                continue
+
             decision = es_avance_positivo(cliente, noticia["titulo"])
             if decision:
                 post = generar_post(cliente, noticia)
