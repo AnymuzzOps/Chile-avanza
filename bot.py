@@ -45,6 +45,21 @@ FUENTES = [
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
 ]
 
+FUENTES_CHILE = {
+    "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
+    "https://www.ex-ante.cl/feed/",
+    "https://www.theclinic.cl/feed/",
+    "https://www.cambio21.cl/rss",
+    "https://www.lanacion.cl/feed/",
+    "https://www.fayerwayer.com/feed/",
+    "https://www.mch.cl/feed/",
+    "https://www.startupchile.org/feed/",
+    "https://www.pulso.cl/feed/",
+    "https://www.americaeconomia.com/rss.xml",
+    "https://www.revistaei.cl/feed/",
+    "https://www.corfo.cl/feed/",
+}
+
 NEGATIVOS = {
     "muerto",
     "herido",
@@ -334,12 +349,32 @@ def _es_titulo_candidato(titulo: str) -> bool:
     return _score_titulo(titulo) >= 2
 
 
-def _es_relevante_para_chile(titulo: str) -> bool:
+def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     titulo_normalizado = titulo.lower()
     tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
     tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
-    # Exigimos señal directa de Chile y además señal de beneficio/inversión concreta.
-    return tiene_chile and tiene_beneficio
+
+    # Caso ideal: señal directa de Chile + beneficio concreto.
+    if tiene_chile and tiene_beneficio:
+        return True
+
+    # Si viene de una fuente chilena, permitimos pasar titulares con beneficio concreto
+    # aunque no nombren explícitamente "Chile" en el título.
+    if fuente_base in FUENTES_CHILE and tiene_beneficio:
+        return True
+
+    return False
+
+
+def _normalizar_feed_content(content: bytes) -> bytes:
+    # Algunos feeds llegan con bytes basura/BOM antes del XML y feedparser marca bozo.
+    recortado = content.lstrip()
+    for marca in (b"<?xml", b"<rss", b"<feed"):
+        idx = recortado.find(marca)
+        if idx > 0:
+            recortado = recortado[idx:]
+            break
+    return recortado
 
 
 def obtener_noticias() -> List[Dict[str, str]]:
@@ -359,17 +394,20 @@ def obtener_noticias() -> List[Dict[str, str]]:
             try:
                 response = session.get(fuente, timeout=12)
                 response.raise_for_status()
-                feed = feedparser.parse(response.content)
+                feed = feedparser.parse(_normalizar_feed_content(response.content))
 
                 if getattr(feed, "bozo", False):
-                    logger.warning("Feed con formato irregular: %s", fuente)
+                    if getattr(feed, "entries", []):
+                        logger.info("Feed irregular pero usable: %s", fuente)
+                    else:
+                        logger.warning("Feed con formato irregular: %s", fuente)
 
                 for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
                     titulo = getattr(entry, "title", "").strip()
                     link = getattr(entry, "link", "").strip()
                     if not titulo or not link or link in vistos:
                         continue
-                    if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo):
+                    if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo, url):
                         noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
 
