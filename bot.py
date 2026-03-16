@@ -302,7 +302,10 @@ PALABRAS_INVERSION_BENEFICIO = {
     "expansion",
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 FALLBACK_FUENTES = {
@@ -351,6 +354,7 @@ def _es_titulo_candidato(titulo: str) -> bool:
 
 def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     titulo_normalizado = titulo.lower()
+    score = _score_titulo(titulo)
     tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
     tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
 
@@ -358,9 +362,13 @@ def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     if tiene_chile and tiene_beneficio:
         return True
 
-    # Si viene de una fuente chilena, permitimos pasar titulares con beneficio concreto
-    # aunque no nombren explícitamente "Chile" en el título.
-    if fuente_base in FUENTES_CHILE and tiene_beneficio:
+    # Si hay señal Chile explícita, permitimos también titulares con score alto
+    # para no perder avances concretos que no usan keywords económicas exactas.
+    if tiene_chile and score >= 3:
+        return True
+
+    # Si viene de fuente chilena, permitimos score más alto o beneficio concreto.
+    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 4):
         return True
 
     return False
@@ -377,7 +385,12 @@ def _normalizar_feed_content(content: bytes) -> bytes:
     return recortado
 
 
-def obtener_noticias() -> List[Dict[str, str]]:
+def _parse_feed_desde_url(fuente: str) -> feedparser.FeedParserDict:
+    # Fallback para servidores que rechazan ciertos headers (ej. HTTP 415).
+    return feedparser.parse(fuente)
+
+
+def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
     errores_por_fuente = 0
@@ -415,6 +428,28 @@ def obtener_noticias() -> List[Dict[str, str]]:
                     logger.info("Fuente recuperada con fallback: %s -> %s", url, fuente)
                 feed_cargado = True
                 break
+            except requests.HTTPError as error:
+                # Algunos medios devuelven 415 por headers; intentamos parseo directo por URL.
+                status_code = getattr(error.response, "status_code", None)
+                if status_code == 415:
+                    try:
+                        feed = _parse_feed_desde_url(fuente)
+                        if getattr(feed, "entries", []):
+                            logger.info("Fuente recuperada sin headers (415): %s", fuente)
+                            for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
+                                titulo = getattr(entry, "title", "").strip()
+                                link = getattr(entry, "link", "").strip()
+                                if not titulo or not link or link in vistos:
+                                    continue
+                                if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo, url):
+                                    noticias.append({"titulo": titulo, "link": link})
+                                    vistos.add(link)
+                            feed_cargado = True
+                            break
+                    except Exception as inner_error:  # noqa: BLE001
+                        ultimo_error = inner_error
+                        continue
+                ultimo_error = error
             except (requests.RequestException, ValueError) as error:
                 ultimo_error = error
 
@@ -428,9 +463,14 @@ def obtener_noticias() -> List[Dict[str, str]]:
             )
 
     noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
-    logger.info("Total de noticias candidatas: %s", len(noticias))
-    logger.info("Fuentes sin respuesta útil: %s/%s", errores_por_fuente, len(FUENTES))
-    return noticias
+    stats = {
+        "candidatas": len(noticias),
+        "fuentes_error": errores_por_fuente,
+        "fuentes_total": len(FUENTES),
+    }
+    logger.info("Total de noticias candidatas: %s", stats["candidatas"])
+    logger.info("Fuentes sin respuesta útil: %s/%s", stats["fuentes_error"], stats["fuentes_total"])
+    return noticias, stats
 
 
 def _tiene_ingles_consecutivo(titulo: str) -> bool:
@@ -551,7 +591,7 @@ def main() -> None:
     cliente = Groq(api_key=GROQ_API_KEY)
 
     try:
-        noticias = obtener_noticias()
+        noticias, stats = obtener_noticias()
     except Exception as error:
         enviar_telegram(f"❌ Error obteniendo noticias:\n{error}")
         return
@@ -569,12 +609,19 @@ def main() -> None:
 
     links_nuevos: Set[str] = set()
     noticias_seleccionadas = noticias_nuevas[:min(MAX_NOTICIAS_A_PROCESAR, MAX_EVALUACIONES_IA)]
-    enviar_telegram(f"🧮 Candidatas nuevas detectadas: {len(noticias_nuevas)}. Procesando {len(noticias_seleccionadas)}.")
+    enviadas = 0
+    descartadas_idioma = 0
+    descartadas_ia = 0
+
+    enviar_telegram(
+        f"🧮 Resumen inicial: candidatas={stats['candidatas']}, nuevas={len(noticias_nuevas)}, "
+        f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}."
+    )
 
     for noticia in noticias_seleccionadas:
         try:
             if _tiene_ingles_consecutivo(noticia["titulo"]):
-                enviar_telegram(f"❌ DESCARTADO IDIOMA (sin IA):\n{noticia['titulo']}")
+                descartadas_idioma += 1
                 links_nuevos.add(noticia["link"])
                 continue
 
@@ -582,15 +629,19 @@ def main() -> None:
             if decision:
                 post = generar_post(cliente, noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+                enviadas += 1
             else:
+                descartadas_ia += 1
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
             links_nuevos.add(noticia["link"])
         except Exception as error:
             enviar_telegram(f"❌ Error generando post:\n{error}")
             links_nuevos.add(noticia["link"])
 
-    if noticias_enviadas == 0:
-        enviar_telegram("⚠️ No encontré noticias tecnológicas nuevas y relevantes en esta ejecución.")
+    enviar_telegram(
+        f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
+        f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
+    )
 
     guardar_procesadas(procesadas | links_nuevos)
 
