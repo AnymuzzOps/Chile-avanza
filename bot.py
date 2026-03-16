@@ -589,6 +589,9 @@ def main() -> None:
             enviar_telegram(f"❌ Error generando post:\n{error}")
             links_nuevos.add(noticia["link"])
 
+    if noticias_enviadas == 0:
+        enviar_telegram("⚠️ No encontré noticias tecnológicas nuevas y relevantes en esta ejecución.")
+
     guardar_procesadas(procesadas | links_nuevos)
 
 
