@@ -480,9 +480,13 @@ Rechaza todo lo demás, incluyendo:
 - policiales
 - noticias en inglés
 
-Noticia: "{titulo}"
+Responde NO si trata de:
+- política general, deportes, farándula, crimen, opinión o temas no tecnológicos
+- contenido ambiguo sin avance tecnológico concreto
 
-Responde SOLO con SÍ o NO, sin explicación."""
+Titular: "{titulo}"
+
+Responde SOLO con SÍ o NO."""
     respuesta = cliente.chat.completions.create(
         model=GROQ_MODEL,
         temperature=0,
@@ -496,8 +500,9 @@ def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
     prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
 Tono: directo, afirmativo e informativo.
 
-Noticia: {noticia['titulo']}
-Link: {noticia['link']}
+def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
+    prompt = f"""Eres un bot de noticias tecnológicas.
+Escribe un comentario muy breve (máximo 180 caracteres) explicando por qué esta noticia importa en tecnología.
 
 Genera un post para Twitter de máximo 280 caracteres con:
 - Un emoji relevante al inicio
@@ -510,7 +515,11 @@ Genera un post para Twitter de máximo 280 caracteres con:
 - Sin hashtags
 - Incluye el link al final antes de la fuente
 
-Solo responde con el post, nada más."""
+Reglas:
+- Tono claro y directo.
+- Sin hashtags.
+- Sin inventar datos fuera del titular.
+- Solo devuelve el comentario, nada más."""
     respuesta = cliente.chat.completions.create(
         model=GROQ_MODEL,
         temperature=0.4,
@@ -591,6 +600,9 @@ def main() -> None:
         except Exception as error:
             enviar_telegram(f"❌ Error generando post:\n{error}")
             links_nuevos.add(noticia["link"])
+
+    if noticias_enviadas == 0:
+        enviar_telegram("⚠️ No encontré noticias tecnológicas nuevas y relevantes en esta ejecución.")
 
     guardar_procesadas(procesadas | links_nuevos)
 
