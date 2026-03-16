@@ -457,36 +457,30 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
 
 
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
-    prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?
-
-Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:
-- inversión en Chile con cifras
-- proyecto inaugurado o aprobado en Chile
-- acuerdo comercial firmado que involucre a Chile
-- logro medible de un chileno o institución chilena
-- nuevo servicio o tecnología disponible en Chile
-- récord económico chileno medible
-
-Rechaza todo lo demás, incluyendo:
-- noticias económicas de otros países sin impacto directo y explícito en Chile
-- política interna sin proyecto económico concreto
-- conflictos internacionales
-- deportes
-- farándula
-- gastronomía
-- turismo
-- clima
-- policiales
-- noticias en inglés
-
-Responde NO si trata de:
-- política general, deportes, farándula, crimen, opinión o temas no tecnológicos
-- contenido ambiguo sin avance tecnológico concreto
-
-Titular: "{titulo}"
-
-Responde SOLO con SÍ o NO."""
+    prompt = (
+        "Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.\n"
+        "Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?\n\n"
+        "Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:\n"
+        "- inversión en Chile con cifras\n"
+        "- proyecto inaugurado o aprobado en Chile\n"
+        "- acuerdo comercial firmado que involucre a Chile\n"
+        "- logro medible de un chileno o institución chilena\n"
+        "- nuevo servicio o tecnología disponible en Chile\n"
+        "- récord económico chileno medible\n\n"
+        "Rechaza todo lo demás, incluyendo:\n"
+        "- noticias económicas de otros países sin impacto directo y explícito en Chile\n"
+        "- política interna sin proyecto económico concreto\n"
+        "- conflictos internacionales\n"
+        "- deportes\n"
+        "- farándula\n"
+        "- gastronomía\n"
+        "- turismo\n"
+        "- clima\n"
+        "- policiales\n"
+        "- noticias en inglés\n\n"
+        f'Noticia: "{titulo}"\n\n'
+        "Responde SOLO con SÍ o NO, sin explicación."
+    )
     respuesta = cliente.chat.completions.create(
         model=GROQ_MODEL,
         temperature=0,
@@ -497,29 +491,23 @@ Responde SOLO con SÍ o NO."""
 
 
 def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
-    prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
-Tono: directo, afirmativo e informativo.
-
-def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
-    prompt = f"""Eres un bot de noticias tecnológicas.
-Escribe un comentario muy breve (máximo 180 caracteres) explicando por qué esta noticia importa en tecnología.
-
-Genera un post para Twitter de máximo 280 caracteres con:
-- Un emoji relevante al inicio
-- El hecho concreto en una línea
-- Una línea explicando por qué beneficia a Chile o a los chilenos
-- Usa solo hechos concretos que aparezcan en el título
-- Si el título contiene cifras, nombres, fechas o montos, inclúyelos
-- Prohibido usar frases especulativas: "puede", "podría", "es posible", "potencial"
-- Fuente: [nombre del medio] al final
-- Sin hashtags
-- Incluye el link al final antes de la fuente
-
-Reglas:
-- Tono claro y directo.
-- Sin hashtags.
-- Sin inventar datos fuera del titular.
-- Solo devuelve el comentario, nada más."""
+    prompt = (
+        "Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.\n"
+        "Tono: directo, afirmativo e informativo.\n\n"
+        f"Noticia: {noticia['titulo']}\n"
+        f"Link: {noticia['link']}\n\n"
+        "Genera un post para Twitter de máximo 280 caracteres con:\n"
+        "- Un emoji relevante al inicio\n"
+        "- El hecho concreto en una línea\n"
+        "- Una línea explicando por qué beneficia a Chile o a los chilenos\n"
+        "- Usa solo hechos concretos que aparezcan en el título\n"
+        "- Si el título contiene cifras, nombres, fechas o montos, inclúyelos\n"
+        "- Prohibido usar frases especulativas: \"puede\", \"podría\", \"es posible\", \"potencial\"\n"
+        "- Fuente: [nombre del medio] al final\n"
+        "- Sin hashtags\n"
+        "- Incluye el link al final antes de la fuente\n\n"
+        "Solo responde con el post, nada más."
+    )
     respuesta = cliente.chat.completions.create(
         model=GROQ_MODEL,
         temperature=0.4,
