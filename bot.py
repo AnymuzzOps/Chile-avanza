@@ -246,52 +246,60 @@ PALABRAS_CHILE_RELEVANTE = {
     "chile",
     "chileno",
     "chilena",
+    "litio",
+    "cobre",
+    "codelco",
+    "enap",
+    "corfo",
+    "banco central",
+    "minsal",
+    "atacama",
+    "patagonia",
+    "exportaciones",
+    "peso chileno",
+}
+
+PALABRAS_CHILE_ESTRICTAS = {
+    "chile",
+    "chileno",
+    "chilena",
+    "codelco",
+    "enap",
+    "corfo",
+    "sernageomin",
+    "cochilco",
+    "hacienda",
+    "prochile",
+    "santiago",
+    "antofagasta",
+    "atacama",
+    "valparaíso",
+    "valparaiso",
+    "biobío",
+    "biobio",
+    "sky airline",
     "latam",
 }
 
-PALABRAS_TECNOLOGIA = {
-    "ia",
-    "ai",
-    "inteligencia artificial",
-    "automatización",
-    "automatizacion",
-    "robot",
-    "robótica",
-    "robotica",
-    "chip",
-    "semiconductor",
-    "modelo",
-    "llm",
-    "agente",
-    "software",
-    "plataforma",
-    "startup",
-    "deep learning",
-    "machine learning",
-    "cloud",
-    "nube",
-    "ciberseguridad",
-    "cybersecurity",
-    "ocr",
-    "open source",
-    "api",
-}
-
-PALABRAS_DESCARTE_TEC = {
-    "deporte",
-    "fútbol",
-    "futbol",
-    "farándula",
-    "farándula",
-    "celebridad",
-    "política",
-    "politica",
-    "guerra",
-    "crimen",
-    "asesinato",
-    "elecciones",
-    "opinión",
-    "opinion",
+PALABRAS_INVERSION_BENEFICIO = {
+    "inversión",
+    "inversion",
+    "invertirá",
+    "invertira",
+    "millones",
+    "acuerdo",
+    "acuerdo comercial",
+    "proyecto",
+    "inauguró",
+    "inauguro",
+    "aprobó",
+    "aprobo",
+    "exportación",
+    "exportacion",
+    "empleo",
+    "crecimiento",
+    "expansión",
+    "expansion",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
@@ -341,21 +349,21 @@ def _es_titulo_candidato(titulo: str) -> bool:
     return _score_titulo(titulo) >= 2
 
 
-def _es_relevante_tecnologia(titulo: str) -> bool:
+def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     titulo_normalizado = titulo.lower()
-    tiene_tecnologia = any(token in titulo_normalizado for token in PALABRAS_TECNOLOGIA)
-    ruido_no_tecnologico = any(token in titulo_normalizado for token in PALABRAS_DESCARTE_TEC)
-    return tiene_tecnologia and not ruido_no_tecnologico
+    tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
+    tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
 
+    # Caso ideal: señal directa de Chile + beneficio concreto.
+    if tiene_chile and tiene_beneficio:
+        return True
 
-def _nombre_fuente(link: str) -> str:
-    try:
-        host = link.split("//", 1)[1].split("/", 1)[0].lower()
-    except IndexError:
-        return "Fuente desconocida"
-    if host.startswith("www."):
-        host = host[4:]
-    return host
+    # Si viene de una fuente chilena, permitimos pasar titulares con beneficio concreto
+    # aunque no nombren explícitamente "Chile" en el título.
+    if fuente_base in FUENTES_CHILE and tiene_beneficio:
+        return True
+
+    return False
 
 
 def _normalizar_feed_content(content: bytes) -> bytes:
@@ -399,7 +407,7 @@ def obtener_noticias() -> List[Dict[str, str]]:
                     link = getattr(entry, "link", "").strip()
                     if not titulo or not link or link in vistos:
                         continue
-                    if _es_titulo_candidato(titulo) and _es_relevante_tecnologia(titulo):
+                    if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo, url):
                         noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
 
@@ -449,12 +457,28 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
 
 
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
-    prompt = f"""Eres un filtro editorial de un canal de noticias de tecnología.
-Tu tarea: decidir si este titular es una noticia tecnológica NUEVA y relevante.
+    prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
+Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?
 
-Responde SÍ solo si trata de:
-- IA, automatización, robótica, software, chips, plataformas, investigación aplicada o innovación tecnológica concreta
-- lanzamientos, avances, hitos técnicos, financiamiento o adopción real de tecnología
+Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:
+- inversión en Chile con cifras
+- proyecto inaugurado o aprobado en Chile
+- acuerdo comercial firmado que involucre a Chile
+- logro medible de un chileno o institución chilena
+- nuevo servicio o tecnología disponible en Chile
+- récord económico chileno medible
+
+Rechaza todo lo demás, incluyendo:
+- noticias económicas de otros países sin impacto directo y explícito en Chile
+- política interna sin proyecto económico concreto
+- conflictos internacionales
+- deportes
+- farándula
+- gastronomía
+- turismo
+- clima
+- policiales
+- noticias en inglés
 
 Responde NO si trata de:
 - política general, deportes, farándula, crimen, opinión o temas no tecnológicos
@@ -473,10 +497,23 @@ Responde SOLO con SÍ o NO."""
 
 
 def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
+    prompt = f"""Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.
+Tono: directo, afirmativo e informativo.
+
+def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
     prompt = f"""Eres un bot de noticias tecnológicas.
 Escribe un comentario muy breve (máximo 180 caracteres) explicando por qué esta noticia importa en tecnología.
 
-Titular: {noticia['titulo']}
+Genera un post para Twitter de máximo 280 caracteres con:
+- Un emoji relevante al inicio
+- El hecho concreto en una línea
+- Una línea explicando por qué beneficia a Chile o a los chilenos
+- Usa solo hechos concretos que aparezcan en el título
+- Si el título contiene cifras, nombres, fechas o montos, inclúyelos
+- Prohibido usar frases especulativas: "puede", "podría", "es posible", "potencial"
+- Fuente: [nombre del medio] al final
+- Sin hashtags
+- Incluye el link al final antes de la fuente
 
 Reglas:
 - Tono claro y directo.
@@ -522,7 +559,7 @@ def guardar_procesadas(procesadas: Set[str]) -> None:
 
 
 def main() -> None:
-    enviar_telegram("📡 Bot de noticias tecnológicas iniciando análisis.")
+    enviar_telegram("📡 ElChilometro iniciado.")
     cliente = Groq(api_key=GROQ_API_KEY)
 
     try:
@@ -544,29 +581,24 @@ def main() -> None:
 
     links_nuevos: Set[str] = set()
     noticias_seleccionadas = noticias_nuevas[:min(MAX_NOTICIAS_A_PROCESAR, MAX_EVALUACIONES_IA)]
-    enviar_telegram(f"🧮 Noticias candidatas detectadas: {len(noticias_nuevas)}. Revisando {len(noticias_seleccionadas)}.")
+    enviar_telegram(f"🧮 Candidatas nuevas detectadas: {len(noticias_nuevas)}. Procesando {len(noticias_seleccionadas)}.")
 
-    noticias_enviadas = 0
     for noticia in noticias_seleccionadas:
         try:
             if _tiene_ingles_consecutivo(noticia["titulo"]):
+                enviar_telegram(f"❌ DESCARTADO IDIOMA (sin IA):\n{noticia['titulo']}")
                 links_nuevos.add(noticia["link"])
                 continue
 
             decision = es_avance_positivo(cliente, noticia["titulo"])
             if decision:
-                comentario = generar_post(cliente, noticia)
-                fuente = _nombre_fuente(noticia["link"])
-                enviar_telegram(
-                    f"📰 {noticia['titulo']}\n"
-                    f"Fuente: {fuente}\n"
-                    f"Comentario bot: {comentario}\n"
-                    f"{noticia['link']}"
-                )
-                noticias_enviadas += 1
+                post = generar_post(cliente, noticia)
+                enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+            else:
+                enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
             links_nuevos.add(noticia["link"])
         except Exception as error:
-            enviar_telegram(f"❌ Error generando resumen:\n{error}")
+            enviar_telegram(f"❌ Error generando post:\n{error}")
             links_nuevos.add(noticia["link"])
 
     if noticias_enviadas == 0:
