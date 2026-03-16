@@ -43,10 +43,6 @@ FUENTES = [
     # Internacional en español con cobertura frecuente de Chile y su economía
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
-    "https://www.france24.com/es/rss",
-    "https://es.euronews.com/rss",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
-    "https://www.expansion.com/rss/empresas.xml",
 ]
 
 NEGATIVOS = {
@@ -248,6 +244,49 @@ PALABRAS_CHILE_RELEVANTE = {
     "peso chileno",
 }
 
+PALABRAS_CHILE_ESTRICTAS = {
+    "chile",
+    "chileno",
+    "chilena",
+    "codelco",
+    "enap",
+    "corfo",
+    "sernageomin",
+    "cochilco",
+    "hacienda",
+    "prochile",
+    "santiago",
+    "antofagasta",
+    "atacama",
+    "valparaíso",
+    "valparaiso",
+    "biobío",
+    "biobio",
+    "sky airline",
+    "latam",
+}
+
+PALABRAS_INVERSION_BENEFICIO = {
+    "inversión",
+    "inversion",
+    "invertirá",
+    "invertira",
+    "millones",
+    "acuerdo",
+    "acuerdo comercial",
+    "proyecto",
+    "inauguró",
+    "inauguro",
+    "aprobó",
+    "aprobo",
+    "exportación",
+    "exportacion",
+    "empleo",
+    "crecimiento",
+    "expansión",
+    "expansion",
+}
+
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
@@ -295,6 +334,14 @@ def _es_titulo_candidato(titulo: str) -> bool:
     return _score_titulo(titulo) >= 2
 
 
+def _es_relevante_para_chile(titulo: str) -> bool:
+    titulo_normalizado = titulo.lower()
+    tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
+    tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
+    # Exigimos señal directa de Chile y además señal de beneficio/inversión concreta.
+    return tiene_chile and tiene_beneficio
+
+
 def obtener_noticias() -> List[Dict[str, str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
@@ -322,7 +369,7 @@ def obtener_noticias() -> List[Dict[str, str]]:
                     link = getattr(entry, "link", "").strip()
                     if not titulo or not link or link in vistos:
                         continue
-                    if _es_titulo_candidato(titulo):
+                    if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo):
                         noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
 
@@ -373,18 +420,19 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
 
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = f"""Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.
-Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a los chilenos?
+Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?
 
-Aprueba SOLO si hay al menos uno de estos casos:
+Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:
 - inversión en Chile con cifras
-- proyecto inaugurado o aprobado
+- proyecto inaugurado o aprobado en Chile
 - acuerdo comercial firmado que involucre a Chile
-- logro de un chileno o institución chilena a nivel nacional o internacional
+- logro medible de un chileno o institución chilena
 - nuevo servicio o tecnología disponible en Chile
 - récord económico chileno medible
 
 Rechaza todo lo demás, incluyendo:
-- política interna
+- noticias económicas de otros países sin impacto directo y explícito en Chile
+- política interna sin proyecto económico concreto
 - conflictos internacionales
 - deportes
 - farándula
