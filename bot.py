@@ -647,6 +647,11 @@ def main() -> None:
         f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
     )
 
+    enviar_telegram(
+        f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
+        f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
+    )
+
     guardar_procesadas(procesadas | links_nuevos)
 
 
