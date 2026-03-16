@@ -603,9 +603,13 @@ def main() -> None:
     procesadas = cargar_procesadas()
     noticias_nuevas = [noticia for noticia in noticias if noticia["link"] not in procesadas]
 
+    modo_rescate = False
     if not noticias_nuevas:
-        enviar_telegram("⚠️ Sin noticias nuevas, todas ya procesadas.")
-        return
+        # Si no hay nuevas, re-evaluamos un bloque reciente para evitar quedarnos sin envíos
+        # por histórico de procesadas demasiado agresivo en corridas anteriores.
+        modo_rescate = True
+        noticias_nuevas = noticias[: MAX_NOTICIAS_A_PROCESAR * 2]
+        enviar_telegram("⚠️ Sin noticias nuevas según historial. Activando modo rescate con candidatas recientes.")
 
     links_nuevos: Set[str] = set()
     noticias_seleccionadas = noticias_nuevas[:min(MAX_NOTICIAS_A_PROCESAR, MAX_EVALUACIONES_IA)]
@@ -615,14 +619,14 @@ def main() -> None:
 
     enviar_telegram(
         f"🧮 Resumen inicial: candidatas={stats['candidatas']}, nuevas={len(noticias_nuevas)}, "
-        f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}."
+        f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}, "
+        f"modo_rescate={'sí' if modo_rescate else 'no'}."
     )
 
     for noticia in noticias_seleccionadas:
         try:
             if _tiene_ingles_consecutivo(noticia["titulo"]):
                 descartadas_idioma += 1
-                links_nuevos.add(noticia["link"])
                 continue
 
             decision = es_avance_positivo(cliente, noticia["titulo"])
@@ -630,13 +634,18 @@ def main() -> None:
                 post = generar_post(cliente, noticia)
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
                 enviadas += 1
+                # Guardamos solo las enviadas para no bloquear reevaluaciones futuras.
+                links_nuevos.add(noticia["link"])
             else:
                 descartadas_ia += 1
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
-            links_nuevos.add(noticia["link"])
         except Exception as error:
             enviar_telegram(f"❌ Error generando post:\n{error}")
-            links_nuevos.add(noticia["link"])
+
+    enviar_telegram(
+        f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
+        f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
+    )
 
     enviar_telegram(
         f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
