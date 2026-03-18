@@ -34,15 +34,18 @@ FUENTES = [
     "https://www.cambio21.cl/rss",
     "https://www.lanacion.cl/feed/",
     "https://www.fayerwayer.com/feed/",
-    "https://www.mch.cl/feed/",
     "https://www.startupchile.org/feed/",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
-    "https://www.revistaei.cl/feed/",
     "https://www.corfo.cl/feed/",
     # Internacional en español con cobertura frecuente de Chile y su economía
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/chile/portada",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "https://www.minsal.cl/feed/",
+    "https://www.mineduc.cl/feed/",
+    "https://www.conicyt.cl/feed/",
+    "https://www.anid.cl/feed/",
+    "https://www.bcn.cl/rss",
 ]
 
 FUENTES_CHILE = {
@@ -52,12 +55,15 @@ FUENTES_CHILE = {
     "https://www.cambio21.cl/rss",
     "https://www.lanacion.cl/feed/",
     "https://www.fayerwayer.com/feed/",
-    "https://www.mch.cl/feed/",
     "https://www.startupchile.org/feed/",
     "https://www.pulso.cl/feed/",
     "https://www.americaeconomia.com/rss.xml",
-    "https://www.revistaei.cl/feed/",
     "https://www.corfo.cl/feed/",
+    "https://www.minsal.cl/feed/",
+    "https://www.mineduc.cl/feed/",
+    "https://www.conicyt.cl/feed/",
+    "https://www.anid.cl/feed/",
+    "https://www.bcn.cl/rss",
 }
 
 NEGATIVOS = {
@@ -220,6 +226,27 @@ POSITIVOS_FUERTES = {
     "celulosa",
     "puerto",
     "corredor",
+    "hospital",
+    "clinica",
+    "beca",
+    "gratuito",
+    "gratuita",
+    "ley aprobada",
+    "promulgada",
+    "beneficio",
+    "subsidio",
+    "bonificacion",
+    "pension",
+    "jubilacion",
+    "medicamento",
+    "vacuna",
+    "programa social",
+    "vivienda social",
+    "area protegida",
+    "parque nacional",
+    "ciclovía",
+    "metro",
+    "tren",
 }
 
 POSITIVOS_MODERADOS = {
@@ -300,6 +327,26 @@ PALABRAS_INVERSION_BENEFICIO = {
     "crecimiento",
     "expansión",
     "expansion",
+    "beneficio",
+    "subsidio",
+    "programa",
+    "presupuesto",
+    "licitación",
+    "licitacion",
+    "hospital",
+    "clinica",
+    "medicamento",
+    "vacuna",
+    "beca",
+    "gratuito",
+    "gratuita",
+    "metro",
+    "tren",
+    "ley aprobada",
+    "promulgada",
+    "vivienda social",
+    "parque nacional",
+    "area protegida",
 }
 
 HEADERS = {
@@ -357,18 +404,19 @@ def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     score = _score_titulo(titulo)
     tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
     tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
+    tiene_contexto_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE)
 
     # Caso ideal: señal directa de Chile + beneficio concreto.
     if tiene_chile and tiene_beneficio:
         return True
 
-    # Si hay señal Chile explícita, permitimos también titulares con score alto
-    # para no perder avances concretos que no usan keywords económicas exactas.
-    if tiene_chile and score >= 3:
+    # Si hay contexto Chile y score sólido, permitimos pasar el titular.
+    if (tiene_chile or tiene_contexto_chile) and score >= 3:
         return True
 
-    # Si viene de fuente chilena, permitimos score más alto o beneficio concreto.
-    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 4):
+    # Si viene de una fuente chilena, permitimos titulares de beneficio concreto
+    # o titulares con score suficiente para que Groq haga el filtro final.
+    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 3):
         return True
 
     return False
@@ -506,7 +554,12 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- acuerdo comercial firmado que involucre a Chile\n"
         "- logro medible de un chileno o institución chilena\n"
         "- nuevo servicio o tecnología disponible en Chile\n"
-        "- récord económico chileno medible\n\n"
+        "- récord económico chileno medible\n"
+        "- nuevos hospitales, centros de salud o medicamentos disponibles en Chile\n"
+        "- leyes o decretos aprobados que beneficien directamente a ciudadanos chilenos\n"
+        "- programas de becas o educación gratuita nuevos o ampliados\n"
+        "- proyectos de infraestructura social inaugurados o aprobados con presupuesto\n"
+        "- avances en medio ambiente o áreas protegidas en Chile\n\n"
         "Rechaza todo lo demás, incluyendo:\n"
         "- noticias económicas de otros países sin impacto directo y explícito en Chile\n"
         "- política interna sin proyecto económico concreto\n"
@@ -641,11 +694,6 @@ def main() -> None:
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
         except Exception as error:
             enviar_telegram(f"❌ Error generando post:\n{error}")
-
-    enviar_telegram(
-        f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
-        f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
-    )
 
     enviar_telegram(
         f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
