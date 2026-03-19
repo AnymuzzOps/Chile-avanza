@@ -188,6 +188,52 @@ NEGATIVOS = {
     "reorganizacion",
     "luminarias",
     "soda stereo",
+    "chuck norris",
+    "kevin spacey",
+    "gago",
+    "técnico",
+    "tecnico",
+    "entrenador",
+    "copa libertadores",
+    "sorteo",
+    "curanto",
+    "tunas",
+    "aceite de oliva",
+    "campesina",
+    "trenzas",
+    "chorizo",
+    "horizon worlds",
+    "metaverso",
+    "hospitalizado",
+    "acuerdo extrajudicial",
+    "agresión",
+    "agresion",
+    "youtube millones",
+    "industria musical",
+    "cancelación",
+    "cancelacion",
+    "universidad la república",
+    "universidad la republica",
+    "personalidad jurídica",
+    "personalidad juridica",
+    "tren valparaíso",
+    "tren valparaiso",
+    "anhelo ciudadano",
+    "parlamentarios",
+    "cuba",
+    "convoy",
+    "humanitaria",
+    "publirreportaje",
+    "publi",
+    "lugares turísticos",
+    "lugares turisticos",
+    "gastronomía chilota",
+    "gastronomia chilota",
+    "tradición campesina",
+    "tradicion campesina",
+    "papa nativa",
+    "dalcahue",
+    "til til",
 }
 
 
@@ -536,7 +582,7 @@ def _score_titulo(titulo: str) -> int:
 
 def _es_titulo_candidato(titulo: str) -> bool:
     # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
-    return _score_titulo(titulo) >= 2
+    return _score_titulo(titulo) >= 3
 
 
 def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
@@ -570,7 +616,7 @@ def _razones_titulo(titulo: str, fuente_base: str) -> Tuple[int, List[str]]:
 
     if score < 0:
         razones.append("negativo")
-    if score < 2:
+    if score < 3:
         razones.append("score_bajo")
 
     tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
@@ -668,7 +714,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                     score, razones = _razones_titulo(titulo, url)
                     if score < 0:
                         stats["desc_negativo"] += 1
-                    elif score < 2:
+                    elif score < 3:
                         stats["desc_score"] += 1
                     elif razones:
                         stats["desc_chile"] += 1
@@ -704,7 +750,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                                 score, razones = _razones_titulo(titulo, url)
                                 if score < 0:
                                     stats["desc_negativo"] += 1
-                                elif score < 2:
+                                elif score < 3:
                                     stats["desc_score"] += 1
                                 elif razones:
                                     stats["desc_chile"] += 1
@@ -766,6 +812,7 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = (
         "Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.\n"
+        "REGLA ABSOLUTA: Si la noticia no tiene un beneficio DIRECTO y CONCRETO para Chile o los chilenos con datos verificables, responde NO inmediatamente. No aprobar noticias de otros países sin relación directa con Chile, no aprobar noticias de entretenimiento, farándula, deportes locales, turismo, gastronomía o política sin proyecto concreto.\n"
         "Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?\n\n"
         "Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:\n"
         "- inversión en Chile con cifras\n"
@@ -793,6 +840,11 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- turismo\n"
         "- clima\n"
         "- policiales\n"
+        "- noticias de publirreportaje o contenido patrocinado\n"
+        "- reconocimientos mencionados sin cifras ni impacto concreto\n"
+        "- noticias de universidades canceladas o instituciones cerradas\n"
+        "- noticias de fracasos empresariales aunque sean de empresas tech\n"
+        "- cualquier noticia donde Chile aparezca como receptor pasivo sin acción concreta\n"
         "- noticias en inglés\n\n"
         f'Noticia: "{titulo}"\n\n'
         "Responde SOLO con SÍ o NO, sin explicación."
