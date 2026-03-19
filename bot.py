@@ -23,7 +23,7 @@ TELEGRAM_CHAT_IDS = [
 TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
 MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
-MAX_EVALUACIONES_IA = 8
+MAX_EVALUACIONES_IA = 12
 MAX_MUESTRAS_DIAGNOSTICO = 5
 MAX_CARACTERES_POST = 280
 
@@ -878,14 +878,24 @@ def main() -> None:
         # Si no hay nuevas, re-evaluamos un bloque reciente para evitar quedarnos sin envíos
         # por histórico de procesadas demasiado agresivo en corridas anteriores.
         modo_rescate = True
-        noticias_nuevas = noticias[: MAX_NOTICIAS_A_PROCESAR * 2]
+        noticias_nuevas = noticias[: MAX_EVALUACIONES_IA * 2]
         enviar_telegram("⚠️ Sin noticias nuevas según historial. Activando modo rescate con candidatas recientes.")
 
     links_nuevos: Set[str] = set()
-    noticias_seleccionadas = noticias_nuevas[:min(MAX_NOTICIAS_A_PROCESAR, MAX_EVALUACIONES_IA)]
+    noticias_seleccionadas = noticias_nuevas[:MAX_EVALUACIONES_IA]
     enviadas = 0
     descartadas_idioma = 0
     descartadas_ia = 0
+
+    logger.info(
+        "Resumen inicial de ejecución: candidatas=%s nuevas=%s a_procesar=%s fuentes_ok=%s/%s modo_rescate=%s",
+        stats["candidatas"],
+        len(noticias_nuevas),
+        len(noticias_seleccionadas),
+        stats["fuentes_total"] - stats["fuentes_error"],
+        stats["fuentes_total"],
+        "sí" if modo_rescate else "no",
+    )
 
     enviar_telegram(
         f"🧮 Resumen inicial: candidatas={stats['candidatas']}, nuevas={len(noticias_nuevas)}, "
@@ -894,24 +904,46 @@ def main() -> None:
     )
     enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
 
-    for noticia in noticias_seleccionadas:
+    for indice, noticia in enumerate(noticias_seleccionadas, start=1):
+        if enviadas >= MAX_NOTICIAS_A_PROCESAR:
+            logger.info("Se alcanzó el máximo de noticias a enviar: %s", MAX_NOTICIAS_A_PROCESAR)
+            break
+
         try:
+            logger.info(
+                "Evaluando candidata %s/%s: %s",
+                indice,
+                len(noticias_seleccionadas),
+                noticia["titulo"],
+            )
             if _tiene_ingles_consecutivo(noticia["titulo"]):
                 descartadas_idioma += 1
+                logger.info("Descartada por idioma: %s", noticia["titulo"])
                 continue
 
             decision = es_avance_positivo(cliente, noticia["titulo"])
             if decision:
                 post = generar_post(cliente, noticia)
+                logger.info("Aprobada por IA: %s", noticia["titulo"])
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
                 enviadas += 1
                 # Guardamos solo las enviadas para no bloquear reevaluaciones futuras.
                 links_nuevos.add(noticia["link"])
             else:
                 descartadas_ia += 1
+                logger.info("Descartada por IA: %s", noticia["titulo"])
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
         except Exception as error:
+            logger.exception("Error procesando noticia: %s", noticia["titulo"])
             enviar_telegram(f"❌ Error generando post:\n{error}")
+
+    logger.info(
+        "Resumen final de ejecución: enviadas=%s descartadas_ia=%s descartadas_idioma=%s evaluadas=%s",
+        enviadas,
+        descartadas_ia,
+        descartadas_idioma,
+        min(len(noticias_seleccionadas), MAX_EVALUACIONES_IA),
+    )
 
     enviar_telegram(
         f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
