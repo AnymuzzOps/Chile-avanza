@@ -2,6 +2,7 @@ import logging
 import os
 import subprocess
 from typing import Dict, List, Set, Tuple
+from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -24,6 +25,7 @@ MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
 MAX_EVALUACIONES_IA = 8
 MAX_MUESTRAS_DIAGNOSTICO = 5
+MAX_CARACTERES_POST = 280
 
 
 # Fuentes RSS verificadas y funcionando + adicionales
@@ -441,6 +443,61 @@ FALLBACK_FUENTES = {
 }
 
 
+def _extraer_fuente(link: str) -> str:
+    netloc = urlparse(link).netloc.lower()
+    if netloc.startswith("www."):
+        netloc = netloc[4:]
+    if not netloc:
+        return "Medio"
+
+    nombre = netloc.split(".")[0].replace("-", " ").strip()
+    return nombre.title() or "Medio"
+
+
+def _recortar_texto(texto: str, max_len: int) -> str:
+    texto = " ".join(texto.split())
+    if len(texto) <= max_len:
+        return texto
+    if max_len <= 1:
+        return texto[:max_len]
+    return texto[: max_len - 1].rstrip(" ,;:-") + "…"
+
+
+def _ajustar_post_a_limite(post: str, noticia: Dict[str, str]) -> str:
+    post_limpio = post.strip()
+    if len(post_limpio) <= MAX_CARACTERES_POST:
+        return post_limpio
+
+    link = noticia["link"].strip()
+    fuente = _extraer_fuente(link)
+    titulo = " ".join(noticia["titulo"].split())
+
+    variantes_beneficio = [
+        "Beneficio para Chile: avance concreto con impacto local.",
+        "Beneficio para Chile: avance concreto.",
+        "Avance concreto para Chile.",
+        "Impacto positivo para Chile.",
+        "",
+    ]
+
+    for beneficio in variantes_beneficio:
+        sufijo = f"\n{link}\nFuente: {fuente}"
+        prefijo = "📰 "
+        extra = f"\n{beneficio}" if beneficio else ""
+        disponible = MAX_CARACTERES_POST - len(prefijo) - len(extra) - len(sufijo)
+        if disponible <= 0:
+            continue
+        titulo_recortado = _recortar_texto(titulo, disponible)
+        candidato = f"{prefijo}{titulo_recortado}{extra}{sufijo}"
+        if len(candidato) <= MAX_CARACTERES_POST:
+            return candidato
+
+    sufijo_minimo = f"\n{link}"
+    disponible = MAX_CARACTERES_POST - len("📰 ") - len(sufijo_minimo)
+    titulo_recortado = _recortar_texto(titulo, max(0, disponible))
+    return f"📰 {titulo_recortado}{sufijo_minimo}"[:MAX_CARACTERES_POST]
+
+
 def enviar_telegram(mensaje: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     for chat_id in TELEGRAM_CHAT_IDS:
@@ -748,24 +805,24 @@ def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
         "Tono: directo, afirmativo e informativo.\n\n"
         f"Noticia: {noticia['titulo']}\n"
         f"Link: {noticia['link']}\n\n"
-        "Genera un post para Twitter de máximo 280 caracteres con:\n"
+        "Genera un post para Twitter/X con MÁXIMO 240 caracteres antes de cualquier validación final.\n"
+        "Formato deseado: 2 o 3 líneas muy cortas.\n"
         "- Un emoji relevante al inicio\n"
-        "- El hecho concreto en una línea\n"
-        "- Una línea explicando por qué beneficia a Chile o a los chilenos\n"
+        "- Resume el hecho concreto en una sola frase breve\n"
+        "- Agrega una frase corta explicando por qué beneficia a Chile o a los chilenos\n"
         "- Usa solo hechos concretos que aparezcan en el título\n"
-        "- Si el título contiene cifras, nombres, fechas o montos, inclúyelos\n"
+        "- Si el título contiene cifras, nombres, fechas o montos, inclúyelos solo si caben\n"
         "- Prohibido usar frases especulativas: \"puede\", \"podría\", \"es posible\", \"potencial\"\n"
-        "- Fuente: [nombre del medio] al final\n"
         "- Sin hashtags\n"
-        "- Incluye el link al final antes de la fuente\n\n"
+        "- Sin introducciones, sin comillas, sin texto extra\n\n"
         "Solo responde con el post, nada más."
     )
     respuesta = cliente.chat.completions.create(
         model=GROQ_MODEL,
-        temperature=0.4,
+        temperature=0.3,
         messages=[{"role": "user", "content": prompt}],
     )
-    return respuesta.choices[0].message.content.strip()
+    return _ajustar_post_a_limite(respuesta.choices[0].message.content.strip(), noticia)
 
 
 def cargar_procesadas() -> Set[str]:
