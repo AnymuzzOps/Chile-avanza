@@ -22,7 +22,7 @@ TELEGRAM_CHAT_IDS = [
 TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
 MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
-MAX_EVALUACIONES_IA = 5
+MAX_EVALUACIONES_IA = 8
 
 
 # Fuentes RSS verificadas y funcionando + adicionales
@@ -170,7 +170,23 @@ NEGATIVOS = {
     "muere",
     "dies",
     "fallecio",
+    "entrada",
+    "entradas",
+    "venta de entradas",
+    "charlas",
+    "arte",
+    "cultura",
+    "concierto",
+    "felicidad",
+    "infeliz",
+    "estudio ipsos",
+    "quiebra",
+    "reorganización",
+    "reorganizacion",
+    "luminarias",
+    "soda stereo",
 }
+
 
 POSITIVOS_FUERTES = {
     "inversión",
@@ -263,6 +279,15 @@ POSITIVOS_FUERTES = {
     "reserva nacional",
     "fauna",
     "flora",
+    "reconocimiento internacional",
+    "reconocimiento",
+    "premio",
+    "investigadores chilenos",
+    "científicos chilenos",
+    "cientificos chilenos",
+    "avance en inteligencia artificial",
+    "avance científico",
+    "avance cientifico",
 }
 
 POSITIVOS_MODERADOS = {
@@ -283,6 +308,11 @@ POSITIVOS_MODERADOS = {
     "planta",
     "producción",
     "produccion",
+    "investigadores",
+    "científicos",
+    "cientificos",
+    "reconocimiento",
+    "avance",
 }
 
 PALABRAS_CHILE_RELEVANTE = {
@@ -460,8 +490,8 @@ def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
         return True
 
     # Si viene de una fuente chilena, permitimos titulares de beneficio concreto
-    # o titulares con score suficiente para que Groq haga el filtro final.
-    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 3):
+    # o titulares con score claramente alto para que Groq haga el filtro final.
+    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 5):
         return True
 
     return False
