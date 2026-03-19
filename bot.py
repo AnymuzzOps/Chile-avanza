@@ -1,7 +1,7 @@
 import logging
 import os
 import subprocess
-from typing import Dict, List, Set
+from typing import Dict, List, Set, Tuple
 
 import feedparser
 import requests
@@ -23,6 +23,7 @@ TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
 MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
 MAX_EVALUACIONES_IA = 8
+MAX_MUESTRAS_DIAGNOSTICO = 5
 
 
 # Fuentes RSS verificadas y funcionando + adicionales
@@ -497,6 +498,47 @@ def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
     return False
 
 
+
+def _razones_titulo(titulo: str, fuente_base: str) -> Tuple[int, List[str]]:
+    titulo_normalizado = titulo.lower()
+    score = _score_titulo(titulo)
+    razones: List[str] = []
+
+    if score < 0:
+        razones.append("negativo")
+    if score < 2:
+        razones.append("score_bajo")
+
+    tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
+    tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
+    tiene_contexto_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE)
+
+    if not _es_relevante_para_chile(titulo, fuente_base):
+        if not (tiene_chile or tiene_contexto_chile):
+            razones.append("sin_contexto_chile")
+        if not tiene_beneficio and fuente_base not in FUENTES_CHILE:
+            razones.append("sin_beneficio")
+        if fuente_base in FUENTES_CHILE and not tiene_beneficio and score < 5:
+            razones.append("fuente_chilena_insuficiente")
+
+    return score, razones
+
+
+def _resumen_diagnostico(stats: Dict[str, int], muestras: List[str]) -> str:
+    partes = [
+        f"entradas={stats['entradas_total']}",
+        f"candidatas={stats['candidatas']}",
+        f"duplicadas={stats['duplicadas']}",
+        f"desc_negativo={stats['desc_negativo']}",
+        f"desc_score={stats['desc_score']}",
+        f"desc_chile={stats['desc_chile']}",
+        f"fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}",
+    ]
+    mensaje = "🔎 Diagnóstico filtro: " + ", ".join(partes) + "."
+    if muestras:
+        mensaje += "\nMuestras descartadas: " + " | ".join(muestras[:MAX_MUESTRAS_DIAGNOSTICO])
+    return mensaje
+
 def _normalizar_feed_content(content: bytes) -> bytes:
     # Algunos feeds llegan con bytes basura/BOM antes del XML y feedparser marca bozo.
     recortado = content.lstrip()
@@ -513,10 +555,21 @@ def _parse_feed_desde_url(fuente: str) -> feedparser.FeedParserDict:
     return feedparser.parse(fuente)
 
 
-def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int]]:
+def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
     errores_por_fuente = 0
+    stats: Dict[str, int] = {
+        "candidatas": 0,
+        "fuentes_error": 0,
+        "fuentes_total": len(FUENTES),
+        "entradas_total": 0,
+        "duplicadas": 0,
+        "desc_negativo": 0,
+        "desc_score": 0,
+        "desc_chile": 0,
+    }
+    muestras_descartadas: List[str] = []
 
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -539,13 +592,28 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int]]:
                         logger.warning("Feed con formato irregular: %s", fuente)
 
                 for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
+                    stats["entradas_total"] += 1
                     titulo = getattr(entry, "title", "").strip()
                     link = getattr(entry, "link", "").strip()
-                    if not titulo or not link or link in vistos:
+                    if not titulo or not link:
                         continue
-                    if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo, url):
+                    if link in vistos:
+                        stats["duplicadas"] += 1
+                        continue
+
+                    score, razones = _razones_titulo(titulo, url)
+                    if score < 0:
+                        stats["desc_negativo"] += 1
+                    elif score < 2:
+                        stats["desc_score"] += 1
+                    elif razones:
+                        stats["desc_chile"] += 1
+
+                    if score >= 2 and not razones:
                         noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
+                    elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
+                        muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
 
                 if fuente != url:
                     logger.info("Fuente recuperada con fallback: %s -> %s", url, fuente)
@@ -560,13 +628,28 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int]]:
                         if getattr(feed, "entries", []):
                             logger.info("Fuente recuperada sin headers (415): %s", fuente)
                             for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
+                                stats["entradas_total"] += 1
                                 titulo = getattr(entry, "title", "").strip()
                                 link = getattr(entry, "link", "").strip()
-                                if not titulo or not link or link in vistos:
+                                if not titulo or not link:
                                     continue
-                                if _es_titulo_candidato(titulo) and _es_relevante_para_chile(titulo, url):
+                                if link in vistos:
+                                    stats["duplicadas"] += 1
+                                    continue
+
+                                score, razones = _razones_titulo(titulo, url)
+                                if score < 0:
+                                    stats["desc_negativo"] += 1
+                                elif score < 2:
+                                    stats["desc_score"] += 1
+                                elif razones:
+                                    stats["desc_chile"] += 1
+
+                                if score >= 2 and not razones:
                                     noticias.append({"titulo": titulo, "link": link})
                                     vistos.add(link)
+                                elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
+                                    muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
                             feed_cargado = True
                             break
                     except Exception as inner_error:  # noqa: BLE001
@@ -586,14 +669,11 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int]]:
             )
 
     noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
-    stats = {
-        "candidatas": len(noticias),
-        "fuentes_error": errores_por_fuente,
-        "fuentes_total": len(FUENTES),
-    }
+    stats["candidatas"] = len(noticias)
+    stats["fuentes_error"] = errores_por_fuente
     logger.info("Total de noticias candidatas: %s", stats["candidatas"])
     logger.info("Fuentes sin respuesta útil: %s/%s", stats["fuentes_error"], stats["fuentes_total"])
-    return noticias, stats
+    return noticias, stats, muestras_descartadas
 
 
 def _tiene_ingles_consecutivo(titulo: str) -> bool:
@@ -720,16 +800,17 @@ def guardar_procesadas(procesadas: Set[str]) -> None:
 
 def main() -> None:
     enviar_telegram("📡 ElChilometro iniciado.")
-    cliente = Groq(api_key=GROQ_API_KEY)
 
     try:
-        noticias, stats = obtener_noticias()
+        cliente = Groq(api_key=GROQ_API_KEY)
+        noticias, stats, muestras_descartadas = obtener_noticias()
     except Exception as error:
-        enviar_telegram(f"❌ Error obteniendo noticias:\n{error}")
+        enviar_telegram(f"❌ Error inicializando u obteniendo noticias:\n{error}")
         return
 
     if not noticias:
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
+        enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
         return
 
     procesadas = cargar_procesadas()
@@ -754,6 +835,7 @@ def main() -> None:
         f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}, "
         f"modo_rescate={'sí' if modo_rescate else 'no'}."
     )
+    enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
 
     for noticia in noticias_seleccionadas:
         try:
@@ -778,6 +860,9 @@ def main() -> None:
         f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
         f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
     )
+
+    if enviadas == 0:
+        enviar_telegram("⚠️ No se envió ningún post beneficioso para Chile en esta corrida. Revisa el diagnóstico del filtro y los descartes de IA.")
 
     guardar_procesadas(procesadas | links_nuevos)
 
