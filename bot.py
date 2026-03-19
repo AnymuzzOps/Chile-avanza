@@ -582,7 +582,7 @@ def _score_titulo(titulo: str) -> int:
 
 def _es_titulo_candidato(titulo: str) -> bool:
     # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
-    return _score_titulo(titulo) >= 3
+    return _score_titulo(titulo) >= 2
 
 
 def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
