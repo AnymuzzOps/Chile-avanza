@@ -464,13 +464,20 @@ def _recortar_texto(texto: str, max_len: int) -> str:
 
 
 def _ajustar_post_a_limite(post: str, noticia: Dict[str, str]) -> str:
-    post_limpio = post.strip()
-    if len(post_limpio) <= MAX_CARACTERES_POST:
-        return post_limpio
-
     link = noticia["link"].strip()
     fuente = _extraer_fuente(link)
     titulo = " ".join(noticia["titulo"].split())
+    post_limpio = post.strip()
+
+    if link not in post_limpio:
+        base = post_limpio.rstrip()
+        if base:
+            post_limpio = f"{base}\n{link}\nFuente: {fuente}"
+        else:
+            post_limpio = f"📰 {titulo}\n{link}\nFuente: {fuente}"
+
+    if len(post_limpio) <= MAX_CARACTERES_POST:
+        return post_limpio
 
     variantes_beneficio = [
         "Beneficio para Chile: avance concreto con impacto local.",
@@ -810,6 +817,8 @@ def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
         "- Un emoji relevante al inicio\n"
         "- Resume el hecho concreto en una sola frase breve\n"
         "- Agrega una frase corta explicando por qué beneficia a Chile o a los chilenos\n"
+        "- Incluye SIEMPRE el link exacto entregado\n"
+        "- Termina con 'Fuente: [medio]'\n"
         "- Usa solo hechos concretos que aparezcan en el título\n"
         "- Si el título contiene cifras, nombres, fechas o montos, inclúyelos solo si caben\n"
         "- Prohibido usar frases especulativas: \"puede\", \"podría\", \"es posible\", \"potencial\"\n"
@@ -867,7 +876,7 @@ def main() -> None:
 
     if not noticias:
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
-        enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
+        enviar_telegram(_resumen_diagnostico(stats, []))
         return
 
     procesadas = cargar_procesadas()
@@ -896,13 +905,13 @@ def main() -> None:
         stats["fuentes_total"],
         "sí" if modo_rescate else "no",
     )
+    logger.info(_resumen_diagnostico(stats, muestras_descartadas))
 
     enviar_telegram(
         f"🧮 Resumen inicial: candidatas={stats['candidatas']}, nuevas={len(noticias_nuevas)}, "
         f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}, "
         f"modo_rescate={'sí' if modo_rescate else 'no'}."
     )
-    enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
 
     for indice, noticia in enumerate(noticias_seleccionadas, start=1):
         if enviadas >= MAX_NOTICIAS_A_PROCESAR:
@@ -952,6 +961,7 @@ def main() -> None:
 
     if enviadas == 0:
         enviar_telegram("⚠️ No se envió ningún post beneficioso para Chile en esta corrida. Revisa el diagnóstico del filtro y los descartes de IA.")
+        enviar_telegram(_resumen_diagnostico(stats, []))
 
     guardar_procesadas(procesadas | links_nuevos)
 
