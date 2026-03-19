@@ -247,6 +247,22 @@ POSITIVOS_FUERTES = {
     "ciclovía",
     "metro",
     "tren",
+    "conservación",
+    "conservacion",
+    "biodiversidad",
+    "reforestación",
+    "reforestacion",
+    "restauración ecológica",
+    "restauracion ecologica",
+    "área protegida",
+    "area protegida",
+    "humedal",
+    "especie protegida",
+    "nidificación",
+    "nidificacion",
+    "reserva nacional",
+    "fauna",
+    "flora",
 }
 
 POSITIVOS_MODERADOS = {
@@ -284,6 +300,15 @@ PALABRAS_CHILE_RELEVANTE = {
     "patagonia",
     "exportaciones",
     "peso chileno",
+    "conaf",
+    "sernapesca",
+    "parque nacional",
+    "área protegida",
+    "area protegida",
+    "lauca",
+    "torres del paine",
+    "chiloé",
+    "chiloe",
 }
 
 PALABRAS_CHILE_ESTRICTAS = {
@@ -297,6 +322,8 @@ PALABRAS_CHILE_ESTRICTAS = {
     "cochilco",
     "hacienda",
     "prochile",
+    "conaf",
+    "sernapesca",
     "santiago",
     "antofagasta",
     "atacama",
@@ -304,6 +331,10 @@ PALABRAS_CHILE_ESTRICTAS = {
     "valparaiso",
     "biobío",
     "biobio",
+    "lauca",
+    "torres del paine",
+    "chiloé",
+    "chiloe",
     "sky airline",
     "latam",
 }
@@ -347,6 +378,20 @@ PALABRAS_INVERSION_BENEFICIO = {
     "vivienda social",
     "parque nacional",
     "area protegida",
+    "conservación",
+    "conservacion",
+    "biodiversidad",
+    "humedal",
+    "reforestación",
+    "reforestacion",
+    "restauración",
+    "restauracion",
+    "fauna",
+    "flora",
+    "especie protegida",
+    "nidificación",
+    "nidificacion",
+    "reserva nacional",
 }
 
 HEADERS = {
@@ -559,7 +604,11 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- leyes o decretos aprobados que beneficien directamente a ciudadanos chilenos\n"
         "- programas de becas o educación gratuita nuevos o ampliados\n"
         "- proyectos de infraestructura social inaugurados o aprobados con presupuesto\n"
-        "- avances en medio ambiente o áreas protegidas en Chile\n\n"
+        "- avances en medio ambiente o áreas protegidas en Chile\n"
+        "- conservación de biodiversidad, fauna, flora o humedales en Chile\n"
+        "- recuperación de especies, nidificación, reforestación o restauración ecológica en Chile\n"
+        "- avances liderados por CONAF, Sernapesca u otras instituciones chilenas de protección ambiental\n"
+        "- noticias con ubicación específica en Chile (por ejemplo Lauca, Torres del Paine, Chiloé) cuando describen un beneficio concreto\n\n"
         "Rechaza todo lo demás, incluyendo:\n"
         "- noticias económicas de otros países sin impacto directo y explícito en Chile\n"
         "- política interna sin proyecto económico concreto\n"
