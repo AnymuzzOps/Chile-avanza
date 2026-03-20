@@ -235,7 +235,6 @@ NEGATIVOS = {
     "papa nativa",
     "dalcahue",
     "til til",
-    "reconocimiento internacional",
     "investigadores chilenos reciben",
     "mepco",
     "senadora",
@@ -261,6 +260,14 @@ NEGATIVOS = {
     "senapred",
     "perimetro de seguridad",
     "alerta temprana",
+    "jeff bezos",
+    "bezos",
+    "fabricacion con ia",
+    "fondo dedicado",
+    "muertes en chile",
+    "mortalidad",
+    "comunas del sur lideran",
+    "una de cada cuatro",
 }
 
 
@@ -864,7 +871,8 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- conservación de biodiversidad, fauna, flora o humedales en Chile\n"
         "- recuperación de especies, nidificación, reforestación o restauración ecológica en Chile\n"
         "- avances liderados por CONAF, Sernapesca u otras instituciones chilenas de protección ambiental\n"
-        "- noticias con ubicación específica en Chile (por ejemplo Lauca, Torres del Paine, Chiloé) cuando describen un beneficio concreto\n\n"
+        "- noticias con ubicación específica en Chile (por ejemplo Lauca, Torres del Paine, Chiloé) cuando describen un beneficio concreto\n"
+        "- investigadores o instituciones chilenas que publican estudios en revistas científicas internacionales de alto impacto como Nature, Science o similares\n\n"
         "Rechaza todo lo demás, incluyendo:\n"
         "- noticias económicas de otros países sin impacto directo y explícito en Chile\n"
         "- política interna sin proyecto económico concreto\n"
