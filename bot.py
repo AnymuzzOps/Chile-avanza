@@ -1,5 +1,6 @@
 import logging
 import os
+import re
 import subprocess
 from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
@@ -234,6 +235,32 @@ NEGATIVOS = {
     "papa nativa",
     "dalcahue",
     "til til",
+    "reconocimiento internacional",
+    "investigadores chilenos reciben",
+    "mepco",
+    "senadora",
+    "ministra duco",
+    "jj.oo",
+    "juegos olimpicos juventud",
+    "migraciones penalizar",
+    "extranjeros irregulares",
+    "copa de la liga",
+    "nuevo torneo",
+    "lluvia hoy",
+    "milimetros de agua",
+    "comenzó el otoño",
+    "comenzo el otono",
+    "mujeres que transforman",
+    "rating del jueves",
+    "rating del lunes",
+    "rating del martes",
+    "rating del miercoles",
+    "rating del miércoles",
+    "rating del viernes",
+    "como le fue a chv",
+    "senapred",
+    "perimetro de seguridad",
+    "alerta temprana",
 }
 
 
@@ -668,6 +695,10 @@ def _parse_feed_desde_url(fuente: str) -> feedparser.FeedParserDict:
 def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
+    titulos_vistos: Set[str] = set()
+
+    def _normalizar_titulo_duplicado(titulo: str) -> str:
+        return re.sub(r"[^\w\s]", "", titulo.lower()).strip()
     errores_por_fuente = 0
     stats: Dict[str, int] = {
         "candidatas": 0,
@@ -707,7 +738,8 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                     link = getattr(entry, "link", "").strip()
                     if not titulo or not link:
                         continue
-                    if link in vistos:
+                    titulo_normalizado = _normalizar_titulo_duplicado(titulo)
+                    if link in vistos or titulo_normalizado in titulos_vistos:
                         stats["duplicadas"] += 1
                         continue
 
@@ -722,6 +754,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                     if score >= 2 and not razones:
                         noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
+                        titulos_vistos.add(titulo_normalizado)
                     elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
                         muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
 
@@ -743,7 +776,8 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                                 link = getattr(entry, "link", "").strip()
                                 if not titulo or not link:
                                     continue
-                                if link in vistos:
+                                titulo_normalizado = _normalizar_titulo_duplicado(titulo)
+                                if link in vistos or titulo_normalizado in titulos_vistos:
                                     stats["duplicadas"] += 1
                                     continue
 
@@ -758,6 +792,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                                 if score >= 2 and not razones:
                                     noticias.append({"titulo": titulo, "link": link})
                                     vistos.add(link)
+                                    titulos_vistos.add(titulo_normalizado)
                                 elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
                                     muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
                             feed_cargado = True
@@ -842,6 +877,8 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- policiales\n"
         "- noticias de publirreportaje o contenido patrocinado\n"
         "- reconocimientos mencionados sin cifras ni impacto concreto\n"
+        "- reconocimientos o premios genéricos sin institución, cifra o proyecto específico\n"
+        "- noticias que mencionan 'reconocimiento', 'distinción' o 'galardón' sin especificar qué, quién y cuánto\n"
         "- noticias de universidades canceladas o instituciones cerradas\n"
         "- noticias de fracasos empresariales aunque sean de empresas tech\n"
         "- cualquier noticia donde Chile aparezca como receptor pasivo sin acción concreta\n"
@@ -864,7 +901,7 @@ def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
         "Tono: directo, afirmativo e informativo.\n\n"
         f"Noticia: {noticia['titulo']}\n"
         f"Link: {noticia['link']}\n\n"
-        "Genera un post para Twitter/X con MÁXIMO 240 caracteres antes de cualquier validación final.\n"
+        "Genera un post para Twitter/X con MÁXIMO 270 caracteres antes de cualquier validación final.\n"
         "Formato deseado: 2 o 3 líneas muy cortas.\n"
         "- Un emoji relevante al inicio\n"
         "- Resume el hecho concreto en una sola frase breve\n"
