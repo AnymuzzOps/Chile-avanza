@@ -998,13 +998,13 @@ def main() -> None:
         # por histórico de procesadas demasiado agresivo en corridas anteriores.
         modo_rescate = True
         noticias_nuevas = noticias[: MAX_EVALUACIONES_IA * 2]
-        enviar_telegram("⚠️ Sin noticias nuevas según historial. Activando modo rescate con candidatas recientes.")
 
     links_nuevos: Set[str] = set()
     noticias_seleccionadas = noticias_nuevas[:MAX_EVALUACIONES_IA]
     enviadas = 0
     descartadas_idioma = 0
     descartadas_ia = 0
+    titulos_descartados: List[str] = []
 
     logger.info(
         "Resumen inicial de ejecución: candidatas=%s nuevas=%s a_procesar=%s fuentes_ok=%s/%s modo_rescate=%s",
@@ -1016,12 +1016,6 @@ def main() -> None:
         "sí" if modo_rescate else "no",
     )
     logger.info(_resumen_diagnostico(stats, muestras_descartadas))
-
-    enviar_telegram(
-        f"🧮 Resumen inicial: candidatas={stats['candidatas']}, nuevas={len(noticias_nuevas)}, "
-        f"a_procesar={len(noticias_seleccionadas)}, fuentes_ok={stats['fuentes_total'] - stats['fuentes_error']}/{stats['fuentes_total']}, "
-        f"modo_rescate={'sí' if modo_rescate else 'no'}."
-    )
 
     for indice, noticia in enumerate(noticias_seleccionadas, start=1):
         if enviadas >= MAX_NOTICIAS_A_PROCESAR:
@@ -1052,7 +1046,7 @@ def main() -> None:
                 descartadas_ia += 1
                 logger.info("Descartada por IA: %s", noticia["titulo"])
                 links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
-                enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
+                titulos_descartados.append(noticia["titulo"])
         except Exception as error:
             logger.exception("Error procesando noticia: %s", noticia["titulo"])
             enviar_telegram(f"❌ Error generando post:\n{error}")
@@ -1065,14 +1059,8 @@ def main() -> None:
         min(len(noticias_seleccionadas), MAX_EVALUACIONES_IA),
     )
 
-    enviar_telegram(
-        f"📊 Resumen final: enviadas={enviadas}, descartadas_ia={descartadas_ia}, "
-        f"descartadas_idioma={descartadas_idioma}, procesadas={len(noticias_seleccionadas)}."
-    )
-
-    if enviadas == 0:
-        enviar_telegram("⚠️ No se envió ningún post beneficioso para Chile en esta corrida. Revisa el diagnóstico del filtro y los descartes de IA.")
-        enviar_telegram(_resumen_diagnostico(stats, []))
+    if titulos_descartados:
+        enviar_telegram("❌ DESCARTADOS:\n" + "\n".join(f"- {titulo}" for titulo in titulos_descartados))
 
     guardar_procesadas(procesadas | links_nuevos)
 
