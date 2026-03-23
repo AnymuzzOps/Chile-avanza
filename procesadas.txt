@@ -1,5 +1,6 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
+https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
@@ -17,16 +18,21 @@ https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legal
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
+https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
+https://www.theclinic.cl/2026/03/23/sernac-informe-streaming/
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
+titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
+titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
+titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
