@@ -993,11 +993,12 @@ def main() -> None:
     ]
 
     modo_rescate = False
+
+    modo_rescate = False
     if not noticias_nuevas:
-        # Si no hay nuevas, re-evaluamos un bloque reciente para evitar quedarnos sin envíos
-        # por histórico de procesadas demasiado agresivo en corridas anteriores.
-        modo_rescate = True
-        noticias_nuevas = noticias[: MAX_EVALUACIONES_IA * 2]
+        enviar_telegram("ℹ️ Sin noticias nuevas en este ciclo.")
+        enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
+        return
 
     links_nuevos: Set[str] = set()
     noticias_seleccionadas = noticias_nuevas[:MAX_EVALUACIONES_IA]
@@ -1007,13 +1008,12 @@ def main() -> None:
     titulos_descartados: List[str] = []
 
     logger.info(
-        "Resumen inicial de ejecución: candidatas=%s nuevas=%s a_procesar=%s fuentes_ok=%s/%s modo_rescate=%s",
+        "Resumen inicial de ejecución: candidatas=%s nuevas=%s a_procesar=%s fuentes_ok=%s/%s",
         stats["candidatas"],
         len(noticias_nuevas),
         len(noticias_seleccionadas),
         stats["fuentes_total"] - stats["fuentes_error"],
         stats["fuentes_total"],
-        "sí" if modo_rescate else "no",
     )
     logger.info(_resumen_diagnostico(stats, muestras_descartadas))
 
@@ -1062,7 +1062,12 @@ def main() -> None:
     if titulos_descartados:
         enviar_telegram("❌ DESCARTADOS:\n" + "\n".join(f"- {titulo}" for titulo in titulos_descartados))
 
-    guardar_procesadas(procesadas | links_nuevos)
+    try:
+        guardar_procesadas(procesadas | links_nuevos)
+    except Exception as error:
+        logger.exception("Error guardando procesadas: %s", error)
+        enviar_telegram(f"❌ Error guardando procesadas:\n{error}")
+
 
 
 if __name__ == "__main__":
