@@ -699,13 +699,19 @@ def _parse_feed_desde_url(fuente: str) -> feedparser.FeedParserDict:
     return feedparser.parse(fuente)
 
 
+def _normalizar_titulo_duplicado(titulo: str) -> str:
+    return re.sub(r"[^\w\s]", "", titulo.lower()).strip()
+
+
+def _marca_titulo_procesado(titulo: str) -> str:
+    return f"titulo::{_normalizar_titulo_duplicado(titulo)}"
+
+
 def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
     titulos_vistos: Set[str] = set()
 
-    def _normalizar_titulo_duplicado(titulo: str) -> str:
-        return re.sub(r"[^\w\s]", "", titulo.lower()).strip()
     errores_por_fuente = 0
     stats: Dict[str, int] = {
         "candidatas": 0,
@@ -872,7 +878,9 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- recuperación de especies, nidificación, reforestación o restauración ecológica en Chile\n"
         "- avances liderados por CONAF, Sernapesca u otras instituciones chilenas de protección ambiental\n"
         "- noticias con ubicación específica en Chile (por ejemplo Lauca, Torres del Paine, Chiloé) cuando describen un beneficio concreto\n"
-        "- investigadores o instituciones chilenas que publican estudios en revistas científicas internacionales de alto impacto como Nature, Science o similares\n\n"
+        "- investigadores o instituciones chilenas que publican estudios en revistas científicas internacionales de alto impacto como Nature, Science o similares\n"
+        "- premios, reconocimientos o galardones internacionales de alto prestigio obtenidos por chilenos o instituciones chilenas cuando el titular identifica claramente a la persona o institución\n"
+        "- registros nacionales, plataformas o programas lanzados por organizaciones chilenas cuando entregan un beneficio social directo y concreto a los ciudadanos\n\n"
         "Rechaza todo lo demás, incluyendo:\n"
         "- noticias económicas de otros países sin impacto directo y explícito en Chile\n"
         "- política interna sin proyecto económico concreto\n"
@@ -977,7 +985,12 @@ def main() -> None:
         return
 
     procesadas = cargar_procesadas()
-    noticias_nuevas = [noticia for noticia in noticias if noticia["link"] not in procesadas]
+    noticias_nuevas = [
+        noticia
+        for noticia in noticias
+        if noticia["link"] not in procesadas
+        and _marca_titulo_procesado(noticia["titulo"]) not in procesadas
+    ]
 
     modo_rescate = False
     if not noticias_nuevas:
@@ -1025,6 +1038,7 @@ def main() -> None:
             if _tiene_ingles_consecutivo(noticia["titulo"]):
                 descartadas_idioma += 1
                 logger.info("Descartada por idioma: %s", noticia["titulo"])
+                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
                 continue
 
             decision = es_avance_positivo(cliente, noticia["titulo"])
@@ -1033,11 +1047,11 @@ def main() -> None:
                 logger.info("Aprobada por IA: %s", noticia["titulo"])
                 enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
                 enviadas += 1
-                # Guardamos solo las enviadas para no bloquear reevaluaciones futuras.
-                links_nuevos.add(noticia["link"])
+                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
             else:
                 descartadas_ia += 1
                 logger.info("Descartada por IA: %s", noticia["titulo"])
+                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
                 enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
         except Exception as error:
             logger.exception("Error procesando noticia: %s", noticia["titulo"])
