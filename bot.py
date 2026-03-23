@@ -1,6 +1,7 @@
 import logging
 import os
 import re
+import shutil
 import subprocess
 from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
@@ -951,22 +952,28 @@ def guardar_procesadas(procesadas: Set[str]) -> None:
     with open("procesadas.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(sorted(procesadas)))
 
-    subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"], check=True)
-    subprocess.run(["git", "config", "user.name", "ElChilometro Bot"], check=True)
-    subprocess.run(["git", "add", "procesadas.txt"], check=True)
-
-    estado = subprocess.run(
-        ["git", "status", "--porcelain", "procesadas.txt"],
-        check=True,
-        capture_output=True,
-        text=True,
-    )
-    if not estado.stdout.strip():
-        logger.info("Sin cambios en procesadas.txt; se omite commit.")
+    if not shutil.which("git"):
+        logger.info("git no disponible; procesadas.txt guardado solo localmente.")
         return
 
-    subprocess.run(["git", "commit", "-m", "Update procesadas"], check=True)
-    subprocess.run(["git", "push"], check=True)
+    try:
+        subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"], check=True)
+        subprocess.run(["git", "config", "user.name", "ElChilometro Bot"], check=True)
+        subprocess.run(["git", "add", "procesadas.txt"], check=True)
+
+        estado = subprocess.run(
+            ["git", "status", "--porcelain", "procesadas.txt"],
+            check=True, capture_output=True, text=True,
+        )
+        if not estado.stdout.strip():
+            logger.info("Sin cambios en procesadas.txt; se omite commit.")
+            return
+
+        subprocess.run(["git", "commit", "-m", "Update procesadas"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        logger.info("procesadas.txt pusheado a GitHub.")
+    except Exception as error:
+        logger.warning("No se pudo pushear procesadas.txt: %s", error)
 
 
 def main() -> None:
@@ -991,6 +998,8 @@ def main() -> None:
         if noticia["link"] not in procesadas
         and _marca_titulo_procesado(noticia["titulo"]) not in procesadas
     ]
+
+    modo_rescate = False
 
     modo_rescate = False
 
@@ -1067,7 +1076,6 @@ def main() -> None:
     except Exception as error:
         logger.exception("Error guardando procesadas: %s", error)
         enviar_telegram(f"❌ Error guardando procesadas:\n{error}")
-
 
 
 if __name__ == "__main__":
