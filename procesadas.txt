@@ -4,18 +4,26 @@ https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
+https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
+https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
+https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
+https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
+titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
+titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
+titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
+titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
