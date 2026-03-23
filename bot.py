@@ -990,6 +990,7 @@ def main() -> None:
 
     if not noticias:
         enviar_telegram("⚠️ Sin noticias relevantes hoy.")
+        enviar_telegram(_resumen_diagnostico(stats, []))
         return
 
     procesadas = cargar_procesadas()
@@ -1002,6 +1003,7 @@ def main() -> None:
 
     modo_rescate = False
 
+    modo_rescate = False
     if not noticias_nuevas:
         enviar_telegram("ℹ️ Sin noticias nuevas en este ciclo.")
         enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
