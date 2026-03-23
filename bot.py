@@ -3,6 +3,8 @@ import os
 import re
 import shutil
 import subprocess
+import time
+from datetime import datetime, timezone
 from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
 
@@ -1002,8 +1004,6 @@ def main() -> None:
     modo_rescate = False
 
     modo_rescate = False
-
-    modo_rescate = False
     if not noticias_nuevas:
         enviar_telegram("ℹ️ Sin noticias nuevas en este ciclo.")
         enviar_telegram(_resumen_diagnostico(stats, muestras_descartadas))
@@ -1078,5 +1078,57 @@ def main() -> None:
         enviar_telegram(f"❌ Error guardando procesadas:\n{error}")
 
 
+def run_listener() -> None:
+    offset = 0
+    chat_autorizado = TELEGRAM_CHAT_IDS[0] if TELEGRAM_CHAT_IDS else None
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates"
+
+    while True:
+        try:
+            response = requests.get(
+                url,
+                params={"timeout": 30, "offset": offset},
+                timeout=35,
+            )
+            response.raise_for_status()
+            payload = response.json()
+
+            for update in payload.get("result", []):
+                offset = update["update_id"] + 1
+                mensaje = update.get("message", {})
+                chat_id = str(mensaje.get("chat", {}).get("id", ""))
+                texto = (mensaje.get("text") or "").strip()
+
+                if not chat_autorizado or chat_id != chat_autorizado:
+                    continue
+
+                if texto == "/buscar":
+                    requests.post(
+                        f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+                        data={"chat_id": chat_id, "text": "⚙️ Buscando noticias..."},
+                        timeout=10,
+                    ).raise_for_status()
+                    main()
+                elif texto == "/status":
+                    requests.post(
+                        f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+                        data={
+                            "chat_id": chat_id,
+                            "text": f"✅ Bot activo. {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')} UTC",
+                        },
+                        timeout=10,
+                    ).raise_for_status()
+        except requests.RequestException as error:
+            logger.warning("Error de red en listener: %s", error)
+            time.sleep(5)
+        except Exception as error:
+            logger.exception("Error en listener: %s", error)
+            time.sleep(5)
+
+
 if __name__ == "__main__":
-    main()
+    modo = os.environ.get("BOT_MODE", "once")
+    if modo == "listener":
+        run_listener()
+    else:
+        main()
