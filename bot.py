@@ -942,40 +942,46 @@ def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
     return _ajustar_post_a_limite(respuesta.choices[0].message.content.strip(), noticia)
 
 
+def _ruta_procesadas() -> str:
+    if os.path.isdir("/data"):
+        return "/data/procesadas.txt"
+    return "procesadas.txt"
+
+
 def cargar_procesadas() -> Set[str]:
     try:
-        with open("procesadas.txt", "r", encoding="utf-8") as file:
+        with open(_ruta_procesadas(), "r", encoding="utf-8") as file:
             return {linea.strip() for linea in file if linea.strip()}
     except FileNotFoundError:
         return set()
 
 
 def guardar_procesadas(procesadas: Set[str]) -> None:
-    with open("procesadas.txt", "w", encoding="utf-8") as file:
+    with open(_ruta_procesadas(), "w", encoding="utf-8") as file:
         file.write("\n".join(sorted(procesadas)))
 
     if not shutil.which("git"):
-        logger.info("git no disponible; procesadas.txt guardado solo localmente.")
+        logger.info("git no disponible; %s guardado solo localmente.", _ruta_procesadas())
         return
 
     try:
         subprocess.run(["git", "config", "user.email", "bot@elchilometro.cl"], check=True)
         subprocess.run(["git", "config", "user.name", "ElChilometro Bot"], check=True)
-        subprocess.run(["git", "add", "procesadas.txt"], check=True)
+        subprocess.run(["git", "add", _ruta_procesadas()], check=True)
 
         estado = subprocess.run(
-            ["git", "status", "--porcelain", "procesadas.txt"],
+            ["git", "status", "--porcelain", _ruta_procesadas()],
             check=True, capture_output=True, text=True,
         )
         if not estado.stdout.strip():
-            logger.info("Sin cambios en procesadas.txt; se omite commit.")
+            logger.info("Sin cambios en %s; se omite commit.", _ruta_procesadas())
             return
 
         subprocess.run(["git", "commit", "-m", "Update procesadas"], check=True)
         subprocess.run(["git", "push"], check=True)
-        logger.info("procesadas.txt pusheado a GitHub.")
+        logger.info("%s pusheado a GitHub.", _ruta_procesadas())
     except Exception as error:
-        logger.warning("No se pudo pushear procesadas.txt: %s", error)
+        logger.warning("No se pudo pushear %s: %s", _ruta_procesadas(), error)
 
 
 def main() -> None:
