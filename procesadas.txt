@@ -16,9 +16,11 @@ https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
+https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
+https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
@@ -28,26 +30,32 @@ https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
 https://www.theclinic.cl/2026/03/23/sernac-informe-streaming/
+https://www.theclinic.cl/2026/03/24/canal-13-estreno-el-desestrece-martin-carcamo-luis-slimming/
+https://www.theclinic.cl/2026/03/24/nuevo-proyecto-para-mitigar-efecto-de-alza-del-petroleo-en-la-parafina-y-bono-a-taxistas-costaria-al-fisco-mas-de-111-mil-millones/
 https://www.theclinic.cl/2026/03/24/podria-potenciar-la-atencion-primaria-cientificos-chilenos-validan-examen-de-sangre-que-permite-detectar-alzheimer-de-forma-temprana/
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
+titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
+titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
+titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
+titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
