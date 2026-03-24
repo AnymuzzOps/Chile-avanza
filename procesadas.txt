@@ -1,6 +1,7 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-casinos-conozca-a-los-20-funcionarios-publicos-con-mayores-montos-transados-en-casinos-de-juego-69c1b61e3fdc39506549e8e3
+https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
@@ -11,6 +12,7 @@ https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
+https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
@@ -23,10 +25,12 @@ https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
 https://www.theclinic.cl/2026/03/23/sernac-informe-streaming/
+titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
+titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
