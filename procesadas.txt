@@ -19,6 +19,7 @@ https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
+https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
@@ -30,6 +31,7 @@ https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despu
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
+https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
@@ -64,6 +66,7 @@ https://www.theclinic.cl/2026/03/24/nuevo-proyecto-para-mitigar-efecto-de-alza-d
 https://www.theclinic.cl/2026/03/24/padre-de-nicolas-zepeda-declaro-en-juicio-de-su-hijo-recibio-cuatro-invitaciones-para-fugarse-de-chile/
 https://www.theclinic.cl/2026/03/24/podria-potenciar-la-atencion-primaria-cientificos-chilenos-validan-examen-de-sangre-que-permite-detectar-alzheimer-de-forma-temprana/
 https://www.theclinic.cl/2026/03/25/ad-portas-de-historico-bencinazo-uber-cabify-y-didi-anuncian-medidas-para-evitar-alza-de-tarifas-y-proteger-ingresos-de-conductores/
+https://www.theclinic.cl/2026/03/25/bachelet-sheinbaum-mexico-chile-onu/
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
@@ -73,6 +76,7 @@ titulo::banco central frena bajas de tasas y advierte que inflación volverá a 
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
+titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
@@ -100,6 +104,7 @@ titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que 
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
+titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
@@ -110,6 +115,7 @@ titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estu
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
+titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
