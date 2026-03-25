@@ -1,6 +1,7 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://cambio21.cl/deportes/ronaldinho-es-baja-para-duelo-de-leyendas-en-chile-lo-reemplazara-adriano-el-emperador-69c20bfbeb37ee362f03b5ae
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
+https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-casinos-conozca-a-los-20-funcionarios-publicos-con-mayores-montos-transados-en-casinos-de-juego-69c1b61e3fdc39506549e8e3
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
@@ -16,6 +17,7 @@ https://www.fayerwayer.com/internet/2026/03/25/atencion-chile-estas-aplicaciones
 https://www.fayerwayer.com/internet/2026/03/25/las-aplicaciones-que-te-dicen-donde-comprar-mas-barato-en-chile-y-que-casi-nadie-esta-usando/
 https://www.fayerwayer.com/internet/2026/03/25/mintel-anuncia-uso-de-inteligencia-artificial-regulado-en-ecuador/
 https://www.fayerwayer.com/internet/2026/03/25/salen-mas-a-cuenta-estos-son-los-automoviles-electricos-mas-economicos-en-chile-mexico-colombia-y-argentina/
+https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
@@ -71,7 +73,10 @@ https://www.theclinic.cl/2026/03/24/padre-de-nicolas-zepeda-declaro-en-juicio-de
 https://www.theclinic.cl/2026/03/24/podria-potenciar-la-atencion-primaria-cientificos-chilenos-validan-examen-de-sangre-que-permite-detectar-alzheimer-de-forma-temprana/
 https://www.theclinic.cl/2026/03/25/ad-portas-de-historico-bencinazo-uber-cabify-y-didi-anuncian-medidas-para-evitar-alza-de-tarifas-y-proteger-ingresos-de-conductores/
 https://www.theclinic.cl/2026/03/25/bachelet-sheinbaum-mexico-chile-onu/
+https://www.theclinic.cl/2026/03/25/camaras-trampa-logran-capturar-la-presencia-del-monito-del-monte-en-el-parque-nacional-queulat-en-aysen-marsupial-chileno-se-encuentra-en-problemas-de-conservacion/
+https://www.theclinic.cl/2026/03/25/el-sombrio-panorama-que-describio-la-presidenta-del-banco-central-para-este-ano-en-este-ipom-la-incertidumbre-es-alta/
 https://www.theclinic.cl/2026/03/25/segun-reporte-del-movilh-chile-registro-un-aumento-del-27-de-la-homofobia-y-transfobia-durante-el-2025-superando-los-3-600-casos-y-denuncias-por-discriminacion/
+https://www.theclinic.cl/2026/03/25/son-carisimas-y-la-verdad-es-que-no-tenemos-prioridad-para-hacerlas-minvu-corta-financiamiento-a-obras-de-proyecto-nueva-alameda-y-ciclovia-queda-en-suspenso/
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
@@ -91,11 +96,15 @@ titulo::con facultades extraordinarias del minsal y un comité de expertos cómo
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
+titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
+titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
+titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
+titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
@@ -133,6 +142,7 @@ titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adria
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
+titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
