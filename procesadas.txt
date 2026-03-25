@@ -31,10 +31,12 @@ https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
+https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
+https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
@@ -59,9 +61,12 @@ https://www.theclinic.cl/2026/03/24/no-existen-problemas-de-abastecimiento-la-ac
 https://www.theclinic.cl/2026/03/24/nuevo-proyecto-para-mitigar-efecto-de-alza-del-petroleo-en-la-parafina-y-bono-a-taxistas-costaria-al-fisco-mas-de-111-mil-millones/
 https://www.theclinic.cl/2026/03/24/padre-de-nicolas-zepeda-declaro-en-juicio-de-su-hijo-recibio-cuatro-invitaciones-para-fugarse-de-chile/
 https://www.theclinic.cl/2026/03/24/podria-potenciar-la-atencion-primaria-cientificos-chilenos-validan-examen-de-sangre-que-permite-detectar-alzheimer-de-forma-temprana/
+https://www.theclinic.cl/2026/03/25/ad-portas-de-historico-bencinazo-uber-cabify-y-didi-anuncian-medidas-para-evitar-alza-de-tarifas-y-proteger-ingresos-de-conductores/
+titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
+titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
@@ -80,6 +85,7 @@ titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anim
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
+titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
