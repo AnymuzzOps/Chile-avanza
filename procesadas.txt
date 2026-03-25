@@ -51,6 +51,7 @@ https://www.theclinic.cl/2026/03/24/la-reina-las-condes-y-providencia-se-querell
 https://www.theclinic.cl/2026/03/24/minvu-confirma-que-buscaran-revivir-chile-nativo-pese-al-abandono-de-las-obras-tras-millonaria-inversion-poduje-apunta-a-despilfarro-de-14-mil-millones/
 https://www.theclinic.cl/2026/03/24/no-existen-problemas-de-abastecimiento-la-aclaracion-de-enap-y-copec-por-alta-demanda-de-combustible-tras-inminente-alza-historica-de-bencinas/
 https://www.theclinic.cl/2026/03/24/nuevo-proyecto-para-mitigar-efecto-de-alza-del-petroleo-en-la-parafina-y-bono-a-taxistas-costaria-al-fisco-mas-de-111-mil-millones/
+https://www.theclinic.cl/2026/03/24/padre-de-nicolas-zepeda-declaro-en-juicio-de-su-hijo-recibio-cuatro-invitaciones-para-fugarse-de-chile/
 https://www.theclinic.cl/2026/03/24/podria-potenciar-la-atencion-primaria-cientificos-chilenos-validan-examen-de-sangre-que-permite-detectar-alzheimer-de-forma-temprana/
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
@@ -85,6 +86,7 @@ titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de la
 titulo::no existen problemas de abastecimiento la aclaración de enap y copec por alta demanda de combustible tras inminente alza histórica de bencinas
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
+titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
