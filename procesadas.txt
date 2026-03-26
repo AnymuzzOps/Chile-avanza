@@ -27,6 +27,7 @@ https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmen
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
 https://www.lanacion.cl/la-roja-enfrenta-a-cabo-verde-en-su-primer-amistoso-del-ano-posible-formacion-y-la-baja-de-ultima-hora-que-sufrio-chile/
+https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
@@ -98,6 +99,7 @@ https://www.theclinic.cl/2026/03/25/segun-reporte-del-movilh-chile-registro-un-a
 https://www.theclinic.cl/2026/03/25/son-carisimas-y-la-verdad-es-que-no-tenemos-prioridad-para-hacerlas-minvu-corta-financiamiento-a-obras-de-proyecto-nueva-alameda-y-ciclovia-queda-en-suspenso/
 https://www.theclinic.cl/2026/03/26/autos-hibridos-y-electricos-en-chile-la-cuenta-cambia-con-el-alza-de-combustibles/
 https://www.theclinic.cl/2026/03/26/cencosud-refuerza-su-presencia-en-colombia-y-adquiere-uno-de-los-principales-centros-comerciales-de-ese-pais-por-mas-de-us124-millones/
+https://www.theclinic.cl/2026/03/26/durante-marcha-estudiantil-sujetos-ingresaron-al-perimetro-de-seguridad-del-monumento-al-general-baquedano/
 https://www.theclinic.cl/2026/03/26/el-reservado-encuentro-entre-grandes-empresarios-y-el-nobel-de-economia-guido-imbens-en-su-paso-por-chile-para-hablar-de-ia/
 https://www.theclinic.cl/2026/03/26/llego-la-ciguena-y-trajo-una-chulenga-nace-primera-cria-de-guanaco-en-proyecto-de-repoblamiento-en-santuario-de-la-region-metropolitana/
 https://www.theclinic.cl/2026/03/26/mas-potencia-menos-peso-y-produccion-acotada-bmw-m2-cs-y-m3-cs-touring-llegan-a-chile/
@@ -136,6 +138,7 @@ titulo::cámaras trampa logran capturar la presencia del monito del monte en el 
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
+titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
@@ -163,6 +166,7 @@ titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que 
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
+titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
