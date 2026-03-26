@@ -42,6 +42,7 @@ https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-r
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
+https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
@@ -55,9 +56,11 @@ https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-pa
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
+https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
+https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
@@ -93,9 +96,14 @@ https://www.theclinic.cl/2026/03/25/camaras-trampa-logran-capturar-la-presencia-
 https://www.theclinic.cl/2026/03/25/el-sombrio-panorama-que-describio-la-presidenta-del-banco-central-para-este-ano-en-este-ipom-la-incertidumbre-es-alta/
 https://www.theclinic.cl/2026/03/25/segun-reporte-del-movilh-chile-registro-un-aumento-del-27-de-la-homofobia-y-transfobia-durante-el-2025-superando-los-3-600-casos-y-denuncias-por-discriminacion/
 https://www.theclinic.cl/2026/03/25/son-carisimas-y-la-verdad-es-que-no-tenemos-prioridad-para-hacerlas-minvu-corta-financiamiento-a-obras-de-proyecto-nueva-alameda-y-ciclovia-queda-en-suspenso/
+https://www.theclinic.cl/2026/03/26/autos-hibridos-y-electricos-en-chile-la-cuenta-cambia-con-el-alza-de-combustibles/
 https://www.theclinic.cl/2026/03/26/cencosud-refuerza-su-presencia-en-colombia-y-adquiere-uno-de-los-principales-centros-comerciales-de-ese-pais-por-mas-de-us124-millones/
+https://www.theclinic.cl/2026/03/26/el-reservado-encuentro-entre-grandes-empresarios-y-el-nobel-de-economia-guido-imbens-en-su-paso-por-chile-para-hablar-de-ia/
 https://www.theclinic.cl/2026/03/26/llego-la-ciguena-y-trajo-una-chulenga-nace-primera-cria-de-guanaco-en-proyecto-de-repoblamiento-en-santuario-de-la-region-metropolitana/
+https://www.theclinic.cl/2026/03/26/mas-potencia-menos-peso-y-produccion-acotada-bmw-m2-cs-y-m3-cs-touring-llegan-a-chile/
 https://www.theclinic.cl/2026/03/26/nicolas-cordova-defiende-su-proceso-en-la-seleccion-chilena-estamos-tratando-de-rejuvenecer-el-equipo-respecto-a-las-ultimas-clasificatorias/
+https://www.theclinic.cl/2026/03/26/nissan-chile-se-querella-contra-dos-exejecutivos-por-estafa-los-acusa-de-desviar-mas-de-450-millones/
+https://www.theclinic.cl/2026/03/26/plan-maestro-agua-parque-metropolitano-cerros-renca/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
@@ -106,7 +114,9 @@ titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan miner
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
+titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
+titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
@@ -128,8 +138,10 @@ titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
+titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
 titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
+titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
 titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
@@ -160,7 +172,9 @@ titulo::minsal informa que uso de mascarillas será obligatorio en servicios de 
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
+titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
+titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de desviar más de 450 millones
 titulo::no existen problemas de abastecimiento la aclaración de enap y copec por alta demanda de combustible tras inminente alza histórica de bencinas
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
@@ -168,6 +182,7 @@ titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile 
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
+titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
@@ -185,4 +200,5 @@ titulo::startup chilena de venta de equipos reacondicionados ingresó a la selec
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
+titulo::último gran análisis de mercado predice preocupante futuro para el cobre
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
