@@ -17,6 +17,7 @@ https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-no
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
+https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.fayerwayer.com/internet/2026/03/25/atencion-chile-estas-aplicaciones-te-muestran-la-bencina-mas-barata-en-segundos/
 https://www.fayerwayer.com/internet/2026/03/25/las-aplicaciones-que-te-dicen-donde-comprar-mas-barato-en-chile-y-que-casi-nadie-esta-usando/
@@ -136,6 +137,7 @@ titulo::con la animación de martín cárcamo y fecha de estreno confirmada cana
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
+titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
