@@ -66,6 +66,7 @@ https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mas
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
+https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
@@ -119,6 +120,8 @@ https://www.theclinic.cl/2026/03/26/mas-potencia-menos-peso-y-produccion-acotada
 https://www.theclinic.cl/2026/03/26/nicolas-cordova-defiende-su-proceso-en-la-seleccion-chilena-estamos-tratando-de-rejuvenecer-el-equipo-respecto-a-las-ultimas-clasificatorias/
 https://www.theclinic.cl/2026/03/26/nissan-chile-se-querella-contra-dos-exejecutivos-por-estafa-los-acusa-de-desviar-mas-de-450-millones/
 https://www.theclinic.cl/2026/03/26/plan-maestro-agua-parque-metropolitano-cerros-renca/
+https://www.theclinic.cl/2026/03/27/calama-implementa-plan-de-transporte-publico-gratuito-para-personas-mayores-tras-alza-de-los-combustibles/
+https://www.theclinic.cl/2026/03/27/gobierno-confirma-a-cristian-muga-como-presidente-del-directorio-de-enap-y-a-consuelo-raby-como-directora/
 https://www.theclinic.cl/2026/03/27/llegamos-para-quedarnos-walmart-invierte-us200-millones-para-ampliar-su-centro-logistico-en-pudahuel-y-traza-nuevos-pasos-en-su-expansion-por-chile/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
@@ -127,6 +130,7 @@ titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas pa
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
+titulo::andes salud adquiere el control de clínica imet de la región de magallanes y anuncia expansión del centro de salud
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
@@ -136,6 +140,7 @@ titulo::banco central baja crecimiento sube inflación y alerta por los efectos 
 titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
+titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
@@ -172,6 +177,7 @@ titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chil
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
+titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
