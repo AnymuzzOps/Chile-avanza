@@ -1,5 +1,6 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
+https://cambio21.cl/deportes/equipo-listo-como-elegir-camiseta-y-balon-para-jugar-y-regalar-en-chile-69c66176219cbe1ae0324133
 https://cambio21.cl/deportes/ronaldinho-es-baja-para-duelo-de-leyendas-en-chile-lo-reemplazara-adriano-el-emperador-69c20bfbeb37ee362f03b5ae
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
@@ -20,8 +21,10 @@ https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-no
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
+https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapuche-no-chileno/
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
 https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
+https://www.fayerwayer.com/entretenimiento/2026/03/27/el-regreso-de-la-fifa-todo-sobre-fifa-heroes-el-nuevo-arcade-gratuito-que-llegaria-incluso-a-nintendo-switch-2/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.fayerwayer.com/internet/2026/03/25/atencion-chile-estas-aplicaciones-te-muestran-la-bencina-mas-barata-en-segundos/
 https://www.fayerwayer.com/internet/2026/03/25/las-aplicaciones-que-te-dicen-donde-comprar-mas-barato-en-chile-y-que-casi-nadie-esta-usando/
@@ -153,6 +156,7 @@ titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anim
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
+titulo::el regreso de la fifa todo sobre fifa heroes el nuevo arcade gratuito que llegaría incluso a nintendo switch 2
 titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
 titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
@@ -162,6 +166,7 @@ titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por li
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
+titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
@@ -219,6 +224,7 @@ titulo::siguen las malas noticias banco central se hace eco de alzas de combusti
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
+titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
