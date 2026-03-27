@@ -14,6 +14,7 @@ https://elpais.com/chile/2026-03-26/las-derechas-conmemoran-el-asesinato-de-jaim
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
+https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
@@ -101,6 +102,7 @@ https://www.theclinic.cl/2026/03/26/autos-hibridos-y-electricos-en-chile-la-cuen
 https://www.theclinic.cl/2026/03/26/cencosud-refuerza-su-presencia-en-colombia-y-adquiere-uno-de-los-principales-centros-comerciales-de-ese-pais-por-mas-de-us124-millones/
 https://www.theclinic.cl/2026/03/26/durante-marcha-estudiantil-sujetos-ingresaron-al-perimetro-de-seguridad-del-monumento-al-general-baquedano/
 https://www.theclinic.cl/2026/03/26/el-reservado-encuentro-entre-grandes-empresarios-y-el-nobel-de-economia-guido-imbens-en-su-paso-por-chile-para-hablar-de-ia/
+https://www.theclinic.cl/2026/03/26/live-andes-2-0-el-proyecto-que-combina-la-inteligencia-artificial-con-la-participacion-ciudadana-para-el-monitoreo-de-la-fauna-silvestre/
 https://www.theclinic.cl/2026/03/26/llego-la-ciguena-y-trajo-una-chulenga-nace-primera-cria-de-guanaco-en-proyecto-de-repoblamiento-en-santuario-de-la-region-metropolitana/
 https://www.theclinic.cl/2026/03/26/mas-potencia-menos-peso-y-produccion-acotada-bmw-m2-cs-y-m3-cs-touring-llegan-a-chile/
 https://www.theclinic.cl/2026/03/26/nicolas-cordova-defiende-su-proceso-en-la-seleccion-chilena-estamos-tratando-de-rejuvenecer-el-equipo-respecto-a-las-ultimas-clasificatorias/
@@ -164,6 +166,7 @@ titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible for
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
+titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
@@ -192,6 +195,7 @@ titulo::por recortes presupuestarios ministra de ciencias confirma suspensión d
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
+titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
