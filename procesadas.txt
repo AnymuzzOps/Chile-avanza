@@ -25,6 +25,7 @@ https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapu
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
 https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
 https://www.fayerwayer.com/entretenimiento/2026/03/27/el-regreso-de-la-fifa-todo-sobre-fifa-heroes-el-nuevo-arcade-gratuito-que-llegaria-incluso-a-nintendo-switch-2/
+https://www.fayerwayer.com/entretenimiento/2026/03/27/pascua-en-chile-asi-puedes-obtener-20-juegos-gratis/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.fayerwayer.com/internet/2026/03/25/atencion-chile-estas-aplicaciones-te-muestran-la-bencina-mas-barata-en-segundos/
 https://www.fayerwayer.com/internet/2026/03/25/las-aplicaciones-que-te-dicen-donde-comprar-mas-barato-en-chile-y-que-casi-nadie-esta-usando/
@@ -118,6 +119,7 @@ https://www.theclinic.cl/2026/03/26/mas-potencia-menos-peso-y-produccion-acotada
 https://www.theclinic.cl/2026/03/26/nicolas-cordova-defiende-su-proceso-en-la-seleccion-chilena-estamos-tratando-de-rejuvenecer-el-equipo-respecto-a-las-ultimas-clasificatorias/
 https://www.theclinic.cl/2026/03/26/nissan-chile-se-querella-contra-dos-exejecutivos-por-estafa-los-acusa-de-desviar-mas-de-450-millones/
 https://www.theclinic.cl/2026/03/26/plan-maestro-agua-parque-metropolitano-cerros-renca/
+https://www.theclinic.cl/2026/03/27/llegamos-para-quedarnos-walmart-invierte-us200-millones-para-ampliar-su-centro-logistico-en-pudahuel-y-traza-nuevos-pasos-en-su-expansion-por-chile/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -184,6 +186,7 @@ titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones 
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
+titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
@@ -205,6 +208,7 @@ titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chi
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
+titulo::pascua en chile así puedes obtener 20 juegos gratis
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
