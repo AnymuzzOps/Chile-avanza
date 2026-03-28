@@ -6,6 +6,7 @@ https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaro
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/gobierno-retira-del-congreso-proyecto-de-nueva-ley-de-pesca-y-desata-duras-criticas-69c68265e68125123b280234
 https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-casinos-conozca-a-los-20-funcionarios-publicos-con-mayores-montos-transados-en-casinos-de-juego-69c1b61e3fdc39506549e8e3
+https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://elpais.com/chile/2026-03-24/la-carrera-por-cargar-combustible-en-chile-antes-del-alza-anunciada-nos-tendremos-que-limitar-mas-todavia.html
@@ -65,6 +66,7 @@ https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
+https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
@@ -228,6 +230,7 @@ titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estu
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::pascua en chile así puedes obtener 20 juegos gratis
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
+titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
@@ -243,6 +246,7 @@ titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adria
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
+titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
