@@ -80,6 +80,7 @@ https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-pa
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
+https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
@@ -87,6 +88,7 @@ https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-ca
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
+https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -185,6 +187,7 @@ titulo::ignacio briones chile no es un país quebrado
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
+titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
@@ -234,6 +237,7 @@ titulo::siguen las malas noticias banco central se hace eco de alzas de combusti
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
+titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
