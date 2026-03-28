@@ -61,6 +61,7 @@ https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predic
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
+https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
@@ -132,6 +133,7 @@ https://www.theclinic.cl/2026/03/27/calama-implementa-plan-de-transporte-publico
 https://www.theclinic.cl/2026/03/27/gobierno-confirma-a-cristian-muga-como-presidente-del-directorio-de-enap-y-a-consuelo-raby-como-directora/
 https://www.theclinic.cl/2026/03/27/llegamos-para-quedarnos-walmart-invierte-us200-millones-para-ampliar-su-centro-logistico-en-pudahuel-y-traza-nuevos-pasos-en-su-expansion-por-chile/
 https://www.theclinic.cl/2026/03/28/aston-martin-vantage-roadster/
+https://www.theclinic.cl/2026/03/28/ministra-del-medio-ambiente-del-reino-unido-tras-visita-a-chile-es-posible-luchar-contra-el-cambio-climatico-y-al-mismo-tiempo-lograr-un-solido-crecimiento-economico/
 https://www.theclinic.cl/2026/03/28/reinaldo-sanchez-expresidente-de-la-anfp-hay-representantes-que-manejan-el-futbol-chileno-y-la-ley-sadp-no-lo-va-a-cambiar-porque-van-a-poner-palos-blancos/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
@@ -197,6 +199,7 @@ titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustible
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
 titulo::ignacio briones chile no es un país quebrado
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
+titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
@@ -216,6 +219,7 @@ titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estacion
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
+titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
 titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::minsal informa que uso de mascarillas será obligatorio en servicios de urgencia entre el 1 de abril y el 31 de agosto
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
