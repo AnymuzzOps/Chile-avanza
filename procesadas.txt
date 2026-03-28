@@ -87,6 +87,7 @@ https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ant
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
+https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
@@ -125,6 +126,8 @@ https://www.theclinic.cl/2026/03/26/plan-maestro-agua-parque-metropolitano-cerro
 https://www.theclinic.cl/2026/03/27/calama-implementa-plan-de-transporte-publico-gratuito-para-personas-mayores-tras-alza-de-los-combustibles/
 https://www.theclinic.cl/2026/03/27/gobierno-confirma-a-cristian-muga-como-presidente-del-directorio-de-enap-y-a-consuelo-raby-como-directora/
 https://www.theclinic.cl/2026/03/27/llegamos-para-quedarnos-walmart-invierte-us200-millones-para-ampliar-su-centro-logistico-en-pudahuel-y-traza-nuevos-pasos-en-su-expansion-por-chile/
+https://www.theclinic.cl/2026/03/28/aston-martin-vantage-roadster/
+https://www.theclinic.cl/2026/03/28/reinaldo-sanchez-expresidente-de-la-anfp-hay-representantes-que-manejan-el-futbol-chileno-y-la-ley-sadp-no-lo-va-a-cambiar-porque-van-a-poner-palos-blancos/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -136,6 +139,7 @@ titulo::andes salud adquiere el control de clínica imet de la región de magall
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
+titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
@@ -163,6 +167,7 @@ titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 mi
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
+titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el regreso de la fifa todo sobre fifa heroes el nuevo arcade gratuito que llegaría incluso a nintendo switch 2
@@ -227,6 +232,7 @@ titulo::presidente de salmonchile y polémica por platas de ong noruega generan 
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
+titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
