@@ -94,6 +94,7 @@ https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
+https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
@@ -140,6 +141,7 @@ https://www.theclinic.cl/2026/03/28/ministra-del-medio-ambiente-del-reino-unido-
 https://www.theclinic.cl/2026/03/28/reinaldo-sanchez-expresidente-de-la-anfp-hay-representantes-que-manejan-el-futbol-chileno-y-la-ley-sadp-no-lo-va-a-cambiar-porque-van-a-poner-palos-blancos/
 https://www.theclinic.cl/2026/03/29/hernan-larrain-matte-si-chile-vamos-no-muestra-caracter-dentro-de-este-gobierno-puede-quedar-subsumido-en-una-falta-de-identidad/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
+titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
