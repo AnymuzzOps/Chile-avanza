@@ -62,6 +62,7 @@ https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
+https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
@@ -163,6 +164,7 @@ titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya 
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
+titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
