@@ -67,6 +67,7 @@ https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-mi
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
+https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
@@ -91,6 +92,7 @@ https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direc
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
+https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
@@ -218,6 +220,7 @@ titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco e
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
+titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
@@ -243,6 +246,7 @@ titulo::plan maestro del agua impulsa transformación del parque metropolitano c
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
+titulo::presidenta del banco central y alza de combustibles vamos a actuar oportunamente para el control de la inflación
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
