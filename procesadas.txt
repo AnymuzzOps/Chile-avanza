@@ -56,6 +56,7 @@ https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
+https://www.latercera.com/el-deportivo/noticia/debe-reportarse-y-no-puede-salir-del-pais-chiqui-tapia-es-procesado-por-presunta-apropiacion-indebida-de-us-14-millones/
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
 https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-bolivia-el-detalle-de-los-repechajes-que-entregaran-seis-cupos-para-completar-el-mundial-2026/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
@@ -65,6 +66,7 @@ https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-cau
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
+https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-potencia-y-precision-en-clave-deportiva/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
@@ -176,6 +178,7 @@ titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan miner
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
+titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
@@ -205,6 +208,7 @@ titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
+titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
