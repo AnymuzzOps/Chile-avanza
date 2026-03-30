@@ -39,6 +39,7 @@ https://www.fayerwayer.com/internet/2026/03/25/mintel-anuncia-uso-de-inteligenci
 https://www.fayerwayer.com/internet/2026/03/25/salen-mas-a-cuenta-estos-son-los-automoviles-electricos-mas-economicos-en-chile-mexico-colombia-y-argentina/
 https://www.fayerwayer.com/internet/2026/03/26/perdi-mi-trabajo-por-un-bot-y-ahora-cobro-1000-usd-al-mes-la-realidad-del-nuevo-subsidio-de-ia/
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
+https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
@@ -146,12 +147,14 @@ https://www.theclinic.cl/2026/03/28/aston-martin-vantage-roadster/
 https://www.theclinic.cl/2026/03/28/ministra-del-medio-ambiente-del-reino-unido-tras-visita-a-chile-es-posible-luchar-contra-el-cambio-climatico-y-al-mismo-tiempo-lograr-un-solido-crecimiento-economico/
 https://www.theclinic.cl/2026/03/28/reinaldo-sanchez-expresidente-de-la-anfp-hay-representantes-que-manejan-el-futbol-chileno-y-la-ley-sadp-no-lo-va-a-cambiar-porque-van-a-poner-palos-blancos/
 https://www.theclinic.cl/2026/03/29/hernan-larrain-matte-si-chile-vamos-no-muestra-caracter-dentro-de-este-gobierno-puede-quedar-subsumido-en-una-falta-de-identidad/
+https://www.theclinic.cl/2026/03/30/ine-tasa-de-de-desempleo-en-chile-se-ubica-en-83-y-encadena-mas-de-tres-anos-sin-bajar-del-8/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
+titulo::ahora ante cristiano ronaldo cuándo será el próximo amistoso de la selección chilena
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve un trabajo peligroso
@@ -217,6 +220,7 @@ titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata dur
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
 titulo::ignacio briones chile no es un país quebrado
+titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
