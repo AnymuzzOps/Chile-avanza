@@ -63,9 +63,11 @@ https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-r
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
+https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
+https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
@@ -80,6 +82,7 @@ https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-z
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
+https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
@@ -106,6 +109,7 @@ https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
+https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
@@ -153,14 +157,17 @@ https://www.theclinic.cl/2026/03/28/ministra-del-medio-ambiente-del-reino-unido-
 https://www.theclinic.cl/2026/03/28/reinaldo-sanchez-expresidente-de-la-anfp-hay-representantes-que-manejan-el-futbol-chileno-y-la-ley-sadp-no-lo-va-a-cambiar-porque-van-a-poner-palos-blancos/
 https://www.theclinic.cl/2026/03/29/hernan-larrain-matte-si-chile-vamos-no-muestra-caracter-dentro-de-este-gobierno-puede-quedar-subsumido-en-una-falta-de-identidad/
 https://www.theclinic.cl/2026/03/30/ine-tasa-de-de-desempleo-en-chile-se-ubica-en-83-y-encadena-mas-de-tres-anos-sin-bajar-del-8/
+https://www.theclinic.cl/2026/03/30/nuevo-ingrediente-para-la-inflacion-camport-y-expertos-advierten-que-alza-de-costos-logisticos-presionara-precios-de-importaciones-y-exportaciones/
 https://www.theclinic.cl/2026/03/30/universidad-catolica-sufre-inesperado-atraso-en-su-vuelo-y-llegara-con-lo-justo-para-enfrentar-a-cobresal-despegan-a-las-13-horas-y-juegan-a-las-18-horas/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
+titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
 titulo::ahora ante cristiano ronaldo cuándo será el próximo amistoso de la selección chilena
+titulo::alemania expresa preocupación por freno a la expropiación de colonia dignidad y apoyan la creación de un memorial en chile
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve un trabajo peligroso
@@ -265,6 +272,8 @@ titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
 titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de desviar más de 450 millones
 titulo::no existen problemas de abastecimiento la aclaración de enap y copec por alta demanda de combustible tras inminente alza histórica de bencinas
+titulo::nuevo aston martin vantage roadster ya está en chile
+titulo::nuevo ingrediente para la inflación camport y expertos advierten que alza de costos logísticos presionará precios de importaciones y exportaciones
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
@@ -280,6 +289,7 @@ titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para lid
 titulo::presidenta del banco central y alza de combustibles vamos a actuar oportunamente para el control de la inflación
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
+titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
