@@ -48,6 +48,7 @@ https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comun
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
+https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
@@ -200,6 +201,7 @@ titulo::enap oficializa histórica alza de los combustibles a partir de este jue
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
+titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
