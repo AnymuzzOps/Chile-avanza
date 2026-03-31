@@ -47,6 +47,7 @@ https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmen
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
 https://www.lanacion.cl/la-roja-enfrenta-a-cabo-verde-en-su-primer-amistoso-del-ano-posible-formacion-y-la-baja-de-ultima-hora-que-sufrio-chile/
+https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
 https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
@@ -166,6 +167,9 @@ https://www.theclinic.cl/2026/03/29/hernan-larrain-matte-si-chile-vamos-no-muest
 https://www.theclinic.cl/2026/03/30/ine-tasa-de-de-desempleo-en-chile-se-ubica-en-83-y-encadena-mas-de-tres-anos-sin-bajar-del-8/
 https://www.theclinic.cl/2026/03/30/nuevo-ingrediente-para-la-inflacion-camport-y-expertos-advierten-que-alza-de-costos-logisticos-presionara-precios-de-importaciones-y-exportaciones/
 https://www.theclinic.cl/2026/03/30/universidad-catolica-sufre-inesperado-atraso-en-su-vuelo-y-llegara-con-lo-justo-para-enfrentar-a-cobresal-despegan-a-las-13-horas-y-juegan-a-las-18-horas/
+https://www.theclinic.cl/2026/03/31/chile-logra-la-proteccion-internacional-del-zarapito-de-pico-recto-y-chorlo-de-magallanes-aves-migratorias-estan-bajo-amenaza-por-reduccion-de-poblacion/
+https://www.theclinic.cl/2026/03/31/kombuchacha-se-asocia-con-vina-emiliana-para-estrenar-una-categoria-de-bebidas-que-mezcla-vino-y-kombucha-chile-tiene-espacio-para-innovar/
+https://www.theclinic.cl/2026/03/31/magdalena-atria-exembajadora-de-chile-en-alemania-y-decision-del-gobierno-sobre-colonia-dignidad-afectara-negativamente-la-relacion-entre-ambos-paises/
 https://www.theclinic.cl/2026/03/31/novandino-litio-marca-sustentabilidad-innovadora/
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -199,6 +203,7 @@ titulo::candidato a rector de la universidad de chile si salgo elegido president
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
+titulo::chile logra la protección internacional del zarapito de pico recto y chorlo de magallanes aves migratorias están bajo amenaza por reducción de población
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
@@ -255,6 +260,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
+titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
@@ -264,11 +270,13 @@ titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible for
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
+titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
+titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
