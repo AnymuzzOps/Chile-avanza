@@ -24,6 +24,7 @@ https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comer
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
+https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
@@ -118,6 +119,7 @@ https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquire
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
+https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
@@ -172,6 +174,7 @@ https://www.theclinic.cl/2026/03/30/ine-tasa-de-de-desempleo-en-chile-se-ubica-e
 https://www.theclinic.cl/2026/03/30/nuevo-ingrediente-para-la-inflacion-camport-y-expertos-advierten-que-alza-de-costos-logisticos-presionara-precios-de-importaciones-y-exportaciones/
 https://www.theclinic.cl/2026/03/30/universidad-catolica-sufre-inesperado-atraso-en-su-vuelo-y-llegara-con-lo-justo-para-enfrentar-a-cobresal-despegan-a-las-13-horas-y-juegan-a-las-18-horas/
 https://www.theclinic.cl/2026/03/31/chile-logra-la-proteccion-internacional-del-zarapito-de-pico-recto-y-chorlo-de-magallanes-aves-migratorias-estan-bajo-amenaza-por-reduccion-de-poblacion/
+https://www.theclinic.cl/2026/03/31/fundacion-alegria-pediatras-chilenos-becas/
 https://www.theclinic.cl/2026/03/31/kombuchacha-se-asocia-con-vina-emiliana-para-estrenar-una-categoria-de-bebidas-que-mezcla-vino-y-kombucha-chile-tiene-espacio-para-innovar/
 https://www.theclinic.cl/2026/03/31/magdalena-atria-exembajadora-de-chile-en-alemania-y-decision-del-gobierno-sobre-colonia-dignidad-afectara-negativamente-la-relacion-entre-ambos-paises/
 https://www.theclinic.cl/2026/03/31/novandino-litio-marca-sustentabilidad-innovadora/
@@ -226,6 +229,7 @@ titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
+titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
@@ -255,6 +259,7 @@ titulo::estadounidense albemarle presenta proyecto récord para su operación de
 titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
+titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
@@ -322,6 +327,7 @@ titulo::presidente de salmonchile y polémica por platas de ong noruega generan 
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
