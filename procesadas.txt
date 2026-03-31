@@ -74,6 +74,7 @@ https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-e
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
+https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
@@ -185,6 +186,7 @@ titulo::aston martin desembarca en chile las dos versiones más radicales del va
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
+titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
 titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
