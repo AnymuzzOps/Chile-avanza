@@ -126,6 +126,7 @@ https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direc
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
+https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-por-el-historico-apagon-de-2025-nos-dejo-una-gran-leccion-de-resiliencia/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
@@ -192,6 +193,7 @@ https://www.theclinic.cl/2026/03/31/magdalena-atria-exembajadora-de-chile-en-ale
 https://www.theclinic.cl/2026/03/31/novandino-litio-marca-sustentabilidad-innovadora/
 https://www.theclinic.cl/2026/03/31/stephany-griffith-jones-exconsejera-del-banco-central-cuestiona-medidas-economicas-del-gobierno-vamos-a-estar-haciendo-mas-profundo-un-problema-que-viene-de-afuera/
 https://www.theclinic.cl/2026/03/31/udi-presiona-por-recorte-en-el-congreso-y-realiza-estudio-de-costos-23-millones-mensuales-por-diputado-y-43-millones-mensuales-por-senador/
+https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -345,6 +347,7 @@ titulo::podría potenciar la atención primaria científicos chilenos validan ex
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
 titulo::presidenta del banco central y alza de combustibles vamos a actuar oportunamente para el control de la inflación
+titulo::presidente de isa dueña de interchile por el histórico apagón de 2025 nos dejó una gran lección de resiliencia
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
@@ -369,6 +372,7 @@ titulo::steinert anuncia presentación de proyecto de ley que agrava penas de de
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
+titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
