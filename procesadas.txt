@@ -136,9 +136,11 @@ https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
+https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
+https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
@@ -146,6 +148,7 @@ https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legal
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -200,6 +203,7 @@ https://www.theclinic.cl/2026/03/31/stephany-griffith-jones-exconsejera-del-banc
 https://www.theclinic.cl/2026/03/31/udi-presiona-por-recorte-en-el-congreso-y-realiza-estudio-de-costos-23-millones-mensuales-por-diputado-y-43-millones-mensuales-por-senador/
 https://www.theclinic.cl/2026/04/01/carmen-gloria-arroyo-programa-mega-hablando-claro/
 https://www.theclinic.cl/2026/04/01/el-nuevo-traspie-de-la-ministra-mara-sedini-aseguro-que-galvarino-apablaza-esta-condenado-pero-aun-debe-ser-procesado-por-la-justicia-chilena/
+https://www.theclinic.cl/2026/04/01/en-tiempos-de-crisis-es-aun-mas-relevante-de-priorizar-sociedad-chilena-de-ingenieria-de-transporte-critica-corte-de-financiamiento-a-ciclovia-de-la-alameda/
 https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
 https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -280,6 +284,7 @@ titulo::el sombrío panorama que describió la presidenta del banco central para
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
+titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilena de ingeniería de transporte critica corte de financiamiento a ciclovía de la alameda
 titulo::en tres ciudades de chile los cóndores ya tienen fecha para su estreno en la nations cup
 titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
@@ -322,10 +327,12 @@ titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que 
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
+titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
+titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
@@ -375,6 +382,7 @@ titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunc
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
+titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
