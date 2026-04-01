@@ -12,6 +12,7 @@ https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reite
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://cambio21.cl/tendencias/un-arbitrario-mega-proyecto-inmobiliario-en-nunoa-por-patricio-herman-y-rodolfo-acha-69cbfb576e00922e18548d43
+https://cincodias.elpais.com/companias/2026-04-01/la-justicia-ordena-a-hacienda-devolver-107-millones-a-masorange-y-vodafone-por-el-iae.html
 https://elpais.com/america-colombia/2026-03-31/el-ministro-de-hacienda-anuncia-una-ruptura-de-relaciones-entre-el-gobierno-de-gustavo-petro-y-el-banco-de-la-republica.html
 https://elpais.com/chile/2026-03-24/la-carrera-por-cargar-combustible-en-chile-antes-del-alza-anunciada-nos-tendremos-que-limitar-mas-todavia.html
 https://elpais.com/chile/2026-03-25/operacion-renta-2026-cuando-y-quienes-deben-declarar-impuestos-en-chile.html
@@ -292,6 +293,7 @@ titulo::la carrera por cargar combustible en chile antes del alza anunciada nos 
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
+titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
