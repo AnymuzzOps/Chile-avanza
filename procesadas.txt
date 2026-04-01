@@ -10,6 +10,7 @@ https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-cas
 https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presupuesto-en-ministerio-de-seguridad-luego-que-habia-anunciado-rebajarlo-en-72-mil-millones-de-pesos-69cae2758475fc5e496f8b36
 https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
+https://cambio21.cl/tendencias/el-crecimiento-de-los-casinos-online-y-el-desafio-del-estado-chileno-69cd7199ed484c348801ff72
 https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://cambio21.cl/tendencias/un-arbitrario-mega-proyecto-inmobiliario-en-nunoa-por-patricio-herman-y-rodolfo-acha-69cbfb576e00922e18548d43
@@ -58,6 +59,7 @@ https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marc
 https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
+https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir-mas-de-51-millones-de-declaraciones/
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
@@ -149,6 +151,7 @@ https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-ch
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
+https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -202,6 +205,9 @@ https://www.theclinic.cl/2026/03/31/novandino-litio-marca-sustentabilidad-innova
 https://www.theclinic.cl/2026/03/31/stephany-griffith-jones-exconsejera-del-banco-central-cuestiona-medidas-economicas-del-gobierno-vamos-a-estar-haciendo-mas-profundo-un-problema-que-viene-de-afuera/
 https://www.theclinic.cl/2026/03/31/udi-presiona-por-recorte-en-el-congreso-y-realiza-estudio-de-costos-23-millones-mensuales-por-diputado-y-43-millones-mensuales-por-senador/
 https://www.theclinic.cl/2026/04/01/carmen-gloria-arroyo-programa-mega-hablando-claro/
+https://www.theclinic.cl/2026/04/01/corte-de-apelaciones-dio-tramite-a-recurso-que-busca-frenar-pascua-lama-2-0-proyecto-minero-pondria-en-riesgo-a-tres-glaciares-y-14-glaciaretes/
+https://www.theclinic.cl/2026/04/01/dfsk-e5-plus-hibrido-enchufable-chile/
+https://www.theclinic.cl/2026/04/01/ecofolie-lab-el-proyecto-de-la-uc-que-busca-construir-el-primer-laboratorio-autarquico-y-100-ecologico-en-el-desierto-de-atacama/
 https://www.theclinic.cl/2026/04/01/el-nuevo-traspie-de-la-ministra-mara-sedini-aseguro-que-galvarino-apablaza-esta-condenado-pero-aun-debe-ser-procesado-por-la-justicia-chilena/
 https://www.theclinic.cl/2026/04/01/en-tiempos-de-crisis-es-aun-mas-relevante-de-priorizar-sociedad-chilena-de-ingenieria-de-transporte-critica-corte-de-financiamiento-a-ciclovia-de-la-alameda/
 https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
@@ -258,11 +264,13 @@ titulo::con la animación de martín cárcamo y fecha de estreno confirmada cana
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
+titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
+titulo::cómo volvo superó a tesla en chile
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
@@ -270,9 +278,11 @@ titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
+titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
+titulo::el crecimiento de los casinos online y el desafío del estado chileno
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
@@ -340,6 +350,7 @@ titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estacion
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
+titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
@@ -378,6 +389,7 @@ titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco d
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
+titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
