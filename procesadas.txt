@@ -10,6 +10,7 @@ https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-cas
 https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presupuesto-en-ministerio-de-seguridad-luego-que-habia-anunciado-rebajarlo-en-72-mil-millones-de-pesos-69cae2758475fc5e496f8b36
 https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
+https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://cambio21.cl/tendencias/un-arbitrario-mega-proyecto-inmobiliario-en-nunoa-por-patricio-herman-y-rodolfo-acha-69cbfb576e00922e18548d43
 https://cincodias.elpais.com/companias/2026-04-01/la-justicia-ordena-a-hacienda-devolver-107-millones-a-masorange-y-vodafone-por-el-iae.html
@@ -98,6 +99,7 @@ https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
 https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
+https://www.latercera.com/opinion/noticia/la-realidad-detras-de-las-grandes-inversiones-chinas-en-energias-renovables/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
@@ -296,6 +298,7 @@ titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
+titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
@@ -308,6 +311,7 @@ titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su 
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
+titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
