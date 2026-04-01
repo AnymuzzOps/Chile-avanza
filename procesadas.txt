@@ -24,6 +24,7 @@ https://elpais.com/chile/2026-03-26/las-derechas-conmemoran-el-asesinato-de-jaim
 https://elpais.com/chile/2026-03-27/un-estudiante-de-un-colegio-del-norte-de-chile-en-calama-mata-a-una-docente-y-hiere-a-otras-cuatro-personas.html
 https://elpais.com/chile/2026-03-30/amenazas-de-muerte-y-proteccion-policial-ser-alcalde-en-chile-se-vuelve-un-trabajo-peligroso.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
+https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
@@ -98,6 +99,7 @@ https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-z
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
 https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
+https://www.latercera.com/opinion/noticia/del-jarro-al-punal-el-ocaso-de-la-educacion-chilena/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/opinion/noticia/la-realidad-detras-de-las-grandes-inversiones-chinas-en-energias-renovables/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
@@ -193,6 +195,8 @@ https://www.theclinic.cl/2026/03/31/magdalena-atria-exembajadora-de-chile-en-ale
 https://www.theclinic.cl/2026/03/31/novandino-litio-marca-sustentabilidad-innovadora/
 https://www.theclinic.cl/2026/03/31/stephany-griffith-jones-exconsejera-del-banco-central-cuestiona-medidas-economicas-del-gobierno-vamos-a-estar-haciendo-mas-profundo-un-problema-que-viene-de-afuera/
 https://www.theclinic.cl/2026/03/31/udi-presiona-por-recorte-en-el-congreso-y-realiza-estudio-de-costos-23-millones-mensuales-por-diputado-y-43-millones-mensuales-por-senador/
+https://www.theclinic.cl/2026/04/01/carmen-gloria-arroyo-programa-mega-hablando-claro/
+https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
 https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -203,6 +207,7 @@ titulo::acusan contradicción se profundiza malestar oficialista por posible rec
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
 titulo::ahora ante cristiano ronaldo cuándo será el próximo amistoso de la selección chilena
+titulo::alan meyer el ejecutivo que construyó mercado libre en chile y que anunció la mayor inversión de la compañía en el país
 titulo::alemania expresa preocupación por freno a la expropiación de colonia dignidad y apoyan la creación de un memorial en chile
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
@@ -249,6 +254,7 @@ titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
+titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
@@ -286,6 +292,7 @@ titulo::gobierno explica ejes sociales en el congreso y descarta recortes de ben
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
 titulo::griffithjones exconsejera del banco central cuestiona medidas económicas del gobierno vamos a hacer más profundo un problema que viene de afuera
+titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en mega a cuatro meses de su llegada al canal
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
 titulo::ignacio briones chile no es un país quebrado
@@ -369,6 +376,7 @@ titulo::sii y tgr inician operación renta 2026 proyectan recibir más de 51 mil
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
+titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
