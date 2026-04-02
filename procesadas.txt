@@ -24,6 +24,8 @@ https://elpais.com/chile/2026-03-26/ignacio-briones-chile-no-es-un-pais-quebrado
 https://elpais.com/chile/2026-03-26/las-derechas-conmemoran-el-asesinato-de-jaime-guzman-con-el-primer-presidente-gremialista-de-chile.html
 https://elpais.com/chile/2026-03-27/un-estudiante-de-un-colegio-del-norte-de-chile-en-calama-mata-a-una-docente-y-hiere-a-otras-cuatro-personas.html
 https://elpais.com/chile/2026-03-30/amenazas-de-muerte-y-proteccion-policial-ser-alcalde-en-chile-se-vuelve-un-trabajo-peligroso.html
+https://elpais.com/chile/2026-04-02/cambio-de-hora-en-chile-2026-cuando-y-como-se-modifican-los-relojes-para-el-horario-de-invierno.html
+https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
@@ -246,6 +248,7 @@ titulo::bank of america se enfría el optimismo global y chile aparece como el m
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año y explora nuevos mercados
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
+titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
@@ -338,6 +341,7 @@ titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible for
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
+titulo::las derechas en chile
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
