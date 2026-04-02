@@ -36,6 +36,7 @@ https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sa
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
+https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
@@ -84,6 +85,7 @@ https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-r
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
+https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/probado-en-nogales-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
@@ -121,6 +123,7 @@ https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-e
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
+https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de-energias-renovables-por-mas-de-us1000-millones/
@@ -266,9 +269,11 @@ titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
+titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
+titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
 titulo::chile logra la protección internacional del zarapito de pico recto y chorlo de magallanes aves migratorias están bajo amenaza por reducción de población
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
 titulo::chile y los minerales críticos
@@ -369,6 +374,7 @@ titulo::las noticias clave del sector tecnológico que están marcando la semana
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
 titulo::latam invierte us60 millones para instalar wifi en los vuelos de larga distancia será la primera aerolínea del continente en ofrecer este servicio
+titulo::litio cobre plata el agresivo plan de bolivia para convertirse en líder mundial en minería
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
