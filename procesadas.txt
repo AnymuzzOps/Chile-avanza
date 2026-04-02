@@ -69,12 +69,14 @@ https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-gu
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
+https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
 https://www.latercera.com/el-deportivo/noticia/debe-reportarse-y-no-puede-salir-del-pais-chiqui-tapia-es-procesado-por-presunta-apropiacion-indebida-de-us-14-millones/
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
 https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-bolivia-el-detalle-de-los-repechajes-que-entregaran-seis-cupos-para-completar-el-mundial-2026/
 https://www.latercera.com/el-deportivo/noticia/en-tres-ciudades-de-chile-los-condores-ya-tienen-fecha-para-su-estreno-en-la-nations-cup/
+https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-la-puerta-a-la-real-opcion-de-dirigir-a-la-seleccion-chilena/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
@@ -94,6 +96,7 @@ https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlant
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
+https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
@@ -155,6 +158,7 @@ https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-ch
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
+https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
@@ -308,6 +312,7 @@ titulo::enap oficializa histórica alza de los combustibles a partir de este jue
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
+titulo::esta es la resolución del juzgado de argentina que revocó el refugio de apablaza y ordenó su detención y extradición a chile
 titulo::estados unidos concentra sus activos mineros de américa latina en brasil y chile se ubica en el séptimo lugar
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::estimaciones de crecimiento tendencial
@@ -348,11 +353,13 @@ titulo::las zapatillas todoterreno de merrell que conquistan el trail running en
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
+titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región metropolitana
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
+titulo::manuel pellegrini vuelve a abrir la puerta a la real opción de dirigir a la selección chilena
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
@@ -416,6 +423,7 @@ titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansió
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
+titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
