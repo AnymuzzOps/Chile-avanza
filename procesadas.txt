@@ -39,6 +39,7 @@ https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debier
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
+https://www.ex-ante.cl/quien-es-ricardo-arrano-el-nuevo-socio-principal-de-pwc-chile-y-su-desconocida-aficion/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapuche-no-chileno/
@@ -57,6 +58,7 @@ https://www.fayerwayer.com/internet/2026/03/30/cuando-se-cambia-la-hora-en-chile
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
+https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
@@ -236,6 +238,7 @@ https://www.theclinic.cl/2026/04/01/en-tiempos-de-crisis-es-aun-mas-relevante-de
 https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
 https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
 https://www.theclinic.cl/2026/04/02/al-volante-del-dongfeng-vigo/
+https://www.theclinic.cl/2026/04/02/chile-se-convierte-oficialmente-en-estado-miembro-asociado-del-destacado-laboratorio-de-fisica-cern/
 https://www.theclinic.cl/2026/04/02/diablos-y-diablas-van-por-el-mundial-de-hockey-sub-21-los-rivales-de-chile-en-el-panamericano-santiago-2026-que-comienza-el-lunes/
 https://www.theclinic.cl/2026/04/02/el-ano-redondo-de-dreams-operadora-de-casinos-logro-utilidades-record-en-2025-por-casi-25-000-millones-creciendo-un-207/
 https://www.theclinic.cl/2026/04/02/el-experimento-de-codelco-y-empresa-china-para-transportar-cobre-en-camiones-electricos-en-pleno-desierto-es-una-oportunidad-para-ser-pioneros/
@@ -282,11 +285,13 @@ titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile 
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
+titulo::chile interrumpe envío de gas argentino en ñuble y biobío por incumplimiento normativo
 titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
 titulo::chile logra la protección internacional del zarapito de pico recto y chorlo de magallanes aves migratorias están bajo amenaza por reducción de población
 titulo::chile para ahorrar también hay que crecer por felipe jaque
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
 titulo::chile se convierte en estado miembro asociado del cern y entra al núcleo de la física mundial
+titulo::chile se convierte oficialmente en estado miembro asociado del destacado laboratorio de física cern
 titulo::chile y los minerales críticos
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
@@ -445,6 +450,7 @@ titulo::probado en catemu el invento que puede revolucionar la extracción de co
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
+titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su desconocida afición
 titulo::quiñenco anuncia pago de dividendo por más de us630 millones
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
