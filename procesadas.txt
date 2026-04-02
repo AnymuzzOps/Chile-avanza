@@ -31,6 +31,7 @@ https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-ch
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
+https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
@@ -71,6 +72,7 @@ https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-banc
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
+https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-en-chile-su-nueva-novela-auge-y-caida-del-conejo-bam-una-fabula-sobre-el-poder/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
@@ -97,6 +99,7 @@ https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despu
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
+https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
@@ -152,6 +155,7 @@ https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-po
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
+https://www.latercera.com/pulso/noticia/reingresan-proyecto-parque-eolico-las-lilas-y-monto-de-inversion-baja-de-us5100-millones-a-us510-millones/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-principal-de-pwc-en-chile-reemplaza-al-historico-renzo-corona/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
@@ -167,6 +171,7 @@ https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legal
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
@@ -231,9 +236,13 @@ https://www.theclinic.cl/2026/04/01/en-tiempos-de-crisis-es-aun-mas-relevante-de
 https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
 https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
 https://www.theclinic.cl/2026/04/02/al-volante-del-dongfeng-vigo/
+https://www.theclinic.cl/2026/04/02/diablos-y-diablas-van-por-el-mundial-de-hockey-sub-21-los-rivales-de-chile-en-el-panamericano-santiago-2026-que-comienza-el-lunes/
+https://www.theclinic.cl/2026/04/02/el-ano-redondo-de-dreams-operadora-de-casinos-logro-utilidades-record-en-2025-por-casi-25-000-millones-creciendo-un-207/
 https://www.theclinic.cl/2026/04/02/el-experimento-de-codelco-y-empresa-china-para-transportar-cobre-en-camiones-electricos-en-pleno-desierto-es-una-oportunidad-para-ser-pioneros/
+https://www.theclinic.cl/2026/04/02/gonzalo-said-en-carta-a-sus-accionistas-destaca-desempeno-de-coca-cola-andina-en-chile-y-el-futuro-vemos-con-optimismo-los-mercados-donde-operamos/
 https://www.theclinic.cl/2026/04/02/la-preocupacion-de-las-aerolineas-por-problemas-de-operacion-que-pone-en-jaque-el-plan-de-obras-del-aeropuerto-de-santiago/
 https://www.theclinic.cl/2026/04/02/latam-invierte-us60-millones-para-instalar-wi-fi-en-los-vuelos-de-larga-distancia-sera-la-primera-aerolinea-del-continente-en-ofrecer-este-servicio/
+https://www.theclinic.cl/2026/04/02/municipio-de-monte-patria-debera-pagar-280-millones-a-familia-de-menor-fallecido-por-covid-que-no-recibio-atencion-oportuna/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -275,7 +284,9 @@ titulo::certificación google 2026 la guía para acceder a los cursos gratuitos 
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
 titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
 titulo::chile logra la protección internacional del zarapito de pico recto y chorlo de magallanes aves migratorias están bajo amenaza por reducción de población
+titulo::chile para ahorrar también hay que crecer por felipe jaque
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
+titulo::chile se convierte en estado miembro asociado del cern y entra al núcleo de la física mundial
 titulo::chile y los minerales críticos
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
@@ -303,11 +314,13 @@ titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
+titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
+titulo::el año redondo de dreams operadora de casinos logró utilidades récord en 2025 por casi 25000 millones creciendo un 207
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
@@ -332,6 +345,7 @@ titulo::enap oficializa histórica alza de los combustibles a partir de este jue
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
+titulo::escritor español andrés barba presenta en chile su nueva novela auge y caída del conejo bam una fábula sobre el poder
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
 titulo::esta es la resolución del juzgado de argentina que revocó el refugio de apablaza y ordenó su detención y extradición a chile
 titulo::estados unidos concentra sus activos mineros de américa latina en brasil y chile se ubica en el séptimo lugar
@@ -346,6 +360,7 @@ titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio 
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
+titulo::gonzalo said en carta a sus accionistas destaca desempeño de cocacola andina en chile y el futuro vemos con optimismo los mercados donde operamos
 titulo::griffithjones exconsejera del banco central cuestiona medidas económicas del gobierno vamos a hacer más profundo un problema que viene de afuera
 titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en mega a cuatro meses de su llegada al canal
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
@@ -370,6 +385,7 @@ titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones 
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::las derechas en chile
+titulo::las empanadas de queso chilenas conquistan mcdonalds suiza y generan polémica en argentina
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
@@ -399,6 +415,7 @@ titulo::minsal informa que uso de mascarillas será obligatorio en servicios de 
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
+titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
 titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de desviar más de 450 millones
@@ -431,6 +448,7 @@ titulo::quién es josé ignacio mujica el empresario y experto en inversiones qu
 titulo::quiñenco anuncia pago de dividendo por más de us630 millones
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
+titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
