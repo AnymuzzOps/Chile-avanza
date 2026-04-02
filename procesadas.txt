@@ -98,6 +98,7 @@ https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
+https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
@@ -118,6 +119,7 @@ https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
+https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
@@ -279,6 +281,7 @@ titulo::detectan monito del monte en parque nacional queulat y destacan buen est
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
+titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
@@ -372,6 +375,7 @@ titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile 
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::pascua en chile así puedes obtener 20 juegos gratis
+titulo::pdi y policía argentina activan operativo para dar con paradero de galvarino apablaza e iniciar extradición a chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
