@@ -55,6 +55,7 @@ https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
+https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
 https://www.lanacion.cl/la-roja-enfrenta-a-cabo-verde-en-su-primer-amistoso-del-ano-posible-formacion-y-la-baja-de-ultima-hora-que-sufrio-chile/
 https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
@@ -220,6 +221,8 @@ https://www.theclinic.cl/2026/04/01/el-nuevo-traspie-de-la-ministra-mara-sedini-
 https://www.theclinic.cl/2026/04/01/en-tiempos-de-crisis-es-aun-mas-relevante-de-priorizar-sociedad-chilena-de-ingenieria-de-transporte-critica-corte-de-financiamiento-a-ciclovia-de-la-alameda/
 https://www.theclinic.cl/2026/04/01/streat-burger-inaugura-un-nuevo-local-en-penalolen-y-anuncia-expansion-a-vina-del-mar-y-concepcion-para-el-segundo-semestre/
 https://www.theclinic.cl/2026/04/01/tierras-raras-en-penco-da-un-nuevo-paso-aclara-ingresa-al-sistema-de-evaluacion-de-impacto-ambiental-la-ultima-adenda-de-su-millonario-proyecto/
+https://www.theclinic.cl/2026/04/02/al-volante-del-dongfeng-vigo/
+https://www.theclinic.cl/2026/04/02/la-preocupacion-de-las-aerolineas-por-problemas-de-operacion-que-pone-en-jaque-el-plan-de-obras-del-aeropuerto-de-santiago/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -229,6 +232,7 @@ titulo::acusan contradicción se profundiza malestar oficialista por posible rec
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
 titulo::ahora ante cristiano ronaldo cuándo será el próximo amistoso de la selección chilena
+titulo::al volante del dongfeng vigo el suv eléctrico que quiere democratizar la electromovilidad en chile
 titulo::alan meyer el ejecutivo que construyó mercado libre en chile y que anunció la mayor inversión de la compañía en el país
 titulo::alemania expresa preocupación por freno a la expropiación de colonia dignidad y apoyan la creación de un memorial en chile
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
@@ -309,6 +313,7 @@ titulo::en tres ciudades de chile los cóndores ya tienen fecha para su estreno 
 titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
+titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
@@ -340,6 +345,7 @@ titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
+titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
