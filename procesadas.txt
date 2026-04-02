@@ -34,6 +34,7 @@ https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
+https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
@@ -96,6 +97,7 @@ https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aero
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
+https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
@@ -148,6 +150,7 @@ https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
+https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-principal-de-pwc-en-chile-reemplaza-al-historico-renzo-corona/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
@@ -278,6 +281,7 @@ titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
+titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
@@ -378,6 +382,7 @@ titulo::manuel pellegrini vuelve a abrir la puerta a la real opción de dirigir 
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
+titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
@@ -423,6 +428,7 @@ titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
+titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
