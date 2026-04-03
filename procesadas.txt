@@ -34,6 +34,7 @@ https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
+https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
@@ -348,6 +349,7 @@ titulo::el reservado encuentro entre grandes empresarios y el nobel de economía
 titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
+titulo::empresa de tecnología portátil para la salud recauda us 575 millones con inversión de cristiano ronaldo
 titulo::empresas cierran 2025 con ganancias por más de us32 mil millones y codelco anota las mayores utilidades
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
 titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilena de ingeniería de transporte critica corte de financiamiento a ciclovía de la alameda
