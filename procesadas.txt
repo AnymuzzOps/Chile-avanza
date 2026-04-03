@@ -107,6 +107,7 @@ https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
+https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
@@ -168,6 +169,7 @@ https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
+https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-uruguay-vs-chile-por-el-sudamericano-sub-17/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
@@ -180,7 +182,9 @@ https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-i
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
+https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
+https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -254,6 +258,7 @@ https://www.theclinic.cl/2026/04/03/knino-canal-perros-claro-vtr/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
+titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -287,6 +292,7 @@ titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año
 titulo::caen las ganancias de mega mientras chilevisión recorta sus pérdidas
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
+titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
@@ -315,6 +321,7 @@ titulo::con la animación de martín cárcamo y fecha de estreno confirmada cana
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
+titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
@@ -473,6 +480,7 @@ titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adria
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
+titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
 titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
