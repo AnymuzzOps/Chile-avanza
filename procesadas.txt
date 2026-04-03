@@ -97,6 +97,7 @@ https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-p
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
+https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
@@ -128,6 +129,8 @@ https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-e
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
+https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
+https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
@@ -264,6 +267,7 @@ titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve
 titulo::andes salud adquiere el control de clínica imet de la región de magallanes y anuncia expansión del centro de salud
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
+titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
@@ -278,6 +282,7 @@ titulo::banco central frena bajas de tasas y advierte que inflación volverá a 
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año y explora nuevos mercados
+titulo::caen las ganancias de mega mientras chilevisión recorta sus pérdidas
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
@@ -285,6 +290,7 @@ titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile 
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
+titulo::chile encabeza alza de los combustibles en la ocde tras salto del petróleo pero tiene uno de los precios más bajos del bloque
 titulo::chile interrumpe envío de gas argentino en ñuble y biobío por incumplimiento normativo
 titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
 titulo::chile logra la protección internacional del zarapito de pico recto y chorlo de magallanes aves migratorias están bajo amenaza por reducción de población
