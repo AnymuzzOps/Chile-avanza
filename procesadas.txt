@@ -1,8 +1,10 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
+https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
 https://cambio21.cl/deportes/el-chile-de-europa-italia-quedo-fuera-de-su-tercer-mundial-consecutivo-tras-perder-ante-bosnia-y-herzegovina-69cc449361c20023ab51f50f
 https://cambio21.cl/deportes/equipo-listo-como-elegir-camiseta-y-balon-para-jugar-y-regalar-en-chile-69c66176219cbe1ae0324133
 https://cambio21.cl/deportes/ronaldinho-es-baja-para-duelo-de-leyendas-en-chile-lo-reemplazara-adriano-el-emperador-69c20bfbeb37ee362f03b5ae
+https://cambio21.cl/pais/cambio-de-hora-en-chile-esta-media-noche-regresamos-al-horario-de-invierno-69d11b2439d3c011cd184953
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/gobierno-retira-del-congreso-proyecto-de-nueva-ley-de-pesca-y-desata-duras-criticas-69c68265e68125123b280234
@@ -82,6 +84,7 @@ https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-e
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
+https://www.latercera.com/el-deportivo/noticia/christian-garin-tiene-un-positivo-estreno-en-la-qualy-del-masters-1000-de-montecarlo/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
 https://www.latercera.com/el-deportivo/noticia/debe-reportarse-y-no-puede-salir-del-pais-chiqui-tapia-es-procesado-por-presunta-apropiacion-indebida-de-us-14-millones/
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
@@ -306,6 +309,7 @@ titulo::caen las ganancias de mega mientras chilevisión recorta sus pérdidas
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horario de invierno
+titulo::cambio de hora en chile esta media noche regresamos al horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
@@ -323,6 +327,7 @@ titulo::chile se convierte oficialmente en estado miembro asociado del destacado
 titulo::chile y los minerales críticos
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
+titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 de montecarlo
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
@@ -357,6 +362,7 @@ titulo::ecofolie lab el proyecto de la uc que busca construir el primer laborato
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
 titulo::el abogado penalista que presidirá enap
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
+titulo::el arquero chileno que podría jugar el mundial de fútbolpero por ecuador
 titulo::el año redondo de dreams operadora de casinos logró utilidades récord en 2025 por casi 25000 millones creciendo un 207
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
