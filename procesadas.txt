@@ -12,6 +12,7 @@ https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-cas
 https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presupuesto-en-ministerio-de-seguridad-luego-que-habia-anunciado-rebajarlo-en-72-mil-millones-de-pesos-69cae2758475fc5e496f8b36
 https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
+https://cambio21.cl/tendencias/autoridades-rusas-niegan-presunta-campana-de-desinformacion-contra-gobierno-de-milei-intentaban-provocar-una-supuesta-crisis-diplomatica-entre-argentina-y-chile-69d11f5016c2500abb0fc5a3
 https://cambio21.cl/tendencias/el-crecimiento-de-los-casinos-online-y-el-desafio-del-estado-chileno-69cd7199ed484c348801ff72
 https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
@@ -296,6 +297,7 @@ titulo::aston martin vantage s en chile más potencia y precisión en clave depo
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
+titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
