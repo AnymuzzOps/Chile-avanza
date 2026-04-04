@@ -77,6 +77,7 @@ https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-gu
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
 https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
+https://www.latercera.com/culto/noticia/dream-theater-aterriza-en-chile-con-formacion-estelar-la-gente-ha-sido-consistente/
 https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-en-chile-su-nueva-novela-auge-y-caida-del-conejo-bam-una-fabula-sobre-el-poder/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
@@ -137,6 +138,7 @@ https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-infl
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
+https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
 https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
@@ -146,6 +148,7 @@ https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-m
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
+https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-mas-de-us32-mil-millones-y-codelco-anota-las-mayores-utilidades/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
@@ -180,6 +183,7 @@ https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chi
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
+https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
@@ -302,6 +306,7 @@ titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horari
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
+titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
 titulo::chile encabeza alza de los combustibles en la ocde tras salto del petróleo pero tiene uno de los precios más bajos del bloque
@@ -343,9 +348,11 @@ titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
 titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
+titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
+titulo::el abogado penalista que presidirá enap
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el año redondo de dreams operadora de casinos logró utilidades récord en 2025 por casi 25000 millones creciendo un 207
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
@@ -466,6 +473,7 @@ titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
+titulo::premios iniciativas sustentables 2025 la nueva edición que reconocerá a quienes transforman chile con impacto real
 titulo::presentan proyecto eólico por más de us5000 millones para la región del biobío
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
 titulo::presidenta del banco central y alza de combustibles vamos a actuar oportunamente para el control de la inflación
