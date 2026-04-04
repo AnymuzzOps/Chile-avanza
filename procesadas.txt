@@ -75,6 +75,7 @@ https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
+https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
 https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-en-chile-su-nueva-novela-auge-y-caida-del-conejo-bam-una-fabula-sobre-el-poder/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
@@ -350,6 +351,7 @@ titulo::el año redondo de dreams operadora de casinos logró utilidades récord
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
+titulo::el empleo chileno en crisis
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
