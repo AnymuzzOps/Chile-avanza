@@ -125,6 +125,7 @@ https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-for
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
+https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
@@ -473,6 +474,7 @@ titulo::novandino litio presenta su nueva marca y proyecta crecimiento con foco 
 titulo::nuevo aston martin vantage roadster ya está en chile
 titulo::nuevo ingrediente para la inflación camport y expertos advierten que alza de costos logísticos presionará precios de importaciones y exportaciones
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
+titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
