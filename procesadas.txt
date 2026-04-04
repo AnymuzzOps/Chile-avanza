@@ -134,6 +134,7 @@ https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-e
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
+https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
@@ -149,6 +150,7 @@ https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-pu
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
+https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millones-que-amenaza-al-fisco-por-las-cuotas-pesqueras/
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-mas-de-us32-mil-millones-y-codelco-anota-las-mayores-utilidades/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
@@ -288,6 +290,7 @@ titulo::apostando a la prevención el desafío invisible de la ludopatía adoles
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
+titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
@@ -368,6 +371,7 @@ titulo::el proyecto roto por qué la centroizquierda chilena no sabe a quién ha
 titulo::el regreso de la fifa todo sobre fifa heroes el nuevo arcade gratuito que llegaría incluso a nintendo switch 2
 titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
 titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
+titulo::el tsunami judicial de casi us 600 millones que amenaza al fisco por las cuotas pesqueras
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
 titulo::empresa de tecnología portátil para la salud recauda us 575 millones con inversión de cristiano ronaldo
