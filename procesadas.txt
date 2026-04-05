@@ -116,6 +116,7 @@ https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-s
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
+https://www.latercera.com/nacional/noticia/comite-de-apr-de-san-pedro-de-atacama-presenta-recurso-contra-diputada-marcela-hernando-por-ingreso-no-autorizado/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
@@ -347,6 +348,7 @@ titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 7
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
+titulo::comité de apr de san pedro de atacama presenta recurso contra diputada marcela hernando por ingreso no autorizado
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
