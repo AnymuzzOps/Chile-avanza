@@ -110,6 +110,7 @@ https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nuev
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/mundo/noticia/operacion-rusa-incluyo-campana-de-desinformacion-para-tensionar-relacion-entre-chile-y-argentina/
+https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-siria-en-damasco-para-negociar-nuevos-acuerdos-de-seguridad/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
@@ -546,5 +547,6 @@ titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
+titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
 titulo::último gran análisis de mercado predice preocupante futuro para el cobre
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
