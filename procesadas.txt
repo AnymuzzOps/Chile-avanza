@@ -205,6 +205,7 @@ https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merre
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
 https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
+https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
@@ -454,6 +455,7 @@ titulo::live andes 20 el proyecto que combina la inteligencia artificial con la 
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región metropolitana
+titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
