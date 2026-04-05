@@ -36,6 +36,7 @@ https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efe
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
+https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
@@ -92,6 +93,7 @@ https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-
 https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-bolivia-el-detalle-de-los-repechajes-que-entregaran-seis-cupos-para-completar-el-mundial-2026/
 https://www.latercera.com/el-deportivo/noticia/en-tres-ciudades-de-chile-los-condores-ya-tienen-fecha-para-su-estreno-en-la-nations-cup/
 https://www.latercera.com/el-deportivo/noticia/la-ilusion-del-joven-equipo-de-chile-con-el-grupo-mundial-i-de-la-billie-jean-king-cup/
+https://www.latercera.com/el-deportivo/noticia/los-chilenos-pasan-a-segundo-plano-con-el-nuevo-dt-sevilla-cae-ante-el-colista-oviedo-y-queda-a-dos-puntos-del-descenso/
 https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-la-puerta-a-la-real-opcion-de-dirigir-a-la-seleccion-chilena/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
@@ -142,6 +144,7 @@ https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-e
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-hubiese-gustado-que-chile-vamos-antes-de-criticar-el-despido-hubiera-confiado-en-que-era-una-decision-bien-fundada/
 https://www.latercera.com/politica/noticia/la-moneda-ajusta-la-estrategia-para-enfrentar-su-proyecto-ancla-de-reconstruccion-nacional/
+https://www.latercera.com/politica/noticia/macaya-pide-altura-de-miras-en-chile-vamos-tras-fuego-amigo-por-remocion-de-directora-del-sernameg/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
@@ -189,6 +192,7 @@ https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
+https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-universidad-de-chile-vs-deportes-la-serena-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-uruguay-vs-chile-por-el-sudamericano-sub-17/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-hora-es-este-domingo-tras-el-inicio-del-horario-de-invierno/
@@ -281,6 +285,7 @@ https://www.theclinic.cl/2026/04/03/knino-canal-perros-claro-vtr/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
+titulo::a qué hora y dónde ver a universidad de chile vs deportes la serena en tv y streaming
 titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
@@ -356,6 +361,7 @@ titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
+titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo volvo superó a tesla en chile
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
@@ -457,8 +463,10 @@ titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su 
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
 titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región metropolitana
 titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
+titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
+titulo::macaya pide altura de miras en chile vamos tras fuego amigo por remoción de directora del sernameg
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
