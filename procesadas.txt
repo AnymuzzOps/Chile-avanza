@@ -119,6 +119,7 @@ https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio
 https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
+https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
@@ -139,6 +140,7 @@ https://www.latercera.com/opinion/noticia/la-realidad-detras-de-las-grandes-inve
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-hubiese-gustado-que-chile-vamos-antes-de-criticar-el-despido-hubiera-confiado-en-que-era-una-decision-bien-fundada/
+https://www.latercera.com/politica/noticia/la-moneda-ajusta-la-estrategia-para-enfrentar-su-proyecto-ancla-de-reconstruccion-nacional/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
@@ -405,6 +407,7 @@ titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
+titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
@@ -430,6 +433,7 @@ titulo::la desconocida tecnología de desalinización de una empresa canadiense 
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
+titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
