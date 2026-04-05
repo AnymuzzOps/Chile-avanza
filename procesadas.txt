@@ -91,6 +91,7 @@ https://www.latercera.com/el-deportivo/noticia/debe-reportarse-y-no-puede-salir-
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
 https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-bolivia-el-detalle-de-los-repechajes-que-entregaran-seis-cupos-para-completar-el-mundial-2026/
 https://www.latercera.com/el-deportivo/noticia/en-tres-ciudades-de-chile-los-condores-ya-tienen-fecha-para-su-estreno-en-la-nations-cup/
+https://www.latercera.com/el-deportivo/noticia/la-ilusion-del-joven-equipo-de-chile-con-el-grupo-mundial-i-de-la-billie-jean-king-cup/
 https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-la-puerta-a-la-real-opcion-de-dirigir-a-la-seleccion-chilena/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
@@ -425,6 +426,7 @@ titulo::la carrera por cargar combustible en chile antes del alza anunciada nos 
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
+titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
 titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
