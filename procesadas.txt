@@ -190,6 +190,7 @@ https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-ca
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-uruguay-vs-chile-por-el-sudamericano-sub-17/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
+https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-hora-es-este-domingo-tras-el-inicio-del-horario-de-invierno/
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
@@ -422,6 +423,7 @@ titulo::hernán larraín matte si chile vamos no muestra carácter dentro de est
 titulo::ignacio briones chile no es un país quebrado
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
+titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
