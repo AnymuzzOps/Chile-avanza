@@ -138,6 +138,7 @@ https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-pa
 https://www.latercera.com/opinion/noticia/la-realidad-detras-de-las-grandes-inversiones-chinas-en-energias-renovables/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
+https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-hubiese-gustado-que-chile-vamos-antes-de-criticar-el-despido-hubiera-confiado-en-que-era-una-decision-bien-fundada/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
@@ -420,6 +421,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
+titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
