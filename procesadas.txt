@@ -172,6 +172,8 @@ https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
+https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
+https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millones-que-amenaza-al-fisco-por-las-cuotas-pesqueras/
@@ -182,6 +184,7 @@ https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de
 https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-mineros-de-america-latina-en-brasil-y-chile-se-ubica-en-el-septimo-lugar/
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
+https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
@@ -296,7 +299,9 @@ https://www.theclinic.cl/2026/04/02/latam-invierte-us60-millones-para-instalar-w
 https://www.theclinic.cl/2026/04/02/municipio-de-monte-patria-debera-pagar-280-millones-a-familia-de-menor-fallecido-por-covid-que-no-recibio-atencion-oportuna/
 https://www.theclinic.cl/2026/04/03/knino-canal-perros-claro-vtr/
 https://www.theclinic.cl/2026/04/06/los-momentos-que-marcaron-el-debut-de-luis-slimming-y-el-elenco-de-el-desestrece-en-canal-13/
+https://www.theclinic.cl/2026/04/06/mercado-automotor-chileno/
 https://www.theclinic.cl/2026/04/06/minvu-enfrenta-falencias-en-red-de-parques-urbanos-y-apuesta-por-reforzar-seguridad-mapocho-rio-y-parque-cerrillos-mientras-busca-reimpulsar-chile-nativo/
+https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/
 https://www.theclinic.cl/2026/04/06/tesoreria-inicia-cobros-de-deuda-cae-1-833-personas-con-sueldos-sobre-5-millones-no-podran-acceder-a-convenio-y-arriesgan-demanda-y-embargo/
 https://www.theclinic.cl/2026/04/06/tribunal-ambiental-rechaza-reclamos-de-vecinos-y-da-luz-verde-a-data-center-de-amazon-en-huechuraba-inversion-supera-los-us200-millones/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -378,6 +383,7 @@ titulo::conicyt se transforma en la agencia nacional de investigación y desarro
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
+titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
@@ -391,6 +397,7 @@ titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por
 titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
+titulo::desde gloria hutt a juan benavides los cuatros nuevos directores que ingresarán a santander chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
 titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
@@ -439,6 +446,7 @@ titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
+titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
@@ -472,6 +480,7 @@ titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafo
 titulo::la justificación del grupo angelini para aumentar el directorio de antarchile y los reclamos de algunos minoritarios
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
+titulo::la paradoja del asfalto el mercado automotor chileno acelera entre el alza de precios y la sed de eficiencia
 titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
@@ -533,6 +542,7 @@ titulo::operación rusa incluyó campaña de desinformación para tensionar rela
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
+titulo::para que no queden solos así es knino el primer canal chileno de televisión que busca entretener a los perros cuando no estás en casa
 titulo::pascua en chile así puedes obtener 20 juegos gratis
 titulo::pdi y policía argentina activan operativo para dar con paradero de galvarino apablaza e iniciar extradición a chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
