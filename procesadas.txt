@@ -94,6 +94,7 @@ https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-boli
 https://www.latercera.com/el-deportivo/noticia/en-tres-ciudades-de-chile-los-condores-ya-tienen-fecha-para-su-estreno-en-la-nations-cup/
 https://www.latercera.com/el-deportivo/noticia/la-ilusion-del-joven-equipo-de-chile-con-el-grupo-mundial-i-de-la-billie-jean-king-cup/
 https://www.latercera.com/el-deportivo/noticia/los-chilenos-pasan-a-segundo-plano-con-el-nuevo-dt-sevilla-cae-ante-el-colista-oviedo-y-queda-a-dos-puntos-del-descenso/
+https://www.latercera.com/el-deportivo/noticia/luto-en-el-futbol-chileno-fallece-adan-godoy-mundialista-del-62/
 https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-la-puerta-a-la-real-opcion-de-dirigir-a-la-seleccion-chilena/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
@@ -468,6 +469,7 @@ titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
+titulo::luto en el fútbol chileno fallece adán godoy mundialista del 62
 titulo::macaya pide altura de miras en chile vamos tras fuego amigo por remoción de directora del sernameg
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
