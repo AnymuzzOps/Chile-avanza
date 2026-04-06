@@ -92,6 +92,7 @@ https://www.latercera.com/el-deportivo/noticia/debe-reportarse-y-no-puede-salir-
 https://www.latercera.com/el-deportivo/noticia/dos-refuerzos-y-varios-con-doble-nacionalidad-la-armada-chilena-que-anima-la-mls-de-lionel-messi/
 https://www.latercera.com/el-deportivo/noticia/el-ultimo-tren-para-italia-y-bolivia-el-detalle-de-los-repechajes-que-entregaran-seis-cupos-para-completar-el-mundial-2026/
 https://www.latercera.com/el-deportivo/noticia/en-tres-ciudades-de-chile-los-condores-ya-tienen-fecha-para-su-estreno-en-la-nations-cup/
+https://www.latercera.com/el-deportivo/noticia/josue-ovalle-la-nueva-figura-chilena-en-mexico-en-colo-colo-me-dijeron-que-no-estaba-para-el-primer-equipo/
 https://www.latercera.com/el-deportivo/noticia/la-ilusion-del-joven-equipo-de-chile-con-el-grupo-mundial-i-de-la-billie-jean-king-cup/
 https://www.latercera.com/el-deportivo/noticia/los-chilenos-pasan-a-segundo-plano-con-el-nuevo-dt-sevilla-cae-ante-el-colista-oviedo-y-queda-a-dos-puntos-del-descenso/
 https://www.latercera.com/el-deportivo/noticia/luto-en-el-futbol-chileno-fallece-adan-godoy-mundialista-del-62/
@@ -436,6 +437,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
+titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
