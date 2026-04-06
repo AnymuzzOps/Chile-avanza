@@ -5,7 +5,7 @@ import shutil
 import subprocess
 import time
 from datetime import datetime, timezone
-from typing import Dict, List, Optional, Set, Tuple
+from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
 
 import feedparser
@@ -27,9 +27,9 @@ TELEGRAM_CHAT_IDS = [
 TELEGRAM_CHAT_IDS = [chat_id for chat_id in TELEGRAM_CHAT_IDS if chat_id]
 MAX_NOTICIAS_POR_FEED = 20
 MAX_NOTICIAS_A_PROCESAR = 8
-MAX_EVALUACIONES_IA = 20
+MAX_EVALUACIONES_IA = 12
 MAX_MUESTRAS_DIAGNOSTICO = 5
-MAX_CARACTERES_POST = 260
+MAX_CARACTERES_POST = 280
 
 
 # Fuentes RSS verificadas y funcionando + adicionales
@@ -526,31 +526,6 @@ FALLBACK_FUENTES = {
 }
 
 
-def _cargar_prompt_editorial() -> str:
-    rutas = [
-        os.path.join(os.path.dirname(__file__), "Esto es el alma de elchilometro.txt"),
-        "Esto es el alma de elchilometro.txt",
-    ]
-    for ruta in rutas:
-        try:
-            with open(ruta, "r", encoding="utf-8") as archivo:
-                contenido = archivo.read().strip()
-                if contenido:
-                    return contenido
-        except FileNotFoundError:
-            continue
-    return (
-        "Actúa como redactor de El Chilómetro. "
-        "Escribe en tono neutral, breve y basado en hechos. "
-        "Prioriza un solo post. "
-        "Si no cabe, usa hilo de 2 posts. "
-        "Máximo 260 caracteres por post."
-    )
-
-
-PROMPT_EDITORIAL = _cargar_prompt_editorial()
-
-
 def _extraer_fuente(link: str) -> str:
     netloc = urlparse(link).netloc.lower()
     if netloc.startswith("www."):
@@ -571,69 +546,46 @@ def _recortar_texto(texto: str, max_len: int) -> str:
     return texto[: max_len - 1].rstrip(" ,;:-") + "…"
 
 
-def _split_posts(post: str) -> List[str]:
-    bloques = [bloque.strip() for bloque in re.split(r"\n\s*\n", post.strip()) if bloque.strip()]
-    return bloques[:2] if bloques else []
-
-
-def _limpiar_linea(linea: str) -> str:
-    linea = re.sub(r"\s+", " ", (linea or "").strip())
-    linea = re.sub(r"\s+([,.;:])", r"\1", linea)
-    return linea.strip()
-
-
-def _contar_post(post: str) -> int:
-    return len(post)
-
-
-def _formatear_post_final(post: str) -> str:
-    post = "\n".join(_limpiar_linea(linea) for linea in post.splitlines())
-    post = re.sub(r"\n{3,}", "\n\n", post).strip()
-    return f"{post} ({_contar_post(post)} caracteres)"
-
-
-def _ajustar_post_individual(post: str, noticia: Dict[str, str]) -> str:
-    fuente = _extraer_fuente(noticia["link"].strip())
-    titulo = _limpiar_linea(noticia["titulo"])
-    lineas = [_limpiar_linea(linea) for linea in post.splitlines() if _limpiar_linea(linea)]
-
-    if not lineas:
-        lineas = [titulo, fuente]
-
-    texto_actual = "\n".join(lineas).lower()
-    if fuente.lower() not in texto_actual:
-        lineas.append(fuente)
-
-    candidato = "\n".join(lineas)
-    if len(candidato) <= MAX_CARACTERES_POST:
-        return candidato
-
-    while len(candidato) > MAX_CARACTERES_POST:
-        idx = None
-        largo = 0
-        for i, linea in enumerate(lineas):
-            if len(linea) > largo:
-                idx = i
-                largo = len(linea)
-        if idx is None or largo < 18:
-            break
-        exceso = len(candidato) - MAX_CARACTERES_POST
-        lineas[idx] = _recortar_texto(lineas[idx], max(18, len(lineas[idx]) - exceso - 2))
-        candidato = "\n".join(lineas)
-
-    if len(candidato) <= MAX_CARACTERES_POST:
-        return candidato
-
-    base = f"{_recortar_texto(titulo, max(20, MAX_CARACTERES_POST - len(fuente) - 1))}\n{fuente}"
-    return base[:MAX_CARACTERES_POST]
-
-
 def _ajustar_post_a_limite(post: str, noticia: Dict[str, str]) -> str:
-    posts = _split_posts(post)
-    if not posts:
-        posts = [noticia["titulo"]]
-    ajustados = [_formatear_post_final(_ajustar_post_individual(p, noticia)) for p in posts[:2]]
-    return "\n\n".join(ajustados)
+    link = noticia["link"].strip()
+    fuente = _extraer_fuente(link)
+    titulo = " ".join(noticia["titulo"].split())
+    post_limpio = post.strip()
+
+    if link not in post_limpio:
+        base = post_limpio.rstrip()
+        if base:
+            post_limpio = f"{base}\n{link}\nFuente: {fuente}"
+        else:
+            post_limpio = f"📰 {titulo}\n{link}\nFuente: {fuente}"
+
+    if len(post_limpio) <= MAX_CARACTERES_POST:
+        return post_limpio
+
+    variantes_beneficio = [
+        "Beneficio para Chile: avance concreto con impacto local.",
+        "Beneficio para Chile: avance concreto.",
+        "Avance concreto para Chile.",
+        "Impacto positivo para Chile.",
+        "",
+    ]
+
+    for beneficio in variantes_beneficio:
+        sufijo = f"\n{link}\nFuente: {fuente}"
+        prefijo = "📰 "
+        extra = f"\n{beneficio}" if beneficio else ""
+        disponible = MAX_CARACTERES_POST - len(prefijo) - len(extra) - len(sufijo)
+        if disponible <= 0:
+            continue
+        titulo_recortado = _recortar_texto(titulo, disponible)
+        candidato = f"{prefijo}{titulo_recortado}{extra}{sufijo}"
+        if len(candidato) <= MAX_CARACTERES_POST:
+            return candidato
+
+    sufijo_minimo = f"\n{link}"
+    disponible = MAX_CARACTERES_POST - len("📰 ") - len(sufijo_minimo)
+    titulo_recortado = _recortar_texto(titulo, max(0, disponible))
+    return f"📰 {titulo_recortado}{sufijo_minimo}"[:MAX_CARACTERES_POST]
 
 
 def enviar_telegram(mensaje: str) -> None:
@@ -687,7 +639,7 @@ def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
 
     # Si viene de una fuente chilena, permitimos titulares de beneficio concreto
     # o titulares con score claramente alto para que Groq haga el filtro final.
-    if fuente_base in FUENTES_CHILE and (tiene_beneficio or tiene_chile or tiene_contexto_chile or score >= 2):
+    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 5):
         return True
 
     return False
@@ -758,16 +710,6 @@ def _marca_titulo_procesado(titulo: str) -> str:
     return f"titulo::{_normalizar_titulo_duplicado(titulo)}"
 
 
-def _extraer_resumen_entry(entry) -> str:
-    resumen = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
-    resumen = re.sub(r"<[^>]+>", " ", resumen)
-    return " ".join(resumen.split())
-
-
-def _texto_contexto(titulo: str, resumen: str = "") -> str:
-    return " ".join(part for part in [titulo or "", resumen or ""] if part).strip()
-
-
 def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]:
     noticias: List[Dict[str, str]] = []
     vistos: Set[str] = set()
@@ -817,9 +759,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                         stats["duplicadas"] += 1
                         continue
 
-                    resumen = _extraer_resumen_entry(entry)
-                    contexto = _texto_contexto(titulo, resumen)
-                    score, razones = _razones_titulo(contexto, url)
+                    score, razones = _razones_titulo(titulo, url)
                     if score < 0:
                         stats["desc_negativo"] += 1
                     elif score < 3:
@@ -828,7 +768,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                         stats["desc_chile"] += 1
 
                     if score >= 2 and not razones:
-                        noticias.append({"titulo": titulo, "link": link, "resumen": resumen})
+                        noticias.append({"titulo": titulo, "link": link})
                         vistos.add(link)
                         titulos_vistos.add(titulo_normalizado)
                     elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
@@ -857,9 +797,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                                     stats["duplicadas"] += 1
                                     continue
 
-                                resumen = _extraer_resumen_entry(entry)
-                                contexto = _texto_contexto(titulo, resumen)
-                                score, razones = _razones_titulo(contexto, url)
+                                score, razones = _razones_titulo(titulo, url)
                                 if score < 0:
                                     stats["desc_negativo"] += 1
                                 elif score < 3:
@@ -868,7 +806,7 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                                     stats["desc_chile"] += 1
 
                                 if score >= 2 and not razones:
-                                    noticias.append({"titulo": titulo, "link": link, "resumen": resumen})
+                                    noticias.append({"titulo": titulo, "link": link})
                                     vistos.add(link)
                                     titulos_vistos.add(titulo_normalizado)
                                 elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
@@ -922,23 +860,6 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
     return False
 
 
-def _groq_chat(cliente: Groq, prompt: str, temperature: float = 0, max_retries: int = 2) -> str:
-    ultimo_error: Optional[Exception] = None
-    for intento in range(max_retries + 1):
-        try:
-            respuesta = cliente.chat.completions.create(
-                model=GROQ_MODEL,
-                temperature=temperature,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            return (respuesta.choices[0].message.content or "").strip()
-        except Exception as error:
-            ultimo_error = error
-            logger.warning("Groq fallo intento %s/%s: %s", intento + 1, max_retries + 1, error)
-            time.sleep(1.2 * (intento + 1))
-    raise ultimo_error or RuntimeError("Groq sin respuesta")
-
-
 def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
     prompt = (
         "Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.\n"
@@ -984,28 +905,41 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         f'Noticia: "{titulo}"\n\n'
         "Responde SOLO con SÍ o NO, sin explicación."
     )
-    resultado = _groq_chat(cliente, prompt, temperature=0).upper()
+    respuesta = cliente.chat.completions.create(
+        model=GROQ_MODEL,
+        temperature=0,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    resultado = respuesta.choices[0].message.content.strip().upper()
     return resultado.startswith("SÍ")
 
 
 def generar_post(cliente: Groq, noticia: Dict[str, str]) -> str:
-    contexto = noticia.get("resumen", "")
     prompt = (
-        f"{PROMPT_EDITORIAL}\n\n"
-        f"Título: {noticia['titulo']}\n"
-        f"Resumen adicional: {contexto or 'No disponible'}\n"
+        "Eres el editor de @ElChilometro, perfil que registra avances concretos de Chile.\n"
+        "Tono: directo, afirmativo e informativo.\n\n"
+        f"Noticia: {noticia['titulo']}\n"
         f"Link: {noticia['link']}\n\n"
-        "Reglas extra para esta ejecución:\n"
-        "1. No uses frases genéricas como 'beneficia a Chile', 'avance concreto' o 'impacto local' salvo que el título lo diga.\n"
-        "2. No inventes datos ni contexto.\n"
-        "3. Prioriza 1 solo post.\n"
-        "4. Si haces hilo, usa solo 2 posts.\n"
-        "5. Cada post debe quedar bajo 260 caracteres reales antes del conteo final.\n"
-        "6. Usa como fuente el nombre breve del medio o entidad, no la URL completa salvo que sea imprescindible.\n"
-        "7. Responde solo con la versión final lista para publicar."
+        "Genera un post para Twitter/X con MÁXIMO 270 caracteres antes de cualquier validación final.\n"
+        "Formato deseado: 2 o 3 líneas muy cortas.\n"
+        "- Un emoji relevante al inicio\n"
+        "- Resume el hecho concreto en una sola frase breve\n"
+        "- Agrega una frase corta explicando por qué beneficia a Chile o a los chilenos\n"
+        "- Incluye SIEMPRE el link exacto entregado\n"
+        "- Termina con 'Fuente: [medio]'\n"
+        "- Usa solo hechos concretos que aparezcan en el título\n"
+        "- Si el título contiene cifras, nombres, fechas o montos, inclúyelos solo si caben\n"
+        "- Prohibido usar frases especulativas: \"puede\", \"podría\", \"es posible\", \"potencial\"\n"
+        "- Sin hashtags\n"
+        "- Sin introducciones, sin comillas, sin texto extra\n\n"
+        "Solo responde con el post, nada más."
     )
-    respuesta = _groq_chat(cliente, prompt, temperature=0.2)
-    return _ajustar_post_a_limite(respuesta, noticia)
+    respuesta = cliente.chat.completions.create(
+        model=GROQ_MODEL,
+        temperature=0.3,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return _ajustar_post_a_limite(respuesta.choices[0].message.content.strip(), noticia)
 
 
 def _ruta_procesadas() -> str:
@@ -1126,6 +1060,7 @@ def main() -> None:
             else:
                 descartadas_ia += 1
                 logger.info("Descartada por IA: %s", noticia["titulo"])
+                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
                 titulos_descartados.append(noticia["titulo"])
         except Exception as error:
             logger.exception("Error procesando noticia: %s", noticia["titulo"])
