@@ -65,6 +65,7 @@ https://www.fayerwayer.com/internet/2026/03/30/cuando-se-cambia-la-hora-en-chile
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
+https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
@@ -155,6 +156,7 @@ https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-e
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
+https://www.latercera.com/pulso/noticia/bancoestado-anuncia-eliminacion-en-cobro-de-300-para-transferencias-electronicas-hacia-otros-bancos/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
@@ -181,6 +183,7 @@ https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-si
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
+https://www.latercera.com/pulso/noticia/justicia-ambiental-da-luz-verde-a-data-center-de-amazon-en-huechuraba-de-us205-millones/
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
@@ -322,8 +325,10 @@ titulo::banco central baja crecimiento sube inflación y alerta por los efectos 
 titulo::banco central chile avanza en el pago digital pero el efectivo se niega a desaparecer
 titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
+titulo::bancoestado anuncia eliminación en cobro de 300 para transferencias electrónicas hacia otros bancos
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
+titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año y explora nuevos mercados
 titulo::caen las ganancias de mega mientras chilevisión recorta sus pérdidas
 titulo::calama implementa plan de transporte público gratuito para personas mayores tras alza de los combustibles
@@ -443,6 +448,7 @@ titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
+titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
