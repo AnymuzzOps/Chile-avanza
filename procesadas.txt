@@ -119,6 +119,7 @@ https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-e
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
+https://www.latercera.com/mundo/noticia/china-pide-sinceridad-para-un-acuerdo-de-paz-y-critica-nuevamente-la-ofensiva-de-estados-unidos-e-israel-contra-iran/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
 https://www.latercera.com/mundo/noticia/operacion-rusa-incluyo-campana-de-desinformacion-para-tensionar-relacion-entre-chile-y-argentina/
 https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-siria-en-damasco-para-negociar-nuevos-acuerdos-de-seguridad/
@@ -224,6 +225,7 @@ https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legal
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
@@ -373,6 +375,7 @@ titulo::chile se convierte oficialmente en estado miembro asociado del destacado
 titulo::chile y los minerales críticos
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
+titulo::china pide sinceridad para un acuerdo de paz y critica nuevamente la ofensiva de estados unidos e israel contra irán
 titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 de montecarlo
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
@@ -392,6 +395,7 @@ titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prod
 titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
+titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
