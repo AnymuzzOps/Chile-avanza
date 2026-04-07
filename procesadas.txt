@@ -186,6 +186,7 @@ https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de
 https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
+https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millones-que-amenaza-al-fisco-por-las-cuotas-pesqueras/
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
@@ -320,6 +321,7 @@ https://www.theclinic.cl/2026/04/06/minvu-enfrenta-falencias-en-red-de-parques-u
 https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/
 https://www.theclinic.cl/2026/04/06/tesoreria-inicia-cobros-de-deuda-cae-1-833-personas-con-sueldos-sobre-5-millones-no-podran-acceder-a-convenio-y-arriesgan-demanda-y-embargo/
 https://www.theclinic.cl/2026/04/06/tribunal-ambiental-rechaza-reclamos-de-vecinos-y-da-luz-verde-a-data-center-de-amazon-en-huechuraba-inversion-supera-los-us200-millones/
+https://www.theclinic.cl/2026/04/07/con-estacionamientos-subterraneos-la-ampliacion-de-av-las-condes-y-la-revitalizacion-de-la-casona-el-proyecto-de-lo-barnechea-para-recuperar-la-plaza-san-enrique/
 https://www.theclinic.cl/2026/04/07/gac-motor-en-chile-con-gildemeister/
 https://www.theclinic.cl/2026/04/07/permitiran-estudiar-la-estructura-interna-de-la-isla-instalan-primera-red-de-sismometros-en-juan-fernandez/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -398,6 +400,7 @@ titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza
 titulo::comité de apr de san pedro de atacama presenta recurso contra diputada marcela hernando por ingreso no autorizado
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
+titulo::con estacionamientos subterráneos la ampliación de av las condes y la revitalización de la casona el proyecto de lo barnechea para recuperar la plaza san enrique
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
@@ -429,6 +432,7 @@ titulo::dream theater aterriza en chile con formación estelar la gente ha sido 
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
+titulo::efecto de la guerra en medio oriente en chile suben las ventas de cobre pero las compras de petróleo se disparan
 titulo::el abogado penalista que presidirá enap
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el arquero chileno que podría jugar el mundial de fútbolpero por ecuador
