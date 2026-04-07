@@ -31,6 +31,7 @@ https://elpais.com/chile/2026-03-27/un-estudiante-de-un-colegio-del-norte-de-chi
 https://elpais.com/chile/2026-03-30/amenazas-de-muerte-y-proteccion-policial-ser-alcalde-en-chile-se-vuelve-un-trabajo-peligroso.html
 https://elpais.com/chile/2026-04-02/cambio-de-hora-en-chile-2026-cuando-y-como-se-modifican-los-relojes-para-el-horario-de-invierno.html
 https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
+https://elpais.com/chile/2026-04-07/australia-rechaza-el-ultimo-recurso-de-adriana-rivas-y-allana-su-extradicion-a-chile.html
 https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de-la-luna.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -121,6 +122,7 @@ https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nuev
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/china-pide-sinceridad-para-un-acuerdo-de-paz-y-critica-nuevamente-la-ofensiva-de-estados-unidos-e-israel-contra-iran/
 https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-tailandia-para-permitir-el-paso-de-buques-con-petroleo-por-el-estrecho-de-ormuz/
+https://www.latercera.com/mundo/noticia/israel-advierte-a-la-poblacion-de-iran-contra-usar-el-tren-o-acercarse-a-infraestructura-ferroviaria/
 https://www.latercera.com/mundo/noticia/operacion-rusa-incluyo-campana-de-desinformacion-para-tensionar-relacion-entre-chile-y-argentina/
 https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-siria-en-damasco-para-negociar-nuevos-acuerdos-de-seguridad/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
@@ -310,6 +312,7 @@ https://www.theclinic.cl/2026/04/06/minvu-enfrenta-falencias-en-red-de-parques-u
 https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/
 https://www.theclinic.cl/2026/04/06/tesoreria-inicia-cobros-de-deuda-cae-1-833-personas-con-sueldos-sobre-5-millones-no-podran-acceder-a-convenio-y-arriesgan-demanda-y-embargo/
 https://www.theclinic.cl/2026/04/06/tribunal-ambiental-rechaza-reclamos-de-vecinos-y-da-luz-verde-a-data-center-de-amazon-en-huechuraba-inversion-supera-los-us200-millones/
+https://www.theclinic.cl/2026/04/07/gac-motor-en-chile-con-gildemeister/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -339,6 +342,7 @@ titulo::así será la nueva casa matriz que el banco santander chile abrirá en 
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
 titulo::australia extraditará a chile a adriana rivas exagente de la dina y secretaria personal del mamo contreras juicio por extradición duró 7 años
+titulo::australia rechaza el último recurso de adriana rivas y allana su extradición a chile
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
@@ -459,6 +463,7 @@ titulo::evento travel sale bate récord histórico de ventas totaliza us62 millo
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
+titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
@@ -475,6 +480,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
+titulo::israel advierte a la población de irán para que no usen los trenes o se acerquen a infraestructura ferroviaria
 titulo::iván zamorano compara crisis de la selección chilena con reciente fracaso de italia ha perdido identidad
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
