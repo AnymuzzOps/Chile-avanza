@@ -1,4 +1,5 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
+https://anid.cl/se-abre-el-financiamiento-para-construir-viviendas-e-infraestructura-con-madera/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
 https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
 https://cambio21.cl/deportes/el-chile-de-europa-italia-quedo-fuera-de-su-tercer-mundial-consecutivo-tras-perder-ante-bosnia-y-herzegovina-69cc449361c20023ab51f50f
@@ -35,6 +36,7 @@ https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
 https://elpais.com/chile/2026-04-07/australia-rechaza-el-ultimo-recurso-de-adriana-rivas-y-allana-su-extradicion-a-chile.html
 https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de-la-luna.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
+https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
@@ -55,6 +57,7 @@ https://www.ex-ante.cl/quien-es-ricardo-arrano-el-nuevo-socio-principal-de-pwc-c
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapuche-no-chileno/
+https://www.ex-ante.cl/una-cronica-de-vigilancia-en-un-mundo-que-aprende-a-esconderse-por-natalia-aranguiz/
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
 https://www.fayerwayer.com/ciencia/2026/04/06/impacto-mundial-encuentran-una-capsula-del-tiempo-con-vida-milenaria-en-el-desierto-de-chile/
 https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
@@ -239,6 +242,7 @@ https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.latercera.com/videos/noticia/el-hombre-que-trajo-el-primer-mac-a-chile/
 https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
+https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -368,6 +372,7 @@ titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horari
 titulo::cambio de hora en chile esta media noche regresamos al horario de invierno
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
+titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
@@ -485,6 +490,7 @@ titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
+titulo::investigadores chilenos reciben reconocimiento internacional por avance en inteligencia artificial
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::irán reporta avances en mediación de pakistán ad portas de vencer ultimátum de eeuu
 titulo::israel advierte a la población de irán para que no usen los trenes o se acerquen a infraestructura ferroviaria
@@ -601,6 +607,7 @@ titulo::salen más a cuenta estos son los automóviles eléctricos más económi
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
+titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
@@ -623,6 +630,7 @@ titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
+titulo::una crónica de vigilancia en un mundo que aprende a esconderse por natalia aránguiz
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
