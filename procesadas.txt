@@ -76,6 +76,7 @@ https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amis
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
 https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
+https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
@@ -399,6 +400,7 @@ titulo::china pide sinceridad para un acuerdo de paz y critica nuevamente la ofe
 titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 de montecarlo
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
+titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
 titulo::comité de apr de san pedro de atacama presenta recurso contra diputada marcela hernando por ingreso no autorizado
