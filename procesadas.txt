@@ -3,7 +3,9 @@ https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-sa
 https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
 https://cambio21.cl/deportes/el-chile-de-europa-italia-quedo-fuera-de-su-tercer-mundial-consecutivo-tras-perder-ante-bosnia-y-herzegovina-69cc449361c20023ab51f50f
 https://cambio21.cl/deportes/equipo-listo-como-elegir-camiseta-y-balon-para-jugar-y-regalar-en-chile-69c66176219cbe1ae0324133
+https://cambio21.cl/deportes/ivan-zamorano-compara-crisis-de-la-seleccion-chilena-con-reciente-fracaso-de-italia-ha-perdido-identidad-69d48ddd9481dd573337c973
 https://cambio21.cl/deportes/ronaldinho-es-baja-para-duelo-de-leyendas-en-chile-lo-reemplazara-adriano-el-emperador-69c20bfbeb37ee362f03b5ae
+https://cambio21.cl/pais/australia-extraditara-a-chile-a-adriana-rivas-exagente-de-la-dina-y-secretaria-personal-del-mamo-contreras-juicio-por-extradicion-duro-7-anos-69d49100d39f014f6f73ec36
 https://cambio21.cl/pais/cambio-de-hora-en-chile-esta-media-noche-regresamos-al-horario-de-invierno-69d11b2439d3c011cd184953
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
@@ -29,6 +31,7 @@ https://elpais.com/chile/2026-03-27/un-estudiante-de-un-colegio-del-norte-de-chi
 https://elpais.com/chile/2026-03-30/amenazas-de-muerte-y-proteccion-policial-ser-alcalde-en-chile-se-vuelve-un-trabajo-peligroso.html
 https://elpais.com/chile/2026-04-02/cambio-de-hora-en-chile-2026-cuando-y-como-se-modifican-los-relojes-para-el-horario-de-invierno.html
 https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
+https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de-la-luna.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
@@ -333,6 +336,7 @@ titulo::aston martin vantage s en chile más potencia y precisión en clave depo
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
+titulo::australia extraditará a chile a adriana rivas exagente de la dina y secretaria personal del mamo contreras juicio por extradición duró 7 años
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
@@ -467,6 +471,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
+titulo::iván zamorano compara crisis de la selección chilena con reciente fracaso de italia ha perdido identidad
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
@@ -564,6 +569,7 @@ titulo::probado en nogales el invento que puede revolucionar la extracción de c
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su desconocida afición
+titulo::quién fue el chileno que se declaró dueño de la luna
 titulo::quiñenco anuncia pago de dividendo por más de us630 millones
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
