@@ -298,6 +298,7 @@ https://www.theclinic.cl/2026/04/02/la-preocupacion-de-las-aerolineas-por-proble
 https://www.theclinic.cl/2026/04/02/latam-invierte-us60-millones-para-instalar-wi-fi-en-los-vuelos-de-larga-distancia-sera-la-primera-aerolinea-del-continente-en-ofrecer-este-servicio/
 https://www.theclinic.cl/2026/04/02/municipio-de-monte-patria-debera-pagar-280-millones-a-familia-de-menor-fallecido-por-covid-que-no-recibio-atencion-oportuna/
 https://www.theclinic.cl/2026/04/03/knino-canal-perros-claro-vtr/
+https://www.theclinic.cl/2026/04/06/bancoestado-estrena-credito-especial-para-comprar-autos-hibridos-en-medio-del-alza-de-combustibles/
 https://www.theclinic.cl/2026/04/06/los-momentos-que-marcaron-el-debut-de-luis-slimming-y-el-elenco-de-el-desestrece-en-canal-13/
 https://www.theclinic.cl/2026/04/06/mercado-automotor-chileno/
 https://www.theclinic.cl/2026/04/06/minvu-enfrenta-falencias-en-red-de-parques-urbanos-y-apuesta-por-reforzar-seguridad-mapocho-rio-y-parque-cerrillos-mientras-busca-reimpulsar-chile-nativo/
@@ -340,6 +341,7 @@ titulo::banco central chile avanza en el pago digital pero el efectivo se niega 
 titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
 titulo::banco central frena bajas de tasas y advierte que inflación volverá a 4 por shock petrolero
 titulo::bancoestado anuncia eliminación en cobro de 300 para transferencias electrónicas hacia otros bancos
+titulo::bancoestado estrena crédito especial para comprar autos híbridos en medio del alza de combustibles
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
