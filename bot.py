@@ -604,68 +604,80 @@ def enviar_telegram(mensaje: str) -> None:
 
 def _score_titulo(titulo: str) -> int:
     titulo_normalizado = titulo.lower()
-    if any(token in titulo_normalizado for token in NEGATIVOS):
-        return -10
-
     score = 0
     score += sum(2 for token in POSITIVOS_FUERTES if token in titulo_normalizado)
     score += sum(1 for token in POSITIVOS_MODERADOS if token in titulo_normalizado)
-
-    if any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE):
-        score += 3
-
+    score += sum(3 for token in PALABRAS_CHILE_RELEVANTE if token in titulo_normalizado)
+    score -= min(6, sum(2 for token in NEGATIVOS if token in titulo_normalizado))
     return score
 
 
 def _es_titulo_candidato(titulo: str) -> bool:
-    # Umbral reforzado para priorizar relevancia y reducir llamadas a IA.
-    return _score_titulo(titulo) >= 2
+    return _score_titulo(titulo) >= 1
 
 
-def _es_relevante_para_chile(titulo: str, fuente_base: str) -> bool:
-    titulo_normalizado = titulo.lower()
-    score = _score_titulo(titulo)
-    tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
-    tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
-    tiene_contexto_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE)
+def _normalizar_texto_noticia(entry: feedparser.FeedParserDict, fuente_base: str) -> str:
+    titulo = getattr(entry, "title", "") or ""
+    resumen = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
+    fuente = getattr(getattr(entry, "source", {}), "title", "") if getattr(entry, "source", None) else ""
+    tags = " ".join(getattr(tag, "term", "") for tag in getattr(entry, "tags", []))
+    return " ".join([titulo, resumen, fuente, tags, fuente_base]).lower()
 
-    # Caso ideal: señal directa de Chile + beneficio concreto.
+
+def _score_noticia(titulo: str, texto_noticia: str, fuente_base: str) -> int:
+    score_titulo = _score_titulo(titulo)
+    score_contexto = 0
+    score_contexto += min(6, sum(2 for token in PALABRAS_INVERSION_BENEFICIO if token in texto_noticia))
+    score_contexto += min(4, sum(2 for token in PALABRAS_CHILE_ESTRICTAS if token in texto_noticia))
+    score_contexto -= min(6, sum(1 for token in NEGATIVOS if token in texto_noticia))
+
+    # Dar oportunidad extra a fuentes chilenas con señales concretas.
+    if fuente_base in FUENTES_CHILE and (
+        any(token in texto_noticia for token in PALABRAS_INVERSION_BENEFICIO)
+        or any(token in texto_noticia for token in PALABRAS_CHILE_RELEVANTE)
+    ):
+        score_contexto += 2
+
+    return score_titulo + score_contexto
+
+
+def _es_relevante_para_chile(texto_noticia: str, fuente_base: str, score: int) -> bool:
+    tiene_chile = any(token in texto_noticia for token in PALABRAS_CHILE_ESTRICTAS)
+    tiene_beneficio = any(token in texto_noticia for token in PALABRAS_INVERSION_BENEFICIO)
+    tiene_contexto_chile = any(token in texto_noticia for token in PALABRAS_CHILE_RELEVANTE)
+
     if tiene_chile and tiene_beneficio:
         return True
 
-    # Si hay contexto Chile y score sólido, permitimos pasar el titular.
-    if (tiene_chile or tiene_contexto_chile) and score >= 3:
+    if (tiene_chile or tiene_contexto_chile) and score >= 2:
         return True
 
-    # Si viene de una fuente chilena, permitimos titulares de beneficio concreto
-    # o titulares con score claramente alto para que Groq haga el filtro final.
-    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 5):
+    if fuente_base in FUENTES_CHILE and (tiene_beneficio or score >= 3):
         return True
 
     return False
 
 
 
-def _razones_titulo(titulo: str, fuente_base: str) -> Tuple[int, List[str]]:
-    titulo_normalizado = titulo.lower()
-    score = _score_titulo(titulo)
+def _razones_noticia(titulo: str, texto_noticia: str, fuente_base: str) -> Tuple[int, List[str]]:
+    score = _score_noticia(titulo, texto_noticia, fuente_base)
     razones: List[str] = []
 
-    if score < 0:
+    if score < -1:
         razones.append("negativo")
-    if score < 3:
+    if score < 1:
         razones.append("score_bajo")
 
-    tiene_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_ESTRICTAS)
-    tiene_beneficio = any(token in titulo_normalizado for token in PALABRAS_INVERSION_BENEFICIO)
-    tiene_contexto_chile = any(token in titulo_normalizado for token in PALABRAS_CHILE_RELEVANTE)
+    tiene_chile = any(token in texto_noticia for token in PALABRAS_CHILE_ESTRICTAS)
+    tiene_beneficio = any(token in texto_noticia for token in PALABRAS_INVERSION_BENEFICIO)
+    tiene_contexto_chile = any(token in texto_noticia for token in PALABRAS_CHILE_RELEVANTE)
 
-    if not _es_relevante_para_chile(titulo, fuente_base):
+    if not _es_relevante_para_chile(texto_noticia, fuente_base, score):
         if not (tiene_chile or tiene_contexto_chile):
             razones.append("sin_contexto_chile")
         if not tiene_beneficio and fuente_base not in FUENTES_CHILE:
             razones.append("sin_beneficio")
-        if fuente_base in FUENTES_CHILE and not tiene_beneficio and score < 5:
+        if fuente_base in FUENTES_CHILE and not tiene_beneficio and score < 3:
             razones.append("fuente_chilena_insuficiente")
 
     return score, razones
@@ -749,30 +761,36 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                         logger.warning("Feed con formato irregular: %s", fuente)
 
                 for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
-                    stats["entradas_total"] += 1
-                    titulo = getattr(entry, "title", "").strip()
-                    link = getattr(entry, "link", "").strip()
-                    if not titulo or not link:
-                        continue
-                    titulo_normalizado = _normalizar_titulo_duplicado(titulo)
-                    if link in vistos or titulo_normalizado in titulos_vistos:
-                        stats["duplicadas"] += 1
-                        continue
+                    try:
+                        stats["entradas_total"] += 1
+                        titulo = getattr(entry, "title", "").strip()
+                        link = getattr(entry, "link", "").strip()
+                        if not titulo or not link:
+                            continue
+                        titulo_normalizado = _normalizar_titulo_duplicado(titulo)
+                        if link in vistos or titulo_normalizado in titulos_vistos:
+                            stats["duplicadas"] += 1
+                            continue
 
-                    score, razones = _razones_titulo(titulo, url)
-                    if score < 0:
-                        stats["desc_negativo"] += 1
-                    elif score < 3:
-                        stats["desc_score"] += 1
-                    elif razones:
-                        stats["desc_chile"] += 1
+                        texto_noticia = _normalizar_texto_noticia(entry, url)
+                        score, razones = _razones_noticia(titulo, texto_noticia, url)
+                        if score < -1:
+                            stats["desc_negativo"] += 1
+                        elif score < 1:
+                            stats["desc_score"] += 1
+                        elif razones:
+                            stats["desc_chile"] += 1
 
-                    if score >= 2 and not razones:
-                        noticias.append({"titulo": titulo, "link": link})
-                        vistos.add(link)
-                        titulos_vistos.add(titulo_normalizado)
-                    elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
-                        muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
+                        if score >= 1 and not razones:
+                            resumen = getattr(entry, "summary", "") or getattr(entry, "description", "")
+                            noticias.append({"titulo": titulo, "link": link, "resumen": resumen})
+                            vistos.add(link)
+                            titulos_vistos.add(titulo_normalizado)
+                        elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
+                            muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
+                    except Exception as entry_error:  # noqa: BLE001
+                        logger.debug("Entrada con error en %s: %s", url, entry_error)
+                        continue
 
                 if fuente != url:
                     logger.info("Fuente recuperada con fallback: %s -> %s", url, fuente)
@@ -787,30 +805,36 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                         if getattr(feed, "entries", []):
                             logger.info("Fuente recuperada sin headers (415): %s", fuente)
                             for entry in feed.entries[:MAX_NOTICIAS_POR_FEED]:
-                                stats["entradas_total"] += 1
-                                titulo = getattr(entry, "title", "").strip()
-                                link = getattr(entry, "link", "").strip()
-                                if not titulo or not link:
-                                    continue
-                                titulo_normalizado = _normalizar_titulo_duplicado(titulo)
-                                if link in vistos or titulo_normalizado in titulos_vistos:
-                                    stats["duplicadas"] += 1
-                                    continue
+                                try:
+                                    stats["entradas_total"] += 1
+                                    titulo = getattr(entry, "title", "").strip()
+                                    link = getattr(entry, "link", "").strip()
+                                    if not titulo or not link:
+                                        continue
+                                    titulo_normalizado = _normalizar_titulo_duplicado(titulo)
+                                    if link in vistos or titulo_normalizado in titulos_vistos:
+                                        stats["duplicadas"] += 1
+                                        continue
 
-                                score, razones = _razones_titulo(titulo, url)
-                                if score < 0:
-                                    stats["desc_negativo"] += 1
-                                elif score < 3:
-                                    stats["desc_score"] += 1
-                                elif razones:
-                                    stats["desc_chile"] += 1
+                                    texto_noticia = _normalizar_texto_noticia(entry, url)
+                                    score, razones = _razones_noticia(titulo, texto_noticia, url)
+                                    if score < -1:
+                                        stats["desc_negativo"] += 1
+                                    elif score < 1:
+                                        stats["desc_score"] += 1
+                                    elif razones:
+                                        stats["desc_chile"] += 1
 
-                                if score >= 2 and not razones:
-                                    noticias.append({"titulo": titulo, "link": link})
-                                    vistos.add(link)
-                                    titulos_vistos.add(titulo_normalizado)
-                                elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
-                                    muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
+                                    if score >= 1 and not razones:
+                                        resumen = getattr(entry, "summary", "") or getattr(entry, "description", "")
+                                        noticias.append({"titulo": titulo, "link": link, "resumen": resumen})
+                                        vistos.add(link)
+                                        titulos_vistos.add(titulo_normalizado)
+                                    elif len(muestras_descartadas) < MAX_MUESTRAS_DIAGNOSTICO:
+                                        muestras_descartadas.append(f"{titulo} [{','.join(razones) or 'descartado'}]")
+                                except Exception as entry_error:  # noqa: BLE001
+                                    logger.debug("Entrada con error en %s (415): %s", url, entry_error)
+                                    continue
                             feed_cargado = True
                             break
                     except Exception as inner_error:  # noqa: BLE001
@@ -829,7 +853,14 @@ def obtener_noticias() -> tuple[List[Dict[str, str]], Dict[str, int], List[str]]
                 ultimo_error,
             )
 
-    noticias.sort(key=lambda item: _score_titulo(item["titulo"]), reverse=True)
+    noticias.sort(
+        key=lambda item: _score_noticia(
+            item["titulo"],
+            " ".join([item.get("titulo", ""), item.get("resumen", ""), item.get("link", "")]).lower(),
+            item.get("link", ""),
+        ),
+        reverse=True,
+    )
     stats["candidatas"] = len(noticias)
     stats["fuentes_error"] = errores_por_fuente
     logger.info("Total de noticias candidatas: %s", stats["candidatas"])
@@ -860,11 +891,15 @@ def _tiene_ingles_consecutivo(titulo: str) -> bool:
     return False
 
 
-def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
+def es_avance_positivo(cliente: Groq, noticia: Dict[str, str]) -> bool:
+    titulo = noticia["titulo"]
+    resumen = (noticia.get("resumen") or "").strip()
+    fuente = _extraer_fuente(noticia["link"])
     prompt = (
         "Eres un filtro editorial estricto del perfil @ElChilometro en Twitter.\n"
         "REGLA ABSOLUTA: Si la noticia no tiene un beneficio DIRECTO y CONCRETO para Chile o los chilenos con datos verificables, responde NO inmediatamente. No aprobar noticias de otros países sin relación directa con Chile, no aprobar noticias de entretenimiento, farándula, deportes locales, turismo, gastronomía o política sin proyecto concreto.\n"
         "Criterio único: ¿Esta noticia anuncia algo concreto y positivo que beneficia directamente a Chile o a los chilenos?\n\n"
+        "Evalúa usando título, resumen y fuente. Si hay evidencia razonable y verificable, prioriza NO generar falsos negativos.\n\n"
         "Aprueba SOLO si el titular menciona explícitamente a Chile/chilenos o una institución/empresa chilena y además contiene un hecho económico concreto, por ejemplo:\n"
         "- inversión en Chile con cifras\n"
         "- proyecto inaugurado o aprobado en Chile\n"
@@ -902,7 +937,9 @@ def es_avance_positivo(cliente: Groq, titulo: str) -> bool:
         "- noticias de fracasos empresariales aunque sean de empresas tech\n"
         "- cualquier noticia donde Chile aparezca como receptor pasivo sin acción concreta\n"
         "- noticias en inglés\n\n"
-        f'Noticia: "{titulo}"\n\n'
+        f'Título: "{titulo}"\n'
+        f'Resumen: "{resumen}"\n'
+        f'Fuente: "{fuente}"\n\n'
         "Responde SOLO con SÍ o NO, sin explicación."
     )
     respuesta = cliente.chat.completions.create(
@@ -1047,10 +1084,9 @@ def main() -> None:
             if _tiene_ingles_consecutivo(noticia["titulo"]):
                 descartadas_idioma += 1
                 logger.info("Descartada por idioma: %s", noticia["titulo"])
-                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
                 continue
 
-            decision = es_avance_positivo(cliente, noticia["titulo"])
+            decision = es_avance_positivo(cliente, noticia)
             if decision:
                 post = generar_post(cliente, noticia)
                 logger.info("Aprobada por IA: %s", noticia["titulo"])
@@ -1060,7 +1096,6 @@ def main() -> None:
             else:
                 descartadas_ia += 1
                 logger.info("Descartada por IA: %s", noticia["titulo"])
-                links_nuevos.update({noticia["link"], _marca_titulo_procesado(noticia["titulo"])})
                 titulos_descartados.append(noticia["titulo"])
         except Exception as error:
             logger.exception("Error procesando noticia: %s", noticia["titulo"])
