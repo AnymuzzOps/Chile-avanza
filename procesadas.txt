@@ -166,6 +166,7 @@ https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-
 https://www.latercera.com/politica/noticia/la-moneda-ajusta-la-estrategia-para-enfrentar-su-proyecto-ancla-de-reconstruccion-nacional/
 https://www.latercera.com/politica/noticia/macaya-pide-altura-de-miras-en-chile-vamos-tras-fuego-amigo-por-remocion-de-directora-del-sernameg/
 https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-seguridad-escolar-ingresan-con-suma-urgencia-y-que-megarreforma-esta-en-revision-final/
+https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
@@ -321,6 +322,7 @@ https://www.theclinic.cl/2026/04/06/minvu-enfrenta-falencias-en-red-de-parques-u
 https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/
 https://www.theclinic.cl/2026/04/06/tesoreria-inicia-cobros-de-deuda-cae-1-833-personas-con-sueldos-sobre-5-millones-no-podran-acceder-a-convenio-y-arriesgan-demanda-y-embargo/
 https://www.theclinic.cl/2026/04/06/tribunal-ambiental-rechaza-reclamos-de-vecinos-y-da-luz-verde-a-data-center-de-amazon-en-huechuraba-inversion-supera-los-us200-millones/
+https://www.theclinic.cl/2026/04/07/anuncio-del-gobierno-habria-impulsado-un-alza-de-pagos-de-deudas-cae-quiroz-asegura-que-recaudacion-paso-de-30-millones-a-200-millones-diarios/
 https://www.theclinic.cl/2026/04/07/con-estacionamientos-subterraneos-la-ampliacion-de-av-las-condes-y-la-revitalizacion-de-la-casona-el-proyecto-de-lo-barnechea-para-recuperar-la-plaza-san-enrique/
 https://www.theclinic.cl/2026/04/07/el-antes-y-despues-del-centro-de-santiago-con-el-proyecto-nueva-alameda-gore-metropolitano-muestra-como-se-veran-diferentes-puntos-con-nuevas-obras/
 https://www.theclinic.cl/2026/04/07/gac-motor-en-chile-con-gildemeister/
@@ -346,6 +348,7 @@ titulo::andes salud adquiere el control de clínica imet de la región de magall
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
+titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
@@ -510,6 +513,7 @@ titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
+titulo::la digitalización del capital humano la nueva ventaja estructural de las empresas chilenas
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
