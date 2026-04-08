@@ -89,6 +89,7 @@ https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comun
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir-mas-de-51-millones-de-declaraciones/
+https://www.lanacion.cl/subsidio-familiar-automatico-cuales-son-los-requisitos-para-acceder-al-beneficio/
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
@@ -333,6 +334,7 @@ https://www.theclinic.cl/2026/04/07/el-antes-y-despues-del-centro-de-santiago-co
 https://www.theclinic.cl/2026/04/07/gac-motor-en-chile-con-gildemeister/
 https://www.theclinic.cl/2026/04/07/los-suv-se-posicionaron-como-los-autos-mas-vendidos-durante-el-primer-trimestre-de-2026-mg-zx-y-suzuki-fronx-fueron-los-favoritos-de-los-chilenos/
 https://www.theclinic.cl/2026/04/07/permitiran-estudiar-la-estructura-interna-de-la-isla-instalan-primera-red-de-sismometros-en-juan-fernandez/
+https://www.theclinic.cl/2026/04/08/nuevas-motos-honda-en-chile/
 https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -644,11 +646,13 @@ titulo::startup chilena de venta de equipos reacondicionados ingresó a la selec
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
+titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
+titulo::tres motos tres perfiles y una normativa honda reordena su oferta urbana en chile
 titulo::tribunal ambiental rechaza reclamos de vecinos y da luz verde a data center de amazon en huechuraba inversión supera los us200 millones
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
