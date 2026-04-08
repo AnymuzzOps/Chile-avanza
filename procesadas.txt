@@ -124,6 +124,7 @@ https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
+https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/china-pide-sinceridad-para-un-acuerdo-de-paz-y-critica-nuevamente-la-ofensiva-de-estados-unidos-e-israel-contra-iran/
@@ -250,6 +251,7 @@ https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-seman
 https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
+https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
@@ -470,6 +472,7 @@ titulo::el último tren para italia y bolivia el detalle de los repechajes que e
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
 titulo::empresa de tecnología portátil para la salud recauda us 575 millones con inversión de cristiano ronaldo
 titulo::empresas cierran 2025 con ganancias por más de us32 mil millones y codelco anota las mayores utilidades
+titulo::en el día mundial de la salud presidente kast minsal y alcalde de santiago destacan la efectividad del programa nacional de vacunación
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
 titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilena de ingeniería de transporte critica corte de financiamiento a ciclovía de la alameda
 titulo::en tres ciudades de chile los cóndores ya tienen fecha para su estreno en la nations cup
@@ -584,6 +587,7 @@ titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de
 titulo::no existen problemas de abastecimiento la aclaración de enap y copec por alta demanda de combustible tras inminente alza histórica de bencinas
 titulo::novandino litio presenta su nueva marca y proyecta crecimiento con foco en sostenibilidad e innovación
 titulo::nuevo aston martin vantage roadster ya está en chile
+titulo::nuevo audi q3 debuta en chile más tecnológico eficiente y con diseño renovado
 titulo::nuevo ingrediente para la inflación camport y expertos advierten que alza de costos logísticos presionará precios de importaciones y exportaciones
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
