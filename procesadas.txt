@@ -123,6 +123,7 @@ https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predic
 https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-potencia-y-precision-en-clave-deportiva/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
+https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
@@ -153,6 +154,7 @@ https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-for
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
+https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bicentenario-de-cerrillos-para-desarrollo-de-proyecto-habitacional-que-beneficiara-a-820-familias/
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
@@ -335,6 +337,7 @@ https://www.theclinic.cl/2026/04/07/gac-motor-en-chile-con-gildemeister/
 https://www.theclinic.cl/2026/04/07/los-suv-se-posicionaron-como-los-autos-mas-vendidos-durante-el-primer-trimestre-de-2026-mg-zx-y-suzuki-fronx-fueron-los-favoritos-de-los-chilenos/
 https://www.theclinic.cl/2026/04/07/permitiran-estudiar-la-estructura-interna-de-la-isla-instalan-primera-red-de-sismometros-en-juan-fernandez/
 https://www.theclinic.cl/2026/04/08/nuevas-motos-honda-en-chile/
+https://www.theclinic.cl/2026/04/08/preferencia-por-agua-potable-aumenta-segun-estudio/
 https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -436,6 +439,7 @@ titulo::cómo han evolucionado los directorios de startups en chile por luis her
 titulo::cómo volvo superó a tesla en chile
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
+titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
 titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
@@ -581,6 +585,7 @@ titulo::minsal informa que uso de mascarillas será obligatorio en servicios de 
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
+titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
@@ -607,6 +612,7 @@ titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
+titulo::preferencia por el consumo de agua de la llave en chile aumenta 20 puntos en dos años 59 de los chilenos confían en la calidad del agua potable
 titulo::premios iniciativas sustentables 2025 la nueva edición que reconocerá a quienes transforman chile con impacto real
 titulo::presentan proyecto eólico por más de us5000 millones para la región del biobío
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
