@@ -40,6 +40,7 @@ https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocim
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
+https://www.ex-ante.cl/banco-central-aumenta-reservas-de-oro-durante-marzo-y-las-deposita-en-londres/
 https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efectivo-se-niega-a-desaparecer/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
@@ -380,6 +381,7 @@ titulo::australia rechaza el último recurso de adriana rivas y allana su extrad
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
+titulo::banco central aumenta reservas de oro durante marzo y las deposita en londres
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
 titulo::banco central chile avanza en el pago digital pero el efectivo se niega a desaparecer
 titulo::banco central espera las medidas del nuevo gobierno en medio de incertidumbre internacional
