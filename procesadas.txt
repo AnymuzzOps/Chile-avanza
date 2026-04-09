@@ -80,6 +80,7 @@ https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tra
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
+https://www.lanacion.cl/gobierno-ingresara-indicaciones-al-proyecto-escuelas-protegidas-para-ampliarlo-a-la-educacion-superior/
 https://www.lanacion.cl/la-roja-enfrenta-a-cabo-verde-en-su-primer-amistoso-del-ano-posible-formacion-y-la-baja-de-ultima-hora-que-sufrio-chile/
 https://www.lanacion.cl/la-tecnologia-detras-de-las-plataformas-de-casino-en-vivo-y-su-crecimiento-en-chile/
 https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
@@ -513,6 +514,7 @@ titulo::gobierno confirma a cristián muga como presidente del directorio de ena
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
+titulo::gobierno ingresará indicaciones al proyecto escuelas protegidas para ampliarlo a la educación superior
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
 titulo::gonzalo said en carta a sus accionistas destaca desempeño de cocacola andina en chile y el futuro vemos con optimismo los mercados donde operamos
 titulo::griffithjones exconsejera del banco central cuestiona medidas económicas del gobierno vamos a hacer más profundo un problema que viene de afuera
