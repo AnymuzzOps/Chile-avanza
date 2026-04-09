@@ -125,6 +125,7 @@ https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
+https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-de-gac-motor-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
@@ -505,6 +506,7 @@ titulo::evento travel sale bate récord histórico de ventas totaliza us62 millo
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
+titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
