@@ -211,6 +211,7 @@ https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-pa
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
+https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
 https://www.latercera.com/pulso/noticia/justicia-ambiental-da-luz-verde-a-data-center-de-amazon-en-huechuraba-de-us205-millones/
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
@@ -527,6 +528,7 @@ titulo::investigadores chilenos reciben reconocimiento internacional por avance 
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::irán reporta avances en mediación de pakistán ad portas de vencer ultimátum de eeuu
 titulo::israel advierte a la población de irán para que no usen los trenes o se acerquen a infraestructura ferroviaria
+titulo::itaú chile renueva su directorio con la llegada de un exhistórico de santander y aprueba dividendo histórico
 titulo::iván zamorano compara crisis de la selección chilena con reciente fracaso de italia ha perdido identidad
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
