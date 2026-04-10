@@ -131,6 +131,7 @@ https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-d
 https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
+https://www.latercera.com/mtonline/noticia/smart-5-confirma-su-fecha-de-aterrizaje-en-chile/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/china-pide-sinceridad-para-un-acuerdo-de-paz-y-critica-nuevamente-la-ofensiva-de-estados-unidos-e-israel-contra-iran/
@@ -217,6 +218,7 @@ https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-an
 https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
 https://www.latercera.com/pulso/noticia/justicia-ambiental-da-luz-verde-a-data-center-de-amazon-en-huechuraba-de-us205-millones/
+https://www.latercera.com/pulso/noticia/justicia-confirma-condena-a-walmart-chile-por-bullying-laboral-contra-trabajadora-venezolana/
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para-aumentar-el-directorio-de-antarchile-y-los-reclamos-de-algunos-minoritarios/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
@@ -348,6 +350,7 @@ https://www.theclinic.cl/2026/04/08/nuevas-motos-honda-en-chile/
 https://www.theclinic.cl/2026/04/08/preferencia-por-agua-potable-aumenta-segun-estudio/
 https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/
 https://www.theclinic.cl/2026/04/09/casaideas-y-kn-produjeron-247-millones-de-productos-en-nuevo-centro-de-distribucion-empleando-a-500-personas/
+https://www.theclinic.cl/2026/04/10/arriesgan-a-multas-de-mas-de-100-millones-sernac-fiscalizara-a-tiendas-del-retail-por-la-aplicacion-de-descuentos-asociados-al-pago-con-tarjetas/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -371,6 +374,7 @@ titulo::ante su separación con la anfp quiénes dirigen actualmente la federaci
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
+titulo::arriesgan a multas de más de 100 millones sernac fiscalizará a tiendas del retail por la aplicación de descuentos asociados al pago con tarjetas
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
@@ -541,6 +545,7 @@ titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
 titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
+titulo::justicia confirma condena a walmart chile por bullying laboral contra trabajadora venezolana
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la ambiciosa proyección de ventas de lepas para su debut en chile
@@ -664,6 +669,7 @@ titulo::shield ai startup que fabrica drones militares recauda us 2000 millones 
 titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
 titulo::sii y tgr inician operación renta 2026 proyectan recibir más de 51 millones de declaraciones
+titulo::smart 5 confirma su fecha de aterrizaje en chile
 titulo::sofofa advierte sobre el enfriamiento de la economía y pide simplificar permisos para reactivar us 96000 millones en inversiones
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
