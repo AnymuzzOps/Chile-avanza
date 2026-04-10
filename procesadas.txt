@@ -126,6 +126,7 @@ https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-p
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
+https://www.latercera.com/mtonline/noticia/el-kia-soluto-se-prepara-para-sumar-en-chile-una-version-automatica/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-de-gac-motor-en-chile/
 https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
@@ -355,6 +356,7 @@ https://www.theclinic.cl/2026/04/09/casaideas-y-kn-produjeron-247-millones-de-pr
 https://www.theclinic.cl/2026/04/10/arriesgan-a-multas-de-mas-de-100-millones-sernac-fiscalizara-a-tiendas-del-retail-por-la-aplicacion-de-descuentos-asociados-al-pago-con-tarjetas/
 https://www.theclinic.cl/2026/04/10/racha-en-el-precio-del-cobre-analistas-proyectan-mas-ingresos-para-el-estado-y-un-posible-alivio-para-las-arcas-fiscales/
 https://www.theclinic.cl/2026/04/10/recuperacion-de-espacios-publicos-en-maipu/
+https://www.theclinic.cl/2026/04/10/walmart-chile-anuncia-congelamiento-de-precios-de-2-mil-productos-hasta-julio-incluye-alimentos-de-consumo-diario-en-403-locales-y-ventas-online/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -485,6 +487,7 @@ titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
 titulo::el hombre que trajo el primer mac a chile
+titulo::el kia soluto se prepara para sumar en chile una versión automática
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
 titulo::el nuevo traspié de la ministra mara sedini aseguró que galvarino apablaza está condenado pero aún debe ser procesado por la justicia chilena
@@ -701,6 +704,7 @@ titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
+titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
 titulo::último gran análisis de mercado predice preocupante futuro para el cobre
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
