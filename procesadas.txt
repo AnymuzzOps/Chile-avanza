@@ -252,6 +252,7 @@ https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-ch
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
+https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
@@ -264,6 +265,7 @@ https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nue
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
+https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
@@ -351,6 +353,7 @@ https://www.theclinic.cl/2026/04/08/preferencia-por-agua-potable-aumenta-segun-e
 https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/
 https://www.theclinic.cl/2026/04/09/casaideas-y-kn-produjeron-247-millones-de-productos-en-nuevo-centro-de-distribucion-empleando-a-500-personas/
 https://www.theclinic.cl/2026/04/10/arriesgan-a-multas-de-mas-de-100-millones-sernac-fiscalizara-a-tiendas-del-retail-por-la-aplicacion-de-descuentos-asociados-al-pago-con-tarjetas/
+https://www.theclinic.cl/2026/04/10/racha-en-el-precio-del-cobre-analistas-proyectan-mas-ingresos-para-el-estado-y-un-posible-alivio-para-las-arcas-fiscales/
 https://www.theclinic.cl/2026/04/10/recuperacion-de-espacios-publicos-en-maipu/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -497,6 +500,7 @@ titulo::empresa de tecnología portátil para la salud recauda us 575 millones c
 titulo::empresas cierran 2025 con ganancias por más de us32 mil millones y codelco anota las mayores utilidades
 titulo::en el día mundial de la salud presidente kast minsal y alcalde de santiago destacan la efectividad del programa nacional de vacunación
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
+titulo::en pleno desierto de atacama el telescopio submilimétrico más alto del mundo ya está operativo en chile
 titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilena de ingeniería de transporte critica corte de financiamiento a ciclovía de la alameda
 titulo::en tres ciudades de chile los cóndores ya tienen fecha para su estreno en la nations cup
 titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
@@ -653,6 +657,7 @@ titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su des
 titulo::quién fue el chileno que se declaró dueño de la luna
 titulo::quiñenco anuncia pago de dividendo por más de us630 millones
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
+titulo::racha en el precio del cobre analistas proyectan más ingresos para el estado y un posible alivio para las arcas fiscales
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
 titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
@@ -678,6 +683,7 @@ titulo::startup chilena de venta de equipos reacondicionados ingresó a la selec
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
+titulo::subsecretaria de salud pública encabeza operativo de vacunación extramuros en la región de ohiggins
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
