@@ -128,6 +128,7 @@ https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-e
 https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-de-gac-motor-en-chile/
+https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
@@ -542,6 +543,7 @@ titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos an
 titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
+titulo::la ambiciosa proyección de ventas de lepas para su debut en chile
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
