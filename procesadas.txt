@@ -140,6 +140,7 @@ https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-t
 https://www.latercera.com/mundo/noticia/israel-advierte-a-la-poblacion-de-iran-contra-usar-el-tren-o-acercarse-a-infraestructura-ferroviaria/
 https://www.latercera.com/mundo/noticia/operacion-rusa-incluyo-campana-de-desinformacion-para-tensionar-relacion-entre-chile-y-argentina/
 https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-siria-en-damasco-para-negociar-nuevos-acuerdos-de-seguridad/
+https://www.latercera.com/nacional/noticia/arrau-detalla-avances-del-plan-escudo-fronterizo-en-colchane-expansion-de-zanjas-y-mejoramiento-de-infraestructura/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
@@ -247,6 +248,7 @@ https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-h
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
+https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
@@ -381,6 +383,7 @@ titulo::ante su separación con la anfp quiénes dirigen actualmente la federaci
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
+titulo::arrau detalla avances del plan escudo fronterizo en colchane expansión de zanjas y mejoramiento de infraestructura
 titulo::arriesgan a multas de más de 100 millones sernac fiscalizará a tiendas del retail por la aplicación de descuentos asociados al pago con tarjetas
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
@@ -450,6 +453,7 @@ titulo::consejo asesor de la superintendencia de pensiones para la licitación d
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
 titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
+titulo::corfo en los premios iniciativas sustentables cuando el fomento público y la sostenibilidad dejan de ser conversaciones paralelas
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
