@@ -223,6 +223,7 @@ https://www.latercera.com/pulso/noticia/justicia-confirma-condena-a-walmart-chil
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para-aumentar-el-directorio-de-antarchile-y-los-reclamos-de-algunos-minoritarios/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
+https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presenta-proyecto-de-93-casas-para-la-zona-de-papudo-por-us21-millones/
@@ -595,6 +596,7 @@ titulo::los días clave para el futuro de julio césar rodríguez adelanta su sa
 titulo::los suv se posicionaron como los autos más vendidos durante el primer trimestre de 2026 mg zx y suzuki fronx fueron los favoritos de los chilenos
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
 titulo::luto en el fútbol chileno fallece adán godoy mundialista del 62
+titulo::líderes de lundin mining analizan impactos por conflicto en medio oriente y detallan inversiones en chile y el proyecto vicuña
 titulo::macaya pide altura de miras en chile vamos tras fuego amigo por remoción de directora del sernameg
 titulo::magdalena atria exembajadora de chile en alemania y decisión del gobierno sobre colonia dignidad afectará negativamente la relación entre ambos países
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
