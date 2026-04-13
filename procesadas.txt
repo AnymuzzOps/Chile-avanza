@@ -242,6 +242,7 @@ https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ant
 https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-principal-de-pwc-en-chile-reemplaza-al-historico-renzo-corona/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
+https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
@@ -689,6 +690,7 @@ titulo::salfacorp emite bono por más de us 60 millones para financiar plan de i
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
+titulo::sec anuncia nuevas multas a engie y generadora metropolitana por apagón de febrero de 2025
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
