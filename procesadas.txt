@@ -200,6 +200,7 @@ https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-m
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
 https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
+https://www.latercera.com/pulso/noticia/costo-de-internet-en-chile-argentina-peru-conexiones-5g/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
@@ -655,6 +656,7 @@ titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
+titulo::precios de internet en chile son mucho más bajos que en argentina o perú y 5g ya supera las 10 millones de conexiones
 titulo::preferencia por el consumo de agua de la llave en chile aumenta 20 puntos en dos años 59 de los chilenos confían en la calidad del agua potable
 titulo::premios iniciativas sustentables 2025 la nueva edición que reconocerá a quienes transforman chile con impacto real
 titulo::presentan proyecto de 93 casas para la zona de papudo por us21 millones
