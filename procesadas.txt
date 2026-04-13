@@ -235,6 +235,7 @@ https://www.latercera.com/pulso/noticia/primeros-avances-en-la-ley-de-ferias-lib
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/reingresan-proyecto-parque-eolico-las-lilas-y-monto-de-inversion-baja-de-us5100-millones-a-us510-millones/
+https://www.latercera.com/pulso/noticia/remesas-enviadas-desde-chile-retoman-alzas-en-2025-despues-de-tres-anos-de-caidas/
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-principal-de-pwc-en-chile-reemplaza-al-historico-renzo-corona/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
@@ -672,6 +673,7 @@ titulo::racha en el precio del cobre analistas proyectan más ingresos para el e
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
 titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
+titulo::remesas enviadas desde chile retoman alzas en 2025 después de tres años de caídas
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
