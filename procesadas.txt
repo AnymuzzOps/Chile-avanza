@@ -75,6 +75,7 @@ https://www.fayerwayer.com/internet/2026/03/30/cuando-se-cambia-la-hora-en-chile
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
+https://www.lanacion.cl/becas-sence-para-impulsar-empleabilidad-digital-revisa-como-postular/
 https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
@@ -412,6 +413,7 @@ titulo::banco mundial sube la proyección del crecimiento del pib de chile para 
 titulo::bancoestado anuncia eliminación en cobro de 300 para transferencias electrónicas hacia otros bancos
 titulo::bancoestado estrena crédito especial para comprar autos híbridos en medio del alza de combustibles
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
+titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
