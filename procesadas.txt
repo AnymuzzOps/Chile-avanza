@@ -90,6 +90,7 @@ https://www.lanacion.cl/la-tecnologia-detras-de-las-plataformas-de-casino-en-viv
 https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
 https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
+https://www.lanacion.cl/poduje-anuncia-casas-sociales-cerca-del-colegio-nido-de-aguilas-y-parque-arauco/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
@@ -670,6 +671,7 @@ titulo::permitirán estudiar la estructura interna de la isla instalan primera r
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
+titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::precios de internet en chile son mucho más bajos que en argentina o perú y 5g ya supera las 10 millones de conexiones
 titulo::preferencia por el consumo de agua de la llave en chile aumenta 20 puntos en dos años 59 de los chilenos confían en la calidad del agua potable
