@@ -47,6 +47,7 @@ https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
+https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-carceles-y-construir-nuevas-via-concesiones/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
@@ -507,6 +508,7 @@ titulo::el kia soluto se prepara para sumar en chile una versión automática
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
 titulo::el nuevo traspié de la ministra mara sedini aseguró que galvarino apablaza está condenado pero aún debe ser procesado por la justicia chilena
+titulo::el proyecto del mop de us 4189 millones para ampliar cárceles y construir nuevas vía concesiones
 titulo::el proyecto roto por qué la centroizquierda chilena no sabe a quién hablarle por paulo hidalgo
 titulo::el regreso de la fifa todo sobre fifa heroes el nuevo arcade gratuito que llegaría incluso a nintendo switch 2
 titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
