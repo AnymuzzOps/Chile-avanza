@@ -250,6 +250,7 @@ https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-mi
 https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-el-2026-en-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
+https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-universidad-de-chile-vs-deportes-la-serena-en-tv-y-streaming/
@@ -725,6 +726,7 @@ titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
+titulo::tornel en su estreno como presidenta de la cmf anuncia revisión de modelos internos de los bancos podrían liberar us10 mil millones de capital
 titulo::tres motos tres perfiles y una normativa honda reordena su oferta urbana en chile
 titulo::tribunal ambiental rechaza reclamos de vecinos y da luz verde a data center de amazon en huechuraba inversión supera los us200 millones
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
