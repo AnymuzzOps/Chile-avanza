@@ -205,6 +205,7 @@ https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyecto-maratue-y-un-ajuste-a-la-linea-7-del-metro/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de-energias-renovables-por-mas-de-us1000-millones/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
+https://www.latercera.com/pulso/noticia/conclave-en-cerro-castillo-quiroz-adelanta-que-credito-tributario-a-empleo-beneficiara-a-48-millones-de-trabajadores/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
 https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
@@ -490,6 +491,7 @@ titulo::cámaras trampa logran capturar la presencia del monito del monte en el 
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo volvo superó a tesla en chile
+titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a empleo beneficiará a 48 millones de trabajadores
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
