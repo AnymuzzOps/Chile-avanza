@@ -233,6 +233,7 @@ https://www.latercera.com/pulso/noticia/justicia-confirma-condena-a-walmart-chil
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para-aumentar-el-directorio-de-antarchile-y-los-reclamos-de-algunos-minoritarios/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
+https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
@@ -615,6 +616,7 @@ titulo::las primeras cifras de la red de adquirencia de banco de chile tras su l
 titulo::las sospechas que vinculan a chileno deportado por el ice en eeuu con las amenazas de muerte al alcalde de peñalolén
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
 titulo::latam invierte us60 millones para instalar wifi en los vuelos de larga distancia será la primera aerolínea del continente en ofrecer este servicio
+titulo::ley miscelánea norma otorgará invariabilidad tributaria de hasta 25 años a inversiones desde us50 millones
 titulo::litio cobre plata el agresivo plan de bolivia para convertirse en líder mundial en minería
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
