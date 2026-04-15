@@ -35,6 +35,7 @@ https://elpais.com/chile/2026-04-02/cambio-de-hora-en-chile-2026-cuando-y-como-s
 https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
 https://elpais.com/chile/2026-04-07/australia-rechaza-el-ultimo-recurso-de-adriana-rivas-y-allana-su-extradicion-a-chile.html
 https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de-la-luna.html
+https://elpais.com/chile/2026-04-15/bono-invierno-2026-en-chile-quienes-reciben-y-cuando-se-entrega-el-beneficio.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -428,6 +429,7 @@ titulo::bancoestado estrena crédito especial para comprar autos híbridos en me
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
 titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
+titulo::bono invierno 2026 en chile quiénes reciben y cuándo se entrega el beneficio
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
 titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año y explora nuevos mercados
