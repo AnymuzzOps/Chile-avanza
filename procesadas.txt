@@ -137,6 +137,7 @@ https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-d
 https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
+https://www.latercera.com/mtonline/noticia/nuevo-smart-5-llega-a-chile-el-suv-electrico-premium/
 https://www.latercera.com/mtonline/noticia/smart-5-confirma-su-fecha-de-aterrizaje-en-chile/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
@@ -279,6 +280,7 @@ https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merre
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
 https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
+https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
 https://www.latercera.com/videos/noticia/el-hombre-que-trajo-el-primer-mac-a-chile/
 https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
@@ -520,6 +522,7 @@ titulo::el empleo chileno en crisis
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
+titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
 titulo::el kia soluto se prepara para sumar en chile una versión automática
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
@@ -668,6 +671,7 @@ titulo::nuevo aston martin vantage roadster ya está en chile
 titulo::nuevo audi q3 debuta en chile más tecnológico eficiente y con diseño renovado
 titulo::nuevo ingrediente para la inflación camport y expertos advierten que alza de costos logísticos presionará precios de importaciones y exportaciones
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
+titulo::nuevo smart 5 llega a chile el suv eléctrico premium
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
