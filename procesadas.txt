@@ -239,6 +239,7 @@ https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
+https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presenta-proyecto-de-93-casas-para-la-zona-de-papudo-por-us21-millones/
@@ -650,6 +651,7 @@ titulo::manifestación de estudiantes vandalizan perímetro del monumento a baqu
 titulo::manuel pellegrini vuelve a abrir la puerta a la real opción de dirigir a la selección chilena
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
+titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida para empleo beneficiaría a más de 4 millones de personas
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
