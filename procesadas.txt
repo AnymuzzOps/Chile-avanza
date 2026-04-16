@@ -248,6 +248,7 @@ https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-po
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/primeros-avances-en-la-ley-de-ferias-libres-indican-cerca-de-12000-contribuyentes-inscritos/
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
+https://www.latercera.com/pulso/noticia/quiroz-mineria-inversiones-gobierno-peligroso-sin-cuentas-ordenadas/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/reingresan-proyecto-parque-eolico-las-lilas-y-monto-de-inversion-baja-de-us5100-millones-a-us510-millones/
 https://www.latercera.com/pulso/noticia/remesas-enviadas-desde-chile-retoman-alzas-en-2025-despues-de-tres-anos-de-caidas/
@@ -709,6 +710,7 @@ titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento 
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su desconocida afición
