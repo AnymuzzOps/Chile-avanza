@@ -190,6 +190,7 @@ https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-segu
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-solar-y-consolida-hub-andes-solar-como-el-mas-grande-de-latinoamerica/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
+https://www.latercera.com/pulso/noticia/andina-anuncia-inversiones-por-us500-millones-y-su-presidente-llama-a-recuperar-el-dinamismo-economico/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
@@ -286,10 +287,12 @@ https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
 https://www.latercera.com/videos/noticia/el-hombre-que-trajo-el-primer-mac-a-chile/
 https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
+https://www.latercera.com/videos/noticia/maratue-la-llegada-de-norman-foster-a-chile/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
 https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
+https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -412,6 +415,7 @@ titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artif
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve un trabajo peligroso
 titulo::andes salud adquiere el control de clínica imet de la región de magallanes y anuncia expansión del centro de salud
+titulo::andina anuncia inversiones por us500 millones y su presidente llama a recuperar el dinamismo económico
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
@@ -453,6 +457,7 @@ titulo::calama implementa plan de transporte público gratuito para personas may
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horario de invierno
 titulo::cambio de hora en chile esta media noche regresamos al horario de invierno
+titulo::campaña de vacunación ministra de salud refuerza llamado a proteger de la influenza a la población escolar
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de distribución empleando a 500 personas
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
@@ -658,6 +663,7 @@ titulo::magdalena atria exembajadora de chile en alemania y decisión del gobier
 titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y crecimiento es de 06 en 12 meses
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::manuel pellegrini vuelve a abrir la puerta a la real opción de dirigir a la selección chilena
+titulo::maratué la llegada de norman foster a chile
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida para empleo beneficiaría a más de 4 millones de personas
