@@ -1,4 +1,5 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
+https://anid.cl/farmaco-chileno-contra-la-obesidad-busca-avanzar-hacia-pruebas-clinicas/
 https://anid.cl/se-abre-el-financiamiento-para-construir-viviendas-e-infraestructura-con-madera/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
 https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
@@ -174,6 +175,7 @@ https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bic
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
+https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimiento-que-gesta-para-entrar-al-corazon-del-telescopio-mas-grande-del-mundo/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
 https://www.latercera.com/nacional/noticia/valparaiso-se-adjudica-mas-de-127-millones-para-proyectos-patrimoniales/
@@ -591,6 +593,7 @@ titulo::evento travel sale bate récord histórico de ventas totaliza us62 millo
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
+titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
@@ -727,6 +730,7 @@ titulo::presentan proyecto de 93 casas para la zona de papudo por us21 millones
 titulo::presentan proyecto eólico por más de us5000 millones para la región del biobío
 titulo::presidenta de méxico confirma que mantiene respaldo a bachelet para liderar la onu pese a decisión del gobierno de chile
 titulo::presidenta del banco central y alza de combustibles vamos a actuar oportunamente para el control de la inflación
+titulo::presidente checo en chile el movimiento que gesta para entrar al corazón del telescopio más grande del mundo
 titulo::presidente de isa dueña de interchile por el histórico apagón de 2025 nos dejó una gran lección de resiliencia
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
