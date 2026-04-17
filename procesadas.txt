@@ -395,6 +395,7 @@ https://www.theclinic.cl/2026/04/15/comienza-a-regir-la-alerta-sanitaria-oncolog
 https://www.theclinic.cl/2026/04/15/de-la-alarma-al-retroceso-gobierno-reevalua-proyecto-para-ampliar-principal-instituto-de-rehabilitacion-del-pais-para-construir-centro-oncologico-en-penalolen/
 https://www.theclinic.cl/2026/04/16/asi-sera-la-ciudad-sanitaria-de-la-platina-el-conjunto-de-centros-de-salud-que-acompanara-a-4-500-nuevas-viviendas-en-la-pintana/
 https://www.theclinic.cl/2026/04/16/coca-cola-inversion-500-millones/
+https://www.theclinic.cl/2026/04/16/comunidades-educativas-afectadas-por-los-incendios-en-el-biobio-reciben-donacion-de-computadores-e-internet-gratuito-con-conectividad-satelital/
 https://www.theclinic.cl/2026/04/16/estas-son-las-siete-nuevas-estaciones-de-metro-que-piden-en-penalolen-y-la-reina-alcaldes-propusieron-una-extension-de-la-linea-3-al-sector-oriente/
 https://www.theclinic.cl/2026/04/16/geely-ex5-em-i-2/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -494,6 +495,7 @@ titulo::comité de ministros aprueba megaproyecto inmobiliario maratué por us 2
 titulo::comité de ministros aprueba proyecto maratué y un ajuste a la línea 7 del metro
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
+titulo::comunidades educativas afectadas por los incendios en el biobío reciben donación de computadores e internet gratuito con conectividad satelital
 titulo::con estacionamientos subterráneos la ampliación de av las condes y la revitalización de la casona el proyecto de lo barnechea para recuperar la plaza san enrique
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
