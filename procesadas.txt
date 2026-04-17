@@ -267,6 +267,7 @@ https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-universidad-de-chile-vs-deportes-la-serena-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-uruguay-vs-chile-por-el-sudamericano-sub-17/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
+https://www.latercera.com/servicios/noticia/anuncian-proceso-de-postulaciones-al-subsidio-ds49-quienes-pueden-acceder-al-llamado-especial/
 https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-hora-es-este-domingo-tras-el-inicio-del-horario-de-invierno/
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
@@ -398,6 +399,7 @@ https://www.theclinic.cl/2026/04/16/coca-cola-inversion-500-millones/
 https://www.theclinic.cl/2026/04/16/comunidades-educativas-afectadas-por-los-incendios-en-el-biobio-reciben-donacion-de-computadores-e-internet-gratuito-con-conectividad-satelital/
 https://www.theclinic.cl/2026/04/16/estas-son-las-siete-nuevas-estaciones-de-metro-que-piden-en-penalolen-y-la-reina-alcaldes-propusieron-una-extension-de-la-linea-3-al-sector-oriente/
 https://www.theclinic.cl/2026/04/16/geely-ex5-em-i-2/
+https://www.theclinic.cl/2026/04/17/tendra-60-kilometros-con-un-costo-tope-de-4-mil-millones-y-estaria-lista-a-fin-de-ano-los-detalles-de-la-construccion-de-la-zanja-en-la-frontera-con-peru-y-bolivia/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -422,6 +424,7 @@ titulo::andina anuncia inversiones por us500 millones y su presidente llama a re
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
+titulo::anuncian proceso de postulaciones al subsidio ds49 quiénes pueden acceder al llamado especial
 titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::arrau detalla avances del plan escudo fronterizo en colchane expansión de zanjas y mejoramiento de infraestructura
@@ -771,6 +774,7 @@ titulo::subsecretaria de salud pública encabeza operativo de vacunación extram
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
+titulo::tendrá 60 kilómetros con un costo tope de 4 mil millones y estaría lista a fin de año los detalles de la construcción de la zanja en la frontera con perú y bolivia
 titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
