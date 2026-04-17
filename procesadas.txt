@@ -49,6 +49,7 @@ https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaqu
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
+https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
 https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-carceles-y-construir-nuevas-via-concesiones/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
@@ -393,6 +394,7 @@ https://www.theclinic.cl/2026/04/15/asi-seran-las-nuevas-carceles-de-calama-y-co
 https://www.theclinic.cl/2026/04/15/comienza-a-regir-la-alerta-sanitaria-oncologica-minsal-contara-con-facultades-extraordinarias-para-atender-a-pacientes-que-esperan-diagnostico-o-tratamiento/
 https://www.theclinic.cl/2026/04/15/de-la-alarma-al-retroceso-gobierno-reevalua-proyecto-para-ampliar-principal-instituto-de-rehabilitacion-del-pais-para-construir-centro-oncologico-en-penalolen/
 https://www.theclinic.cl/2026/04/16/asi-sera-la-ciudad-sanitaria-de-la-platina-el-conjunto-de-centros-de-salud-que-acompanara-a-4-500-nuevas-viviendas-en-la-pintana/
+https://www.theclinic.cl/2026/04/16/coca-cola-inversion-500-millones/
 https://www.theclinic.cl/2026/04/16/estas-son-las-siete-nuevas-estaciones-de-metro-que-piden-en-penalolen-y-la-reina-alcaldes-propusieron-una-extension-de-la-linea-3-al-sector-oriente/
 https://www.theclinic.cl/2026/04/16/geely-ex5-em-i-2/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -483,6 +485,7 @@ titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 d
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
+titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
@@ -633,6 +636,7 @@ titulo::la preocupación de las aerolíneas por problemas de operación que pone
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
+titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
 titulo::la tecnología detrás de las plataformas de casino en vivo y su crecimiento en chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
