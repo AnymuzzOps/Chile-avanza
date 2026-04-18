@@ -162,6 +162,7 @@ https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-n
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
+https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-influenza-para-evitar-contagios-por-gripe-aviar/
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/la-norma-clave-de-la-ley-argentina-invocada-por-apablaza-para-frenar-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/las-sospechas-que-vinculan-a-chileno-deportado-por-el-ice-en-eeuu-con-las-amenazas-de-muerte-al-alcalde-de-penalolen/
@@ -403,6 +404,7 @@ https://www.theclinic.cl/2026/04/16/estas-son-las-siete-nuevas-estaciones-de-met
 https://www.theclinic.cl/2026/04/16/geely-ex5-em-i-2/
 https://www.theclinic.cl/2026/04/17/eliminacion-de-contribuciones-beneficiaria-a-cerca-de-207-mil-adultos-mayores-con-ingresos-de-mas-de-2-millones-mensuales/
 https://www.theclinic.cl/2026/04/17/tendra-60-kilometros-con-un-costo-tope-de-4-mil-millones-y-estaria-lista-a-fin-de-ano-los-detalles-de-la-construccion-de-la-zanja-en-la-frontera-con-peru-y-bolivia/
+https://www.theclinic.cl/2026/04/18/la-apuesta-de-coyhaique-para-convertirse-en-el-primer-municipio-con-100-de-electromovilidad-de-chile-es-una-forma-de-ordenar-el-gasto-publico/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -604,6 +606,7 @@ titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio 
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
 titulo::gobierno ingresará indicaciones al proyecto escuelas protegidas para ampliarlo a la educación superior
+titulo::gobierno llama a vacunarse contra la influenza para evitar contagios por gripe aviar
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
 titulo::gonzalo said en carta a sus accionistas destaca desempeño de cocacola andina en chile y el futuro vemos con optimismo los mercados donde operamos
 titulo::griffithjones exconsejera del banco central cuestiona medidas económicas del gobierno vamos a hacer más profundo un problema que viene de afuera
@@ -629,6 +632,7 @@ titulo::justicia confirma condena a walmart chile por bullying laboral contra tr
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la ambiciosa proyección de ventas de lepas para su debut en chile
+titulo::la apuesta de coyhaique para convertirse en el primer municipio con 100 electromovilidad de chile es una forma de ordenar el gasto público
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
