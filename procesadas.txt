@@ -234,6 +234,7 @@ https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-min
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
+https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
@@ -607,6 +608,7 @@ titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínica
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
+titulo::gobierno confirma continuidad del subsidio eléctrico y busca fórmula para deuda de distribuidoras
 titulo::gobierno define ubicación del nuevo hospital de la zona norte de santiago se construirá en lampa en predio que costará más de 9400 millones
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
