@@ -123,6 +123,7 @@ https://www.latercera.com/el-deportivo/noticia/luto-en-el-futbol-chileno-fallece
 https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-la-puerta-a-la-real-opcion-de-dirigir-a-la-seleccion-chilena/
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
+https://www.latercera.com/emprendimiento/noticia/de-curico-al-mundo-la-apuesta-de-haulmer-por-digitalizar-a-los-pequenos-negocios/
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
@@ -528,6 +529,7 @@ titulo::cómo es el plan de mercado libre para fortalecer su operación en chile
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo volvo superó a tesla en chile
 titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a empleo beneficiará a 48 millones de trabajadores
+titulo::de curicó al mundo la apuesta de haulmer por digitalizar a los pequeños negocios
 titulo::de la alarma al retroceso gobierno reevalúa proyecto para ampliar principal instituto de rehabilitación del país para construir centro oncológico en peñalolén
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
