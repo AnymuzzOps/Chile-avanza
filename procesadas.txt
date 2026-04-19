@@ -50,6 +50,7 @@ https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaqu
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
+https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
 https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-carceles-y-construir-nuevas-via-concesiones/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
@@ -539,6 +540,7 @@ titulo::detectan monito del monte en parque nacional queulat y destacan buen est
 titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
+titulo::dueños de lundin mining y megaproyecto minero vicuña es uno de los yacimientos más grandes de los últimos 30 años
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
