@@ -174,6 +174,7 @@ https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/la-norma-clave-de-la-ley-argentina-invocada-por-apablaza-para-frenar-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/las-sospechas-que-vinculan-a-chileno-deportado-por-el-ice-en-eeuu-con-las-amenazas-de-muerte-al-alcalde-de-penalolen/
+https://www.latercera.com/nacional/noticia/marca-un-avance-sustantivo-en-la-relacion-chile-y-eeuu-firman-acuerdo-en-seguridad-y-memorandum-sobre-tierras-raras/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
@@ -219,6 +220,7 @@ https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyecto-maratue-y-un-ajuste-a-la-linea-7-del-metro/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de-energias-renovables-por-mas-de-us1000-millones/
+https://www.latercera.com/pulso/noticia/comite-de-ministros-revisara-revisara-cuatro-proyectos-de-inversion-que-suman-us345/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/conclave-en-cerro-castillo-quiroz-adelanta-que-credito-tributario-a-empleo-beneficiara-a-48-millones-de-trabajadores/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
@@ -417,6 +419,7 @@ https://www.theclinic.cl/2026/04/16/geely-ex5-em-i-2/
 https://www.theclinic.cl/2026/04/17/eliminacion-de-contribuciones-beneficiaria-a-cerca-de-207-mil-adultos-mayores-con-ingresos-de-mas-de-2-millones-mensuales/
 https://www.theclinic.cl/2026/04/17/tendra-60-kilometros-con-un-costo-tope-de-4-mil-millones-y-estaria-lista-a-fin-de-ano-los-detalles-de-la-construccion-de-la-zanja-en-la-frontera-con-peru-y-bolivia/
 https://www.theclinic.cl/2026/04/18/la-apuesta-de-coyhaique-para-convertirse-en-el-primer-municipio-con-100-de-electromovilidad-de-chile-es-una-forma-de-ordenar-el-gasto-publico/
+https://www.theclinic.cl/2026/04/20/el-listado-de-los-trabajos-con-mas-vacantes-en-chile-y-los-sueldos-que-ofrecen-van-desde-los-450-mil-a-mas-de-dos-millones/
 https://www.theclinic.cl/2026/04/20/mujeres-conductoras-transporte-publico-red-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -515,6 +518,7 @@ titulo::comité de apr de san pedro de atacama presenta recurso contra diputada 
 titulo::comité de ministros aprueba megaproyecto inmobiliario maratué por us 2000 millones
 titulo::comité de ministros aprueba proyecto maratué y un ajuste a la línea 7 del metro
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
+titulo::comité de ministros revisará cuatro proyectos de inversión que suman us345
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::comunidades educativas afectadas por los incendios en el biobío reciben donación de computadores e internet gratuito con conectividad satelital
 titulo::con estacionamientos subterráneos la ampliación de av las condes y la revitalización de la casona el proyecto de lo barnechea para recuperar la plaza san enrique
@@ -573,6 +577,7 @@ titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a tr
 titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
 titulo::el kia soluto se prepara para sumar en chile una versión automática
+titulo::el listado de los trabajos con más vacantes en chile y los sueldos que ofrecen van desde los  450 mil a más de dos millones
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
 titulo::el nuevo traspié de la ministra mara sedini aseguró que galvarino apablaza está condenado pero aún debe ser procesado por la justicia chilena
@@ -703,6 +708,7 @@ titulo::mala noticia entrega el imacec actividad económica cae 03 en febrero y 
 titulo::manifestación de estudiantes vandalizan perímetro del monumento a baquedano
 titulo::manuel pellegrini vuelve a abrir la puerta a la real opción de dirigir a la selección chilena
 titulo::maratué la llegada de norman foster a chile
+titulo::marca un avance sustantivo en la relación chile y eeuu firman acuerdo en seguridad y memorándum sobre tierras raras
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida para empleo beneficiaría a más de 4 millones de personas
