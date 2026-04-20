@@ -270,6 +270,7 @@ https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
+https://www.latercera.com/pulso/noticia/versus-27-de-chile-impuesto-a-las-empresas-promedia-24-entre-los-paises-de-la-ocde-y-21-a-nivel-mundial/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-universidad-de-chile-vs-deportes-la-serena-en-tv-y-streaming/
@@ -809,6 +810,7 @@ titulo::una crónica de vigilancia en un mundo que aprende a esconderse por nata
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
+titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
