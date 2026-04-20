@@ -56,6 +56,7 @@ https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-car
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
+https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
@@ -658,6 +659,7 @@ titulo::la digitalización del capital humano la nueva ventaja estructural de la
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la era de los 1300 kilómetros geely ex5 emi aterriza en chile apostando por la autonomía extrema
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
+titulo::la inversión de us175 millones de mountain capital partners para modernizar la parva y valle nevado
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
 titulo::la justificación del grupo angelini para aumentar el directorio de antarchile y los reclamos de algunos minoritarios
 titulo::la mayor cartera de proyectos de la historia de chile daniel mas cuenta los planes para impulsar la minería
