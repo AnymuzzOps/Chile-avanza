@@ -104,6 +104,7 @@ https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-banc
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
 https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
+https://www.latercera.com/cartas-al-director/noticia/emprendimiento-para-el-desarrollo-de-chile/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
 https://www.latercera.com/culto/noticia/dream-theater-aterriza-en-chile-con-formacion-estelar-la-gente-ha-sido-consistente/
 https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-en-chile-su-nueva-novela-auge-y-caida-del-conejo-bam-una-fabula-sobre-el-poder/
@@ -577,6 +578,7 @@ titulo::el tsunami judicial de casi us 600 millones que amenaza al fisco por las
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
 titulo::eliminación de contribuciones beneficiaría a cerca de 207 mil adultos mayores con ingresos de más de 2 millones mensuales
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
+titulo::emprendimiento para el desarrollo de chile
 titulo::empresa de tecnología portátil para la salud recauda us 575 millones con inversión de cristiano ronaldo
 titulo::empresas cierran 2025 con ganancias por más de us32 mil millones y codelco anota las mayores utilidades
 titulo::en el día mundial de la salud presidente kast minsal y alcalde de santiago destacan la efectividad del programa nacional de vacunación
