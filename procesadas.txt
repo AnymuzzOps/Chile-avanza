@@ -131,6 +131,7 @@ https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equ
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
 https://www.latercera.com/lt-board/noticia/asi-es-ada-la-plataforma-pionera-de-ia-lanzada-por-la-unab-para-acelerar-la-investigacion-cientifica/
+https://www.latercera.com/mineria/noticia/la-mayor-cartera-de-proyectos-de-la-historia-de-chile-daniel-mas-cuenta-los-planes-para-impulsar-la-mineria/
 https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/probado-en-nogales-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
@@ -281,6 +282,7 @@ https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-d
 https://www.latercera.com/servicios/noticia/anuncian-proceso-de-postulaciones-al-subsidio-ds49-quienes-pueden-acceder-al-llamado-especial/
 https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-hora-es-este-domingo-tras-el-inicio-del-horario-de-invierno/
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
+https://www.latercera.com/servicios/noticia/ya-estan-disponibles-los-resultados-del-subsidio-de-arriendo-revisa-los-datos-de-la-postulacion-de-2025/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
@@ -656,6 +658,7 @@ titulo::la era de los 1300 kilómetros geely ex5 emi aterriza en chile apostando
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
 titulo::la justificación del grupo angelini para aumentar el directorio de antarchile y los reclamos de algunos minoritarios
+titulo::la mayor cartera de proyectos de la historia de chile daniel mas cuenta los planes para impulsar la minería
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
 titulo::la nueva cara del bandejón central de santa elena en maipú tras años de abandono será un parque tras millonaria inversión públicoprivada
@@ -817,6 +820,7 @@ titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniale
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
+titulo::ya están disponibles los resultados del subsidio de arriendo revisa los datos de la postulación de 2025
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
 titulo::último gran análisis de mercado predice preocupante futuro para el cobre
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
