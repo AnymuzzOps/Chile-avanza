@@ -88,6 +88,7 @@ https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tra
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
+https://www.lanacion.cl/gobierno-confirmo-continuidad-del-subsidio-electrico-y-anuncio-nuevo-proceso/
 https://www.lanacion.cl/gobierno-ingresara-indicaciones-al-proyecto-escuelas-protegidas-para-ampliarlo-a-la-educacion-superior/
 https://www.lanacion.cl/la-roja-enfrenta-a-cabo-verde-en-su-primer-amistoso-del-ano-posible-formacion-y-la-baja-de-ultima-hora-que-sufrio-chile/
 https://www.lanacion.cl/la-tecnologia-detras-de-las-plataformas-de-casino-en-vivo-y-su-crecimiento-en-chile/
@@ -109,6 +110,7 @@ https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento
 https://www.latercera.com/culto/noticia/dream-theater-aterriza-en-chile-con-formacion-estelar-la-gente-ha-sido-consistente/
 https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-en-chile-su-nueva-novela-auge-y-caida-del-conejo-bam-una-fabula-sobre-el-poder/
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
+https://www.latercera.com/culto/noticia/metro-de-santiago-y-universidad-de-chile-firman-acuerdo-para-llevar-nueva-sala-del-mac-a-estacion-bellas-artes/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/christian-garin-tiene-un-positivo-estreno-en-la-qualy-del-masters-1000-de-montecarlo/
@@ -612,6 +614,7 @@ titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
 titulo::gobierno confirma continuidad del subsidio eléctrico y busca fórmula para deuda de distribuidoras
+titulo::gobierno confirmó continuidad del subsidio eléctrico y anunció nuevo proceso
 titulo::gobierno define ubicación del nuevo hospital de la zona norte de santiago se construirá en lampa en predio que costará más de 9400 millones
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
@@ -699,6 +702,7 @@ titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida 
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
+titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
