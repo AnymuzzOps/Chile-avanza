@@ -79,6 +79,7 @@ https://www.fayerwayer.com/internet/2026/03/25/mintel-anuncia-uso-de-inteligenci
 https://www.fayerwayer.com/internet/2026/03/25/salen-mas-a-cuenta-estos-son-los-automoviles-electricos-mas-economicos-en-chile-mexico-colombia-y-argentina/
 https://www.fayerwayer.com/internet/2026/03/26/perdi-mi-trabajo-por-un-bot-y-ahora-cobro-1000-usd-al-mes-la-realidad-del-nuevo-subsidio-de-ia/
 https://www.fayerwayer.com/internet/2026/03/30/cuando-se-cambia-la-hora-en-chile-los-relojes-tendran-que-atrasarse-en-60-minutos-para-iniciar-el-horario-de-invierno/
+https://www.fayerwayer.com/internet/2026/04/21/el-tesla-de-los-mares-es-chileno-el-magellan-discoverer-hace-historia-asi-es-el-primer-crucero-de-lujo-hibrido/
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
@@ -280,6 +281,7 @@ https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-gene
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
 https://www.latercera.com/pulso/noticia/versus-27-de-chile-impuesto-a-las-empresas-promedia-24-entre-los-paises-de-la-ocde-y-21-a-nivel-mundial/
+https://www.latercera.com/red-activa/noticia/jetsmart-y-fundacion-uc-christus-llevaran-atencion-medica-especializada-a-zonas-aisladas-de-chile/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-universidad-de-chile-vs-deportes-la-serena-en-tv-y-streaming/
@@ -597,6 +599,7 @@ titulo::el regreso de la fifa todo sobre fifa heroes el nuevo arcade gratuito qu
 titulo::el reservado encuentro entre grandes empresarios y el nobel de economía guido imbens en su paso por chile para hablar de ia
 titulo::el segundo mejor arranque histórico del litio exportaciones casi se triplican en primer trimestre tras favorables precios
 titulo::el sombrío panorama que describió la presidenta del banco central para este año en este ipom la incertidumbre es alta
+titulo::el tesla de los mares es chileno el magellan discoverer hace historia así es el primer crucero de lujo híbrido
 titulo::el tsunami judicial de casi us 600 millones que amenaza al fisco por las cuotas pesqueras
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
 titulo::eliminación de contribuciones beneficiaría a cerca de 207 mil adultos mayores con ingresos de más de 2 millones mensuales
@@ -660,6 +663,7 @@ titulo::irán reporta avances en mediación de pakistán ad portas de vencer ult
 titulo::israel advierte a la población de irán para que no usen los trenes o se acerquen a infraestructura ferroviaria
 titulo::itaú chile renueva su directorio con la llegada de un exhistórico de santander y aprueba dividendo histórico
 titulo::iván zamorano compara crisis de la selección chilena con reciente fracaso de italia ha perdido identidad
+titulo::jetsmart y fundación uc christus llevarán atención médica especializada a zonas aisladas de chile
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
