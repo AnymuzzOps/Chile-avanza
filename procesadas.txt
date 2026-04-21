@@ -240,6 +240,7 @@ https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combusti
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
 https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-mineros-de-america-latina-en-brasil-y-chile-se-ubica-en-el-septimo-lugar/
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
+https://www.latercera.com/pulso/noticia/estudio-juridico-espanol-garrigues-adquiere-oficina-chilena-barros-silva-varela-vigil/
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
 https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
@@ -286,6 +287,7 @@ https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-uruguay-vs-
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-el-amistoso-de-chile-contra-nueva-zelanda-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/anuncian-proceso-de-postulaciones-al-subsidio-ds49-quienes-pueden-acceder-al-llamado-especial/
 https://www.latercera.com/servicios/noticia/cambio-de-hora-en-chile-revisa-que-hora-es-este-domingo-tras-el-inicio-del-horario-de-invierno/
+https://www.latercera.com/servicios/noticia/continua-el-subsidio-electrico-2026-estas-son-las-proximas-fechas-de-la-quinta-convocatoria/
 https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chile-ver-el-evento-de-abril/
 https://www.latercera.com/servicios/noticia/ya-estan-disponibles-los-resultados-del-subsidio-de-arriendo-revisa-los-datos-de-la-postulacion-de-2025/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
@@ -315,6 +317,7 @@ https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-p
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
+https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
@@ -534,6 +537,7 @@ titulo::con la animación de martín cárcamo y fecha de estreno confirmada cana
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::conicyt se transforma en la agencia nacional de investigación y desarrollo
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
+titulo::continúa el subsidio eléctrico 2026 estas son las próximas fechas de la quinta convocatoria
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
 titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
@@ -620,6 +624,7 @@ titulo::estas son las marcas de vehículos más vendidas en chile durante 2026
 titulo::estas son las siete nuevas estaciones de metro que piden en peñalolén y la reina alcaldes propusieron una extensión de la línea 3 al sector oriente
 titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
+titulo::estudio jurídico español garrigues adquiere oficina chilena barros silva varela  vigil
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
@@ -643,6 +648,7 @@ titulo::griffithjones exconsejera del banco central cuestiona medidas económica
 titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en mega a cuatro meses de su llegada al canal
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
+titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
 titulo::ignacio briones chile no es un país quebrado
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
