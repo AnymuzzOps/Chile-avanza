@@ -308,6 +308,7 @@ https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
 https://www.latercera.com/videos/noticia/el-hombre-que-trajo-el-primer-mac-a-chile/
 https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
 https://www.latercera.com/videos/noticia/maratue-la-llegada-de-norman-foster-a-chile/
+https://www.latercera.com/videos/noticia/runway-entre-las-top-50-empresas-de-ia-del-mundo/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
 https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
@@ -423,6 +424,7 @@ https://www.theclinic.cl/2026/04/18/la-apuesta-de-coyhaique-para-convertirse-en-
 https://www.theclinic.cl/2026/04/20/acelerar-el-suministro-de-minerales-criticos-facilitacion-de-proyectos-y-precios-preferentes-las-claves-del-acuerdo-que-firmo-chile-con-estados-unidos/
 https://www.theclinic.cl/2026/04/20/el-listado-de-los-trabajos-con-mas-vacantes-en-chile-y-los-sueldos-que-ofrecen-van-desde-los-450-mil-a-mas-de-dos-millones/
 https://www.theclinic.cl/2026/04/20/mujeres-conductoras-transporte-publico-red-chile/
+https://www.theclinic.cl/2026/04/21/ventas-de-autos-electricos-en-chile-el-alza-de-la-bencina-hizo-lo-que-no-pudieron-los-incentivos/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -793,6 +795,7 @@ titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisi�
 titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
 titulo::riqueza de los hogares chilenos cierra 2025 al alza impulsada por el desempeño de los mercados bursátiles
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
+titulo::runway entre las top 50 empresas de ia del mundo
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
@@ -833,6 +836,7 @@ titulo::una crónica de vigilancia en un mundo que aprende a esconderse por nata
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
+titulo::ventas de autos eléctricos en chile el alza de la bencina hizo lo que no pudieron los incentivos
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
