@@ -85,6 +85,7 @@ https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amis
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
 https://www.lanacion.cl/becas-sence-para-impulsar-empleabilidad-digital-revisa-como-postular/
 https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
+https://www.lanacion.cl/camara-de-diputados-aprobo-idea-de-legislar-proyecto-escuelas-protegidas/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
@@ -550,6 +551,7 @@ titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
+titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
