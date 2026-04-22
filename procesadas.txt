@@ -439,6 +439,7 @@ https://www.theclinic.cl/2026/04/20/acelerar-el-suministro-de-minerales-criticos
 https://www.theclinic.cl/2026/04/20/el-listado-de-los-trabajos-con-mas-vacantes-en-chile-y-los-sueldos-que-ofrecen-van-desde-los-450-mil-a-mas-de-dos-millones/
 https://www.theclinic.cl/2026/04/20/mujeres-conductoras-transporte-publico-red-chile/
 https://www.theclinic.cl/2026/04/21/ventas-de-autos-electricos-en-chile-el-alza-de-la-bencina-hizo-lo-que-no-pudieron-los-incentivos/
+https://www.theclinic.cl/2026/04/22/entel-anuncia-plan-de-inversiones-por-575-mil-millones-para-2026-con-foco-en-red-movil-y-expansion-del-negocio-hogar/
 https://www.theclinic.cl/2026/04/22/nuevo-tren-de-alto-estandar-se-estreno-en-el-servicio-limache-valparaiso-se-incorporaran-cuatro-mas-y-aumentaran-en-20-su-capacidad/
 https://www.theclinic.cl/2026/04/22/walmart-chile-innova-day-2026/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -629,6 +630,7 @@ titulo::enap descarta falta de stock de combustibles no existen problemas de aba
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
+titulo::entel anuncia plan de inversiones por 575 mil millones para 2026 con foco en red móvil y expansión del negocio hogar
 titulo::entel anuncia plan de inversiones por casi us650 millones para 2026 y juan hurtado se despide de la firma
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::escritor español andrés barba presenta en chile su nueva novela auge y caída del conejo bam una fábula sobre el poder
