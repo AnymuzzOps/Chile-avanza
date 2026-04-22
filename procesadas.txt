@@ -37,6 +37,7 @@ https://elpais.com/chile/2026-04-02/las-derechas-en-chile.html
 https://elpais.com/chile/2026-04-07/australia-rechaza-el-ultimo-recurso-de-adriana-rivas-y-allana-su-extradicion-a-chile.html
 https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de-la-luna.html
 https://elpais.com/chile/2026-04-15/bono-invierno-2026-en-chile-quienes-reciben-y-cuando-se-entrega-el-beneficio.html
+https://elpais.com/chile/2026-04-22/ley-de-40-horas-en-chile-como-y-a-quienes-beneficia-la-nueva-reduccion-de-la-jornada-laboral-a-42-horas.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -708,6 +709,7 @@ titulo::las primeras cifras de la red de adquirencia de banco de chile tras su l
 titulo::las sospechas que vinculan a chileno deportado por el ice en eeuu con las amenazas de muerte al alcalde de peñalolén
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
 titulo::latam invierte us60 millones para instalar wifi en los vuelos de larga distancia será la primera aerolínea del continente en ofrecer este servicio
+titulo::ley de 40 horas en chile cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas
 titulo::ley miscelánea norma otorgará invariabilidad tributaria de hasta 25 años a inversiones desde us50 millones
 titulo::litio cobre plata el agresivo plan de bolivia para convertirse en líder mundial en minería
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
