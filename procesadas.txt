@@ -102,6 +102,7 @@ https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-mo
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/poduje-anuncia-casas-sociales-cerca-del-colegio-nido-de-aguilas-y-parque-arauco/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
+https://www.lanacion.cl/quinta-convocatoria-del-subsidio-electrico-revisa-los-montos-del-beneficio/
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir-mas-de-51-millones-de-declaraciones/
@@ -243,6 +244,7 @@ https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millo
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-mas-de-us32-mil-millones-y-codelco-anota-las-mayores-utilidades/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
+https://www.latercera.com/pulso/noticia/entel-anuncia-plan-de-inversiones-por-casi-us650-millones-para-2026-y-juan-hurtado-se-despide-de-la-firma/
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
 https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-mineros-de-america-latina-en-brasil-y-chile-se-ubica-en-el-septimo-lugar/
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
@@ -260,6 +262,7 @@ https://www.latercera.com/pulso/noticia/justicia-ambiental-da-luz-verde-a-data-c
 https://www.latercera.com/pulso/noticia/justicia-confirma-condena-a-walmart-chile-por-bullying-laboral-contra-trabajadora-venezolana/
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para-aumentar-el-directorio-de-antarchile-y-los-reclamos-de-algunos-minoritarios/
+https://www.latercera.com/pulso/noticia/la-propuesta-del-gobierno-para-la-industria-acuicola-exime-tramitar-relocalizaciones-en-el-seia-y-cambia-regimen-de-caducidad/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
@@ -624,6 +627,7 @@ titulo::enap descarta falta de stock de combustibles no existen problemas de aba
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
+titulo::entel anuncia plan de inversiones por casi us650 millones para 2026 y juan hurtado se despide de la firma
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::escritor español andrés barba presenta en chile su nueva novela auge y caída del conejo bam una fábula sobre el poder
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
@@ -696,6 +700,7 @@ titulo::la norma clave de la ley argentina invocada por apablaza para frenar su 
 titulo::la nueva cara del bandejón central de santa elena en maipú tras años de abandono será un parque tras millonaria inversión públicoprivada
 titulo::la paradoja del asfalto el mercado automotor chileno acelera entre el alza de precios y la sed de eficiencia
 titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
+titulo::la propuesta del gobierno para la industria acuícola exime tramitar relocalizaciones en el seia y cambia régimen de caducidad
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
@@ -800,6 +805,7 @@ titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento 
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
 titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
