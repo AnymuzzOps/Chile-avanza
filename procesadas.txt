@@ -204,6 +204,7 @@ https://www.latercera.com/politica/noticia/chile-anuncia-respaldo-a-argentina-en
 https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-hubiese-gustado-que-chile-vamos-antes-de-criticar-el-despido-hubiera-confiado-en-que-era-una-decision-bien-fundada/
 https://www.latercera.com/politica/noticia/la-moneda-ajusta-la-estrategia-para-enfrentar-su-proyecto-ancla-de-reconstruccion-nacional/
 https://www.latercera.com/politica/noticia/macaya-pide-altura-de-miras-en-chile-vamos-tras-fuego-amigo-por-remocion-de-directora-del-sernameg/
+https://www.latercera.com/politica/noticia/megarreforma-aumenta-en-us400-millones-y-extiende-hasta-2028-el-fondo-de-emergencia-para-reconstruccion-en-nuble-y-biobio/
 https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-seguridad-escolar-ingresan-con-suma-urgencia-y-que-megarreforma-esta-en-revision-final/
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-solar-y-consolida-hub-andes-solar-como-el-mas-grande-de-latinoamerica/
@@ -735,6 +736,7 @@ titulo::maratué la llegada de norman foster a chile
 titulo::marca un avance sustantivo en la relación chile y eeuu firman acuerdo en seguridad y memorándum sobre tierras raras
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
+titulo::megarreforma aumenta en us400 millones y extiende hasta 2028 el fondo de emergencia para reconstrucción en ñuble y biobío
 titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida para empleo beneficiaría a más de 4 millones de personas
 titulo::megarreforma hacienda proyecta una recaudación de hasta us800 millones por nueva ventana para retirar el fut
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
