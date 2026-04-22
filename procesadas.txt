@@ -189,6 +189,7 @@ https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bic
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
+https://www.latercera.com/nacional/noticia/por-unanimidad-senado-aprueba-proyecto-que-evita-que-condenados-por-vif-accedan-a-pension-de-sobrevivencia/
 https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimiento-que-gesta-para-entrar-al-corazon-del-telescopio-mas-grande-del-mundo/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
@@ -782,6 +783,7 @@ titulo::plan maestro del agua impulsa transformación del parque metropolitano c
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
+titulo::por unanimidad senado aprueba proyecto que evita que condenados por vif accedan a pensión de sobrevivencia
 titulo::precios de internet en chile son mucho más bajos que en argentina o perú y 5g ya supera las 10 millones de conexiones
 titulo::preferencia por el consumo de agua de la llave en chile aumenta 20 puntos en dos años 59 de los chilenos confían en la calidad del agua potable
 titulo::premios iniciativas sustentables 2025 la nueva edición que reconocerá a quienes transforman chile con impacto real
