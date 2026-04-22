@@ -57,6 +57,7 @@ https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sa
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
+https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
@@ -260,6 +261,7 @@ https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquire
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
 https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
+https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/presenta-proyecto-de-93-casas-para-la-zona-de-papudo-por-us21-millones/
@@ -714,6 +716,7 @@ titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco e
 titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región metropolitana
 titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
+titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::los planes de scotiabank en chile para 2026
 titulo::los suv se posicionaron como los autos más vendidos durante el primer trimestre de 2026 mg zx y suzuki fronx fueron los favoritos de los chilenos
@@ -730,6 +733,7 @@ titulo::marca un avance sustantivo en la relación chile y eeuu firman acuerdo e
 titulo::marcha de estudiantes contra medidas del gobierno metro anuncia estaciones cerradas por incidentes
 titulo::maría jesús wulf creemos que para fortalecer los beneficios sociales hay que ordenar las cuentas fiscales
 titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida para empleo beneficiaría a más de 4 millones de personas
+titulo::megarreforma hacienda proyecta una recaudación de hasta us800 millones por nueva ventana para retirar el fut
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
