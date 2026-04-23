@@ -100,6 +100,7 @@ https://www.lanacion.cl/la-tecnologia-detras-de-las-plataformas-de-casino-en-viv
 https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
 https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
+https://www.lanacion.cl/parvulos-chilenos-tras-la-ruta-del-artemis-ii-visitaran-la-nasa-premiados-por-su-buena-asistencia/
 https://www.lanacion.cl/poduje-anuncia-casas-sociales-cerca-del-colegio-nido-de-aguilas-y-parque-arauco/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
 https://www.lanacion.cl/quinta-convocatoria-del-subsidio-electrico-revisa-los-montos-del-beneficio/
@@ -444,6 +445,7 @@ https://www.theclinic.cl/2026/04/22/entel-anuncia-plan-de-inversiones-por-575-mi
 https://www.theclinic.cl/2026/04/22/nuevo-tren-de-alto-estandar-se-estreno-en-el-servicio-limache-valparaiso-se-incorporaran-cuatro-mas-y-aumentaran-en-20-su-capacidad/
 https://www.theclinic.cl/2026/04/22/walmart-chile-innova-day-2026/
 https://www.theclinic.cl/2026/04/23/borrador-autoatacama-aysen-y-los-lagos-fueron-las-regiones-con-mayor-crecimiento-en-2025o/
+https://www.theclinic.cl/2026/04/23/el-camino-del-estudiante-chileno-que-creo-un-dispositivo-para-detectar-tumores-y-que-fue-elegido-para-estudiar-en-exclusivo-curso-de-harvard-y-mit/
 https://www.theclinic.cl/2026/04/23/pricesmart-cadena-de-supermercados-tipo-costco-llega-a-chile-y-anticipa-mayor-competencia-en-el-retail-nacional/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -595,6 +597,7 @@ titulo::el antes y después del centro de santiago con el proyecto nueva alameda
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
 titulo::el arquero chileno que podría jugar el mundial de fútbolpero por ecuador
 titulo::el año redondo de dreams operadora de casinos logró utilidades récord en 2025 por casi 25000 millones creciendo un 207
+titulo::el camino del estudiante chileno que creó un dispositivo para detectar tumores y que fue elegido para estudiar en exclusivo curso de harvard y mit
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
@@ -816,6 +819,7 @@ titulo::pricesmart cadena de supermercados estadounidense llega a chile y antici
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
 titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
