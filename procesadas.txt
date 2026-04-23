@@ -312,6 +312,7 @@ https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-intelig
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
 https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
+https://www.latercera.com/tendencias/noticia/investigador-chileno-simulo-un-terremoto-67-en-la-falla-de-san-ramon-esto-fue-lo-que-paso/
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
@@ -672,6 +673,7 @@ titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
+titulo::investigador chileno simuló un terremoto 67 en la falla de san ramón esto fue lo que pasó
 titulo::investigadores chilenos reciben reconocimiento internacional por avance en inteligencia artificial
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::irán reporta avances en mediación de pakistán ad portas de vencer ultimátum de eeuu
