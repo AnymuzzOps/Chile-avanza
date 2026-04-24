@@ -316,6 +316,7 @@ https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-ch
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/confirman-la-fecha-de-llegada-de-wegovy-a-chile-el-tratamiento-mas-fuerte-que-ozempic-para-el-manejo-de-la-obesidad/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
 https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
 https://www.latercera.com/tendencias/noticia/investigador-chileno-simulo-un-terremoto-67-en-la-falla-de-san-ramon-esto-fue-lo-que-paso/
@@ -559,6 +560,7 @@ titulo::con estacionamientos subterráneos la ampliación de av las condes y la 
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
+titulo::confirman la fecha de llegada de wegovy a chile el tratamiento más fuerte que ozempic para el manejo de la obesidad
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::conicyt se transforma en la agencia nacional de investigación y desarrollo
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
