@@ -180,6 +180,7 @@ https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-influenza-para-evitar-contagios-por-gripe-aviar/
+https://www.latercera.com/nacional/noticia/junaeb-completa-entrega-de-utiles-escolares-beneficio-abarco-a-mas-de-2-millones-de-estudiantes-en-todo-el-pais/
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/la-norma-clave-de-la-ley-argentina-invocada-por-apablaza-para-frenar-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/las-sospechas-que-vinculan-a-chileno-deportado-por-el-ice-en-eeuu-con-las-amenazas-de-muerte-al-alcalde-de-penalolen/
@@ -701,6 +702,7 @@ titulo::jetsmart y fundación uc christus llevarán atención médica especializ
 titulo::josué ovalle la nueva figura chilena en méxico en colo colo me dijeron que no estaba para el primer equipo
 titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo de corfo
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
+titulo::junaeb completa entrega de útiles escolares beneficio abarcó a más de 2 millones de estudiantes en todo el país
 titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
 titulo::justicia confirma condena a walmart chile por bullying laboral contra trabajadora venezolana
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
