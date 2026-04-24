@@ -21,6 +21,7 @@ https://cambio21.cl/tendencias/autoridades-rusas-niegan-presunta-campana-de-desi
 https://cambio21.cl/tendencias/el-crecimiento-de-los-casinos-online-y-el-desafio-del-estado-chileno-69cd7199ed484c348801ff72
 https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
+https://cambio21.cl/tendencias/tesoreria-inicia-embargos-y-retenciones-a-mas-de-mil-deudores-del-cae-con-ingresos-sobre-los-5-millones-69eaa58192ea9624bb71dff5
 https://cambio21.cl/tendencias/un-arbitrario-mega-proyecto-inmobiliario-en-nunoa-por-patricio-herman-y-rodolfo-acha-69cbfb576e00922e18548d43
 https://cincodias.elpais.com/companias/2026-04-01/la-justicia-ordena-a-hacienda-devolver-107-millones-a-masorange-y-vodafone-por-el-iae.html
 https://elpais.com/america-colombia/2026-03-31/el-ministro-de-hacienda-anuncia-una-ruptura-de-relaciones-entre-el-gobierno-de-gustavo-petro-y-el-banco-de-la-republica.html
@@ -873,6 +874,7 @@ titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::tendrá 60 kilómetros con un costo tope de 4 mil millones y estaría lista a fin de año los detalles de la construcción de la zanja en la frontera con perú y bolivia
 titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
+titulo::tesorería inicia embargos y retenciones a más de mil deudores del cae con ingresos sobre los 5 millones
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
 titulo::tornel en su estreno como presidenta de la cmf anuncia revisión de modelos internos de los bancos podrían liberar us10 mil millones de capital
 titulo::toyota chile lanza beca toyota impulsa  pioneras junto a duoc uc para fomentar la inclusión femenina en el sector automotriz
