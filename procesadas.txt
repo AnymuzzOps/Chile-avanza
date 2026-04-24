@@ -52,6 +52,7 @@ https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-mar
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
+https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
 https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
 https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-carceles-y-construir-nuevas-via-concesiones/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
@@ -253,6 +254,7 @@ https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyec
 https://www.latercera.com/pulso/noticia/estudio-juridico-espanol-garrigues-adquiere-oficina-chilena-barros-silva-varela-vigil/
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
+https://www.latercera.com/pulso/noticia/gasto-en-pensiones-solidarias-subio-6-el-ano-pasado-llego-a-21-del-pib-y-beneficarios-superaron-los-27-millones/
 https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
@@ -311,6 +313,7 @@ https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentabl
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
+https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
 https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
@@ -604,6 +607,7 @@ titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato 
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
 titulo::el debut de luis slimming líder en sintonía y con guiños a históricos espacios de comedia de canal 13 los momentos que marcaron el estreno de el desestrece
 titulo::el empleo chileno en crisis
+titulo::el equipo de la mayorista estadounidense pricesmart para competir con los gigantes del retail chileno
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
@@ -657,6 +661,7 @@ titulo::falleció raúl quemada lería el empresario ligado a la recordada dos e
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
+titulo::gasto en pensiones solidarias subió 6 el año pasado llegó a 21 del pib y beneficiarios superaron los 27 millones
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno confirma a cristián muga como presidente del directorio de enap y a consuelo raby como directora
@@ -886,6 +891,7 @@ titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::walmart chile reúne a startups academia y empresas en su innovaday 2026
+titulo::xiaomi lanza su nuevo ecosistema de hogar inteligente en chile
 titulo::ya están disponibles los resultados del subsidio de arriendo revisa los datos de la postulación de 2025
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
 titulo::último gran análisis de mercado predice preocupante futuro para el cobre
