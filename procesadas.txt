@@ -121,6 +121,7 @@ https://www.latercera.com/culto/noticia/escritor-espanol-andres-barba-presenta-e
 https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-gira-por-nueve-ciudades/
 https://www.latercera.com/culto/noticia/metro-de-santiago-y-universidad-de-chile-firman-acuerdo-para-llevar-nueva-sala-del-mac-a-estacion-bellas-artes/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
+https://www.latercera.com/educacion/noticia/cientifica-chilena-descubre-el-increible-poder-del-ejercicio-para-tratar-el-cancer-de-mama/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/christian-garin-tiene-un-positivo-estreno-en-la-qualy-del-masters-1000-de-montecarlo/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
@@ -542,6 +543,7 @@ titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::china pide sinceridad para un acuerdo de paz y critica nuevamente la ofensiva de estados unidos e israel contra irán
 titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 de montecarlo
+titulo::científica chilena descubre el increíble poder del ejercicio para tratar el cáncer de mama
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
