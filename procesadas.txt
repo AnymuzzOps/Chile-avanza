@@ -273,6 +273,7 @@ https://www.latercera.com/pulso/noticia/la-propuesta-del-gobierno-para-la-indust
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
+https://www.latercera.com/pulso/noticia/mas-ia-menos-hidrogeno-verde-la-agenda-del-nuevo-vicepresidente-de-corfo/
 https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
 https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
@@ -790,6 +791,7 @@ titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarro
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
+titulo::más ia menos hidrógeno verde la agenda del nuevo vicepresidente de corfo
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
 titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de desviar más de 450 millones
