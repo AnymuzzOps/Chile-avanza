@@ -173,6 +173,7 @@ https://www.latercera.com/nacional/noticia/comite-de-apr-de-san-pedro-de-atacama
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
+https://www.latercera.com/nacional/noticia/conaf-exigira-guia-y-equipamiento-obligatorio-en-torres-del-paine-por-inicio-anticipado-de-temporada-invernal/
 https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municipio-100-electromovible-de-chile-en-seis-anos/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
@@ -565,6 +566,7 @@ titulo::con estacionamientos subterráneos la ampliación de av las condes y la 
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
+titulo::conaf exigirá guía y equipamiento obligatorio en torres del paine por inicio anticipado de temporada invernal
 titulo::confirman la fecha de llegada de wegovy a chile el tratamiento más fuerte que ozempic para el manejo de la obesidad
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::conicyt se transforma en la agencia nacional de investigación y desarrollo
