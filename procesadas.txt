@@ -346,6 +346,7 @@ https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
+https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
 https://www.theclinic.cl/2026/03/23/la-disputa-detras-de-la-millonaria-expropiacion-del-club-hipico-de-punta-arenas-sociedad-a-cargo-pide-mas-de-48-mil-millones-por-las-20-hectareas/
@@ -891,6 +892,7 @@ titulo::steinert anuncia presentación de proyecto de ley que agrava penas de de
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::subsecretaria de salud pública encabeza operativo de vacunación extramuros en la región de ohiggins
+titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
