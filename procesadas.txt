@@ -110,6 +110,7 @@ https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comun
 https://www.lanacion.cl/quinta-convocatoria-del-subsidio-electrico-revisa-los-montos-del-beneficio/
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
+https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/
 https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir-mas-de-51-millones-de-declaraciones/
 https://www.lanacion.cl/subsidio-familiar-automatico-cuales-son-los-requisitos-para-acceder-al-beneficio/
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
@@ -881,6 +882,7 @@ titulo::salfacorp emite bono por más de us 60 millones para financiar plan de i
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
+titulo::sea da luz verde y recomienda aprobar línea 8 del metro busca conectar providencia con puente alto
 titulo::sec anuncia nuevas multas a engie y generadora metropolitana por apagón de febrero de 2025
 titulo::sec multa a dos empresas de energía por más de 2 mil millones por su responsabilidad en el masivo apagón de 2025
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
