@@ -92,6 +92,7 @@ https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuan
 https://www.lanacion.cl/camara-de-diputados-aprobo-idea-de-legislar-proyecto-escuelas-protegidas/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
+https://www.lanacion.cl/direccion-del-trabajo-por-jornada-laboral-de-42-horas-que-entro-en-vigencia-principal-mecanismo-es-el-acuerdo/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
@@ -151,6 +152,7 @@ https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
 https://www.latercera.com/mtonline/noticia/el-kia-soluto-se-prepara-para-sumar-en-chile-una-version-automatica/
+https://www.latercera.com/mtonline/noticia/el-leapmotor-b10-electrico-ya-esta-en-chile-un-suv-compacto-con-360-km-de-autonomia/
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-de-gac-motor-en-chile/
 https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
@@ -189,6 +191,7 @@ https://www.latercera.com/nacional/noticia/marca-un-avance-sustantivo-en-la-rela
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
+https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/
 https://www.latercera.com/nacional/noticia/ministro-poduje-anuncia-proyectos-de-viviendas-sociales-cerca-del-nido-de-aguilas-y-del-parque-arauco/
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
@@ -599,6 +602,7 @@ titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::desde gloria hutt a juan benavides los cuatros nuevos directores que ingresarán a santander chile
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
 titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
+titulo::dirección del trabajo por jornada laboral de 42 horas que entró en vigencia principal mecanismo es el acuerdo
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
 titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
 titulo::dueños de lundin mining y megaproyecto minero vicuña es uno de los yacimientos más grandes de los últimos 30 años
@@ -624,6 +628,7 @@ titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a tr
 titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
 titulo::el kia soluto se prepara para sumar en chile una versión automática
+titulo::el leapmotor b10 eléctrico ya está en chile un suv compacto con 360 km de autonomía
 titulo::el listado de los trabajos con más vacantes en chile y los sueldos que ofrecen van desde los  450 mil a más de dos millones
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
@@ -777,6 +782,7 @@ titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la 
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
+titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
