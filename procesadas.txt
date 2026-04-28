@@ -142,6 +142,7 @@ https://www.latercera.com/el-deportivo/noticia/manuel-pellegrini-vuelve-a-abrir-
 https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guardiola-o-pellegrini-no-vendrian-a-chile-si-una-comision-tecnica-les-elige-los-jugadores/
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
 https://www.latercera.com/emprendimiento/noticia/de-curico-al-mundo-la-apuesta-de-haulmer-por-digitalizar-a-los-pequenos-negocios/
+https://www.latercera.com/emprendimiento/noticia/mas-de-6-mil-asistentes-y-90-speakers-de-todo-el-mundo-los-detalles-del-chile-fintech-forum-2026/
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
@@ -822,6 +823,7 @@ titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarro
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
+titulo::más de 6 mil asistentes y 90 speakers de todo el mundo los detalles del chile fintech forum 2026
 titulo::más ia menos hidrógeno verde la agenda del nuevo vicepresidente de corfo
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
