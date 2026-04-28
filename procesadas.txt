@@ -58,6 +58,7 @@ https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-ce
 https://www.ex-ante.cl/el-proyecto-del-mop-de-us-4-189-millones-para-ampliar-carceles-y-construir-nuevas-via-concesiones/
 https://www.ex-ante.cl/el-proyecto-roto-por-que-la-centroizquierda-chilena-no-sabe-a-quien-hablarle-por-paulo-hidalgo/
 https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-575-millones-con-inversion-de-cristiano-ronaldo/
+https://www.ex-ante.cl/gobierno-destraba-proyectos-de-inversion-por-us-225-millones-y-queda-pendiente-iniciativa-de-grupo-errazuriz/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
@@ -695,6 +696,7 @@ titulo::gobierno confirma a cristián muga como presidente del directorio de ena
 titulo::gobierno confirma continuidad del subsidio eléctrico y busca fórmula para deuda de distribuidoras
 titulo::gobierno confirmó continuidad del subsidio eléctrico y anunció nuevo proceso
 titulo::gobierno define ubicación del nuevo hospital de la zona norte de santiago se construirá en lampa en predio que costará más de 9400 millones
+titulo::gobierno destraba proyectos de inversión por us 225 millones y queda pendiente iniciativa de grupo errázuriz
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
