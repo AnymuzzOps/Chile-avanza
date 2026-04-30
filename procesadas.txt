@@ -110,6 +110,7 @@ https://www.lanacion.cl/parvulos-chilenos-tras-la-ruta-del-artemis-ii-visitaran-
 https://www.lanacion.cl/poduje-anuncia-casas-sociales-cerca-del-colegio-nido-de-aguilas-y-parque-arauco/
 https://www.lanacion.cl/que-es-norwegian-peoples-aid-ong-aporta-recursos-a-comunidades-lafkenche-para-frenar-salmoneras-chilenas/
 https://www.lanacion.cl/quinta-convocatoria-del-subsidio-electrico-revisa-los-montos-del-beneficio/
+https://www.lanacion.cl/quiroz-descarta-recortes-a-la-pgu-no-se-va-a-tocar-ningun-beneficio/
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/
@@ -351,6 +352,7 @@ https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
+https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -844,6 +846,7 @@ titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile 
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
 titulo::para que no queden solos así es knino el primer canal chileno de televisión que busca entretener a los perros cuando no estás en casa
+titulo::para reducir tiempos de espera odontológica ministerio de salud inicia alianza estratégica con universidades de todo el país
 titulo::pascua en chile así puedes obtener 20 juegos gratis
 titulo::pdi y policía argentina activan operativo para dar con paradero de galvarino apablaza e iniciar extradición a chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
@@ -872,6 +875,7 @@ titulo::probado en nogales el invento que puede revolucionar la extracción de c
 titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
 titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
+titulo::quiroz descarta recortes a la pgu no se va a tocar ningún beneficio
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
 titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su desconocida afición
