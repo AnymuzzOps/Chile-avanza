@@ -327,6 +327,7 @@ https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativ
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
+https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
@@ -895,6 +896,7 @@ titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adria
 titulo::runway entre las top 50 empresas de ia del mundo
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
+titulo::samsung lanza en san pedro de atacama su programa de innovación escolar en stem
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
