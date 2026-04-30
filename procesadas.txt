@@ -51,6 +51,7 @@ https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-apa
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
+https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa-norquim-ingreso-a-evaluacion-ambiental-en-mejillones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
@@ -238,6 +239,7 @@ https://www.latercera.com/pulso/noticia/bancoestado-anuncia-eliminacion-en-cobro
 https://www.latercera.com/pulso/noticia/brasilena-ascenty-y-necesidad-del-cable-chino-cuanto-mas-conectividad-tenga-chile-mas-competitivo-va-a-ser/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
+https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-explica-proyecto-para-edificio-de-la-bolsa-de-santiago/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
 https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
@@ -340,6 +342,7 @@ https://www.latercera.com/tendencias/noticia/investigador-chileno-simulo-un-terr
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
+https://www.latercera.com/tendencias/noticia/por-que-deberias-empezar-a-usar-inteligencia-artificial-si-tienes-una-pyme-en-chile/
 https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
@@ -554,6 +557,7 @@ titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de d
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
+titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile anuncia respaldo a argentina en reclamo por las islas malvinas y agradece esfuerzos por extradición de apablaza
@@ -611,6 +615,7 @@ titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
+titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo volvo superó a tesla en chile
@@ -860,6 +865,7 @@ titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
+titulo::por qué deberías empezar a usar inteligencia artificial si tienes una pyme en chile
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::por unanimidad senado aprueba proyecto que evita que condenados por vif accedan a pensión de sobrevivencia
 titulo::precios de internet en chile son mucho más bajos que en argentina o perú y 5g ya supera las 10 millones de conexiones
