@@ -145,6 +145,7 @@ https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guard
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
 https://www.latercera.com/emprendimiento/noticia/de-curico-al-mundo-la-apuesta-de-haulmer-por-digitalizar-a-los-pequenos-negocios/
 https://www.latercera.com/emprendimiento/noticia/mas-de-6-mil-asistentes-y-90-speakers-de-todo-el-mundo-los-detalles-del-chile-fintech-forum-2026/
+https://www.latercera.com/emprendimiento/noticia/plataforma-chilena-circulo-senior-lanza-app-con-ia-para-la-generacion-mayor-a-55-anos/
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
@@ -224,6 +225,7 @@ https://www.latercera.com/politica/noticia/judith-marin-ministra-de-la-mujer-me-
 https://www.latercera.com/politica/noticia/la-moneda-ajusta-la-estrategia-para-enfrentar-su-proyecto-ancla-de-reconstruccion-nacional/
 https://www.latercera.com/politica/noticia/macaya-pide-altura-de-miras-en-chile-vamos-tras-fuego-amigo-por-remocion-de-directora-del-sernameg/
 https://www.latercera.com/politica/noticia/megarreforma-aumenta-en-us400-millones-y-extiende-hasta-2028-el-fondo-de-emergencia-para-reconstruccion-en-nuble-y-biobio/
+https://www.latercera.com/politica/noticia/poduje-anuncia-aprobacion-de-emblematico-programa-de-vivienda-que-quiroz-sugirio-descontinuar-inversion-es-de-46-mil-millones/
 https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-seguridad-escolar-ingresan-con-suma-urgencia-y-que-megarreforma-esta-en-revision-final/
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/publirreportajes/noticia/toyota-chile-lanza-beca-toyota-impulsa-pioneras-junto-a-duoc-uc-para-fomentar-la-inclusion-femenina-en-el-sector-automotriz/
@@ -358,6 +360,7 @@ https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
+https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
@@ -863,7 +866,9 @@ titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad d
 titulo::permitirán estudiar la estructura interna de la isla instalan primera red de sismómetros en juan fernández
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
+titulo::plataforma chilena círculo senior lanza app con ia para la generación mayor a 55 años
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
+titulo::poduje anuncia aprobación de emblemático programa de vivienda que quiroz sugirió descontinuar inversión es de 46 mil millones
 titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
 titulo::por qué deberías empezar a usar inteligencia artificial si tienes una pyme en chile
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
@@ -927,6 +932,7 @@ titulo::startup chilena de venta de equipos reacondicionados ingresó a la selec
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
+titulo::subsecretaria de salud pública en mayo debemos tener un 70 de avance de vacunación contra la influenza
 titulo::subsecretaria de salud pública encabeza operativo de vacunación extramuros en la región de ohiggins
 titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
