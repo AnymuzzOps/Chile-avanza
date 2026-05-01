@@ -273,6 +273,7 @@ https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyec
 https://www.latercera.com/pulso/noticia/estudio-juridico-espanol-garrigues-adquiere-oficina-chilena-barros-silva-varela-vigil/
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
+https://www.latercera.com/pulso/noticia/ganancias-de-parque-arauco-crecen-casi-un-70-en-el-primer-trimestre/
 https://www.latercera.com/pulso/noticia/gasto-en-pensiones-solidarias-subio-6-el-ano-pasado-llego-a-21-del-pib-y-beneficarios-superaron-los-27-millones/
 https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
 https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-paliativas-por-alza-de-combustibles-y-ven-efecto-fiscal-casi-neutro/
@@ -719,6 +720,7 @@ titulo::falleció raúl quemada lería el empresario ligado a la recordada dos e
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
+titulo::ganancias de parque arauco crecen casi un 70 en el primer trimestre
 titulo::gasto en pensiones solidarias subió 6 el año pasado llegó a 21 del pib y beneficiarios superaron los 27 millones
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
