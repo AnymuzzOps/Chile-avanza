@@ -245,6 +245,7 @@ https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
 https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
+https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-transparencia-fiscal-en-2025/
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
@@ -580,6 +581,7 @@ titulo::chile para ahorrar también hay que crecer por felipe jaque
 titulo::chile quedará en ridículo si después bachelet gana nueva minuta del gobierno fija cómo responder a críticas de la oposición tras retiro de apoyo a exmandataria
 titulo::chile se convierte en estado miembro asociado del cern y entra al núcleo de la física mundial
 titulo::chile se convierte oficialmente en estado miembro asociado del destacado laboratorio de física cern
+titulo::chile sube en 2025 en encuesta que mide la transparencia fiscal
 titulo::chile y estados unidos firman acuerdos de cooperación en minerales críticos y seguridad
 titulo::chile y los minerales críticos
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
