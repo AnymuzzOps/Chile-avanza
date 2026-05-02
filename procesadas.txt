@@ -315,6 +315,7 @@ https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
+https://www.latercera.com/pulso/noticia/venta-de-viviendas-nuevas-en-la-rm-sube-casi-20-en-primer-trimestre-potenciada-por-subsidio-a-tasa-hipotecaria/
 https://www.latercera.com/pulso/noticia/versus-27-de-chile-impuesto-a-las-empresas-promedia-24-entre-los-paises-de-la-ocde-y-21-a-nivel-mundial/
 https://www.latercera.com/red-activa/noticia/jetsmart-y-fundacion-uc-christus-llevaran-atencion-medica-especializada-a-zonas-aisladas-de-chile/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
@@ -970,6 +971,7 @@ titulo::una crónica de vigilancia en un mundo que aprende a esconderse por nata
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
+titulo::venta de viviendas nuevas en la rm sube casi 20 en primer trimestre potenciada por subsidio a tasa hipotecaria
 titulo::ventas de autos eléctricos en chile el alza de la bencina hizo lo que no pudieron los incentivos
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
