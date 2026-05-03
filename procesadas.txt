@@ -45,6 +45,7 @@ https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocim
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
+https://www.ex-ante.cl/andrea-garcia-de-vina-vik-el-futuro-del-vino-chileno-pasa-por-fortalecer-los-segmentos-de-mayor-valor/
 https://www.ex-ante.cl/banco-central-aumenta-reservas-de-oro-durante-marzo-y-las-deposita-en-londres/
 https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efectivo-se-niega-a-desaparecer/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
@@ -336,6 +337,7 @@ https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativ
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
+https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
@@ -518,6 +520,7 @@ titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve
 titulo::andes salud adquiere el control de clínica imet de la región de magallanes y anuncia expansión del centro de salud
 titulo::andina anuncia inversiones por us500 millones y su presidente llama a recuperar el dinamismo económico
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
+titulo::andrea garcía de viña vik el futuro del vino chileno pasa por fortalecer los segmentos de mayor valor
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::anuncian proceso de postulaciones al subsidio ds49 quiénes pueden acceder al llamado especial
@@ -851,6 +854,7 @@ titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
 titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
+titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y el debut del razr fold
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
