@@ -362,6 +362,7 @@ https://www.latercera.com/videos/noticia/maratue-la-llegada-de-norman-foster-a-c
 https://www.latercera.com/videos/noticia/runway-entre-las-top-50-empresas-de-ia-del-mundo/
 https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-semana-santa-en-el-chile-antiguo/
 https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
+https://www.mineduc.cl/estudio-internacional-revela-profesores-chilenos-mejor-preparados-reportan-menos-estres-y-logran-mas-aprendizaje-en-aula/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
@@ -723,6 +724,7 @@ titulo::estimaciones de crecimiento tendencial
 titulo::estudiantes de duoc uc representarán a chile en la final mundial de huawei ict competition en china
 titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hasta baquedano y metro cierra estaciones
 titulo::estudio detecta fuerte aumento de precios en oficinas del sector oriente ante futura línea 7 del metro de santiago
+titulo::estudio internacional revela profesores chilenos mejor preparados reportan menos estrés y logran más aprendizaje en aula
 titulo::estudio jurídico español garrigues adquiere oficina chilena barros silva varela  vigil
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
