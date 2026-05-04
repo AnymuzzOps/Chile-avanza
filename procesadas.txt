@@ -351,6 +351,7 @@ https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-con
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
 https://www.latercera.com/tendencias/noticia/por-que-deberias-empezar-a-usar-inteligencia-artificial-si-tienes-una-pyme-en-chile/
+https://www.latercera.com/videos/noticia/automotores-lo-que-trae-la-alianza-de-sura-y-yuzz-en-chile/
 https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
@@ -540,6 +541,7 @@ titulo::atención chile estas aplicaciones te muestran la bencina más barata en
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
 titulo::australia extraditará a chile a adriana rivas exagente de la dina y secretaria personal del mamo contreras juicio por extradición duró 7 años
 titulo::australia rechaza el último recurso de adriana rivas y allana su extradición a chile
+titulo::automotores  lo que trae la alianza de sura y yuzz en chile
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avanza la línea 8 tras recomendación del sea de aprobar estudio ambiental por estas comunas pasará el nuevo trazado del metro
