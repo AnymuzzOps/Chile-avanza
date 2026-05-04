@@ -205,6 +205,7 @@ https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-baj
 https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/
 https://www.latercera.com/nacional/noticia/ministro-poduje-anuncia-proyectos-de-viviendas-sociales-cerca-del-nido-de-aguilas-y-del-parque-arauco/
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
+https://www.latercera.com/nacional/noticia/minsal-anuncia-la-eliminacion-de-la-comision-que-cenabast-cobraba-a-municipios-por-la-compra-de-medicamentos-para-la-aps/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
 https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bicentenario-de-cerrillos-para-desarrollo-de-proyecto-habitacional-que-beneficiara-a-820-familias/
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
@@ -850,6 +851,7 @@ titulo::ministra del medio ambiente británica tras visita a chile es posible lu
 titulo::ministra rincón anuncia dos proyectos de ley para frenar alzas en cuentas de la luz provocadas por retrasos en fijación de tarifas
 titulo::ministro poduje anuncia proyectos de viviendas sociales cerca del nido de águilas y del parque arauco
 titulo::minsal amplía población objetivo para la vacunación contra el covid19
+titulo::minsal anuncia la eliminación de la comisión que cenabast cobraba a municipios por la compra de medicamentos para la aps
 titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::minsal informa que uso de mascarillas será obligatorio en servicios de urgencia entre el 1 de abril y el 31 de agosto
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
