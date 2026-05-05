@@ -215,6 +215,7 @@ https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bic
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
+https://www.latercera.com/nacional/noticia/plan-de-invierno-2026-gobierno-de-santiago-identifica-405-puntos-criticos-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/por-unanimidad-senado-aprueba-proyecto-que-evita-que-condenados-por-vif-accedan-a-pension-de-sobrevivencia/
 https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimiento-que-gesta-para-entrar-al-corazon-del-telescopio-mas-grande-del-mundo/
 https://www.latercera.com/nacional/noticia/presidente-kast-presenta-proyecto-de-mejora-de-la-carretera-austral/
@@ -234,6 +235,7 @@ https://www.latercera.com/politica/noticia/macaya-pide-altura-de-miras-en-chile-
 https://www.latercera.com/politica/noticia/megarreforma-aumenta-en-us400-millones-y-extiende-hasta-2028-el-fondo-de-emergencia-para-reconstruccion-en-nuble-y-biobio/
 https://www.latercera.com/politica/noticia/poduje-anuncia-aprobacion-de-emblematico-programa-de-vivienda-que-quiroz-sugirio-descontinuar-inversion-es-de-46-mil-millones/
 https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-seguridad-escolar-ingresan-con-suma-urgencia-y-que-megarreforma-esta-en-revision-final/
+https://www.latercera.com/politica/noticia/senado-aprueba-en-general-proyecto-de-ley-que-tipifica-como-delito-el-ingreso-clandestino-a-chile/
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/publirreportajes/noticia/toyota-chile-lanza-beca-toyota-impulsa-pioneras-junto-a-duoc-uc-para-fomentar-la-inclusion-femenina-en-el-sector-automotriz/
 https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-solar-y-consolida-hub-andes-solar-como-el-mas-grande-de-latinoamerica/
@@ -372,6 +374,7 @@ https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nue
 https://www.mineduc.cl/estudio-internacional-revela-profesores-chilenos-mejor-preparados-reportan-menos-estres-y-logran-mas-aprendizaje-en-aula/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
+https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-154-mil-millones-para-ejecutar-plan-de-atencion-a-33-mil-pacientes-con-espera-prolongada/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
@@ -530,6 +533,7 @@ titulo::al volante del changan lumin el eléctrico más honesto del mercado chil
 titulo::al volante del dongfeng vigo el suv eléctrico que quiere democratizar la electromovilidad en chile
 titulo::alan meyer el ejecutivo que construyó mercado libre en chile y que anunció la mayor inversión de la compañía en el país
 titulo::alemania expresa preocupación por freno a la expropiación de colonia dignidad y apoyan la creación de un memorial en chile
+titulo::alerta oncológica servicios de salud reciben formalmente 154 mil millones para ejecutar plan de atención a 33 mil pacientes con espera prolongada
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve un trabajo peligroso
@@ -915,6 +919,7 @@ titulo::pdi y policía argentina activan operativo para dar con paradero de galv
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
 titulo::permitirán estudiar la estructura interna de la isla instalan primera red de sismómetros en juan fernández
 titulo::perú también ejecuta obras para una zanja al límite con chile
+titulo::plan de invierno 2026 gobierno de santiago identifica 405 puntos críticos en la región metropolitana
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::plataforma chilena círculo senior lanza app con ia para la generación mayor a 55 años
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
@@ -972,6 +977,7 @@ titulo::sec anuncia nuevas multas a engie y generadora metropolitana por apagón
 titulo::sec multa a dos empresas de energía por más de 2 mil millones por su responsabilidad en el masivo apagón de 2025
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
+titulo::senado aprueba en general proyecto de ley que tipifica como delito el ingreso clandestino a chile
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
 titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
