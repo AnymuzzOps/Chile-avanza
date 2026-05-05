@@ -370,6 +370,7 @@ https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
+https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
@@ -860,6 +861,7 @@ titulo::minsal amplía población objetivo para la vacunación contra el covid19
 titulo::minsal anuncia la eliminación de la comisión que cenabast cobraba a municipios por la compra de medicamentos para la aps
 titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::minsal informa que uso de mascarillas será obligatorio en servicios de urgencia entre el 1 de abril y el 31 de agosto
+titulo::minsal reduce el ajuste fiscal solicitado por hacienda con foco en eficiencia y gestión sin afectar la atención de pacientes
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
