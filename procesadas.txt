@@ -180,6 +180,7 @@ https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-s
 https://www.latercera.com/nacional/noticia/arrau-detalla-avances-del-plan-escudo-fronterizo-en-colchane-expansion-de-zanjas-y-mejoramiento-de-infraestructura/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
+https://www.latercera.com/nacional/noticia/campana-de-vacunacion-llega-al-622-de-avance-y-alerta-a-expertos-adultos-mayores-y-ninos-son-los-mas-atrasados/
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
 https://www.latercera.com/nacional/noticia/comite-de-apr-de-san-pedro-de-atacama-presenta-recurso-contra-diputada-marcela-hernando-por-ingreso-no-autorizado/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
@@ -503,6 +504,7 @@ https://www.theclinic.cl/2026/04/30/la-inedita-investigacion-que-esta-caracteriz
 https://www.theclinic.cl/2026/04/30/lepas-en-el-salon-de-beijing/
 https://www.theclinic.cl/2026/04/30/mesa-bienestar-digital-infantil-hitos-vtr/
 https://www.theclinic.cl/2026/04/30/reemplaza-eficazmente-compuestos-quimicos-mucho-mas-toxicos-chilenos-crean-material-sustentable-para-detectar-farmacos-en-el-agua/
+https://www.theclinic.cl/2026/05/05/asi-es-uber-mujeres-la-nueva-opcion-de-la-app-que-llega-a-chile-y-que-prioriza-el-encuentro-entre-pasajeras-y-conductoras/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -538,6 +540,7 @@ titulo::asociación chilena de municipalidades en la lupa contraloría detecta s
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelerar la investigación científica
+titulo::así es uber mujeres la nueva opción de la app que llega a chile y que prioriza el encuentro entre pasajeras y conductoras
 titulo::así será la ciudad sanitaria de la platina el conjunto de centros de salud que acompañará a 4500 nuevas viviendas en la pintana
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::así serán las nuevas cárceles de calama y copiapó y las ocho ampliaciones de centros penitenciarios incluidas en los 70 proyectos prioritarios del mop
@@ -575,6 +578,7 @@ titulo::calama implementa plan de transporte público gratuito para personas may
 titulo::cambio de hora en chile 2026 cuándo y cómo se modifican los relojes para el horario de invierno
 titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horario de invierno
 titulo::cambio de hora en chile esta media noche regresamos al horario de invierno
+titulo::campaña de vacunación llega al 622 de avance y alerta a expertos adultos mayores y niños son los más atrasados
 titulo::campaña de vacunación ministra de salud refuerza llamado a proteger de la influenza a la población escolar
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de distribución empleando a 500 personas
