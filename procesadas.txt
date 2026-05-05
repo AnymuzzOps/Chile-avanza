@@ -1,5 +1,6 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://anid.cl/farmaco-chileno-contra-la-obesidad-busca-avanzar-hacia-pruebas-clinicas/
+https://anid.cl/inria-chile-impulsa-dos-proyectos-binacionales-en-inteligencia-artificial/
 https://anid.cl/se-abre-el-financiamiento-para-construir-viviendas-e-infraestructura-con-madera/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
 https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
@@ -778,6 +779,7 @@ titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 202
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::iniciativa chilena apunta a reducir el impacto ambiental de la calefacción a leña con biofiltración
+titulo::inria chile impulsa dos proyectos binacionales en inteligencia artificial
 titulo::investigador chileno simuló un terremoto 67 en la falla de san ramón esto fue lo que pasó
 titulo::investigadores chilenos reciben reconocimiento internacional por avance en inteligencia artificial
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
