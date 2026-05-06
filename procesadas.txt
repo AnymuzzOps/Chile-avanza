@@ -255,6 +255,7 @@ https://www.latercera.com/pulso/noticia/bancoestado-anuncia-eliminacion-en-cobro
 https://www.latercera.com/pulso/noticia/brasilena-ascenty-y-necesidad-del-cable-chino-cuanto-mas-conectividad-tenga-chile-mas-competitivo-va-a-ser/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
+https://www.latercera.com/pulso/noticia/canales-de-television-chilenos-demandan-a-google-en-el-tdlc-por-abuso-de-posicion-dominante/
 https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-explica-proyecto-para-edificio-de-la-bolsa-de-santiago/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
 https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
@@ -311,6 +312,7 @@ https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-emp
 https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
+https://www.latercera.com/pulso/noticia/nvidia-mira-chile-la-gestion-del-gobierno-para-instalar-la-primera-fabrica-de-ia-de-la-empresa-mas-valiosa-del-mundo/
 https://www.latercera.com/pulso/noticia/presenta-proyecto-de-93-casas-para-la-zona-de-papudo-por-us21-millones/
 https://www.latercera.com/pulso/noticia/presentan-proyecto-eolico-por-mas-de-us5000-millones-para-la-region-del-biobio/
 https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-por-el-historico-apagon-de-2025-nos-dejo-una-gran-leccion-de-resiliencia/
@@ -522,6 +524,7 @@ https://www.theclinic.cl/2026/05/05/el-millonario-proyecto-de-las-condes-para-re
 https://www.theclinic.cl/2026/05/05/el-parque-cerros-de-renca-tendra-el-mirador-mas-alto-de-toda-la-region-metropolitana-revisa-los-detalles-del-proyecto/
 https://www.theclinic.cl/2026/05/05/linea-1-se-prepara-para-estrenar-su-primera-estacion-con-puertas-en-el-anden-metro-proyecta-apertura-en-san-pablo-en-mayo-mientras-avanza-en-neptuno/
 https://www.theclinic.cl/2026/05/05/llegada-del-metro-de-valparaiso-a-quillota-la-calera-avanza-sea-recomienda-aprobar-la-extension-que-busca-conectar-las-comunas-en-28-minutos/
+https://www.theclinic.cl/2026/05/06/comision-de-evaluacion-ambiental-aprueba-informe-clave-para-la-linea-8-obras-comenzaran-en-2027-y-nueva-trazado-de-metro-abriria-en-2032/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -600,6 +603,7 @@ titulo::cambio de hora en chile 5 tips para acostumbrarse más rápido al horari
 titulo::cambio de hora en chile esta media noche regresamos al horario de invierno
 titulo::campaña de vacunación llega al 622 de avance y alerta a expertos adultos mayores y niños son los más atrasados
 titulo::campaña de vacunación ministra de salud refuerza llamado a proteger de la influenza a la población escolar
+titulo::canales de televisión chilenos demandan a google en el tdlc por abuso de posición dominante
 titulo::candidato a rector de la universidad de chile si salgo elegido presidente de azul azul michael clark tendrá que enfrentar acciones judiciales
 titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de distribución empleando a 500 personas
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
@@ -633,6 +637,7 @@ titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia of
 titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
+titulo::comisión de evaluación ambiental aprueba informe clave para la línea 8 obras comenzarán en 2027 y nuevo trazado de metro abriría en 2032
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
 titulo::comité de apr de san pedro de atacama presenta recurso contra diputada marcela hernando por ingreso no autorizado
 titulo::comité de ministros aprueba megaproyecto inmobiliario maratué por us 2000 millones
@@ -916,6 +921,7 @@ titulo::nuevo ingrediente para la inflación camport y expertos advierten que al
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::nuevo smart 5 llega a chile el suv eléctrico premium
 titulo::nuevo tren de alto estándar se estrenó en el  servicio limachevalparaíso se incorporarán cuatro más y aumentarán en 20 su capacidad
+titulo::nvidia mira chile la gestión del gobierno para instalar la primera fábrica de ia de la empresa más valiosa del mundo
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
