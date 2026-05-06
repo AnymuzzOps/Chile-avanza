@@ -25,6 +25,7 @@ https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economic
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://cambio21.cl/tendencias/tesoreria-inicia-embargos-y-retenciones-a-mas-de-mil-deudores-del-cae-con-ingresos-sobre-los-5-millones-69eaa58192ea9624bb71dff5
 https://cambio21.cl/tendencias/un-arbitrario-mega-proyecto-inmobiliario-en-nunoa-por-patricio-herman-y-rodolfo-acha-69cbfb576e00922e18548d43
+https://cambio21.cl/tendencias/ver-video-coaniquem-lanza-su-colecta-nacional-2026-para-financiar-la-rehabilitacion-de-mas-de-8-mil-ninos-y-ninas-a-lo-largo-de-chile-69fb7106892ebf6e2a7be584
 https://cincodias.elpais.com/companias/2026-04-01/la-justicia-ordena-a-hacienda-devolver-107-millones-a-masorange-y-vodafone-por-el-iae.html
 https://elpais.com/america-colombia/2026-03-31/el-ministro-de-hacienda-anuncia-una-ruptura-de-relaciones-entre-el-gobierno-de-gustavo-petro-y-el-banco-de-la-republica.html
 https://elpais.com/chile/2026-03-24/la-carrera-por-cargar-combustible-en-chile-antes-del-alza-anunciada-nos-tendremos-que-limitar-mas-todavia.html
@@ -42,12 +43,14 @@ https://elpais.com/chile/2026-04-07/quien-fue-el-chileno-que-se-declaro-dueno-de
 https://elpais.com/chile/2026-04-15/bono-invierno-2026-en-chile-quienes-reciben-y-cuando-se-entrega-el-beneficio.html
 https://elpais.com/chile/2026-04-22/ley-de-40-horas-en-chile-como-y-a-quienes-beneficia-la-nueva-reduccion-de-la-jornada-laboral-a-42-horas.html
 https://elpais.com/chile/2026-04-28/black-inmobiliario-2026-en-chile-ofertas-y-empresas-participantes-en-el-evento-de-venta-de-casas-y-departamentos.html
+https://elpais.com/chile/2026-05-06/restriccion-vehicular-2026-el-calendario-y-los-automoviles-que-no-podran-circular-por-santiago-de-chile.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/andrea-garcia-de-vina-vik-el-futuro-del-vino-chileno-pasa-por-fortalecer-los-segmentos-de-mayor-valor/
+https://www.ex-ante.cl/autoridad-ambiental-aprueba-linea-8-del-metro-que-conecta-providencia-con-puente-alto/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-la-mayor-desaladora-en-chile-por-us-5-000-millones/
 https://www.ex-ante.cl/banco-central-aumenta-reservas-de-oro-durante-marzo-y-las-deposita-en-londres/
 https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efectivo-se-niega-a-desaparecer/
@@ -565,6 +568,7 @@ titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa
 titulo::australia extraditará a chile a adriana rivas exagente de la dina y secretaria personal del mamo contreras juicio por extradición duró 7 años
 titulo::australia rechaza el último recurso de adriana rivas y allana su extradición a chile
 titulo::automotores  lo que trae la alianza de sura y yuzz en chile
+titulo::autoridad ambiental aprueba línea 8 del metro que conectará providencia con puente alto
 titulo::autoridad ambiental aprueba proyecto de la mayor desaladora en chile por us 5000 millones
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
@@ -967,6 +971,7 @@ titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja 
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
 titulo::remesas enviadas desde chile retoman alzas en 2025 después de tres años de caídas
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
+titulo::restricción vehicular 2026 el calendario y los automóviles que no podrán circular por santiago de chile
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
 titulo::riqueza de los hogares chilenos cierra 2025 al alza impulsada por el desempeño de los mercados bursátiles
@@ -1023,6 +1028,7 @@ titulo::universidad de chile trae al premio nobel de economía guido imbens y al
 titulo::valparaíso se adjudica más de 127 millones para proyectos patrimoniales
 titulo::venta de viviendas nuevas en la rm sube casi 20 en primer trimestre potenciada por subsidio a tasa hipotecaria
 titulo::ventas de autos eléctricos en chile el alza de la bencina hizo lo que no pudieron los incentivos
+titulo::ver video coaniquem lanza su colecta nacional 2026 para financiar la rehabilitación de más de 8 mil niños y niñas a lo largo de chile
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
