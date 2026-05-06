@@ -1,6 +1,7 @@
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://anid.cl/farmaco-chileno-contra-la-obesidad-busca-avanzar-hacia-pruebas-clinicas/
 https://anid.cl/inria-chile-impulsa-dos-proyectos-binacionales-en-inteligencia-artificial/
+https://anid.cl/laben-chile-crea-sistema-de-vigilancia-para-el-sector-del-packaging/
 https://anid.cl/se-abre-el-financiamiento-para-construir-viviendas-e-infraestructura-con-madera/
 https://cambio21.cl/deportes/candidato-a-rector-de-la-universidad-de-chile-si-salgo-elegido-presidente-de-azul-azul-michael-clark-tendra-que-enfrentar-acciones-judiciales-69c6861fd86bfe55ba45666c
 https://cambio21.cl/deportes/el-arquero-chileno-que-podria-jugar-el-mundial-de-futbol-pero-por-ecuador-69d11c931f54b93b986447ac
@@ -99,6 +100,7 @@ https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuan
 https://www.lanacion.cl/camara-de-diputados-aprobo-idea-de-legislar-proyecto-escuelas-protegidas/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
+https://www.lanacion.cl/cuatro-de-los-cinco-fondos-de-pensiones-anotaron-ganancias-en-abril-solo-el-e-cerro-en-rojo/
 https://www.lanacion.cl/direccion-del-trabajo-por-jornada-laboral-de-42-horas-que-entro-en-vigencia-principal-mecanismo-es-el-acuerdo/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
@@ -652,6 +654,7 @@ titulo::controlador de afp habitat critica reducción del encaje y licitación d
 titulo::corfo en los premios iniciativas sustentables cuando el fomento público y la sostenibilidad dejan de ser conversaciones paralelas
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::coyhaique busca ser el primer municipio 100 electromovible de chile en cuatro años
+titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
@@ -829,6 +832,7 @@ titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible for
 titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
 titulo::la tecnología detrás de las plataformas de casino en vivo y su crecimiento en chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
+titulo::laben chile crea sistema de vigilancia para el sector del packaging
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::las derechas en chile
