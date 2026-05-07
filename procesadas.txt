@@ -392,6 +392,7 @@ https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-par
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
+https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan-alerta-oncologica/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
@@ -532,6 +533,7 @@ https://www.theclinic.cl/2026/05/06/comision-de-evaluacion-ambiental-aprueba-inf
 https://www.theclinic.cl/2026/05/06/contraloria-toma-razon-del-convenio-para-recuperar-el-mercado-municipal-de-temuco-proyecto-busca-restaurar-el-historico-edificio-a-10-anos-de-su-incendio/
 https://www.theclinic.cl/2026/05/06/dos-liceos-chilenos-se-encuentran-entre-las-50-mejores-escuelas-del-mundo-desde-una-comuna-pequena-y-rural-se-puede-sonar-en-grande/
 https://www.theclinic.cl/2026/05/06/tenpo-misiones-neobanco/
+https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -730,6 +732,7 @@ titulo::el mercado que no para las ventas de vehículos usados en chile marcan s
 titulo::el millonario proyecto de inversión en la carretera austral que permitirá pavimentar tramo de más de 240 kilómetros
 titulo::el millonario proyecto de las condes para remodelar el parque araucano buscan sumar una laguna un anfiteatro y hasta un aviario
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
+titulo::el motor que no termina de acelerar cómo se mueve el mercado automotor chileno en 2026
 titulo::el nuevo traspié de la ministra mara sedini aseguró que galvarino apablaza está condenado pero aún debe ser procesado por la justicia chilena
 titulo::el parque cerros de renca tendrá el mirador más alto de toda la región metropolitana revisa los detalles del proyecto
 titulo::el proyecto del mop de us 4189 millones para ampliar cárceles y construir nuevas vía concesiones
@@ -1008,6 +1011,7 @@ titulo::sec multa a dos empresas de energía por más de 2 mil millones por su r
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::senado aprueba en general proyecto de ley que tipifica como delito el ingreso clandestino a chile
+titulo::servicio salud antofagasta alcanzó un 73 de avance en plan alerta oncológica
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
 titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
