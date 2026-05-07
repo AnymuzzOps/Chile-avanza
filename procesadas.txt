@@ -270,6 +270,7 @@ https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyecto-maratue-y-un-ajuste-a-la-linea-7-del-metro/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de-energias-renovables-por-mas-de-us1000-millones/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-revisara-revisara-cuatro-proyectos-de-inversion-que-suman-us345/
+https://www.latercera.com/pulso/noticia/como-sera-el-supermercado-pricesmart-en-chicureo-que-costara-casi-us10-millones/
 https://www.latercera.com/pulso/noticia/concha-y-toro-ha-invertido-mas-de-us50-millones-en-nuevos-negocios-desde-2017-y-casi-us580-millones-en-total/
 https://www.latercera.com/pulso/noticia/conclave-en-cerro-castillo-quiroz-adelanta-que-credito-tributario-a-empleo-beneficiara-a-48-millones-de-trabajadores/
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
@@ -533,7 +534,9 @@ https://www.theclinic.cl/2026/05/06/comision-de-evaluacion-ambiental-aprueba-inf
 https://www.theclinic.cl/2026/05/06/contraloria-toma-razon-del-convenio-para-recuperar-el-mercado-municipal-de-temuco-proyecto-busca-restaurar-el-historico-edificio-a-10-anos-de-su-incendio/
 https://www.theclinic.cl/2026/05/06/dos-liceos-chilenos-se-encuentran-entre-las-50-mejores-escuelas-del-mundo-desde-una-comuna-pequena-y-rural-se-puede-sonar-en-grande/
 https://www.theclinic.cl/2026/05/06/tenpo-misiones-neobanco/
+https://www.theclinic.cl/2026/05/07/asi-fue-la-emotiva-liberacion-de-crias-de-nandu-en-el-parque-nacional-patagonia/
 https://www.theclinic.cl/2026/05/07/el-antes-y-despues-del-historico-edificio-del-correo-central-tras-la-restauracion-de-su-fachada-impulsada-por-santiago/
+https://www.theclinic.cl/2026/05/07/meta-openai-nvidia-y-google-la-gira-del-gobierno-para-atraer-inversion-en-tecnologia-a-chile/
 https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -572,6 +575,7 @@ titulo::aston martin desembarca en chile las dos versiones más radicales del va
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelerar la investigación científica
 titulo::así es uber mujeres la nueva opción de la app que llega a chile y que prioriza el encuentro entre pasajeras y conductoras
+titulo::así fue la emotiva liberación de crías de ñandú en el parque nacional patagonia
 titulo::así será la ciudad sanitaria de la platina el conjunto de centros de salud que acompañará a 4500 nuevas viviendas en la pintana
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::así serán las nuevas cárceles de calama y copiapó y las ocho ampliaciones de centros penitenciarios incluidas en los 70 proyectos prioritarios del mop
@@ -685,6 +689,7 @@ titulo::cámaras trampa logran capturar la presencia del monito del monte en el 
 titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
+titulo::cómo será el supermercado pricesmart en chicureo que costará casi us10 millones
 titulo::cómo volvo superó a tesla en chile
 titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a empleo beneficiará a 48 millones de trabajadores
 titulo::de curicó al mundo la apuesta de haulmer por digitalizar a los pequeños negocios
@@ -901,6 +906,7 @@ titulo::megarreforma del gobierno impuesto a empresas baja a 23 a 2029 y medida 
 titulo::megarreforma hacienda proyecta una recaudación de hasta us800 millones por nueva ventana para retirar el fut
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
+titulo::meta openai nvidia y google la gira del gobierno para atraer inversión en tecnología a chile
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
