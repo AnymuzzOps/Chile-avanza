@@ -541,6 +541,7 @@ https://www.theclinic.cl/2026/05/07/el-antes-y-despues-del-historico-edificio-de
 https://www.theclinic.cl/2026/05/07/meta-openai-nvidia-y-google-la-gira-del-gobierno-para-atraer-inversion-en-tecnologia-a-chile/
 https://www.theclinic.cl/2026/05/07/minsal-informa-el-aislamiento-preventivo-de-dos-chilenos-que-subieron-al-crucero-con-brote-de-hantavirus/
 https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/
+https://www.theclinic.cl/2026/05/08/chile-day-presidenta-del-banco-central-anuncia-medidas-para-expandir-pagos-con-transferencias-electronicas-y-marco-regulatorio-para-stablecoins/
 https://www.theclinic.cl/2026/05/08/sea-recomienda-aprobar-la-extension-del-metro-de-valparaiso-a-la-calera-sugiere-ceder-terreno-de-29-hectareas-a-grupo-diaguita/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -633,6 +634,7 @@ titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pas
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
 titulo::chile anuncia respaldo a argentina en reclamo por las islas malvinas y agradece esfuerzos por extradición de apablaza
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
+titulo::chile day presidenta del banco central anuncia  medidas para expandir pagos con transferencias electrónicas y marco regulatorio para stablecoins
 titulo::chile encabeza alza de los combustibles en la ocde tras salto del petróleo pero tiene uno de los precios más bajos del bloque
 titulo::chile interrumpe envío de gas argentino en ñuble y biobío por incumplimiento normativo
 titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
