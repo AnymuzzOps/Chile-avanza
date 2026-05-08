@@ -227,6 +227,7 @@ https://www.latercera.com/nacional/noticia/por-unanimidad-senado-aprueba-proyect
 https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimiento-que-gesta-para-entrar-al-corazon-del-telescopio-mas-grande-del-mundo/
 https://www.latercera.com/nacional/noticia/presidente-kast-presenta-proyecto-de-mejora-de-la-carretera-austral/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
+https://www.latercera.com/nacional/noticia/sin-ser-prioridad-para-el-ejecutivo-gore-de-la-rm-toma-el-guante-y-proyecta-820-nuevos-kilometros-de-ciclovias/
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
 https://www.latercera.com/nacional/noticia/valparaiso-se-adjudica-mas-de-127-millones-para-proyectos-patrimoniales/
 https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
@@ -1024,6 +1025,7 @@ titulo::shield ai startup que fabrica drones militares recauda us 2000 millones 
 titulo::siguen las buenas noticias para bachelet lula reitera apoyo a candidatura de la expresidenta de chile para la onu figura ideal para el puesto hace tres días lo hizo la presidenta de méxico
 titulo::siguen las malas noticias banco central se hace eco de alzas de combustibles y sube pronóstico de inflación y baja pib a rango de 1525
 titulo::sii y tgr inician operación renta 2026 proyectan recibir más de 51 millones de declaraciones
+titulo::sin ser prioridad para el ejecutivo gore de la rm toma el guante y proyecta 820 nuevos kilómetros de ciclovías
 titulo::smart 5 confirma su fecha de aterrizaje en chile
 titulo::smart 5 el suv eléctrico premium en chile que llegó con las tareas hechas
 titulo::sofofa advierte sobre el enfriamiento de la economía y pide simplificar permisos para reactivar us 96000 millones en inversiones
