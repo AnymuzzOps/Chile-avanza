@@ -138,6 +138,7 @@ https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-
 https://www.latercera.com/culto/noticia/metro-de-santiago-y-universidad-de-chile-firman-acuerdo-para-llevar-nueva-sala-del-mac-a-estacion-bellas-artes/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/educacion/noticia/cientifica-chilena-descubre-el-increible-poder-del-ejercicio-para-tratar-el-cancer-de-mama/
+https://www.latercera.com/educacion/noticia/nadie-sabe-lo-que-es-estudio-chileno-busca-replicar-uno-de-los-principales-misterios-del-universo/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/christian-garin-tiene-un-positivo-estreno-en-la-qualy-del-masters-1000-de-montecarlo/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
@@ -941,6 +942,7 @@ titulo::municipio de monte patria deberá pagar 280 millones a familia de menor 
 titulo::más de 6 mil asistentes y 90 speakers de todo el mundo los detalles del chile fintech forum 2026
 titulo::más ia menos hidrógeno verde la agenda del nuevo vicepresidente de corfo
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
+titulo::nadie sabe lo que es estudio chileno busca replicar uno de los principales misterios del universo
 titulo::nicolás córdova defiende su proceso en la selección chilena estamos tratando de rejuvenecer el equipo respecto a las últimas clasificatorias
 titulo::nissan chile se querella contra dos exejecutivos por estafa los acusa de desviar más de 450 millones
 titulo::no existen problemas de abastecimiento la aclaración de enap y copec por alta demanda de combustible tras inminente alza histórica de bencinas
