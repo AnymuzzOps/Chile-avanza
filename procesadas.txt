@@ -200,6 +200,7 @@ https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio
 https://www.latercera.com/nacional/noticia/conaf-exigira-guia-y-equipamiento-obligatorio-en-torres-del-paine-por-inicio-anticipado-de-temporada-invernal/
 https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municipio-100-electromovible-de-chile-en-seis-anos/
+https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del-ano-para-este-domingo-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
@@ -703,6 +704,7 @@ titulo::de curicó al mundo la apuesta de haulmer por digitalizar a los pequeño
 titulo::de la alarma al retroceso gobierno reevalúa proyecto para ampliar principal instituto de rehabilitación del país para construir centro oncológico en peñalolén
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
+titulo::declaran primera alerta ambiental del año para este domingo en la región metropolitana
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
 titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
