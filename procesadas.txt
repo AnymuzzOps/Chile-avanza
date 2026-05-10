@@ -207,6 +207,7 @@ https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-n
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
+https://www.latercera.com/nacional/noticia/fiscalizacion-de-conaf-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-influenza-para-evitar-contagios-por-gripe-aviar/
 https://www.latercera.com/nacional/noticia/iniciativa-chilena-apunta-a-reducir-el-impacto-ambiental-de-la-calefaccion-a-lena-con-biofiltracion/
@@ -799,6 +800,7 @@ titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
+titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
 titulo::ganancias de parque arauco crecen casi un 70 en el primer trimestre
