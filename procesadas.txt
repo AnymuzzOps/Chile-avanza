@@ -318,6 +318,7 @@ https://www.latercera.com/pulso/noticia/la-propuesta-del-gobierno-para-la-indust
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
+https://www.latercera.com/pulso/noticia/los-ocho-proyectos-pendientes-del-comite-de-ministros-que-suman-mas-de-us5000-millones/
 https://www.latercera.com/pulso/noticia/mas-ia-menos-hidrogeno-verde-la-agenda-del-nuevo-vicepresidente-de-corfo/
 https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
 https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
@@ -901,6 +902,7 @@ titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
 titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
+titulo::los ocho proyectos pendientes del comité de ministros que suman más de us5000 millones
 titulo::los planes de scotiabank en chile para 2026
 titulo::los suv se posicionaron como los autos más vendidos durante el primer trimestre de 2026 mg zx y suzuki fronx fueron los favoritos de los chilenos
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
