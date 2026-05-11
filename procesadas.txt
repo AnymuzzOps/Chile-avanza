@@ -100,6 +100,7 @@ https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
 https://www.lanacion.cl/becas-sence-para-impulsar-empleabilidad-digital-revisa-como-postular/
+https://www.lanacion.cl/bono-base-familiar-conoce-los-requisitos-para-recibir-el-beneficio-que-se-paga-por-dos-anos/
 https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
 https://www.lanacion.cl/camara-de-diputados-aprobo-idea-de-legislar-proyecto-escuelas-protegidas/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
@@ -549,6 +550,8 @@ https://www.theclinic.cl/2026/05/07/minsal-informa-el-aislamiento-preventivo-de-
 https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/
 https://www.theclinic.cl/2026/05/08/chile-day-presidenta-del-banco-central-anuncia-medidas-para-expandir-pagos-con-transferencias-electronicas-y-marco-regulatorio-para-stablecoins/
 https://www.theclinic.cl/2026/05/08/sea-recomienda-aprobar-la-extension-del-metro-de-valparaiso-a-la-calera-sugiere-ceder-terreno-de-29-hectareas-a-grupo-diaguita/
+https://www.theclinic.cl/2026/05/11/asi-sera-el-proyecto-que-busca-transformar-el-poligono-diagonal-paraguay-y-que-costara-mas-de-1-000-millones/
+https://www.theclinic.cl/2026/05/11/complejo-ligado-al-hotel-w-sale-parcialmente-a-la-venta-incluye-placa-comercial-oficinas-y-estacionamientos/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -587,6 +590,7 @@ titulo::aston martin vantage s en chile más potencia y precisión en clave depo
 titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelerar la investigación científica
 titulo::así es uber mujeres la nueva opción de la app que llega a chile y que prioriza el encuentro entre pasajeras y conductoras
 titulo::así fue la emotiva liberación de crías de ñandú en el parque nacional patagonia
+titulo::así será el proyecto que busca transformar el polígono diagonal paraguay obras parten en agosto y costará más de 1000 millones
 titulo::así será la ciudad sanitaria de la platina el conjunto de centros de salud que acompañará a 4500 nuevas viviendas en la pintana
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
 titulo::así serán las nuevas cárceles de calama y copiapó y las ocho ampliaciones de centros penitenciarios incluidas en los 70 proyectos prioritarios del mop
@@ -617,6 +621,7 @@ titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bienestar digital infantil mesa intersectorial define hoja de ruta y articula próximos hitos para 2026
 titulo::black inmobiliario 2026 en chile ofertas y empresas participantes en el evento de venta de casas y departamentos
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
+titulo::bono base familiar conoce los requisitos para recibir el beneficio que se paga por dos años
 titulo::bono invierno 2026 en chile quiénes reciben y cuándo se entrega el beneficio
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
@@ -984,6 +989,7 @@ titulo::plataforma chilena círculo senior lanza app con ia para la generación 
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
 titulo::poduje anuncia aprobación de emblemático programa de vivienda que quiroz sugirió descontinuar inversión es de 46 mil millones
 titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
+titulo::ponen en venta oficinas y placa comercial del edificio del hotel w en el golf son más de 20 mil metros cuadrados y operación superaría los us 130 millones
 titulo::por qué deberías empezar a usar inteligencia artificial si tienes una pyme en chile
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::por unanimidad senado aprueba proyecto que evita que condenados por vif accedan a pensión de sobrevivencia
