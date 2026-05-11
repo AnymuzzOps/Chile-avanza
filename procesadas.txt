@@ -60,6 +60,7 @@ https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaqu
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
 https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa-norquim-ingreso-a-evaluacion-ambiental-en-mejillones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
+https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millones-que-consolida-el-atractivo-energetico-de-ohiggins/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
@@ -273,6 +274,7 @@ https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-h
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-transparencia-fiscal-en-2025/
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
+https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyecto-maratue-y-un-ajuste-a-la-linea-7-del-metro/
@@ -552,6 +554,7 @@ https://www.theclinic.cl/2026/05/08/chile-day-presidenta-del-banco-central-anunc
 https://www.theclinic.cl/2026/05/08/sea-recomienda-aprobar-la-extension-del-metro-de-valparaiso-a-la-calera-sugiere-ceder-terreno-de-29-hectareas-a-grupo-diaguita/
 https://www.theclinic.cl/2026/05/11/asi-sera-el-proyecto-que-busca-transformar-el-poligono-diagonal-paraguay-y-que-costara-mas-de-1-000-millones/
 https://www.theclinic.cl/2026/05/11/complejo-ligado-al-hotel-w-sale-parcialmente-a-la-venta-incluye-placa-comercial-oficinas-y-estacionamientos/
+https://www.theclinic.cl/2026/05/11/startup-chilena-desarrolla-una-ia-para-traducir-el-lenguaje-juridico-y-ayudarte-a-entender-el-estado-de-tu-causa/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -706,6 +709,7 @@ titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegid
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
+titulo::cómo es la hornilla el megaproyecto solar de us 120 millones que consolida el atractivo energético de ohiggins
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo será el supermercado pricesmart en chicureo que costará casi us10 millones
 titulo::cómo volvo superó a tesla en chile
@@ -742,6 +746,7 @@ titulo::el año redondo de dreams operadora de casinos logró utilidades récord
 titulo::el camino del estudiante chileno que creó un dispositivo para detectar tumores y que fue elegido para estudiar en exclusivo curso de harvard y mit
 titulo::el chile de europa italia quedó fuera de su tercer mundial consecutivo tras perder ante bosnia y herzegovina
 titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato de narumi kurosaki en francia
+titulo::el cobre es la gran noticia de la economía chilena precio supera la guerra y roza nuevos máximos históricos
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
 titulo::el debut de luis slimming líder en sintonía y con guiños a históricos espacios de comedia de canal 13 los momentos que marcaron el estreno de el desestrece
 titulo::el empleo chileno en crisis
@@ -1056,6 +1061,7 @@ titulo::smart 5 el suv eléctrico premium en chile que llegó con las tareas hec
 titulo::sofofa advierte sobre el enfriamiento de la economía y pide simplificar permisos para reactivar us 96000 millones en inversiones
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
+titulo::startup chilena desarrolla una ia para traducir el lenguaje jurídico y ayudarte a entender el estado de tu causa
 titulo::startups pymes y grandes empresas la alianza que corfo quiere acelerar en sostenibilidad
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
