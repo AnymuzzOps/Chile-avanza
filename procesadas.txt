@@ -131,6 +131,7 @@ https://www.lanacion.cl/subsidio-familiar-automatico-cuales-son-los-requisitos-p
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
+https://www.latercera.com/branded/noticia/las-nuevas-y-efectivas-terapias-para-combatir-las-enfermedades-inflamatorias-intestinales/
 https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
 https://www.latercera.com/cartas-al-director/noticia/emprendimiento-para-el-desarrollo-de-chile/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
@@ -210,6 +211,7 @@ https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/fiscalizacion-de-conaf-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias/
+https://www.latercera.com/nacional/noticia/gobierno-detalla-planificacion-estrategica-de-chile-en-la-antartica-y-enfatiza-importancia-de-recuperar-villa-las-estrellas/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-influenza-para-evitar-contagios-por-gripe-aviar/
 https://www.latercera.com/nacional/noticia/iniciativa-chilena-apunta-a-reducir-el-impacto-ambiental-de-la-calefaccion-a-lena-con-biofiltracion/
@@ -824,6 +826,7 @@ titulo::gobierno confirma continuidad del subsidio eléctrico y busca fórmula p
 titulo::gobierno confirmó continuidad del subsidio eléctrico y anunció nuevo proceso
 titulo::gobierno define ubicación del nuevo hospital de la zona norte de santiago se construirá en lampa en predio que costará más de 9400 millones
 titulo::gobierno destraba proyectos de inversión por us 225 millones y queda pendiente iniciativa de grupo errázuriz
+titulo::gobierno detalla planificación estratégica de chile en la antártica y enfatiza importancia de recuperar villa las estrellas
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
@@ -895,6 +898,7 @@ titulo::las derechas en chile
 titulo::las empanadas de queso chilenas conquistan mcdonalds suiza y generan polémica en argentina
 titulo::las lagunas comienzan a llenarse en san bernardo y el proyecto cerro chena entra en su recta final parque metropolitano sur alcanza 86 de avance y apunta a inaugurar en agosto
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
+titulo::las nuevas y efectivas terapias para combatir las enfermedades inflamatorias intestinales
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
 titulo::las sospechas que vinculan a chileno deportado por el ice en eeuu con las amenazas de muerte al alcalde de peñalolén
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
