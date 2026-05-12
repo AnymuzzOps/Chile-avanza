@@ -15,6 +15,7 @@ https://cambio21.cl/pais/cambio-de-hora-en-chile-esta-media-noche-regresamos-al-
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/gobierno-retira-del-congreso-proyecto-de-nueva-ley-de-pesca-y-desata-duras-criticas-69c68265e68125123b280234
+https://cambio21.cl/pais/inedito-en-la-tv-chilena-cntv-caduca-siete-concesiones-de-telecanal-por-no-cumplir-cobertura-digital-6a0396f169333243e1413595
 https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-casinos-conozca-a-los-20-funcionarios-publicos-con-mayores-montos-transados-en-casinos-de-juego-69c1b61e3fdc39506549e8e3
 https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presupuesto-en-ministerio-de-seguridad-luego-que-habia-anunciado-rebajarlo-en-72-mil-millones-de-pesos-69cae2758475fc5e496f8b36
 https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
@@ -62,6 +63,7 @@ https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millones-que-consolida-el-atractivo-energetico-de-ohiggins/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
+https://www.ex-ante.cl/como-la-dupla-quiroz-toledo-impulso-el-record-de-inversion-de-us-22-258-millones-en-dos-meses/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
 https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
@@ -558,6 +560,7 @@ https://www.theclinic.cl/2026/05/11/asi-sera-el-proyecto-que-busca-transformar-e
 https://www.theclinic.cl/2026/05/11/complejo-ligado-al-hotel-w-sale-parcialmente-a-la-venta-incluye-placa-comercial-oficinas-y-estacionamientos/
 https://www.theclinic.cl/2026/05/11/startup-chilena-desarrolla-una-ia-para-traducir-el-lenguaje-juridico-y-ayudarte-a-entender-el-estado-de-tu-causa/
 https://www.theclinic.cl/2026/05/11/ventas-de-autos-chinos-en-chile/
+https://www.theclinic.cl/2026/05/12/biministro-mas-celebra-aumento-en-el-precio-del-cobre-significa-una-mayor-recaudacion-tributaria-para-el-estado/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -625,6 +628,7 @@ titulo::bank of america se enfría el optimismo global y chile aparece como el m
 titulo::bci y chileglobal ventures lanzan programa para impulsar startups en latinoamérica y miami
 titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bienestar digital infantil mesa intersectorial define hoja de ruta y articula próximos hitos para 2026
+titulo::biministro mas celebra aumento en el precio del cobre significa una mayor recaudación tributaria para el estado
 titulo::black inmobiliario 2026 en chile ofertas y empresas participantes en el evento de venta de casas y departamentos
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::bono base familiar conoce los requisitos para recibir el beneficio que se paga por dos años
@@ -714,6 +718,7 @@ titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingre
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo es la hornilla el megaproyecto solar de us 120 millones que consolida el atractivo energético de ohiggins
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
+titulo::cómo la dupla quiroztoledo impulsó el récord de inversión de us 22258 millones en dos meses
 titulo::cómo será el supermercado pricesmart en chicureo que costará casi us10 millones
 titulo::cómo volvo superó a tesla en chile
 titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a empleo beneficiará a 48 millones de trabajadores
@@ -850,6 +855,7 @@ titulo::iniciativa chilena apunta a reducir el impacto ambiental de la calefacci
 titulo::inria chile impulsa dos proyectos binacionales en inteligencia artificial
 titulo::investigador chileno simuló un terremoto 67 en la falla de san ramón esto fue lo que pasó
 titulo::investigadores chilenos reciben reconocimiento internacional por avance en inteligencia artificial
+titulo::inédito en la tv chilena cntv caduca siete concesiones de telecanal por no cumplir cobertura digital
 titulo::irán llega a un acuerdo con pakistán y tailandia para permitir el paso de buques con petróleo por el estrecho de ormuz
 titulo::irán reporta avances en mediación de pakistán ad portas de vencer ultimátum de eeuu
 titulo::israel advierte a la población de irán para que no usen los trenes o se acerquen a infraestructura ferroviaria
