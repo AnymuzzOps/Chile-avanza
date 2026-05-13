@@ -205,6 +205,7 @@ https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
 https://www.latercera.com/nacional/noticia/conaf-exigira-guia-y-equipamiento-obligatorio-en-torres-del-paine-por-inicio-anticipado-de-temporada-invernal/
+https://www.latercera.com/nacional/noticia/consejo-regional-de-arica-aprueba-financiamiento-a-plan-para-comenzar-la-erradicacion-de-la-toma-del-cerro-chuno/
 https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municipio-100-electromovible-de-chile-en-seis-anos/
 https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del-ano-para-este-domingo-en-la-region-metropolitana/
@@ -565,6 +566,8 @@ https://www.theclinic.cl/2026/05/11/startup-chilena-desarrolla-una-ia-para-tradu
 https://www.theclinic.cl/2026/05/11/ventas-de-autos-chinos-en-chile/
 https://www.theclinic.cl/2026/05/12/biministro-mas-celebra-aumento-en-el-precio-del-cobre-significa-una-mayor-recaudacion-tributaria-para-el-estado/
 https://www.theclinic.cl/2026/05/13/como-sera-la-extension-del-metrotren-que-unira-quillota-y-la-calera-cinco-estaciones-nuevas-y-se-espera-que-comience-a-operar-para-2029/
+https://www.theclinic.cl/2026/05/13/el-descubrimiento-fue-anecdotico-estudio-chileno-prueba-terapia-electrica-para-aliviar-dolores-menstruales/
+https://www.theclinic.cl/2026/05/13/tere-gott-la-exitosa-marca-de-libros-para-colorear-abre-su-primera-tienda-en-parque-arauco-y-apunta-a-expandirse-fuera-de-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -703,6 +706,7 @@ titulo::confirman la fecha de llegada de wegovy a chile el tratamiento más fuer
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::conicyt se transforma en la agencia nacional de investigación y desarrollo
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
+titulo::consejo regional de arica aprueba financiamiento a plan para comenzar la erradicación de la toma del cerro chuño
 titulo::continúa el subsidio eléctrico 2026 estas son las próximas fechas de la quinta convocatoria
 titulo::contra el público chileno revisa la polémica reacción de alex michelsen tras vencer a alejandro tabilo en miami
 titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
@@ -763,6 +767,7 @@ titulo::el chileno nicolás zepeda condenado a cadena perpetua por el asesinato 
 titulo::el cobre es la gran noticia de la economía chilena precio supera la guerra y roza nuevos máximos históricos
 titulo::el crecimiento de los casinos online y el desafío del estado chileno
 titulo::el debut de luis slimming líder en sintonía y con guiños a históricos espacios de comedia de canal 13 los momentos que marcaron el estreno de el desestrece
+titulo::el descubrimiento fue anecdótico estudio chileno prueba terapia eléctrica para aliviar dolores menstruales
 titulo::el empleo chileno en crisis
 titulo::el equipo de la mayorista estadounidense pricesmart para competir con los gigantes del retail chileno
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
@@ -1095,6 +1100,7 @@ titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::tendrá 60 kilómetros con un costo tope de 4 mil millones y estaría lista a fin de año los detalles de la construcción de la zanja en la frontera con perú y bolivia
 titulo::tenpo refuerza su estrategia para convertirse en el primer neobanco de chile con misiones que premian la experiencia del usuario
 titulo::teorema y el menor la generación dorada del freestyle en chile que se compara con la copa américa de 2015
+titulo::tere gott la exitosa marca de libros para colorear abre su primera tienda en parque arauco y apunta a expandirse fuera de chile
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
 titulo::tesorería inicia embargos y retenciones a más de mil deudores del cae con ingresos sobre los 5 millones
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
