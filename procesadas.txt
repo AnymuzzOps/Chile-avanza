@@ -290,6 +290,7 @@ https://www.latercera.com/pulso/noticia/conclave-en-cerro-castillo-quiroz-adelan
 https://www.latercera.com/pulso/noticia/congelamiento-a-precio-del-transporte-publico-y-subsidio-a-taxis-gobierno-anuncia-siete-medidas-para-enfrentar-alza-historica-de-combustibles/
 https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de-pensiones-para-la-licitacion-de-stock-de-afiliados-se-reune-por-primera-vez/
 https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
+https://www.latercera.com/pulso/noticia/correoschile-apuesta-por-la-ultima-milla-con-acuerdos-con-banco-santander-y-cenabast/
 https://www.latercera.com/pulso/noticia/costo-de-internet-en-chile-argentina-peru-conexiones-5g/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
@@ -705,6 +706,7 @@ titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prod
 titulo::contraloría toma razón del convenio para recuperar el mercado municipal de temuco proyecto busca restaurar el histórico edificio a 10 años de su incendio
 titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
 titulo::corfo en los premios iniciativas sustentables cuando el fomento público y la sostenibilidad dejan de ser conversaciones paralelas
+titulo::correoschile apuesta por la última milla con acuerdos con banco santander y cenabast
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::coyhaique busca ser el primer municipio 100 electromovible de chile en cuatro años
 titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
