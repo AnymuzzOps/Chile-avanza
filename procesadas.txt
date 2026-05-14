@@ -337,6 +337,7 @@ https://www.latercera.com/pulso/noticia/mas-ia-menos-hidrogeno-verde-la-agenda-d
 https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
 https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
+https://www.latercera.com/pulso/noticia/mop-llama-a-licitacion-para-nueva-carcel-en-calama-presupuesto-de-la-obra-asciende-a-us-394-millones/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
 https://www.latercera.com/pulso/noticia/nvidia-mira-chile-la-gestion-del-gobierno-para-instalar-la-primera-fabrica-de-ia-de-la-empresa-mas-valiosa-del-mundo/
 https://www.latercera.com/pulso/noticia/paz-corp-anota-alza-en-sus-ganancias-pese-a-menor-escrituracion-en-chile/
@@ -572,6 +573,7 @@ https://www.theclinic.cl/2026/05/12/biministro-mas-celebra-aumento-en-el-precio-
 https://www.theclinic.cl/2026/05/13/como-sera-la-extension-del-metrotren-que-unira-quillota-y-la-calera-cinco-estaciones-nuevas-y-se-espera-que-comience-a-operar-para-2029/
 https://www.theclinic.cl/2026/05/13/el-descubrimiento-fue-anecdotico-estudio-chileno-prueba-terapia-electrica-para-aliviar-dolores-menstruales/
 https://www.theclinic.cl/2026/05/13/tere-gott-la-exitosa-marca-de-libros-para-colorear-abre-su-primera-tienda-en-parque-arauco-y-apunta-a-expandirse-fuera-de-chile/
+https://www.theclinic.cl/2026/05/14/asociacion-chilena-de-electromovilidad-liviana-la-adquisicion-de-un-vehiculo-electrico-liviano-ya-dejo-de-verse-como-una-inversion-cara/
 https://www.theclinic.cl/2026/05/14/la-audaz-estrategia-de-millicom-la-nueva-controladora-de-telefonica-desvinculo-a-casi-un-tercio-del-personal-en-su-plan-por-asentarse-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -605,6 +607,7 @@ titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae qu
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::arrau detalla avances del plan escudo fronterizo en colchane expansión de zanjas y mejoramiento de infraestructura
 titulo::arriesgan a multas de más de 100 millones sernac fiscalizará a tiendas del retail por la aplicación de descuentos asociados al pago con tarjetas
+titulo::asociación chilena de electromovilidad liviana la adquisición de un vehículo eléctrico liviano ya dejó de verse como una inversión cara
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
@@ -986,6 +989,7 @@ titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de la
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
 titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
 titulo::mop inicia proceso de licitación internacional para nueva cárcel de calama
+titulo::mop llama a licitación para nueva cárcel en calama presupuesto de la obra asciende a us 394 millones
 titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y el debut del razr fold
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
