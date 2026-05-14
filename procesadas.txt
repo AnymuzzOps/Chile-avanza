@@ -110,6 +110,7 @@ https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobi
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
 https://www.lanacion.cl/cuatro-de-los-cinco-fondos-de-pensiones-anotaron-ganancias-en-abril-solo-el-e-cerro-en-rojo/
 https://www.lanacion.cl/direccion-del-trabajo-por-jornada-laboral-de-42-horas-que-entro-en-vigencia-principal-mecanismo-es-el-acuerdo/
+https://www.lanacion.cl/en-maratonica-jornada-el-proyecto-de-reconstruccion-fue-aprobado-en-la-comision-de-hacienda/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
 https://www.lanacion.cl/enel-green-power-construye-proyecto-de-baterias-en-planta-hibrida-con-generacion-solar-y-eolica/
 https://www.lanacion.cl/estudiantes-realizan-marchas-en-distintos-puntos-de-santiago-lllegan-hasta-baquedano-y-metro-cierra-estaciones/
@@ -802,6 +803,7 @@ titulo::emprendimiento para el desarrollo de chile
 titulo::empresa de tecnología portátil para la salud recauda us 575 millones con inversión de cristiano ronaldo
 titulo::empresas cierran 2025 con ganancias por más de us32 mil millones y codelco anota las mayores utilidades
 titulo::en el día mundial de la salud presidente kast minsal y alcalde de santiago destacan la efectividad del programa nacional de vacunación
+titulo::en maratónica jornada el proyecto de reconstrucción fue aprobado en la comisión de hacienda
 titulo::en medio del deterioro que enfrenta el cementerio general recinto ingresó al registro de museos podrá acceder a nuevas herramientas de conservación
 titulo::en pleno desierto de atacama el telescopio submilimétrico más alto del mundo ya está operativo en chile
 titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilena de ingeniería de transporte critica corte de financiamiento a ciclovía de la alameda
