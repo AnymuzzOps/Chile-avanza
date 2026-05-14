@@ -232,7 +232,9 @@ https://www.latercera.com/nacional/noticia/ministro-poduje-anuncia-proyectos-de-
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-la-eliminacion-de-la-comision-que-cenabast-cobraba-a-municipios-por-la-compra-de-medicamentos-para-la-aps/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
+https://www.latercera.com/nacional/noticia/minsal-reafirma-que-recorte-de-hacienda-no-afectara-atenciones-representan-solo-un-11-de-los-recursos-operacionales-de-los-hospitales/
 https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bicentenario-de-cerrillos-para-desarrollo-de-proyecto-habitacional-que-beneficiara-a-820-familias/
+https://www.latercera.com/nacional/noticia/mop-inicia-proceso-de-licitacion-internacional-para-nueva-carcel-de-calama/
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
@@ -976,12 +978,14 @@ titulo::minsal anuncia la eliminación de la comisión que cenabast cobraba a mu
 titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::minsal informa el aislamiento preventivo de dos chilenos que subieron al crucero con brote de hantavirus
 titulo::minsal informa que uso de mascarillas será obligatorio en servicios de urgencia entre el 1 de abril y el 31 de agosto
+titulo::minsal reafirma que recorte de hacienda no afectará atenciones representan sólo un 11 de los recursos operacionales de los hospitales
 titulo::minsal reduce el ajuste fiscal solicitado por hacienda con foco en eficiencia y gestión sin afectar la atención de pacientes
 titulo::minsal y primera dama llaman a inmunizar a más de 6 mil lactantes contra el virus respiratorio sincicial
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
 titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
+titulo::mop inicia proceso de licitación internacional para nueva cárcel de calama
 titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y el debut del razr fold
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
