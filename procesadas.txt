@@ -281,6 +281,7 @@ https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-trans
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
+https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-baja-de-impuesto-a-las-empresas-y-la-reintegracion-pero-se-cae-fin-de-franquicia-del-sence/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyecto-maratue-y-un-ajuste-a-la-linea-7-del-metro/
 https://www.latercera.com/pulso/noticia/comite-de-ministros-aprueba-proyectos-de-energias-renovables-por-mas-de-us1000-millones/
@@ -688,6 +689,7 @@ titulo::cocacola andina invertirá más de us500 millones en los próximos dos a
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de evaluación ambiental aprueba informe clave para la línea 8 obras comenzarán en 2027 y nuevo trazado de metro abriría en 2032
+titulo::comisión de hacienda aprueba baja de impuesto a las empresas y la reintegración pero se cae fin de franquicia del sence
 titulo::comisión de hacienda aprueba proyecto de medidas paliativas por el alza de los combustibles
 titulo::comité de apr de san pedro de atacama presenta recurso contra diputada marcela hernando por ingreso no autorizado
 titulo::comité de ministros aprueba megaproyecto inmobiliario maratué por us 2000 millones
