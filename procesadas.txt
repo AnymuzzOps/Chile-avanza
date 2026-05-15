@@ -308,6 +308,7 @@ https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millo
 https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el-mayor-frigorifico-automatizado-de-la-region/
 https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-mas-de-us32-mil-millones-y-codelco-anota-las-mayores-utilidades/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
+https://www.latercera.com/pulso/noticia/enap-gana-mas-de-us-200-millones-en-un-primer-trimestre-marcado-por-la-guerra-y-alza-global-del-petroleo/
 https://www.latercera.com/pulso/noticia/entel-anuncia-plan-de-inversiones-por-casi-us650-millones-para-2026-y-juan-hurtado-se-despide-de-la-firma/
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
 https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-mineros-de-america-latina-en-brasil-y-chile-se-ubica-en-el-septimo-lugar/
@@ -817,6 +818,7 @@ titulo::en tiempos de crisis es aún más relevante de priorizar sociedad chilen
 titulo::en tres ciudades de chile los cóndores ya tienen fecha para su estreno en la nations cup
 titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por litro desde este jueves y el diésel subirá 5803 por litro
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
+titulo::enap gana más de us 200 millones en un primer trimestre marcado por la guerra y alza global del petróleo
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
