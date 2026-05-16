@@ -214,6 +214,7 @@ https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
+https://www.latercera.com/nacional/noticia/este-ano-vamos-a-estar-operando-ministro-arrau-destaca-avances-de-un-9856-del-hospital-del-salvador-de-providencia/
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/fiscalizacion-de-conaf-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias/
 https://www.latercera.com/nacional/noticia/gobierno-detalla-planificacion-estrategica-de-chile-en-la-antartica-y-enfatiza-importancia-de-recuperar-villa-las-estrellas/
@@ -228,6 +229,7 @@ https://www.latercera.com/nacional/noticia/marca-un-avance-sustantivo-en-la-rela
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
+https://www.latercera.com/nacional/noticia/metro-de-santiago-informa-estaciones-fuera-de-servicio-en-la-linea-5/
 https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/
 https://www.latercera.com/nacional/noticia/ministro-poduje-anuncia-proyectos-de-viviendas-sociales-cerca-del-nido-de-aguilas-y-del-parque-arauco/
 https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para-la-vacunacion-contra-el-covid-19/
@@ -838,6 +840,7 @@ titulo::estados unidos concentra sus activos mineros de américa latina en brasi
 titulo::estadounidense albemarle presenta proyecto récord para su operación de litio por más de us3000 millones
 titulo::estas son las marcas de vehículos más vendidas en chile durante 2026
 titulo::estas son las siete nuevas estaciones de metro que piden en peñalolén y la reina alcaldes propusieron una extensión de la línea 3 al sector oriente
+titulo::este año vamos a estar operando ministro arrau destaca avances de un 9856 del hospital del salvador de providencia
 titulo::estimaciones de crecimiento tendencial
 titulo::estos son los vehículos más vendidos en chile en 2026
 titulo::estudiantes de duoc uc representarán a chile en la final mundial de huawei ict competition en china
@@ -977,6 +980,7 @@ titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la 
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::meta openai nvidia y google la gira del gobierno para atraer inversión en tecnología a chile
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
+titulo::metro de santiago informa normalización de servicios en la línea 5
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
