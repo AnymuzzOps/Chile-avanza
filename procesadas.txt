@@ -419,6 +419,7 @@ https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-1
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
+https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
@@ -881,6 +882,7 @@ titulo::hacienda ingresa proyecto que sube salario mínimo en 7546 y fija nueva 
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
 titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
+titulo::hospital de santa cruz fortalece atención con incorporación de nuevos médicos especialistas para colchagua en la región de ohiggins
 titulo::ignacio briones chile no es un país quebrado
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
