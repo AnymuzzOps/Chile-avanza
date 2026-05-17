@@ -15,6 +15,7 @@ https://cambio21.cl/pais/cambio-de-hora-en-chile-esta-media-noche-regresamos-al-
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/gobierno-retira-del-congreso-proyecto-de-nueva-ley-de-pesca-y-desata-duras-criticas-69c68265e68125123b280234
+https://cambio21.cl/pais/golpe-a-collahuasi-justicia-retrotrae-proyecto-de-us-3-200-millones-aprobado-hace-cinco-anos-y-con-desaladora-construida-6a08773d4531d627b85bd1d6
 https://cambio21.cl/pais/inedito-en-la-tv-chilena-cntv-caduca-siete-concesiones-de-telecanal-por-no-cumplir-cobertura-digital-6a0396f169333243e1413595
 https://cambio21.cl/pais/suboficial-de-la-fach-aposto-mas-de-mil-millones-en-casinos-conozca-a-los-20-funcionarios-publicos-con-mayores-montos-transados-en-casinos-de-juego-69c1b61e3fdc39506549e8e3
 https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presupuesto-en-ministerio-de-seguridad-luego-que-habia-anunciado-rebajarlo-en-72-mil-millones-de-pesos-69cae2758475fc5e496f8b36
@@ -875,6 +876,7 @@ titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustible
 titulo::gobierno ingresará indicaciones al proyecto escuelas protegidas para ampliarlo a la educación superior
 titulo::gobierno llama a vacunarse contra la influenza para evitar contagios por gripe aviar
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
+titulo::golpe a collahuasi justicia retrotrae proyecto de us3200 millones aprobado hace cinco años y con desaladora construida
 titulo::gonzalo said en carta a sus accionistas destaca desempeño de cocacola andina en chile y el futuro vemos con optimismo los mercados donde operamos
 titulo::griffithjones exconsejera del banco central cuestiona medidas económicas del gobierno vamos a hacer más profundo un problema que viene de afuera
 titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en mega a cuatro meses de su llegada al canal
