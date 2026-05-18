@@ -186,6 +186,7 @@ https://www.latercera.com/mtonline/noticia/el-leapmotor-b10-electrico-ya-esta-en
 https://www.latercera.com/mtonline/noticia/estas-son-las-marcas-de-vehiculos-mas-vendidas-en-chile-durante-2026/
 https://www.latercera.com/mtonline/noticia/estos-son-los-vehiculos-mas-vendidos-en-chile-en-2026/
 https://www.latercera.com/mtonline/noticia/gildemeister-toma-la-representacion-de-gac-motor-en-chile/
+https://www.latercera.com/mtonline/noticia/kawasaki-renueva-su-oferta-en-chile-con-las-nuevas-kle-500-y-ninja-300-abs/
 https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-lepas-para-su-debut-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
@@ -272,6 +273,7 @@ https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-s
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-anuncia-inversiones-por-us500-millones-y-su-presidente-llama-a-recuperar-el-dinamismo-economico/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
+https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
@@ -315,6 +317,7 @@ https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
 https://www.latercera.com/pulso/noticia/enap-gana-mas-de-us-200-millones-en-un-primer-trimestre-marcado-por-la-guerra-y-alza-global-del-petroleo/
 https://www.latercera.com/pulso/noticia/entel-anuncia-plan-de-inversiones-por-casi-us650-millones-para-2026-y-juan-hurtado-se-despide-de-la-firma/
+https://www.latercera.com/pulso/noticia/envejecimiento-de-la-fuerza-laboral-9-de-cada-10-empresas-en-chile-no-tienen-estrategias-para-gestionarlo/
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
 https://www.latercera.com/pulso/noticia/estados-unidos-concentra-sus-activos-mineros-de-america-latina-en-brasil-y-chile-se-ubica-en-el-septimo-lugar/
 https://www.latercera.com/pulso/noticia/estadounidense-albemarle-presenta-proyecto-para-su-operacion-de-litio-por-mas-de-us3000-millones/
@@ -612,6 +615,7 @@ titulo::andes salud adquiere el control de clínica imet de la región de magall
 titulo::andina anuncia inversiones por us500 millones y su presidente llama a recuperar el dinamismo económico
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
 titulo::andrea garcía de viña vik el futuro del vino chileno pasa por fortalecer los segmentos de mayor valor
+titulo::anglo american y glencore por fallo judicial que retrotrae proyecto por us3200 millones collahuasi está solicitando una aclaración completa al tribunal y al sea
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::anuncian proceso de postulaciones al subsidio ds49 quiénes pueden acceder al llamado especial
@@ -837,6 +841,7 @@ titulo::enel green power construye proyecto de baterías en planta híbrida con 
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::entel anuncia plan de inversiones por 575 mil millones para 2026 con foco en red móvil y expansión del negocio hogar
 titulo::entel anuncia plan de inversiones por casi us650 millones para 2026 y juan hurtado se despide de la firma
+titulo::envejecimiento de la fuerza laboral 9 de cada 10 empresas en chile no tienen estrategias para gestionarlo
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
 titulo::escritor español andrés barba presenta en chile su nueva novela auge y caída del conejo bam una fábula sobre el poder
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
@@ -910,6 +915,7 @@ titulo::junaeb completa entrega de útiles escolares beneficio abarcó a más de
 titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
 titulo::justicia confirma condena a walmart chile por bullying laboral contra trabajadora venezolana
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
+titulo::kawasaki renueva su oferta en chile con las nuevas kle 500 y ninja 300 abs
 titulo::kombuchacha se asocia con viña emiliana para estrenar una categoría de bebidas que mezcla vino y kombucha chile tiene espacio para innovar
 titulo::la alianza de mercado libre con hyundai en su apuesta por construir el principal destino digital para la compra y venta de vehículos en chile
 titulo::la ambiciosa proyección de ventas de lepas para su debut en chile
