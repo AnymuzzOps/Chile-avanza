@@ -394,6 +394,7 @@ https://www.latercera.com/servicios/noticia/subsidio-al-sueldo-minimo-como-solic
 https://www.latercera.com/servicios/noticia/ya-estan-disponibles-los-resultados-del-subsidio-de-arriendo-revisa-los-datos-de-la-postulacion-de-2025/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
+https://www.latercera.com/sustentabilidad/noticia/convocan-a-mas-de-300-voluntarios-en-parque-san-carlos-de-apoquindo-para-restauracion-ecologica/
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
@@ -433,6 +434,7 @@ https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacio
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
+https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstructiva-cambia-la-vida-de-pacientes-de-chiloe/
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
 https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan-alerta-oncologica/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
@@ -597,6 +599,7 @@ https://www.theclinic.cl/2026/05/15/el-visionario-proyecto-para-recuperar-un-his
 https://www.theclinic.cl/2026/05/15/volkswagen-chile-75-anos-taos-tiguan-mhev/
 https://www.theclinic.cl/2026/05/18/chilenos-son-finalistas-de-prestigioso-concurso-europeo-de-inventores-crearon-filtro-que-elimina-90-del-humo-contaminante/
 https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin-tener-educacion-superior-sueldos-de-hasta-12-millones-y-destacan-camioneros-y-representantes-comerciales/
+https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -746,6 +749,7 @@ titulo::contra el público chileno revisa la polémica reacción de alex michels
 titulo::contraloría fija criterio y prohíbe financiar beneficios extra de prodemu con fondos públicos
 titulo::contraloría toma razón del convenio para recuperar el mercado municipal de temuco proyecto busca restaurar el histórico edificio a 10 años de su incendio
 titulo::controlador de afp habitat critica reducción del encaje y licitación del stock de afiliados tras reforma de pensiones
+titulo::convocan a más de 300 voluntarios en parque san carlos de apoquindo para restauración ecológica
 titulo::corfo en los premios iniciativas sustentables cuando el fomento público y la sostenibilidad dejan de ser conversaciones paralelas
 titulo::correoschile apuesta por la última milla con acuerdos con banco santander y cenabast
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
@@ -892,6 +896,7 @@ titulo::gobierno detalla planificación estratégica de chile en la antártica y
 titulo::gobierno echa pie atrás y decide no recortar presupuesto en ministerio de seguridad luego que había anunciado rebajarlo en 72 mil millones de pesos
 titulo::gobierno explica ejes sociales en el congreso y descarta recortes de beneficios por ajuste fiscal
 titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustibles y ven efecto fiscal casi neutro
+titulo::gobierno ingresa proyecto de ley para devolver el iva de pañales y medicamentos los detalles y a quiénes beneficiará la iniciativa que surgió del pdg
 titulo::gobierno ingresará indicaciones al proyecto escuelas protegidas para ampliarlo a la educación superior
 titulo::gobierno llama a vacunarse contra la influenza para evitar contagios por gripe aviar
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
@@ -1104,6 +1109,7 @@ titulo::racha en el precio del cobre analistas proyectan más ingresos para el e
 titulo::recuperación del eje bandera obras alcanzan 67 de avance
 titulo::reemplaza eficazmente compuestos químicos mucho más tóxicos chilenos crean material sustentable para detectar fármacos en el agua
 titulo::región de atacama capstone copper planea nueva inversión de casi us 30 millones en mantoverde
+titulo::región de los lagos operativo de cirugía plástica reconstructiva cambia la vida de pacientes de chiloé
 titulo::región de magallanes porvenir y puerto williams se suman a la atención de neurología por telemedicina
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
 titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
