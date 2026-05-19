@@ -192,6 +192,7 @@ https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
 https://www.latercera.com/mtonline/noticia/nuevo-smart-5-llega-a-chile-el-suv-electrico-premium/
+https://www.latercera.com/mtonline/noticia/seat-renueva-ibiza-y-arona-en-chile-con-mas-diseno-tecnologia-y-espiritu-urbano-europeo/
 https://www.latercera.com/mtonline/noticia/smart-5-confirma-su-fecha-de-aterrizaje-en-chile/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
@@ -309,6 +310,7 @@ https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduc
 https://www.latercera.com/pulso/noticia/correoschile-apuesta-por-la-ultima-milla-con-acuerdos-con-banco-santander-y-cenabast/
 https://www.latercera.com/pulso/noticia/costo-de-internet-en-chile-argentina-peru-conexiones-5g/
 https://www.latercera.com/pulso/noticia/cuanto-esta-el-dolar-hoy-miercoles-1305/
+https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta-sobre-un-escenario-global-mas-incierto-pero-certifica-fortaleza-de-la-banca-chilena/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
@@ -769,6 +771,7 @@ titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a em
 titulo::de curicó al mundo la apuesta de haulmer por digitalizar a los pequeños negocios
 titulo::de la alarma al retroceso gobierno reevalúa proyecto para ampliar principal instituto de rehabilitación del país para construir centro oncológico en peñalolén
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
+titulo::de ormuz a la ia el banco central alerta sobre un escenario global más incierto pero certifica fortaleza de la banca chilena
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::declaran primera alerta ambiental del año para este domingo en la región metropolitana
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
@@ -1121,6 +1124,7 @@ titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
 titulo::sea da luz verde y recomienda aprobar línea 8 del metro busca conectar providencia con puente alto
 titulo::sea recomienda aprobar la extensión del metro de valparaíso a la calera sugiere ceder terreno de 29 hectáreas a grupo diaguita
+titulo::seat renueva ibiza y arona en chile con más diseño tecnología y espíritu urbano europeo
 titulo::sec anuncia nuevas multas a engie y generadora metropolitana por apagón de febrero de 2025
 titulo::sec multa a dos empresas de energía por más de 2 mil millones por su responsabilidad en el masivo apagón de 2025
 titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urgencia y que megarreforma está en revisión final
