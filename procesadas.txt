@@ -599,7 +599,9 @@ https://www.theclinic.cl/2026/05/15/el-visionario-proyecto-para-recuperar-un-his
 https://www.theclinic.cl/2026/05/15/volkswagen-chile-75-anos-taos-tiguan-mhev/
 https://www.theclinic.cl/2026/05/18/chilenos-son-finalistas-de-prestigioso-concurso-europeo-de-inventores-crearon-filtro-que-elimina-90-del-humo-contaminante/
 https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin-tener-educacion-superior-sueldos-de-hasta-12-millones-y-destacan-camioneros-y-representantes-comerciales/
+https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/
 https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
+https://www.theclinic.cl/2026/05/19/gobierno-prepara-nuevo-subsidio-habitacional-para-familias-de-clase-media-que-hoy-no-acceden-a-credito-hipotecario-revisa-quienes-serian-beneficiados/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -754,6 +756,7 @@ titulo::corfo en los premios iniciativas sustentables cuando el fomento público
 titulo::correoschile apuesta por la última milla con acuerdos con banco santander y cenabast
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::coyhaique busca ser el primer municipio 100 electromovible de chile en cuatro años
+titulo::crisis de vivienda así funciona el modelo comprar arrendando que inmobiliarias potencian para este 2026 en chile
 titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
 titulo::cupón de gas licuado en chile cómo activar y obtener el beneficio entregado por el gobierno
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
@@ -899,6 +902,7 @@ titulo::gobierno ingresa proyecto con medidas paliativas por alza de combustible
 titulo::gobierno ingresa proyecto de ley para devolver el iva de pañales y medicamentos los detalles y a quiénes beneficiará la iniciativa que surgió del pdg
 titulo::gobierno ingresará indicaciones al proyecto escuelas protegidas para ampliarlo a la educación superior
 titulo::gobierno llama a vacunarse contra la influenza para evitar contagios por gripe aviar
+titulo::gobierno prepara nuevo subsidio habitacional para familias de clase media que hoy no acceden a crédito hipotecario revisa quiénes serían beneficiados
 titulo::gobierno retira del congreso proyecto de nueva ley de pesca y desata duras críticas
 titulo::golpe a collahuasi justicia retrotrae proyecto de us3200 millones aprobado hace cinco años y con desaladora construida
 titulo::gonzalo said en carta a sus accionistas destaca desempeño de cocacola andina en chile y el futuro vemos con optimismo los mercados donde operamos
