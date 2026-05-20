@@ -195,6 +195,7 @@ https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tec
 https://www.latercera.com/mtonline/noticia/nuevo-smart-5-llega-a-chile-el-suv-electrico-premium/
 https://www.latercera.com/mtonline/noticia/seat-renueva-ibiza-y-arona-en-chile-con-mas-diseno-tecnologia-y-espiritu-urbano-europeo/
 https://www.latercera.com/mtonline/noticia/smart-5-confirma-su-fecha-de-aterrizaje-en-chile/
+https://www.latercera.com/mtonline/noticia/subaru-trailseeker-ya-esta-en-chile-el-primer-suv-100-electrico-de-la-marca/
 https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/
 https://www.latercera.com/mundo/noticia/bolsonaro-sale-de-la-uci-diez-dias-despues-pero-sin-prevision-de-alta-hospitalaria/
 https://www.latercera.com/mundo/noticia/china-pide-sinceridad-para-un-acuerdo-de-paz-y-critica-nuevamente-la-ofensiva-de-estados-unidos-e-israel-contra-iran/
@@ -608,6 +609,7 @@ https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin
 https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/
 https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
 https://www.theclinic.cl/2026/05/19/gobierno-prepara-nuevo-subsidio-habitacional-para-familias-de-clase-media-que-hoy-no-acceden-a-credito-hipotecario-revisa-quienes-serian-beneficiados/
+https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -676,6 +678,7 @@ titulo::banco mundial sube la proyección del crecimiento del pib de chile para 
 titulo::bancoestado anuncia eliminación en cobro de 300 para transferencias electrónicas hacia otros bancos
 titulo::bancoestado estrena crédito especial para comprar autos híbridos en medio del alza de combustibles
 titulo::bank of america se enfría el optimismo global y chile aparece como el mejor de la región andina
+titulo::barcelona llega a santiago el nuevo seat ibiza y arona en chile
 titulo::bci y chileglobal ventures lanzan programa para impulsar startups en latinoamérica y miami
 titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bienestar digital infantil mesa intersectorial define hoja de ruta y articula próximos hitos para 2026
@@ -1167,6 +1170,7 @@ titulo::startup chilena desarrolla una ia para traducir el lenguaje jurídico y 
 titulo::startups pymes y grandes empresas la alianza que corfo quiere acelerar en sostenibilidad
 titulo::steinert anuncia presentación de proyecto de ley que agrava penas de delitos ocurridos dentro de colegios
 titulo::streat burger inaugura un nuevo local en peñalolén y anuncia expansión a viña del mar y concepción para el segundo semestre
+titulo::subaru trailseeker ya está en chile el primer suv 100 eléctrico de la marca
 titulo::suboficial de la fach apostó más de mil millones en casinos conózca a los 20 funcionarios públicos con mayores montos transados en casinos de juego
 titulo::subsecretaria de salud pública en mayo debemos tener un 70 de avance de vacunación contra la influenza
 titulo::subsecretaria de salud pública encabeza operativo de vacunación extramuros en la región de ohiggins
