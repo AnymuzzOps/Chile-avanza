@@ -212,6 +212,7 @@ https://www.latercera.com/nacional/noticia/canciller-perez-mackenna-y-subsecreta
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
 https://www.latercera.com/nacional/noticia/comite-de-apr-de-san-pedro-de-atacama-presenta-recurso-contra-diputada-marcela-hernando-por-ingreso-no-autorizado/
 https://www.latercera.com/nacional/noticia/comunidad-palestina-de-chile-condena-la-restriccion-al-acceso-del-santo-sepulcro-en-jerusalen-durante-semana-santa/
+https://www.latercera.com/nacional/noticia/con-cinco-trasplantes-renales-simultaneos-programa-nacional-de-donacion-renal-cruzada-marca-nuevo-hito-en-chile/
 https://www.latercera.com/nacional/noticia/con-facultades-extraordinarias-del-minsal-y-un-comite-de-expertos-como-funcionara-la-alerta-sanitaria-de-cancer/
 https://www.latercera.com/nacional/noticia/con-inteligencia-artificial-municipio-de-renca-firma-inedito-acuerdo-para-acelerar-permisos-para-proyectos-urbanos/
 https://www.latercera.com/nacional/noticia/conaf-exigira-guia-y-equipamiento-obligatorio-en-torres-del-paine-por-inicio-anticipado-de-temporada-invernal/
@@ -298,6 +299,7 @@ https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-h
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-transparencia-fiscal-en-2025/
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
+https://www.latercera.com/pulso/noticia/ciudades-y-comunas-donde-es-mas-rentable-comprar-un-departamento-para-arrendarlo/
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-baja-de-impuesto-a-las-empresas-y-la-reintegracion-pero-se-cae-fin-de-franquicia-del-sence/
@@ -610,6 +612,7 @@ https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin
 https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/
 https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
 https://www.theclinic.cl/2026/05/19/gobierno-prepara-nuevo-subsidio-habitacional-para-familias-de-clase-media-que-hoy-no-acceden-a-credito-hipotecario-revisa-quienes-serian-beneficiados/
+https://www.theclinic.cl/2026/05/20/empresas-chilenas-adptacion-42-horas/
 https://www.theclinic.cl/2026/05/20/megarreforma-indicacion-de-sala-cuna-universal-es-aprobada-pero-hacienda-presento-reserva-de-constitucionalidad/
 https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -749,6 +752,7 @@ titulo::comité de ministros aprueba proyectos de energías renovables por más 
 titulo::comité de ministros revisará cuatro proyectos de inversión que suman us345
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::comunidades educativas afectadas por los incendios en el biobío reciben donación de computadores e internet gratuito con conectividad satelital
+titulo::con cinco trasplantes renales simultáneos programa nacional de donación renal cruzada marcará nuevo hito en chile
 titulo::con estacionamientos subterráneos la ampliación de av las condes y la revitalización de la casona el proyecto de lo barnechea para recuperar la plaza san enrique
 titulo::con facultades extraordinarias del minsal y un comité de expertos cómo funcionará la alerta sanitaria de cáncer
 titulo::con inteligencia artificial municipio de renca firma inédito acuerdo para acelerar permisos para proyectos urbanos
@@ -811,6 +815,7 @@ titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anim
 titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
 titulo::dueños de lundin mining y megaproyecto minero vicuña es uno de los yacimientos más grandes de los últimos 30 años
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
+titulo::dónde conviene comprar un departamento para arrendarlo las ciudades que superan a santiago en rentabilidad para inversión inmobiliaria
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
 titulo::efecto de la guerra en medio oriente en chile suben las ventas de cobre pero las compras de petróleo se disparan
@@ -969,6 +974,7 @@ titulo::la inversión de us175 millones de mountain capital partners para modern
 titulo::la inédita investigación que está caracterizando los inexplorados bosques submarinos del sur de chile
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
 titulo::la justificación del grupo angelini para aumentar el directorio de antarchile y los reclamos de algunos minoritarios
+titulo::la ley ya rige cómo están adaptándose las empresas chilenas a las 42 horas
 titulo::la mayor cartera de proyectos de la historia de chile daniel mas cuenta los planes para impulsar la minería
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
