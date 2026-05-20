@@ -428,12 +428,14 @@ https://www.latercera.com/videos/noticia/sangre-azotes-y-terror-asi-era-la-seman
 https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nuestra-gestion-no-solo-recuperamos-aprendizajes-y-protegimos-trayectorias-educativas-sino-que-tambien-logramos-avanzar-de-manera-res/
 https://www.mineduc.cl/estudio-internacional-revela-profesores-chilenos-mejor-preparados-reportan-menos-estres-y-logran-mas-aprendizaje-en-aula/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
+https://www.mineduc.cl/ministra-arzola-valora-esfuerzos-regionales-para-fortalecer-la-educacion-en-antofagasta/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-154-mil-millones-para-ejecutar-plan-de-atencion-a-33-mil-pacientes-con-espera-prolongada/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
+https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construccion-de-nuevo-hospital-del-salvador-que-entrara-en-operacion-en-los-proximos-meses/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
@@ -1028,8 +1030,10 @@ titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acc
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
+titulo::ministra arzola valora esfuerzos regionales para fortalecer la educación en antofagasta
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
 titulo::ministra rincón anuncia dos proyectos de ley para frenar alzas en cuentas de la luz provocadas por retrasos en fijación de tarifas
+titulo::ministro arrau y subsecretario montt supervisan construcción de nuevo hospital del salvador que entrará en operación en los próximos meses
 titulo::ministro poduje anuncia proyectos de viviendas sociales cerca del nido de águilas y del parque arauco
 titulo::minsal amplía población objetivo para la vacunación contra el covid19
 titulo::minsal anuncia la eliminación de la comisión que cenabast cobraba a municipios por la compra de medicamentos para la aps
