@@ -272,6 +272,7 @@ https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-segu
 https://www.latercera.com/politica/noticia/senado-aprueba-en-general-proyecto-de-ley-que-tipifica-como-delito-el-ingreso-clandestino-a-chile/
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/publirreportajes/noticia/toyota-chile-lanza-beca-toyota-impulsa-pioneras-junto-a-duoc-uc-para-fomentar-la-inclusion-femenina-en-el-sector-automotriz/
+https://www.latercera.com/pulso/noticia/a-un-ano-de-denuncia-de-la-contraloria-licencias-medicas-se-desploman-casi-20-con-16-millones-menos/
 https://www.latercera.com/pulso/noticia/acciones-de-latam-airlines-se-disparan-tras-resultados-record-y-menores-tensiones-en-medio-oriente/
 https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-solar-y-consolida-hub-andes-solar-como-el-mas-grande-de-latinoamerica/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
@@ -279,6 +280,7 @@ https://www.latercera.com/pulso/noticia/andina-anuncia-inversiones-por-us500-mil
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
+https://www.latercera.com/pulso/noticia/aumento-en-requerimiento-de-capital-mayores-costos-serian-para-bci-santander-y-banco-de-chile-y-mercado-se-divide-por-efecto-en-credito/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/banco-mundial-sube-proyeccion-pib-economia-chile/
@@ -608,6 +610,7 @@ titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y str
 titulo::a qué hora y dónde ver a universidad de chile vs deportes la serena en tv y streaming
 titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
+titulo::a un año de denuncia de la contraloría licencias médicas se desploman casi 20 con 16 millones menos
 titulo::acelerar el suministro de minerales críticos facilitación de proyectos y precios preferentes las claves del acuerdo que firmó chile con estados unidos
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -649,6 +652,7 @@ titulo::así serán las nuevas cárceles de calama y copiapó y las ocho ampliac
 titulo::atacama aysén y los lagos fueron las regiones con mayor crecimiento en 2025
 titulo::atención chile estas aplicaciones te muestran la bencina más barata en segundos
 titulo::aumenta flujo de pasajeros en el aeropuerto de santiago por semana santa se proyectan más de 260 mil viajeros
+titulo::aumento en requerimiento de capital mayores costos serían para bci santander y banco de chile y mercado se divide por efecto en crédito
 titulo::australia extraditará a chile a adriana rivas exagente de la dina y secretaria personal del mamo contreras juicio por extradición duró 7 años
 titulo::australia rechaza el último recurso de adriana rivas y allana su extradición a chile
 titulo::autismo conecta fue el gran ganador del premio chileconverge emprende 2026
