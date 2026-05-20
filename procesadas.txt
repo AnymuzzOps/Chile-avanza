@@ -110,6 +110,7 @@ https://www.lanacion.cl/becas-sence-para-impulsar-empleabilidad-digital-revisa-c
 https://www.lanacion.cl/bono-base-familiar-conoce-los-requisitos-para-recibir-el-beneficio-que-se-paga-por-dos-anos/
 https://www.lanacion.cl/bono-logro-escolar-conoce-su-monto-para-este-2026-y-cuando-se-paga/
 https://www.lanacion.cl/camara-de-diputados-aprobo-idea-de-legislar-proyecto-escuelas-protegidas/
+https://www.lanacion.cl/cchen-lidera-combate-contra-el-fraude-alimentario-mediante-huellas-isotopicas-para-certificar-autenticidad-de-la-miel-chilena/
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
 https://www.lanacion.cl/cuatro-de-los-cinco-fondos-de-pensiones-anotaron-ganancias-en-abril-solo-el-e-cerro-en-rojo/
@@ -609,6 +610,7 @@ https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin
 https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/
 https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
 https://www.theclinic.cl/2026/05/19/gobierno-prepara-nuevo-subsidio-habitacional-para-familias-de-clase-media-que-hoy-no-acceden-a-credito-hipotecario-revisa-quienes-serian-beneficiados/
+https://www.theclinic.cl/2026/05/20/megarreforma-indicacion-de-sala-cuna-universal-es-aprobada-pero-hacienda-presento-reserva-de-constitucionalidad/
 https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -704,6 +706,7 @@ titulo::candidato a rector de la universidad de chile si salgo elegido president
 titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de distribución empleando a 500 personas
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
+titulo::cchen lidera combate contra el fraude alimentario mediante huellas isotópicas para certificar autenticidad de la miel chilena
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
@@ -775,6 +778,7 @@ titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán 
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
+titulo::cámara de diputados aprueba indicación de sala cuna universal pero quiroz anuncia que recurrirá al tribunal constitucional
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
