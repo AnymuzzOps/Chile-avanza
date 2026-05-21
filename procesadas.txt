@@ -414,6 +414,7 @@ https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legal
 https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
+https://www.latercera.com/tecnologia/noticia/tcl-experience-2026-portafolio-chile/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
@@ -1201,6 +1202,7 @@ titulo::subsecretaria de salud pública promueve la vacunación durante operativ
 titulo::subsecretario de redes asistenciales inspecciona inicio de atención de listas de espera no ges en hospital modular del ejército en los ángeles
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
+titulo::tcl presenta su nueva generación de tecnología que llegará a chile
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
 titulo::tendrá 60 kilómetros con un costo tope de 4 mil millones y estaría lista a fin de año los detalles de la construcción de la zanja en la frontera con perú y bolivia
