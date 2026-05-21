@@ -389,6 +389,7 @@ https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-gene
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
 https://www.latercera.com/pulso/noticia/tribunal-acoge-demanda-de-chileactores-y-condena-a-cinepolis-por-uso-no-autorizado-de-obras-audiovisuales/
+https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi-por-fallo-judicial-que-retrotrae-proyecto-por-us3200-millones/
 https://www.latercera.com/pulso/noticia/tribunal-retrotrae-rca-de-proyecto-minero-de-collahuasi-con-inversion-por-us-3200-millones/
 https://www.latercera.com/pulso/noticia/venta-de-viviendas-nuevas-en-la-rm-sube-casi-20-en-primer-trimestre-potenciada-por-subsidio-a-tasa-hipotecaria/
 https://www.latercera.com/pulso/noticia/versus-27-de-chile-impuesto-a-las-empresas-promedia-24-entre-los-paises-de-la-ocde-y-21-a-nivel-mundial/
@@ -1218,6 +1219,7 @@ titulo::tras fatal caída en las condes senado aprueba proyecto que obliga medid
 titulo::tres motos tres perfiles y una normativa honda reordena su oferta urbana en chile
 titulo::tribunal acoge demanda de chileactores y condena a cinépolis por uso no autorizado de obras audiovisuales
 titulo::tribunal ambiental rechaza reclamos de vecinos y da luz verde a data center de amazon en huechuraba inversión supera los us200 millones
+titulo::tribunal ambiental responde a collahuasi por fallo judicial que retrotrae proyecto por us3200 millones
 titulo::tribunal retrotrae rca de proyecto minero de collahuasi con inversión por us 3200 millones
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
