@@ -105,6 +105,7 @@ https://www.fayerwayer.com/internet/2026/03/30/cuando-se-cambia-la-hora-en-chile
 https://www.fayerwayer.com/internet/2026/04/21/el-tesla-de-los-mares-es-chileno-el-magellan-discoverer-hace-historia-asi-es-el-primer-crucero-de-lujo-hibrido/
 https://www.fayerwayer.com/internet/2026/04/27/estudiantes-de-duoc-uc-representaran-a-chile-en-la-final-mundial-de-huawei-ict-competition-en-china/
 https://www.fayerwayer.com/internet/2026/05/20/entrevista-con-elsa-zhao-de-dreame-llegamos-a-chile-con-un-ecosistema-completo-para-el-hogar-moderno/
+https://www.fayerwayer.com/internet/2026/05/20/la-invasion-del-hogar-conectado-dreame-aterriza-en-chile-con-ia-avanzada-y-un-ecosistema-multi-dispositivo/
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
@@ -616,7 +617,9 @@ https://www.theclinic.cl/2026/05/18/el-ranking-de-los-trabajos-mejor-pagados-sin
 https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/
 https://www.theclinic.cl/2026/05/19/gobierno-ingresa-proyecto-de-ley-que-propone-devolver-el-iva-de-panales-y-medicamentos-los-detalles-y-a-quienes-beneficiara-la-iniciativa-que-surgio-del-pdg/
 https://www.theclinic.cl/2026/05/19/gobierno-prepara-nuevo-subsidio-habitacional-para-familias-de-clase-media-que-hoy-no-acceden-a-credito-hipotecario-revisa-quienes-serian-beneficiados/
+https://www.theclinic.cl/2026/05/20/comite-de-ministros-confirma-la-rca-de-volta-el-millonario-proyecto-que-marca-un-hito-para-la-industria-del-amoniaco-verde-en-el-pais/
 https://www.theclinic.cl/2026/05/20/empresas-chilenas-adptacion-42-horas/
+https://www.theclinic.cl/2026/05/20/es-un-nuevo-paso-estrategico-de-nuestro-plan-de-expansion-parque-arauco-anuncia-la-adquisicion-del-mall-paseo-quilin-por-us119-millones/
 https://www.theclinic.cl/2026/05/20/megarreforma-indicacion-de-sala-cuna-universal-es-aprobada-pero-hacienda-presento-reserva-de-constitucionalidad/
 https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -753,6 +756,7 @@ titulo::comité de apr de san pedro de atacama presenta recurso contra diputada 
 titulo::comité de ministros aprueba megaproyecto inmobiliario maratué por us 2000 millones
 titulo::comité de ministros aprueba proyecto maratué y un ajuste a la línea 7 del metro
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
+titulo::comité de ministros confirma la rca de volta el millonario proyecto que marca un hito para la industria del amoníaco verde en el país
 titulo::comité de ministros da luz verde a tres proyectos de inversion que suman us2828 millones
 titulo::comité de ministros revisará cuatro proyectos de inversión que suman us345
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
@@ -888,6 +892,7 @@ titulo::entel anuncia plan de inversiones por casi us650 millones para 2026 y ju
 titulo::entrevista con elsa zhao de dreame llegamos a chile con un ecosistema completo para el hogar moderno
 titulo::envejecimiento de la fuerza laboral 9 de cada 10 empresas en chile no tienen estrategias para gestionarlo
 titulo::equipo listo cómo elegir camiseta y balón para jugar y regalar en chile
+titulo::es un nuevo paso estratégico de nuestro plan de expansión parque arauco anuncia la adquisición del mall paseo quilín por us119 millones
 titulo::escritor español andrés barba presenta en chile su nueva novela auge y caída del conejo bam una fábula sobre el poder
 titulo::española vidrala concreta adquisición de cristalerías toro en chile
 titulo::esta es la resolución del juzgado de argentina que revocó el refugio de apablaza y ordenó su detención y extradición a chile
@@ -976,6 +981,7 @@ titulo::la digitalización del capital humano la nueva ventaja estructural de la
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la era de los 1300 kilómetros geely ex5 emi aterriza en chile apostando por la autonomía extrema
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
+titulo::la invasión del hogar conectado dreame aterriza en chile con ia avanzada y un ecosistema multidispositivo
 titulo::la inversión de us175 millones de mountain capital partners para modernizar la parva y valle nevado
 titulo::la inédita investigación que está caracterizando los inexplorados bosques submarinos del sur de chile
 titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafone por el iae
