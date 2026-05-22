@@ -207,6 +207,7 @@ https://www.latercera.com/mundo/noticia/iran-llega-a-un-acuerdo-con-pakistan-y-t
 https://www.latercera.com/mundo/noticia/israel-advierte-a-la-poblacion-de-iran-contra-usar-el-tren-o-acercarse-a-infraestructura-ferroviaria/
 https://www.latercera.com/mundo/noticia/operacion-rusa-incluyo-campana-de-desinformacion-para-tensionar-relacion-entre-chile-y-argentina/
 https://www.latercera.com/mundo/noticia/zelenski-se-reune-con-el-presidente-de-siria-en-damasco-para-negociar-nuevos-acuerdos-de-seguridad/
+https://www.latercera.com/nacional/noticia/abre-nueva-galeria-comercial-en-santiago-en-antigua-tienda-de-trajes-de-novia-en-calle-puente/
 https://www.latercera.com/nacional/noticia/arrau-detalla-avances-del-plan-escudo-fronterizo-en-colchane-expansion-de-zanjas-y-mejoramiento-de-infraestructura/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
@@ -329,6 +330,7 @@ https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
+https://www.latercera.com/pulso/noticia/el-internet-satelital-de-elon-musk-ya-supera-los-150-mil-clientes-en-chile/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/el-segundo-mejor-arranque-historico-del-litio-exportaciones-casi-se-triplican-en-primer-trimestre-tras-favorables-precios/
 https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millones-que-amenaza-al-fisco-por-las-cuotas-pesqueras/
@@ -637,6 +639,7 @@ titulo::a qué hora y dónde ver a universidad de chile vs deportes la serena en
 titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::a un año de denuncia de la contraloría licencias médicas se desploman casi 20 con 16 millones menos
+titulo::abre nueva galería comercial en santiago en antigua tienda de trajes de novia en calle puente
 titulo::acelerar el suministro de minerales críticos facilitación de proyectos y precios preferentes las claves del acuerdo que firmó chile con estados unidos
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -1201,6 +1204,7 @@ titulo::smart 5 confirma su fecha de aterrizaje en chile
 titulo::smart 5 el suv eléctrico premium en chile que llegó con las tareas hechas
 titulo::sofofa advierte sobre el enfriamiento de la economía y pide simplificar permisos para reactivar us 96000 millones en inversiones
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
+titulo::starlink el internet satelital de elon musk ya supera los 150 mil clientes en chile
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::startup chilena desarrolla una ia para traducir el lenguaje jurídico y ayudarte a entender el estado de tu causa
 titulo::startups pymes y grandes empresas la alianza que corfo quiere acelerar en sostenibilidad
