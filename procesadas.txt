@@ -254,6 +254,7 @@ https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bic
 https://www.latercera.com/nacional/noticia/mop-inicia-proceso-de-licitacion-internacional-para-nueva-carcel-de-calama/
 https://www.latercera.com/nacional/noticia/ofensa-moral-grave-comunidad-palestina-de-chile-rechaza-participacion-de-empresa-israeli-en-fidae-2026/
 https://www.latercera.com/nacional/noticia/pdi-y-policia-argentina-activan-operativo-para-dar-con-paradero-de-galvarino-apablaza-e-iniciar-extradicion-a-chile/
+https://www.latercera.com/nacional/noticia/penalolen-lanza-plan-de-recuperacion-de-av-grecia-con-murales-en-accesos-de-estacion-del-metro/
 https://www.latercera.com/nacional/noticia/peru-tambien-ejecuta-obras-para-una-zanja-al-limite-con-chile/
 https://www.latercera.com/nacional/noticia/plan-de-invierno-2026-gobierno-de-santiago-identifica-405-puntos-criticos-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/por-unanimidad-senado-aprueba-proyecto-que-evita-que-condenados-por-vif-accedan-a-pension-de-sobrevivencia/
@@ -1117,6 +1118,7 @@ titulo::permisología gobierno destraba inversiones por us 6290 millones en 70 d
 titulo::permitirán estudiar la estructura interna de la isla instalan primera red de sismómetros en juan fernández
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::pese a su fuerza a nivel global dólar abre a la baja en chile impulsado por desempeño del cobre
+titulo::peñalolén lanza plan de recuperación de av grecia con murales en accesos de estación del metro
 titulo::plan de invierno 2026 gobierno de santiago identifica 405 puntos críticos en la región metropolitana
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::plataforma chilena círculo senior lanza app con ia para la generación mayor a 55 años
