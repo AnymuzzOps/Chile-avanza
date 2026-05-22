@@ -307,6 +307,7 @@ https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-trans
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
 https://www.latercera.com/pulso/noticia/ciudades-y-comunas-donde-es-mas-rentable-comprar-un-departamento-para-arrendarlo/
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
+https://www.latercera.com/pulso/noticia/cochilco-y-sobreestimacion-de-produccion-de-codelco-el-riesgo-que-nosotros-vimos-es-que-efectivamente-habian-desviaciones/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-baja-de-impuesto-a-las-empresas-y-la-reintegracion-pero-se-cae-fin-de-franquicia-del-sence/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
@@ -434,6 +435,7 @@ https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-aco
 https://www.latercera.com/videos/noticia/como-volvo-supero-a-tesla-en-chile/
 https://www.latercera.com/videos/noticia/el-farmaco-chileno-para-la-obesidad/
 https://www.latercera.com/videos/noticia/el-hombre-que-trajo-el-primer-mac-a-chile/
+https://www.latercera.com/videos/noticia/estudio-para-modelar-el-envejecimiento-en-los-hogares-chilenos/
 https://www.latercera.com/videos/noticia/lluvias-intensas-se-viene-el-nino-godzilla-para-este-invierno-en-chile/
 https://www.latercera.com/videos/noticia/maratue-la-llegada-de-norman-foster-a-chile/
 https://www.latercera.com/videos/noticia/runway-entre-las-top-50-empresas-de-ia-del-mundo/
@@ -753,6 +755,7 @@ titulo::claro chile se consolida como líder en 5g según barómetro de nperf
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
 titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
+titulo::cochilco y sobreestimación de producción de codelco el riesgo que nosotros vimos es que efectivamente habían desviaciones
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de evaluación ambiental aprueba informe clave para la línea 8 obras comenzarán en 2027 y nuevo trazado de metro abriría en 2032
@@ -914,6 +917,7 @@ titulo::estudiantes realizan marchas en distintos puntos de santiago llegan hast
 titulo::estudio detecta fuerte aumento de precios en oficinas del sector oriente ante futura línea 7 del metro de santiago
 titulo::estudio internacional revela profesores chilenos mejor preparados reportan menos estrés y logran más aprendizaje en aula
 titulo::estudio jurídico español garrigues adquiere oficina chilena barros silva varela  vigil
+titulo::estudio para modelar el envejecimiento en los hogares chilenos
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
