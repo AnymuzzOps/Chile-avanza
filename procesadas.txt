@@ -264,6 +264,7 @@ https://www.latercera.com/nacional/noticia/sin-ser-prioridad-para-el-ejecutivo-g
 https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proyecto-de-ley-que-agrava-penas-de-delitos-ocurridos-dentro-de-colegios/
 https://www.latercera.com/nacional/noticia/tras-fatal-caida-en-las-condes-senado-aprueba-proyecto-que-obliga-medidas-de-seguridad-en-departamentos-y-gobierno-compromete-urgencia/
 https://www.latercera.com/nacional/noticia/valparaiso-se-adjudica-mas-de-127-millones-para-proyectos-patrimoniales/
+https://www.latercera.com/nacional/noticia/vih-fuera-del-foco-expertos-alertan-apagon-en-prevencion-y-campanas-en-chile/
 https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
 https://www.latercera.com/opinion/noticia/del-jarro-al-punal-el-ocaso-de-la-educacion-chilena/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
@@ -1239,6 +1240,7 @@ titulo::ventas de autos eléctricos en chile el alza de la bencina hizo lo que n
 titulo::ver video coaniquem lanza su colecta nacional 2026 para financiar la rehabilitación de más de 8 mil niños y niñas a lo largo de chile
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
+titulo::vih fuera del foco expertos alertan apagón en prevención y campañas en chile
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::walmart chile reúne a startups academia y empresas en su innovaday 2026
 titulo::xiaomi lanza su nuevo ecosistema de hogar inteligente en chile
