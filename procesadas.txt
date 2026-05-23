@@ -82,6 +82,7 @@ https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partne
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/permisologia-gobierno-destraba-inversiones-por-us-6-290-millones-en-70-dias-tras-aprobar-tres-nuevos-proyectos/
+https://www.ex-ante.cl/plan-de-seguridad-contra-la-prostitucion-e-indigentes-el-proyecto-para-que-el-mercado-central-recupere-su-vieja-gloria-a-sus-154-anos/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
@@ -1134,6 +1135,7 @@ titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::pese a su fuerza a nivel global dólar abre a la baja en chile impulsado por desempeño del cobre
 titulo::peñalolén lanza plan de recuperación de av grecia con murales en accesos de estación del metro
 titulo::plan de invierno 2026 gobierno de santiago identifica 405 puntos críticos en la región metropolitana
+titulo::plan de seguridad contra la prostitución e indigentes el proyecto para que el mercado central recupere su vieja gloria a sus 154 años
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
 titulo::plataforma chilena círculo senior lanza app con ia para la generación mayor a 55 años
 titulo::podría potenciar la atención primaria científicos chilenos validan examen de sangre que permite detectar alzheimer de forma temprana
