@@ -12,6 +12,7 @@ https://cambio21.cl/deportes/ronaldinho-es-baja-para-duelo-de-leyendas-en-chile-
 https://cambio21.cl/el-mundo/iran-reporta-avances-en-mediacion-de-pakistan-ad-portas-de-vencer-ultimatum-de-ee-uu-69d508d9e976746b6c42dc03
 https://cambio21.cl/pais/australia-extraditara-a-chile-a-adriana-rivas-exagente-de-la-dina-y-secretaria-personal-del-mamo-contreras-juicio-por-extradicion-duro-7-anos-69d49100d39f014f6f73ec36
 https://cambio21.cl/pais/cambio-de-hora-en-chile-esta-media-noche-regresamos-al-horario-de-invierno-69d11b2439d3c011cd184953
+https://cambio21.cl/pais/codelco-exigira-devolucion-de-bonos-a-6-mil-300-trabajadores-tras-grave-error-en-cifras-de-produccion-el-total-de-la-devolucion-es-de-mas-de-14-millones-de-dolares-6a11efd7682e2954532224e3
 https://cambio21.cl/pais/denuncian-que-mas-de-900-funcionarios-publicos-apostaron-casi-11-500-millones-en-casinos-de-juegos-peso-a-tener-prohibicion-69c172ae0941327d9643d133
 https://cambio21.cl/pais/enap-confirma-gran-alza-en-precio-de-las-bencinas-hasta-391-5-mas-por-litro-desde-este-jueves-y-el-diesel-subira-580-3-por-litro-69c44a278fa92030514755d5
 https://cambio21.cl/pais/gobierno-retira-del-congreso-proyecto-de-nueva-ley-de-pesca-y-desata-duras-criticas-69c68265e68125123b280234
@@ -635,6 +636,7 @@ https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/
 https://www.theclinic.cl/2026/05/21/metro-refuerza-trabajos-de-sanitizacion-tras-denuncia-sobre-presencia-de-ratones-en-la-estacion-universidad-de-chile/
 https://www.theclinic.cl/2026/05/21/segundo-tribunal-ambiental-entrega-aclaracion-de-su-fallo-y-le-permite-a-collahuasi-continuar-con-su-proyecto-de-3-2000-millones-de-manera-parcial/
 https://www.theclinic.cl/2026/05/22/don-salva-la-apuesta-de-cencosud-por-los-supermercados-de-descuentos-en-chile-que-tuvo-su-estreno-en-santiago/
+https://www.theclinic.cl/2026/05/23/quien-es-paul-furst-el-director-del-banco-de-chile-y-mall-plaza-que-salio-de-compras-y-movio-54-mil-millones-en-la-bolsa/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -762,6 +764,7 @@ titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de i
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
 titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
 titulo::cochilco y sobreestimación de producción de codelco el riesgo que nosotros vimos es que efectivamente habían desviaciones
+titulo::codelco exigirá devolución de bonos a 6 mil 300 trabajadores tras grave error en cifras de producción el total de la devolución es de más de 14 millones de dólares
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de evaluación ambiental aprueba informe clave para la línea 8 obras comenzarán en 2027 y nuevo trazado de metro abriría en 2032
@@ -1161,6 +1164,7 @@ titulo::quiroz ante la minería mundial chile es un gran destino de inversiones 
 titulo::quiroz descarta recortes a la pgu no se va a tocar ningún beneficio
 titulo::quiroz y pacheco se reúnen para conversar de la situación de codelco de cara a la próxima junta de accionistas
 titulo::quién es josé ignacio mujica el empresario y experto en inversiones que llega a liderar corfo
+titulo::quién es paul fürst el empresario que salió de compras en falabella y banco de chile y movió 54 mil millones en la bolsa durante las últimas semanas
 titulo::quién es ricardo arraño el nuevo socio principal de pwc chile y su desconocida afición
 titulo::quién fue el chileno que se declaró dueño de la luna
 titulo::quiñenco anuncia pago de dividendo por más de us630 millones
