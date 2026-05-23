@@ -138,6 +138,7 @@ https://www.lanacion.cl/recuperacion-del-eje-bandera-obras-alcanzan-67-de-avance
 https://www.lanacion.cl/reino-unido-convoca-a-35-paises-incluido-chile-para-analizar-reapertura-del-estrecho-de-ormuz/
 https://www.lanacion.cl/revelan-que-julio-cesar-rodriguez-adelantaria-su-salida-de-chilevision-se-iria-antes-de-abril/
 https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/
+https://www.lanacion.cl/seremi-de-vivienda-de-valparaiso-y-demolicion-en-el-olivar-debemos-proteger-a-las-familias-no-proteger-errores/
 https://www.lanacion.cl/sii-y-tgr-inician-operacion-renta-2026-proyectan-recibir-mas-de-51-millones-de-declaraciones/
 https://www.lanacion.cl/subsidio-familiar-automatico-cuales-son-los-requisitos-para-acceder-al-beneficio/
 https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-bancada-ps-condena-retiro-del-apoyo-a-candidatura-de-michelle-bachelet-en-la-onu/
@@ -1196,6 +1197,7 @@ titulo::segpres informa que proyectos de seguridad escolar ingresan con suma urg
 titulo::segundo tribunal ambiental entrega aclaración de su fallo y le permite a collahuasi continuar con su proyecto de 32000 millones de manera parcial
 titulo::según reporte del movilh chile registró un aumento del 27 de la homofobia y transfobia durante el 2025 superando los 3600 casos y denuncias por discriminación
 titulo::senado aprueba en general proyecto de ley que tipifica como delito el ingreso clandestino a chile
+titulo::seremi de vivienda de valparaíso y demolición en el olivar debemos proteger a las familias no proteger errores
 titulo::servicio salud antofagasta alcanzó un 73 de avance en plan alerta oncológica
 titulo::setenta y cinco años después volkswagen apuesta por chile para estrenar su transición eléctrica
 titulo::shield ai startup que fabrica drones militares recauda us 2000 millones para comprar empresa de tecnología de defensa
