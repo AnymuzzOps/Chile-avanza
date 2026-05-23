@@ -271,6 +271,7 @@ https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
 https://www.latercera.com/opinion/noticia/del-jarro-al-punal-el-ocaso-de-la-educacion-chilena/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
 https://www.latercera.com/opinion/noticia/la-realidad-detras-de-las-grandes-inversiones-chinas-en-energias-renovables/
+https://www.latercera.com/opinion/noticia/un-humedal-de-bolsillo-para-chile/
 https://www.latercera.com/politica/noticia/acusan-contradiccion-crece-malestar-en-el-oficialismo-por-posible-recorte-de-72-mil-millones-en-seguridad/
 https://www.latercera.com/politica/noticia/alemania-expresa-preocupacion-por-freno-a-la-expropiacion-de-colonia-dignidad-y-apoyan-la-creacion-de-un-memorial-en-chile/
 https://www.latercera.com/politica/noticia/chile-anuncia-respaldo-a-argentina-en-reclamo-por-las-islas-malvinas-y-agradece-esfuerzos-por-extradicion-de-apablaza/
@@ -1242,6 +1243,7 @@ titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
+titulo::un humedal de bolsillo para chile
 titulo::una crónica de vigilancia en un mundo que aprende a esconderse por natalia aránguiz
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
