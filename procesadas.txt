@@ -419,6 +419,7 @@ https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chi
 https://www.latercera.com/sustentabilidad/noticia/convocan-a-mas-de-300-voluntarios-en-parque-san-carlos-de-apoquindo-para-restauracion-ecologica/
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
+https://www.latercera.com/sustentabilidad/noticia/la-ciencia-de-la-gentileza-el-nuevo-modelo-de-liderazgo-que-llega-a-chile-desde-harvard/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
@@ -996,6 +997,7 @@ titulo::la ambiciosa proyección de ventas de lepas para su debut en chile
 titulo::la apuesta de coyhaique para convertirse en el primer municipio con 100 electromovilidad de chile es una forma de ordenar el gasto público
 titulo::la audaz estrategia de millicom la nueva controladora de telefónica desvinculó a casi un tercio del personal en su plan por asentarse en chile
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
+titulo::la ciencia de la gentileza el nuevo modelo de liderazgo que llega a chile desde harvard
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la digitalización del capital humano la nueva ventaja estructural de las empresas chilenas
