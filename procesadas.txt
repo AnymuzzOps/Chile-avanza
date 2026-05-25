@@ -287,6 +287,7 @@ https://www.latercera.com/politica/noticia/megarreforma-aumenta-en-us400-millone
 https://www.latercera.com/politica/noticia/poduje-anuncia-aprobacion-de-emblematico-programa-de-vivienda-que-quiroz-sugirio-descontinuar-inversion-es-de-46-mil-millones/
 https://www.latercera.com/politica/noticia/segpres-informa-que-proyectos-de-seguridad-escolar-ingresan-con-suma-urgencia-y-que-megarreforma-esta-en-revision-final/
 https://www.latercera.com/politica/noticia/senado-aprueba-en-general-proyecto-de-ley-que-tipifica-como-delito-el-ingreso-clandestino-a-chile/
+https://www.latercera.com/publirreportajes/noticia/froens-la-marca-chilena-que-vive-una-nueva-etapa-de-crecimiento-y-transformacion/
 https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital-humano-la-nueva-ventaja-estructural-de-las-empresas-chilenas/
 https://www.latercera.com/publirreportajes/noticia/toyota-chile-lanza-beca-toyota-impulsa-pioneras-junto-a-duoc-uc-para-fomentar-la-inclusion-femenina-en-el-sector-automotriz/
 https://www.latercera.com/pulso/noticia/a-un-ano-de-denuncia-de-la-contraloria-licencias-medicas-se-desploman-casi-20-con-16-millones-menos/
@@ -360,6 +361,7 @@ https://www.latercera.com/pulso/noticia/gobierno-ingresa-proyecto-con-medidas-pa
 https://www.latercera.com/pulso/noticia/gremio-del-gas-natural-asegura-que-el-sistema-en-chile-mantiene-una-operacion-y-precios-estables-frente-a-la-volatilidad-global/
 https://www.latercera.com/pulso/noticia/hacienda-ingresa-proyecto-que-sube-salario-minimo-en-7546/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
+https://www.latercera.com/pulso/noticia/ilc-sube-sus-ganancias-impulsadas-por-mejor-desempeno-de-sus-filiales-financieras/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
@@ -942,6 +944,7 @@ titulo::evento travel sale bate récord histórico de ventas totaliza us62 millo
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
+titulo::froens la marca chilena que vive una nueva etapa de crecimiento y transformación
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
 titulo::ganancias de parque arauco crecen casi un 70 en el primer trimestre
@@ -975,6 +978,7 @@ titulo::hernán larraín matte si chile vamos no muestra carácter dentro de est
 titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
 titulo::hospital de santa cruz fortalece atención con incorporación de nuevos médicos especialistas para colchagua en la región de ohiggins
 titulo::ignacio briones chile no es un país quebrado
+titulo::ilc sube sus ganancias impulsadas por mejor desempeño de las filiales financieras
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
