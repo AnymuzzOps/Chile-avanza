@@ -308,6 +308,7 @@ https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chil
 https://www.latercera.com/pulso/noticia/canales-de-television-chilenos-demandan-a-google-en-el-tdlc-por-abuso-de-posicion-dominante/
 https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-explica-proyecto-para-edificio-de-la-bolsa-de-santiago/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
+https://www.latercera.com/pulso/noticia/chile-alcanza-cobertura-de-internet-virtualmente-universal-y-lleva-brecha-urbano-rural-a-su-minimo-historico/
 https://www.latercera.com/pulso/noticia/chile-es-el-pais-de-la-ocde-en-que-mas-han-subido-los-combustibles-por-la-guerra-pero-sus-precios-son-de-los-mas-bajos/
 https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-abastecimiento-de-gas-desde-argentina-por-incumplimiento-de-normativa-nacional/
 https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-transparencia-fiscal-en-2025/
@@ -641,6 +642,7 @@ https://www.theclinic.cl/2026/05/21/metro-refuerza-trabajos-de-sanitizacion-tras
 https://www.theclinic.cl/2026/05/21/segundo-tribunal-ambiental-entrega-aclaracion-de-su-fallo-y-le-permite-a-collahuasi-continuar-con-su-proyecto-de-3-2000-millones-de-manera-parcial/
 https://www.theclinic.cl/2026/05/22/don-salva-la-apuesta-de-cencosud-por-los-supermercados-de-descuentos-en-chile-que-tuvo-su-estreno-en-santiago/
 https://www.theclinic.cl/2026/05/23/quien-es-paul-furst-el-director-del-banco-de-chile-y-mall-plaza-que-salio-de-compras-y-movio-54-mil-millones-en-la-bolsa/
+https://www.theclinic.cl/2026/05/25/renault-chile-nuevo-distribuidor-astara/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -741,6 +743,7 @@ titulo::cencosud refuerza su presencia en colombia y adquiere uno de los princip
 titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
+titulo::chile alcanza cobertura de internet virtualmente universal y lleva brecha urbanorural a su mínimo histórico
 titulo::chile anuncia respaldo a argentina en reclamo por las islas malvinas y agradece esfuerzos por extradición de apablaza
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
 titulo::chile day presidenta del banco central anuncia  medidas para expandir pagos con transferencias electrónicas y marco regulatorio para stablecoins
@@ -1187,6 +1190,7 @@ titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan
 titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
 titulo::remesas enviadas desde chile retoman alzas en 2025 después de tres años de caídas
+titulo::renault en chile cambia de manos astara releva a inchcape en una apuesta por el crecimiento
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
 titulo::restricción vehicular 2026 el calendario y los automóviles que no podrán circular por santiago de chile
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
