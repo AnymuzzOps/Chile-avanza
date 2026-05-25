@@ -226,6 +226,7 @@ https://www.latercera.com/nacional/noticia/conaf-exigira-guia-y-equipamiento-obl
 https://www.latercera.com/nacional/noticia/consejo-regional-de-arica-aprueba-financiamiento-a-plan-para-comenzar-la-erradicacion-de-la-toma-del-cerro-chuno/
 https://www.latercera.com/nacional/noticia/contraloria-fija-criterio-y-prohibe-financiar-beneficios-extra-de-prodemu-con-fondos-publicos/
 https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municipio-100-electromovible-de-chile-en-seis-anos/
+https://www.latercera.com/nacional/noticia/declaran-la-primera-preemergencia-ambiental-del-ano-para-este-lunes-en-la-rm-revisa-la-restriccion-vehicular/
 https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del-ano-para-este-domingo-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
@@ -828,6 +829,7 @@ titulo::de la alarma al retroceso gobierno reevalúa proyecto para ampliar princ
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::de ormuz a la ia el banco central alerta sobre un escenario global más incierto pero certifica fortaleza de la banca chilena
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
+titulo::declaran la primera preemergencia ambiental del año para este lunes en la rm revisa la restricción vehicular
 titulo::declaran primera alerta ambiental del año para este domingo en la región metropolitana
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
 titulo::del jarro al puñal el ocaso de la educación chilena
