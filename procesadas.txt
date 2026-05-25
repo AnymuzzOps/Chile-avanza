@@ -119,6 +119,7 @@ https://www.lanacion.cl/cchen-lidera-combate-contra-el-fraude-alimentario-median
 https://www.lanacion.cl/chile-interrumpe-envio-de-gas-argentino-en-nuble-y-biobio-por-incumplimiento-normativo/
 https://www.lanacion.cl/cobro-del-cae-morosos-multiplican-por-seis-sus-pagos-tras-advertencia-oficial/
 https://www.lanacion.cl/cuatro-de-los-cinco-fondos-de-pensiones-anotaron-ganancias-en-abril-solo-el-e-cerro-en-rojo/
+https://www.lanacion.cl/delegacion-presidencial-decreto-primera-preemergencia-ambiental-del-ano-en-rm/
 https://www.lanacion.cl/direccion-del-trabajo-por-jornada-laboral-de-42-horas-que-entro-en-vigencia-principal-mecanismo-es-el-acuerdo/
 https://www.lanacion.cl/en-maratonica-jornada-el-proyecto-de-reconstruccion-fue-aprobado-en-la-comision-de-hacienda/
 https://www.lanacion.cl/enap-oficializa-historica-alza-de-los-combustibles-a-partir-de-este-jueves/
@@ -833,6 +834,7 @@ titulo::declaran la primera preemergencia ambiental del año para este lunes en 
 titulo::declaran primera alerta ambiental del año para este domingo en la región metropolitana
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
 titulo::del jarro al puñal el ocaso de la educación chilena
+titulo::delegación presidencial decretó primera preemergencia ambiental del año en rm
 titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 millones en casinos de juegos peso a tener prohibición
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::desde cuándo y cómo se aplica la doble autenticación en la clave única en chile
