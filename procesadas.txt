@@ -1,3 +1,4 @@
+https://anid.cl/confluencia-impulsa-innovacion-en-economia-azul-en-biobio/
 https://anid.cl/desarrollo-de-cobre-de-alta-pureza-se-instala-como-desafio-en-chile/
 https://anid.cl/farmaco-chileno-contra-la-obesidad-busca-avanzar-hacia-pruebas-clinicas/
 https://anid.cl/inria-chile-impulsa-dos-proyectos-binacionales-en-inteligencia-artificial/
@@ -478,6 +479,7 @@ https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
 https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
+https://www.minsal.cl/subsecretario-de-redes-asistenciales-da-inicio-a-los-primeros-programas-de-formacion-de-especialistas-en-la-universidad-de-magallanes/
 https://www.minsal.cl/subsecretario-de-redes-asistenciales-inspecciona-inicio-de-atencion-de-listas-de-espera-no-ges-en-hospital-modular-del-ejercito-en-los-angeles/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
@@ -807,6 +809,7 @@ titulo::con la animación de martín cárcamo y fecha de estreno confirmada cana
 titulo::con una inversión de más de 1000 millones el gobierno de santiago busca remodelar el polígono de diagonal paraguay
 titulo::conaf exigirá guía y equipamiento obligatorio en torres del paine por inicio anticipado de temporada invernal
 titulo::confirman la fecha de llegada de wegovy a chile el tratamiento más fuerte que ozempic para el manejo de la obesidad
+titulo::confluencia impulsa innovación en economía azul en biobío
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
 titulo::conicyt se transforma en la agencia nacional de investigación y desarrollo
 titulo::consejo asesor de la superintendencia de pensiones para la licitación de stock de afiliados se reúne por primera vez
@@ -1255,6 +1258,7 @@ titulo::suboficial de la fach apostó más de mil millones en casinos conózca a
 titulo::subsecretaria de salud pública en mayo debemos tener un 70 de avance de vacunación contra la influenza
 titulo::subsecretaria de salud pública encabeza operativo de vacunación extramuros en la región de ohiggins
 titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
+titulo::subsecretario de redes asistenciales da inicio a los primeros programas de formación de especialistas en la universidad de magallanes
 titulo::subsecretario de redes asistenciales inspecciona inicio de atención de listas de espera no ges en hospital modular del ejército en los ángeles
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
 titulo::subsidio eléctrico en chile 2026 cómo postular al beneficio ante la nueva alza en la cuenta de la luz
