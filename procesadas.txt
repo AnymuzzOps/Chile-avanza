@@ -49,6 +49,7 @@ https://elpais.com/chile/2026-04-28/black-inmobiliario-2026-en-chile-ofertas-y-e
 https://elpais.com/chile/2026-05-06/restriccion-vehicular-2026-el-calendario-y-los-automoviles-que-no-podran-circular-por-santiago-de-chile.html
 https://elpais.com/chile/2026-05-19/cupon-de-gas-licuado-en-chile-como-activar-y-obtener-el-beneficio-entregado-por-el-gobierno.html
 https://elpais.com/chile/2026-05-20/desde-cuando-y-como-se-aplica-la-doble-autenticacion-en-la-clave-unica-en-chile.html
+https://elpais.com/chile/2026-05-26/subsidio-electrico-en-chile-2026-como-postular-al-beneficio-ante-la-nueva-alza-en-la-cuenta-de-la-luz.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -1244,6 +1245,7 @@ titulo::subsecretaria de salud pública encabeza operativo de vacunación extram
 titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
 titulo::subsecretario de redes asistenciales inspecciona inicio de atención de listas de espera no ges en hospital modular del ejército en los ángeles
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
+titulo::subsidio eléctrico en chile 2026 cómo postular al beneficio ante la nueva alza en la cuenta de la luz
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::tcl presenta su nueva generación de tecnología que llegará a chile
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
