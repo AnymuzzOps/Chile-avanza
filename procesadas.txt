@@ -98,6 +98,7 @@ https://www.fayerwayer.com/ciencia/2026/04/06/impacto-mundial-encuentran-una-cap
 https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
 https://www.fayerwayer.com/entretenimiento/2026/03/27/el-regreso-de-la-fifa-todo-sobre-fifa-heroes-el-nuevo-arcade-gratuito-que-llegaria-incluso-a-nintendo-switch-2/
 https://www.fayerwayer.com/entretenimiento/2026/03/27/pascua-en-chile-asi-puedes-obtener-20-juegos-gratis/
+https://www.fayerwayer.com/espacio/2026/05/26/hito-espacial-chileno-investigadores-locales-prueban-como-reacciona-la-vida-en-gravedad-cero/
 https://www.fayerwayer.com/internet/2026/03/21/certificacion-google-2026-la-guia-para-acceder-a-los-cursos-gratuitos-con-validez-oficial-este-marzo/
 https://www.fayerwayer.com/internet/2026/03/25/atencion-chile-estas-aplicaciones-te-muestran-la-bencina-mas-barata-en-segundos/
 https://www.fayerwayer.com/internet/2026/03/25/las-aplicaciones-que-te-dicen-donde-comprar-mas-barato-en-chile-y-que-casi-nadie-esta-usando/
@@ -150,6 +151,7 @@ https://www.lanacion.cl/un-bochorno-politico-que-dana-el-prestigio-de-chile-banc
 https://www.lanacion.cl/universidad-de-chile-trae-al-premio-nobel-de-economia-guido-imbens-y-ali-rauh-directora-de-applied-science-uber/
 https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran-acepte-un-acuerdo-de-alto-el-fuego/
 https://www.latercera.com/branded/noticia/las-nuevas-y-efectivas-terapias-para-combatir-las-enfermedades-inflamatorias-intestinales/
+https://www.latercera.com/branded/noticia/migracion-e-inclusion-financiera-el-desafio-pendiente-para-integrarse-plenamente-en-chile/
 https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
 https://www.latercera.com/cartas-al-director/noticia/emprendimiento-para-el-desarrollo-de-chile/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
@@ -189,6 +191,7 @@ https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/probado-en-nogales-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
+https://www.latercera.com/mtonline/noticia/astara-sera-el-nuevo-distribuidor-de-renault-en-chile/
 https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-potencia-y-precision-en-clave-deportiva/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
@@ -649,6 +652,7 @@ https://www.theclinic.cl/2026/05/22/don-salva-la-apuesta-de-cencosud-por-los-sup
 https://www.theclinic.cl/2026/05/23/quien-es-paul-furst-el-director-del-banco-de-chile-y-mall-plaza-que-salio-de-compras-y-movio-54-mil-millones-en-la-bolsa/
 https://www.theclinic.cl/2026/05/25/renault-chile-nuevo-distribuidor-astara/
 https://www.theclinic.cl/2026/05/26/comision-de-evaluacion-ambiental-aprueba-ampliacion-del-puerto-de-san-antonio-asi-se-vera-la-nueva-estructura-portuaria-que-comenzara-su-construccion-en-2027/
+https://www.theclinic.cl/2026/05/26/cyberday-2026-esperan-que-ventas-crezcan-5-y-superen-los-us540-millones/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -686,6 +690,7 @@ titulo::arrau detalla avances del plan escudo fronterizo en colchane expansión 
 titulo::arriesgan a multas de más de 100 millones sernac fiscalizará a tiendas del retail por la aplicación de descuentos asociados al pago con tarjetas
 titulo::asociación chilena de electromovilidad liviana la adquisición de un vehículo eléctrico liviano ya dejó de verse como una inversión cara
 titulo::asociación chilena de municipalidades en la lupa contraloría detecta severas irregularidades en agrupación mientras era dirigida por carolina leitao
+titulo::astara será el nuevo distribuidor de renault en chile
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelerar la investigación científica
@@ -823,6 +828,7 @@ titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
+titulo::cyberday 2026 esperan que ventas crezcan 5 y superen los us540 millones
 titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
 titulo::cámara de diputados aprueba indicación de sala cuna universal pero quiroz anuncia que recurrirá al tribunal constitucional
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
@@ -982,6 +988,7 @@ titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en meg
 titulo::hacienda ingresa proyecto que sube salario mínimo en 7546 y fija nueva alza por ipc en enero de 2027
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
+titulo::hito espacial chileno investigadores locales prueban cómo reacciona la vida en gravedad cero
 titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
 titulo::hospital de santa cruz fortalece atención con incorporación de nuevos médicos especialistas para colchagua en la región de ohiggins
 titulo::ignacio briones chile no es un país quebrado
@@ -1094,6 +1101,7 @@ titulo::metro de santiago informa normalización de servicios en la línea 5
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
 titulo::metro refuerza trabajos de sanitización tras denuncia sobre presencia de ratones en la estación universidad de chile
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
+titulo::migración e inclusión financiera el desafío pendiente para integrarse plenamente en chile
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
