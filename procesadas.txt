@@ -657,6 +657,8 @@ https://www.theclinic.cl/2026/05/23/quien-es-paul-furst-el-director-del-banco-de
 https://www.theclinic.cl/2026/05/25/renault-chile-nuevo-distribuidor-astara/
 https://www.theclinic.cl/2026/05/26/comision-de-evaluacion-ambiental-aprueba-ampliacion-del-puerto-de-san-antonio-asi-se-vera-la-nueva-estructura-portuaria-que-comenzara-su-construccion-en-2027/
 https://www.theclinic.cl/2026/05/26/cyberday-2026-esperan-que-ventas-crezcan-5-y-superen-los-us540-millones/
+https://www.theclinic.cl/2026/05/27/cmf-multa-con-324-millones-a-aseguradora-por-no-pago-de-garantia-a-superintendencia-de-casinos-en-puerto-varas/
+https://www.theclinic.cl/2026/05/27/ley-del-telonero-proyecto-multas-clausulas-abusivas-artistas-chilenos/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -784,6 +786,7 @@ titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 d
 titulo::científica chilena descubre el increíble poder del ejercicio para tratar el cáncer de mama
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::claro chile se consolida como líder en 5g según barómetro de nperf
+titulo::cmf multa con 324 millones a aseguradora por no pago de garantía a superintendencia de casinos en puerto varas
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
 titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
@@ -1069,6 +1072,7 @@ titulo::las zapatillas todoterreno de merrell que conquistan el trail running en
 titulo::latam airlines anota mayor alza desde fines de 2023 tras resultados récord y expectativas de acuerdo en medio oriente
 titulo::latam invierte us60 millones para instalar wifi en los vuelos de larga distancia será la primera aerolínea del continente en ofrecer este servicio
 titulo::ley de 40 horas en chile cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas
+titulo::ley del telonero en la mira proyecto busca fijar multas de hasta 35 millones por cláusulas abusivas a artistas chilenos
 titulo::ley miscelánea norma otorgará invariabilidad tributaria de hasta 25 años a inversiones desde us50 millones
 titulo::litio cobre plata el agresivo plan de bolivia para convertirse en líder mundial en minería
 titulo::live andes 20 el proyecto que combina la inteligencia artificial con la participación ciudadana para el monitoreo de la fauna silvestre
