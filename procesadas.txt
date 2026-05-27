@@ -310,6 +310,7 @@ https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nue
 https://www.latercera.com/pulso/noticia/banco-mundial-sube-proyeccion-pib-economia-chile/
 https://www.latercera.com/pulso/noticia/bancoestado-anuncia-eliminacion-en-cobro-de-300-para-transferencias-electronicas-hacia-otros-bancos/
 https://www.latercera.com/pulso/noticia/brasilena-ascenty-y-necesidad-del-cable-chino-cuanto-mas-conectividad-tenga-chile-mas-competitivo-va-a-ser/
+https://www.latercera.com/pulso/noticia/btg-pactual-en-los-ultimos-tres-anos-empezamos-a-ver-que-los-locales-empezaron-a-invertir-en-chile-la-plata-nueva-se-ha-ido-quedando-en-el-pais/
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
 https://www.latercera.com/pulso/noticia/canales-de-television-chilenos-demandan-a-google-en-el-tdlc-por-abuso-de-posicion-dominante/
@@ -405,6 +406,7 @@ https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-princip
 https://www.latercera.com/pulso/noticia/riqueza-de-los-hogares-chilenos-cierra-2025-al-alza-impulsada-por-el-desempeno-de-los-mercados-bursatiles/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
+https://www.latercera.com/pulso/noticia/salmonchile-anuncia-incorporacion-de-invermar-al-gremio/
 https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-el-2026-en-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
@@ -737,6 +739,7 @@ titulo::bono base familiar conoce los requisitos para recibir el beneficio que s
 titulo::bono invierno 2026 en chile quiénes reciben y cuándo se entrega el beneficio
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
+titulo::btg pactual en los últimos tres años empezamos a ver que los locales empezaron a invertir en chile la plata nueva se ha ido quedando en el país
 titulo::busca asfaltar 244 kilómetros presidente kast presenta proyecto de mejora de la carretera austral
 titulo::cadena de cosméticos dbs abrirá 17 tiendas en chile y  perú este año y explora nuevos mercados
 titulo::caen las ganancias de mega mientras chilevisión recorta sus pérdidas
@@ -1222,6 +1225,7 @@ titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adria
 titulo::runway entre las top 50 empresas de ia del mundo
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
+titulo::salmonchile anuncia incorporación de invermar al gremio
 titulo::samsung lanza en san pedro de atacama su programa de innovación escolar en stem
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
