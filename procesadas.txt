@@ -667,6 +667,7 @@ https://www.theclinic.cl/2026/05/26/cyberday-2026-esperan-que-ventas-crezcan-5-y
 https://www.theclinic.cl/2026/05/27/cmf-multa-con-324-millones-a-aseguradora-por-no-pago-de-garantia-a-superintendencia-de-casinos-en-puerto-varas/
 https://www.theclinic.cl/2026/05/27/ley-del-telonero-proyecto-multas-clausulas-abusivas-artistas-chilenos/
 https://www.theclinic.cl/2026/05/27/postgrado-chile-opciones-requisitos/
+https://www.theclinic.cl/2026/05/28/bosques-marinos-en-riesgo-estudio-de-la-u-de-chile-advierte-fuerte-reduccion-del-habitat-de-macroalgas-chilenas/
 https://www.theclinic.cl/2026/05/28/coca-cola-andina-y-municipalidad-de-renca-centro-inteligencia-hidrica/
 https://www.theclinic.cl/2026/05/28/como-conseguir-15-mil-nuevas-becas-google-en-chile-ia/
 https://www.theclinic.cl/2026/05/28/municipios-crisis-hidrica-pais-soluciones/
@@ -752,6 +753,7 @@ titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta
 titulo::bono base familiar conoce los requisitos para recibir el beneficio que se paga por dos años
 titulo::bono invierno 2026 en chile quiénes reciben y cuándo se entrega el beneficio
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
+titulo::bosques marinos en riesgo estudio de la u de chile advierte fuerte reducción del hábitat de macroalgas chilenas
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
 titulo::btg pactual en los últimos tres años empezamos a ver que los locales empezaron a invertir en chile la plata nueva se ha ido quedando en el país
 titulo::busca asfaltar 244 kilómetros presidente kast presenta proyecto de mejora de la carretera austral
