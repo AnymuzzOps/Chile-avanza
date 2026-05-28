@@ -667,7 +667,10 @@ https://www.theclinic.cl/2026/05/26/cyberday-2026-esperan-que-ventas-crezcan-5-y
 https://www.theclinic.cl/2026/05/27/cmf-multa-con-324-millones-a-aseguradora-por-no-pago-de-garantia-a-superintendencia-de-casinos-en-puerto-varas/
 https://www.theclinic.cl/2026/05/27/ley-del-telonero-proyecto-multas-clausulas-abusivas-artistas-chilenos/
 https://www.theclinic.cl/2026/05/27/postgrado-chile-opciones-requisitos/
+https://www.theclinic.cl/2026/05/28/coca-cola-andina-y-municipalidad-de-renca-centro-inteligencia-hidrica/
 https://www.theclinic.cl/2026/05/28/como-conseguir-15-mil-nuevas-becas-google-en-chile-ia/
+https://www.theclinic.cl/2026/05/28/municipios-crisis-hidrica-pais-soluciones/
+https://www.theclinic.cl/2026/05/28/red-movilidad-estrenara-dos-nuevas-micros-este-fin-de-semana-revisa-los-nuevos-recorridos-que-conectaran-la-pintana-con-puente-alto-y-macul-con-la-florida/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -802,6 +805,7 @@ titulo::cmf multa con 324 millones a aseguradora por no pago de garantía a supe
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
 titulo::cocacola andina invertirá más de us500 millones en los próximos dos años
+titulo::cocacola andina y municipalidad de renca apuestan por tecnología hídrica para ahorrar más de 25 mil metros cúbicos de agua potable cada año
 titulo::cochilco y sobreestimación de producción de codelco el riesgo que nosotros vimos es que efectivamente habían desviaciones
 titulo::codelco exigirá devolución de bonos a 6 mil 300 trabajadores tras grave error en cifras de producción el total de la devolución es de más de 14 millones de dólares
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
@@ -1153,6 +1157,7 @@ titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
+titulo::municipios se reúnen en seminario que abordó la crisis hídrica del país y la búsqueda de soluciones concretas en el marco de la alianza público  privada
 titulo::más de 17 millones de personas activaron subsidio al gas en su primer día
 titulo::más de 6 mil asistentes y 90 speakers de todo el mundo los detalles del chile fintech forum 2026
 titulo::más ia menos hidrógeno verde la agenda del nuevo vicepresidente de corfo
@@ -1227,6 +1232,7 @@ titulo::quiñenco anuncia pago de dividendo por más de us630 millones
 titulo::qué es norwegian peoples aid ong aporta recursos a comunidades lafkenche para frenar salmoneras chilenas
 titulo::racha en el precio del cobre analistas proyectan más ingresos para el estado y un posible alivio para las arcas fiscales
 titulo::recuperación del eje bandera obras alcanzan 67 de avance
+titulo::red movilidad estrenará dos nuevas micros este fin de semana revisa los nuevos recorridos que conectarán la pintana con puente alto y macul con la florida
 titulo::reemplaza eficazmente compuestos químicos mucho más tóxicos chilenos crean material sustentable para detectar fármacos en el agua
 titulo::región de atacama capstone copper planea nueva inversión de casi us 30 millones en mantoverde
 titulo::región de los lagos operativo de cirugía plástica reconstructiva cambia la vida de pacientes de chiloé
