@@ -444,6 +444,7 @@ https://www.latercera.com/tecnologia/noticia/tcl-experience-2026-portafolio-chil
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/como-sensores-sismicos-han-detectado-mas-de-1200-desprendimientos-de-hielo-en-glaciares-segun-un-estudio-chileno/
 https://www.latercera.com/tendencias/noticia/confirman-la-fecha-de-llegada-de-wegovy-a-chile-el-tratamiento-mas-fuerte-que-ozempic-para-el-manejo-de-la-obesidad/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
 https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
@@ -851,6 +852,7 @@ titulo::cómo es la hornilla el megaproyecto solar de us 120 millones que consol
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo la dupla quiroztoledo impulsó el récord de inversión de us 22258 millones en dos meses
 titulo::cómo podría impactar el rally del cobre y del litio a la economía y a las arcas fiscales este año
+titulo::cómo sensores sísmicos han detectado más de 1200 desprendimientos de hielo en glaciares según un estudio chileno
 titulo::cómo será el supermercado pricesmart en chicureo que costará casi us10 millones
 titulo::cómo será la extensión del metrotren que unirá quillota y la calera cinco estaciones nuevas y se espera que comience a operar para 2029
 titulo::cómo volvo superó a tesla en chile
