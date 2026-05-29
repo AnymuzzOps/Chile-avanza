@@ -329,6 +329,7 @@ https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-d
 https://www.latercera.com/pulso/noticia/ciudades-y-comunas-donde-es-mas-rentable-comprar-un-departamento-para-arrendarlo/
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/cochilco-y-sobreestimacion-de-produccion-de-codelco-el-riesgo-que-nosotros-vimos-es-que-efectivamente-habian-desviaciones/
+https://www.latercera.com/pulso/noticia/codelco-sube-sus-ganancias-por-mayor-precio-del-cobre-y-eleva-en-94-su-aporte-al-fisco/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-baja-de-impuesto-a-las-empresas-y-la-reintegracion-pero-se-cae-fin-de-franquicia-del-sence/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
@@ -472,6 +473,7 @@ https://www.mineduc.cl/cataldo-tras-entrega-de-resultados-simce-2025-durante-nue
 https://www.mineduc.cl/estudio-internacional-revela-profesores-chilenos-mejor-preparados-reportan-menos-estres-y-logran-mas-aprendizaje-en-aula/
 https://www.mineduc.cl/mineduc-entrega-mas-de-171-mil-beneficios-estudiantiles-para-la-educacion-superior-2026-y-habilito-proceso-de-apelacion-en-linea/
 https://www.mineduc.cl/ministra-arzola-valora-esfuerzos-regionales-para-fortalecer-la-educacion-en-antofagasta/
+https://www.mineduc.cl/subsecretaria-de-educacion-superior-entrega-mas-de-751-mil-beneficios-estudiantiles/
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-154-mil-millones-para-ejecutar-plan-de-atencion-a-33-mil-pacientes-con-espera-prolongada/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
@@ -812,6 +814,7 @@ titulo::cocacola andina invertirá más de us500 millones en los próximos dos a
 titulo::cocacola andina y municipalidad de renca apuestan por tecnología hídrica para ahorrar más de 25 mil metros cúbicos de agua potable cada año
 titulo::cochilco y sobreestimación de producción de codelco el riesgo que nosotros vimos es que efectivamente habían desviaciones
 titulo::codelco exigirá devolución de bonos a 6 mil 300 trabajadores tras grave error en cifras de producción el total de la devolución es de más de 14 millones de dólares
+titulo::codelco sube sus ganancias por mayor precio del cobre y eleva en 94 su aporte al fisco
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de evaluación ambiental aprueba ampliación del puerto de san antonio así se verá la nueva estructura portuaria que comenzará su construcción en 2027
@@ -1295,6 +1298,7 @@ titulo::subsecretaria de salud pública llama a vacunarse contra la influenza a 
 titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
 titulo::subsecretario de redes asistenciales da inicio a los primeros programas de formación de especialistas en la universidad de magallanes
 titulo::subsecretario de redes asistenciales inspecciona inicio de atención de listas de espera no ges en hospital modular del ejército en los ángeles
+titulo::subsecretaría de educación superior entrega más de 751 mil beneficios estudiantiles
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
 titulo::subsidio eléctrico en chile 2026 cómo postular al beneficio ante la nueva alza en la cuenta de la luz
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
