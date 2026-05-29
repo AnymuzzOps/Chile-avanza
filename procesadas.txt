@@ -198,6 +198,7 @@ https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predic
 https://www.latercera.com/mtonline/noticia/astara-sera-el-nuevo-distribuidor-de-renault-en-chile/
 https://www.latercera.com/mtonline/noticia/aston-martin-vantage-s-en-chile-mas-potencia-y-precision-en-clave-deportiva/
 https://www.latercera.com/mtonline/noticia/bmw-m-eleva-la-exigencia-en-chile-con-dos-nuevas-variantes-cs/
+https://www.latercera.com/mtonline/noticia/chery-confirma-la-llegada-del-nuevo-qq-electrico-a-chile-para-finales-de-ano/
 https://www.latercera.com/mtonline/noticia/cuales-son-los-vehiculos-con-nuevas-energias-mas-vendidos-en-chile/
 https://www.latercera.com/mtonline/noticia/deepal-g318-en-chile-el-suv-electrificado-que-lleva-el-off-road-a-un-nuevo-nivel/
 https://www.latercera.com/mtonline/noticia/el-kia-soluto-se-prepara-para-sumar-en-chile-una-version-automatica/
@@ -776,6 +777,7 @@ titulo::cencosud refuerza su presencia en colombia y adquiere uno de los princip
 titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
 titulo::certificación google 2026 la guía para acceder a los cursos gratuitos con validez oficial este marzo
+titulo::chery confirma la llegada del nuevo qq eléctrico a chile para finales de año
 titulo::chile alcanza cobertura de internet virtualmente universal y lleva brecha urbanorural a su mínimo histórico
 titulo::chile anuncia respaldo a argentina en reclamo por las islas malvinas y agradece esfuerzos por extradición de apablaza
 titulo::chile cambia la hora el próximo sábado por qué se originó esta medida y quién fue su autor
