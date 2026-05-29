@@ -327,6 +327,7 @@ https://www.latercera.com/pulso/noticia/chile-interrumpe-una-de-las-zonas-de-aba
 https://www.latercera.com/pulso/noticia/chile-sube-en-encuesta-que-mide-la-transparencia-fiscal-en-2025/
 https://www.latercera.com/pulso/noticia/chile-y-estados-unidos-firman-acuerdos-de-cooperacion-y-washington-aportara-us-1-millon-en-seguridad/
 https://www.latercera.com/pulso/noticia/ciudades-y-comunas-donde-es-mas-rentable-comprar-un-departamento-para-arrendarlo/
+https://www.latercera.com/pulso/noticia/clinica-las-condes-reduce-sus-perdidas-y-preve-retorno-a-las-utilidades-en-los-proximos-periodos/
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/cochilco-y-sobreestimacion-de-produccion-de-codelco-el-riesgo-que-nosotros-vimos-es-que-efectivamente-habian-desviaciones/
 https://www.latercera.com/pulso/noticia/codelco-sube-sus-ganancias-por-mayor-precio-del-cobre-y-eleva-en-94-su-aporte-al-fisco/
@@ -481,6 +482,7 @@ https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alc
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
 https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construccion-de-nuevo-hospital-del-salvador-que-entrara-en-operacion-en-los-proximos-meses/
+https://www.minsal.cl/minsal-prepara-a-la-red-asistencial-en-la-direccion-estrategica-de-proyectos-en-salud/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
@@ -807,6 +809,7 @@ titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 7
 titulo::circulación de influenza aumenta por sexta semana consecutiva y minsal alerta por rezago de vacunación en mayores de 60 años
 titulo::circulartec apuesta por la segunda vida de las baterías de litio
 titulo::claro chile se consolida como líder en 5g según barómetro de nperf
+titulo::clínica las condes reduce sus pérdidas y prevé retorno a las utilidades en los próximos periodos
 titulo::cmf multa con 324 millones a aseguradora por no pago de garantía a superintendencia de casinos en puerto varas
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
 titulo::cobro del cae morosos multiplican por seis sus pagos tras advertencia oficial
@@ -1151,6 +1154,7 @@ titulo::minsal anuncia la eliminación de la comisión que cenabast cobraba a mu
 titulo::minsal anuncia uso obligatorio de mascarillas en las urgencias a partir de este 1 de abril
 titulo::minsal informa el aislamiento preventivo de dos chilenos que subieron al crucero con brote de hantavirus
 titulo::minsal informa que uso de mascarillas será obligatorio en servicios de urgencia entre el 1 de abril y el 31 de agosto
+titulo::minsal prepara a la red asistencial en la dirección estratégica de proyectos en salud
 titulo::minsal reafirma que recorte de hacienda no afectará atenciones representan sólo un 11 de los recursos operacionales de los hospitales
 titulo::minsal reduce el ajuste fiscal solicitado por hacienda con foco en eficiencia y gestión sin afectar la atención de pacientes
 titulo::minsal y primera dama llaman a inmunizar a más de 6 mil lactantes contra el virus respiratorio sincicial
