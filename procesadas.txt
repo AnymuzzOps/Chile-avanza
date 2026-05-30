@@ -59,6 +59,7 @@ https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacio
 https://www.ex-ante.cl/alan-meyer-el-ejecutivo-que-construyo-mercado-libre-en-chile-y-que-anuncio-la-mayor-inversion-de-la-compania-en-el-pais/
 https://www.ex-ante.cl/alza-historica-de-combustibles-hacienda-anuncia-aumento-de-370-en-bencinas-y-580-del-diesel-y-plan-para-mitigar-efecto/
 https://www.ex-ante.cl/andrea-garcia-de-vina-vik-el-futuro-del-vino-chileno-pasa-por-fortalecer-los-segmentos-de-mayor-valor/
+https://www.ex-ante.cl/asi-es-el-ambicioso-proyecto-del-mercado-de-providencia-que-construye-una-empresa-que-demando-al-estado/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-linea-8-del-metro-que-conecta-providencia-con-puente-alto/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-megaproyecto-del-puerto-exterior-de-san-antonio-por-us-4-450-millones-tras-seis-anos-de-tramitacion/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-la-mayor-desaladora-en-chile-por-us-5-000-millones/
@@ -73,6 +74,7 @@ https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-opera
 https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millones-que-consolida-el-atractivo-energetico-de-ohiggins/
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/como-la-dupla-quiroz-toledo-impulso-el-record-de-inversion-de-us-22-258-millones-en-dos-meses/
+https://www.ex-ante.cl/cuales-son-las-siete-favoritas-del-mercado-las-razones-detras-del-rally-de-las-acciones-que-lideran-el-ipsa-en-2026/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
 https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
@@ -444,6 +446,7 @@ https://www.latercera.com/sustentabilidad/noticia/convocan-a-mas-de-300-voluntar
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
 https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chileno-que-observa-santiago-desde-europa-estamos-en-el-camino-correcto/
 https://www.latercera.com/sustentabilidad/noticia/la-ciencia-de-la-gentileza-el-nuevo-modelo-de-liderazgo-que-llega-a-chile-desde-harvard/
+https://www.latercera.com/sustentabilidad/noticia/la-naturaleza-como-activo-chile-consolida-un-modelo-de-conservacion-que-atrae-inversion-extranjera/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/sustentabilidad/noticia/vuelve-el-premio-territorio-circular-en-su-4-version-para-destacar-modelos-de-negocio-sostenibles/
@@ -722,6 +725,7 @@ titulo::astara será el nuevo distribuidor de renault en chile
 titulo::aston martin desembarca en chile las dos versiones más radicales del vantage
 titulo::aston martin vantage s en chile más potencia y precisión en clave deportiva
 titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelerar la investigación científica
+titulo::así es el ambicioso proyecto del mercado de providencia que construye una empresa que demandó al estado
 titulo::así es uber mujeres la nueva opción de la app que llega a chile y que prioriza el encuentro entre pasajeras y conductoras
 titulo::así fue la emotiva liberación de crías de ñandú en el parque nacional patagonia
 titulo::así será el proyecto que busca transformar el polígono diagonal paraguay obras parten en agosto y costará más de 1000 millones
@@ -1082,6 +1086,7 @@ titulo::la justificación del grupo angelini para aumentar el directorio de anta
 titulo::la ley ya rige cómo están adaptándose las empresas chilenas a las 42 horas
 titulo::la mayor cartera de proyectos de la historia de chile daniel mas cuenta los planes para impulsar la minería
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
+titulo::la naturaleza como activo chile consolida un modelo de conservación que atrae inversión extranjera
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
 titulo::la nueva cara del bandejón central de santa elena en maipú tras años de abandono será un parque tras millonaria inversión públicoprivada
 titulo::la nueva marca del grupo chery aterriza con fuerza lepas en el salón de beijing apunta directo a chile
@@ -1099,6 +1104,7 @@ titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que 
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
 titulo::las derechas en chile
 titulo::las empanadas de queso chilenas conquistan mcdonalds suiza y generan polémica en argentina
+titulo::las favoritas del mercado cuáles son las siete acciones que encabezan las ganancias del ipsa en 2026
 titulo::las lagunas comienzan a llenarse en san bernardo y el proyecto cerro chena entra en su recta final parque metropolitano sur alcanza 86 de avance y apunta a inaugurar en agosto
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las nuevas y efectivas terapias para combatir las enfermedades inflamatorias intestinales
