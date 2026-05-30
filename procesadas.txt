@@ -310,6 +310,7 @@ https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-e
 https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/aumento-en-requerimiento-de-capital-mayores-costos-serian-para-bci-santander-y-banco-de-chile-y-mercado-se-divide-por-efecto-en-credito/
+https://www.latercera.com/pulso/noticia/avellanas-se-suma-a-los-productos-en-los-chile-es-el-mayor-exportador-mundial/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/banco-mundial-sube-proyeccion-pib-economia-chile/
@@ -411,6 +412,7 @@ https://www.latercera.com/pulso/noticia/remesas-enviadas-desde-chile-retoman-alz
 https://www.latercera.com/pulso/noticia/renta4-baja-precio-objetivo-del-ipsa-ante-alza-de-los-combustibles-anunciada-por-hacienda/
 https://www.latercera.com/pulso/noticia/ricardo-arrano-es-el-nuevo-socio-principal-de-pwc-en-chile-reemplaza-al-historico-renzo-corona/
 https://www.latercera.com/pulso/noticia/riqueza-de-los-hogares-chilenos-cierra-2025-al-alza-impulsada-por-el-desempeno-de-los-mercados-bursatiles/
+https://www.latercera.com/pulso/noticia/riqueza-financiera-de-chile-alcanzo-casi-los-us700-mil-millones-en-2025-tras-un-alza-anual-de-dos-digitos/
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/pulso/noticia/salmonchile-anuncia-incorporacion-de-invermar-al-gremio/
@@ -739,6 +741,7 @@ titulo::autoridad ambiental aprueba proyecto de la mayor desaladora en chile por
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avanza la línea 8 tras recomendación del sea de aprobar estudio ambiental por estas comunas pasará el nuevo trazado del metro
+titulo::avellanas se suman a los productos en los que chile es el mayor exportador mundial
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
 titulo::banco central aumenta reservas de oro durante marzo y las deposita en londres
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
@@ -1260,6 +1263,7 @@ titulo::restricción vehicular 2026 el calendario y los automóviles que no podr
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
 titulo::riqueza de los hogares chilenos cierra 2025 al alza impulsada por el desempeño de los mercados bursátiles
+titulo::riqueza financiera de chile alcanzó casi los us700 mil millones en 2025 tras un alza anual de dos dígitos
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
 titulo::runway entre las top 50 empresas de ia del mundo
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
