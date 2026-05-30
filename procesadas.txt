@@ -52,6 +52,7 @@ https://elpais.com/chile/2026-05-19/cupon-de-gas-licuado-en-chile-como-activar-y
 https://elpais.com/chile/2026-05-20/desde-cuando-y-como-se-aplica-la-doble-autenticacion-en-la-clave-unica-en-chile.html
 https://elpais.com/chile/2026-05-26/subsidio-electrico-en-chile-2026-como-postular-al-beneficio-ante-la-nueva-alza-en-la-cuenta-de-la-luz.html
 https://elpais.com/chile/2026-05-28/chile-se-proyecta-como-el-gran-polo-de-los-centros-de-datos-de-america-latina.html
+https://elpais.com/chile/2026-05-30/la-crisis-del-sotero-del-rio-el-hospital-mas-grande-de-chile-hay-presupuesto-hasta-agosto.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -1066,6 +1067,7 @@ titulo::la audaz estrategia de millicom la nueva controladora de telefónica des
 titulo::la carrera por cargar combustible en chile antes del alza anunciada nos tendremos que limitar más todavía
 titulo::la ciencia de la gentileza el nuevo modelo de liderazgo que llega a chile desde harvard
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
+titulo::la crisis del sótero del río el hospital más grande de chile hay presupuesto hasta agosto
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la digitalización del capital humano la nueva ventaja estructural de las empresas chilenas
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
