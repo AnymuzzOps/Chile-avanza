@@ -185,6 +185,7 @@ https://www.latercera.com/el-deportivo/noticia/pablo-milad-por-la-ley-sadp-guard
 https://www.latercera.com/el-deportivo/noticia/pablo-ruiz-tagle-candidato-a-la-rectoria-de-la-universidad-de-chile-estudiare-todas-las-acciones-legales-para-que-clark-de-un-paso-al-costado/
 https://www.latercera.com/emprendimiento/noticia/autismo-conecta-fue-el-gran-ganador-del-premio-chileconverge-emprende-2026/
 https://www.latercera.com/emprendimiento/noticia/bci-y-chileglobal-ventures-lanzan-programa-para-impulsar-la-expansion-de-startups-en-latinoamerica-y-miami/
+https://www.latercera.com/emprendimiento/noticia/cristobal-silva-de-acafi-lamentablemente-los-fondos-de-pensiones-tienen-muy-limitado-que-pueden-hacer-en-venture-capital/
 https://www.latercera.com/emprendimiento/noticia/de-curico-al-mundo-la-apuesta-de-haulmer-por-digitalizar-a-los-pequenos-negocios/
 https://www.latercera.com/emprendimiento/noticia/mas-de-6-mil-asistentes-y-90-speakers-de-todo-el-mundo-los-detalles-del-chile-fintech-forum-2026/
 https://www.latercera.com/emprendimiento/noticia/plataforma-chilena-circulo-senior-lanza-app-con-ia-para-la-generacion-mayor-a-55-anos/
@@ -867,6 +868,7 @@ titulo::correoschile apuesta por la última milla con acuerdos con banco santand
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::coyhaique busca ser el primer municipio 100 electromovible de chile en cuatro años
 titulo::crisis de vivienda así funciona el modelo comprar arrendando que inmobiliarias potencian para este 2026 en chile
+titulo::cristóbal silva de acafi lamentablemente los fondos de pensiones tienen muy limitado qué pueden hacer en venture capital
 titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
 titulo::cupón de gas licuado en chile cómo activar y obtener el beneficio entregado por el gobierno
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
