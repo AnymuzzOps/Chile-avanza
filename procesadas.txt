@@ -245,6 +245,7 @@ https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municip
 https://www.latercera.com/nacional/noticia/declaran-la-primera-preemergencia-ambiental-del-ano-para-este-lunes-en-la-rm-revisa-la-restriccion-vehicular/
 https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del-ano-para-este-domingo-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
+https://www.latercera.com/nacional/noticia/dia-mundial-sin-tabaco-minsal-alerta-que-un-117-de-los-adolescentes-consume-en-chile/
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
 https://www.latercera.com/nacional/noticia/esta-es-la-resolucion-del-juzgado-de-argentina-que-revoco-el-refugio-de-apablaza-y-ordeno-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/este-ano-vamos-a-estar-operando-ministro-arrau-destaca-avances-de-un-9856-del-hospital-del-salvador-de-providencia/
@@ -915,6 +916,7 @@ titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anim
 titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
 titulo::dueños de lundin mining y megaproyecto minero vicuña es uno de los yacimientos más grandes de los últimos 30 años
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
+titulo::día mundial sin tabaco minsal alerta que un 117 de los adolescentes consume en chile
 titulo::dónde conviene comprar un departamento para arrendarlo las ciudades que superan a santiago en rentabilidad para inversión inmobiliaria
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
