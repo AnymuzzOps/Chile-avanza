@@ -399,6 +399,7 @@ https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recau
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/mop-llama-a-licitacion-para-nueva-carcel-en-calama-presupuesto-de-la-obra-asciende-a-us-394-millones/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
+https://www.latercera.com/pulso/noticia/mujeres-estan-postergando-su-edad-de-jubilacion-para-acceder-a-mas-beneficios-de-la-reforma-previsional/
 https://www.latercera.com/pulso/noticia/nvidia-mira-chile-la-gestion-del-gobierno-para-instalar-la-primera-fabrica-de-ia-de-la-empresa-mas-valiosa-del-mundo/
 https://www.latercera.com/pulso/noticia/paz-corp-anota-alza-en-sus-ganancias-pese-a-menor-escrituracion-en-chile/
 https://www.latercera.com/pulso/noticia/presenta-proyecto-de-93-casas-para-la-zona-de-papudo-por-us21-millones/
@@ -1180,6 +1181,7 @@ titulo::mop llama a licitación para nueva cárcel en calama presupuesto de la o
 titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y el debut del razr fold
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
+titulo::mujeres están postergando su edad de jubilación para acceder a más beneficios de la reforma previsional
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
 titulo::municipios se reúnen en seminario que abordó la crisis hídrica del país y la búsqueda de soluciones concretas en el marco de la alianza público  privada
 titulo::más de 17 millones de personas activaron subsidio al gas en su primer día
