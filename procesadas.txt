@@ -497,6 +497,7 @@ https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-la
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
 https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstructiva-cambia-la-vida-de-pacientes-de-chiloe/
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
+https://www.minsal.cl/region-de-tarapaca-en-el-hospital-de-iquique-presentan-proyecto-de-capital-humano-especializado/
 https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan-alerta-oncologica/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
@@ -687,6 +688,7 @@ https://www.theclinic.cl/2026/05/28/como-conseguir-15-mil-nuevas-becas-google-en
 https://www.theclinic.cl/2026/05/28/municipios-crisis-hidrica-pais-soluciones/
 https://www.theclinic.cl/2026/05/28/red-movilidad-estrenara-dos-nuevas-micros-este-fin-de-semana-revisa-los-nuevos-recorridos-que-conectaran-la-pintana-con-puente-alto-y-macul-con-la-florida/
 https://www.theclinic.cl/2026/05/29/la-ia-haciendo-las-compras-por-ti-el-futuro-que-lideres-digitales-proyectan-para-el-comercio-electronico-en-chile-a-pocos-dias-del-cyber-day-2026/
+https://www.theclinic.cl/2026/06/01/el-ambicioso-plan-de-expansion-de-la-compania-minera-san-geronimo-buscaran-crear-un-distrito-minero-en-la-serena-y-duplicar-su-produccion/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -923,6 +925,7 @@ titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 
 titulo::efecto de la guerra en medio oriente en chile suben las ventas de cobre pero las compras de petróleo se disparan
 titulo::el abogado penalista que presidirá enap
 titulo::el ambicioso plan de contratación que lanza la startup chilena vambe sumar a 70 personas en 70 días
+titulo::el ambicioso plan de expansión de la compañía minera san gerónimo buscarán crear un distrito minero en la serena y duplicar su producción
 titulo::el antes y después del centro de santiago con el proyecto nueva alameda gore metropolitano muestra cómo se verán diferentes puntos con nuevas obras
 titulo::el antes y después del histórico edificio del correo central tras la restauración de su fachada impulsada por santiago
 titulo::el análisis del arquitecto chileno que observa santiago desde europa estamos en el camino correcto
@@ -1267,6 +1270,7 @@ titulo::reemplaza eficazmente compuestos químicos mucho más tóxicos chilenos 
 titulo::región de atacama capstone copper planea nueva inversión de casi us 30 millones en mantoverde
 titulo::región de los lagos operativo de cirugía plástica reconstructiva cambia la vida de pacientes de chiloé
 titulo::región de magallanes porvenir y puerto williams se suman a la atención de neurología por telemedicina
+titulo::región de tarapacá en el hospital de iquique presentan proyecto de capital humano especializado
 titulo::reinaldo sánchez expresidente de la anfp hay representantes que manejan el fútbol chileno y la ley sadp no lo va a cambiar porque van a poner palos blancos
 titulo::reingresan proyecto parque eólico las lilas y monto de inversión baja de us5100 millones a us510 millones
 titulo::reino unido convoca a 35 países incluido chile para analizar reapertura del estrecho de ormuz
