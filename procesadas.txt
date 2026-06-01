@@ -690,6 +690,8 @@ https://www.theclinic.cl/2026/05/28/red-movilidad-estrenara-dos-nuevas-micros-es
 https://www.theclinic.cl/2026/05/29/la-ia-haciendo-las-compras-por-ti-el-futuro-que-lideres-digitales-proyectan-para-el-comercio-electronico-en-chile-a-pocos-dias-del-cyber-day-2026/
 https://www.theclinic.cl/2026/06/01/el-ambicioso-plan-de-expansion-de-la-compania-minera-san-geronimo-buscaran-crear-un-distrito-minero-en-la-serena-y-duplicar-su-produccion/
 https://www.theclinic.cl/2026/06/01/hibridos-omoda-jaecoo-chile-2026/
+https://www.theclinic.cl/2026/06/01/la-solucion-para-duenos-de-perros-dogin-la-app-chilena-que-permite-encontrar-cuidadores-y-paseadores-en-minutos/
+https://www.theclinic.cl/2026/06/01/puede-alterar-procesos-celulares-asociados-a-la-atrofia-muscular-estudio-chileno-evidencio-los-efectos-poco-explorados-del-botox/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -1107,6 +1109,7 @@ titulo::la realidad detrás de las grandes inversiones chinas en energías renov
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
 titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
+titulo::la solución para dueños de perros dogin la app chilena que permite encontrar cuidadores y paseadores en minutos
 titulo::la tecnología detrás de las plataformas de casino en vivo y su crecimiento en chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::laben chile crea sistema de vigilancia para el sector del packaging
@@ -1254,6 +1257,7 @@ titulo::pricesmart cadena de supermercados estadounidense llega a chile y antici
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::puede alterar procesos celulares asociados a la atrofia muscular estudio chileno evidenció los efectos poco explorados del botox
 titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
 titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
