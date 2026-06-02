@@ -24,6 +24,7 @@ https://cambio21.cl/politica/gobierno-echa-pie-atras-y-decide-no-recortar-presup
 https://cambio21.cl/politica/siguen-las-buenas-noticias-para-bachelet-lula-reitera-apoyo-a-candidatura-de-la-expresidenta-de-chile-para-la-onu-figura-ideal-para-el-puesto-hace-tres-dias-lo-hizo-la-presidenta-de-mexico-69c8130a8edb1f121d08ce65
 https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco-de-alzas-de-combustibles-y-sube-pronostico-de-inflacion-y-baja-pib-a-rango-de-1-5-2-5-69c3ea092907da6f67635dc3
 https://cambio21.cl/tendencias/autoridades-rusas-niegan-presunta-campana-de-desinformacion-contra-gobierno-de-milei-intentaban-provocar-una-supuesta-crisis-diplomatica-entre-argentina-y-chile-69d11f5016c2500abb0fc5a3
+https://cambio21.cl/tendencias/chileactores-gana-a-gigante-amazon-justicia-ordena-pagar-6-500-millones-6a1f289fcf79a211e9575123
 https://cambio21.cl/tendencias/el-crecimiento-de-los-casinos-online-y-el-desafio-del-estado-chileno-69cd7199ed484c348801ff72
 https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
@@ -117,6 +118,7 @@ https://www.fayerwayer.com/internet/2026/04/21/el-tesla-de-los-mares-es-chileno-
 https://www.fayerwayer.com/internet/2026/04/27/estudiantes-de-duoc-uc-representaran-a-chile-en-la-final-mundial-de-huawei-ict-competition-en-china/
 https://www.fayerwayer.com/internet/2026/05/20/entrevista-con-elsa-zhao-de-dreame-llegamos-a-chile-con-un-ecosistema-completo-para-el-hogar-moderno/
 https://www.fayerwayer.com/internet/2026/05/20/la-invasion-del-hogar-conectado-dreame-aterriza-en-chile-con-ia-avanzada-y-un-ecosistema-multi-dispositivo/
+https://www.fayerwayer.com/internet/2026/06/02/el-76-de-los-chilenos-ya-utiliza-inteligencia-artificial-segun-el-barometro-digital-2026/
 https://www.lanacion.cl/acreencias-bancarias-mas-de-106-000-millones-sin-cobrar-por-sus-duenos-en-bancos-y-cooperativas/
 https://www.lanacion.cl/ahora-ante-cristiano-ronaldo-cuando-sera-el-proximo-amistoso-de-la-seleccion-chilena/
 https://www.lanacion.cl/ante-su-separacion-con-la-anfp-quienes-dirigen-actualmente-la-federacion-de-futbol-de-chile/
@@ -215,6 +217,7 @@ https://www.latercera.com/mtonline/noticia/la-ambiciosa-proyeccion-de-ventas-de-
 https://www.latercera.com/mtonline/noticia/nuevo-aston-martin-vantage-roadster-ya-esta-en-chile/
 https://www.latercera.com/mtonline/noticia/nuevo-audi-q3-debuta-en-chile-mas-tecnologico-eficiente-y-con-diseno-renovado/
 https://www.latercera.com/mtonline/noticia/nuevo-smart-5-llega-a-chile-el-suv-electrico-premium/
+https://www.latercera.com/mtonline/noticia/preventa-de-tres-suv-marca-el-inicio-de-la-nueva-etapa-de-gac-en-chile/
 https://www.latercera.com/mtonline/noticia/seat-renueva-ibiza-y-arona-en-chile-con-mas-diseno-tecnologia-y-espiritu-urbano-europeo/
 https://www.latercera.com/mtonline/noticia/smart-5-confirma-su-fecha-de-aterrizaje-en-chile/
 https://www.latercera.com/mtonline/noticia/subaru-trailseeker-ya-esta-en-chile-el-primer-suv-100-electrico-de-la-marca/
@@ -692,6 +695,9 @@ https://www.theclinic.cl/2026/06/01/el-ambicioso-plan-de-expansion-de-la-compani
 https://www.theclinic.cl/2026/06/01/hibridos-omoda-jaecoo-chile-2026/
 https://www.theclinic.cl/2026/06/01/la-solucion-para-duenos-de-perros-dogin-la-app-chilena-que-permite-encontrar-cuidadores-y-paseadores-en-minutos/
 https://www.theclinic.cl/2026/06/01/puede-alterar-procesos-celulares-asociados-a-la-atrofia-muscular-estudio-chileno-evidencio-los-efectos-poco-explorados-del-botox/
+https://www.theclinic.cl/2026/06/02/chileactores-gana-demanda-amazon-prime-video-derechos-artistas-chile-historico-fallo/
+https://www.theclinic.cl/2026/06/02/dia-mundial-de-la-bicicleta-liberaran-mas-de-2-400-bicicletas-gratuitas-en-santiago-durante-junio/
+https://www.theclinic.cl/2026/06/02/huechuraba-claro-segunda-etapa-refosteracion-parque-el-rosal/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -816,6 +822,7 @@ titulo::chile se proyecta como el gran polo de los centros de datos de américa 
 titulo::chile sube en 2025 en encuesta que mide la transparencia fiscal
 titulo::chile y estados unidos firman acuerdos de cooperación en minerales críticos y seguridad
 titulo::chile y los minerales críticos
+titulo::chileactores gana a gigante amazon justicia ordena pagar 6500 millones
 titulo::chileno campeón sudamericano en karting prepara su debut en la fórmula 4 cez
 titulo::chilenos gastan más de 22 mil pesos en streaming y más de la mitad ya dejó la tv de pago
 titulo::chilenos son finalistas de prestigioso concurso europeo de inventores crearon filtro que elimina 90 del humo contaminante
@@ -921,11 +928,13 @@ titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anim
 titulo::dream theater aterriza en chile con formación estelar la gente ha sido consistente
 titulo::dueños de lundin mining y megaproyecto minero vicuña es uno de los yacimientos más grandes de los últimos 30 años
 titulo::durante marcha estudiantil sujetos ingresaron al perímetro de seguridad del monumento al general baquedano
+titulo::día mundial de la bicicleta liberarán más de 2400 bicicletas itau de forma gratuita en santiago
 titulo::día mundial sin tabaco minsal alerta que un 117 de los adolescentes consume en chile
 titulo::dónde conviene comprar un departamento para arrendarlo las ciudades que superan a santiago en rentabilidad para inversión inmobiliaria
 titulo::ecofolie lab el proyecto de la uc que busca construir el primer laboratorio autárquico y 100 ecológico en el desierto de atacama
 titulo::economía chilena vuelve a caer en febrero y mercado ve que el pib 2026 tendría un techo en torno a 2
 titulo::efecto de la guerra en medio oriente en chile suben las ventas de cobre pero las compras de petróleo se disparan
+titulo::el 76 de los chilenos ya utiliza inteligencia artificial según el barómetro digital 2026
 titulo::el abogado penalista que presidirá enap
 titulo::el ambicioso plan de contratación que lanza la startup chilena vambe sumar a 70 personas en 70 días
 titulo::el ambicioso plan de expansión de la compañía minera san gerónimo buscarán crear un distrito minero en la serena y duplicar su producción
@@ -1096,6 +1105,7 @@ titulo::la justicia ordena a hacienda devolver 107 millones a masorange y vodafo
 titulo::la justificación del grupo angelini para aumentar el directorio de antarchile y los reclamos de algunos minoritarios
 titulo::la ley ya rige cómo están adaptándose las empresas chilenas a las 42 horas
 titulo::la mayor cartera de proyectos de la historia de chile daniel mas cuenta los planes para impulsar la minería
+titulo::la millonaria victoria de chileactores en tribunales contra el gigante amazon prime video justicia determinó que debe pagar derechos a artistas
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la naturaleza como activo chile consolida un modelo de conservación que atrae inversión extranjera
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
@@ -1194,6 +1204,7 @@ titulo::motorola renueva sus plegables en chile claves del nuevo razr 70 ultra y
 titulo::muchas gracias por todo la sentida despedida de la presidenta global de santander ana botín al chileno claudio melandri
 titulo::mujeres conductoras en el transporte público santiago avanza hacia un sistema más diverso
 titulo::mujeres están postergando su edad de jubilación para acceder a más beneficios de la reforma previsional
+titulo::municipalidad de huechuraba y claro inician segunda etapa del programa de reforestación del futuro parque el rosal
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
 titulo::municipios se reúnen en seminario que abordó la crisis hídrica del país y la búsqueda de soluciones concretas en el marco de la alianza público  privada
 titulo::más de 17 millones de personas activaron subsidio al gas en su primer día
@@ -1253,6 +1264,7 @@ titulo::presidente checo en chile el movimiento que gesta para entrar al corazó
 titulo::presidente de isa dueña de interchile por el histórico apagón de 2025 nos dejó una gran lección de resiliencia
 titulo::presidente de salmonchile y polémica por platas de ong noruega generan inquietud los propósitos de esos financistas
 titulo::presidente del bci ignacio yarur resalta la importancia del crecimiento de las empresas pero con cohesión social
+titulo::preventa de tres suv marca el inicio de la nueva etapa de gac en chile
 titulo::pricesmart cadena de supermercados estadounidense llega a chile y anticipa mayor competencia en el retail nacional con membresías
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
