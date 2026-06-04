@@ -77,6 +77,7 @@ https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millo
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/como-la-dupla-quiroz-toledo-impulso-el-record-de-inversion-de-us-22-258-millones-en-dos-meses/
 https://www.ex-ante.cl/cuales-son-las-siete-favoritas-del-mercado-las-razones-detras-del-rally-de-las-acciones-que-lideran-el-ipsa-en-2026/
+https://www.ex-ante.cl/cyberday-2026-ventas-llegan-a-us531-millones-y-ticket-promedio-fue-de-us104-por-compra/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
 https://www.ex-ante.cl/el-proyecto-de-viviendas-sociales-anunciado-por-poduje-cerca-del-parque-arauco-y-la-disputa-legal-por-el-pano/
@@ -324,6 +325,7 @@ https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judi
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/aumento-en-requerimiento-de-capital-mayores-costos-serian-para-bci-santander-y-banco-de-chile-y-mercado-se-divide-por-efecto-en-credito/
 https://www.latercera.com/pulso/noticia/avellanas-se-suma-a-los-productos-en-los-chile-es-el-mayor-exportador-mundial/
+https://www.latercera.com/pulso/noticia/aza-y-mercado-del-acero-es-fundamental-una-competencia-justa-y-en-igualdad-de-condiciones/
 https://www.latercera.com/pulso/noticia/banco-central-baja-crecimiento-sube-inflacion-y-alerta-por-los-efectos-del-alza-del-petroleo/
 https://www.latercera.com/pulso/noticia/banco-central-espera-las-medidas-del-nuevo-gobierno-en-medio-de-incertidumbre-internacional/
 https://www.latercera.com/pulso/noticia/banco-mundial-sube-proyeccion-pib-economia-chile/
@@ -479,6 +481,7 @@ https://www.latercera.com/tendencias/noticia/investigador-chileno-simulo-un-terr
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
 https://www.latercera.com/tendencias/noticia/las-zapatillas-todoterreno-de-merrell-que-conquistan-el-trail-running-en-chile/
 https://www.latercera.com/tendencias/noticia/lluvia-o-sol-el-pronostico-del-tiempo-para-semana-santa-en-la-region-metropolitana/
+https://www.latercera.com/tendencias/noticia/paleontologos-chilenos-confirman-que-hubo-dinosaurios-terrestres-y-aves-del-cretacico-en-algarrobo-esto-dice-su-estudio/
 https://www.latercera.com/tendencias/noticia/por-que-deberias-empezar-a-usar-inteligencia-artificial-si-tienes-una-pyme-en-chile/
 https://www.latercera.com/videos/noticia/automotores-lo-que-trae-la-alianza-de-sura-y-yuzz-en-chile/
 https://www.latercera.com/videos/noticia/cambio-de-hora-en-chile-5-tips-para-acostumbrarse-al-horario-de-invierno/
@@ -710,9 +713,11 @@ https://www.theclinic.cl/2026/06/02/diputados-ingresaron-proyecto-de-ley-que-bus
 https://www.theclinic.cl/2026/06/02/huechuraba-claro-segunda-etapa-refosteracion-parque-el-rosal/
 https://www.theclinic.cl/2026/06/02/roberto-mayor-primer-chileno-en-integrar-la-royal-society-me-preocupa-la-situacion-actual-del-ministerio-de-ciencia/
 https://www.theclinic.cl/2026/06/03/chile-es-un-pais-que-envejecio-muy-rapido-la-apuesta-del-centro-de-salud-mayor-por-la-atencion-especializada-de-adultos-mayores/
+https://www.theclinic.cl/2026/06/04/cyberday-2026-uno-de-cada-cuatro-chilenos-compro-algo-durante-el-evento-y-el-gasto-promedio-supero-los-92-mil/
 https://www.theclinic.cl/2026/06/04/geely-chile-2026/
 https://www.theclinic.cl/2026/06/04/jvrm-aguas-andinas-escasez-hidrica-rio-maipo/
 https://www.theclinic.cl/2026/06/04/mercado-vehiculos-usados-chile-2026/
+https://www.theclinic.cl/2026/06/04/soueast-s08-phev-chile-lanzamiento/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -777,6 +782,7 @@ titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de c
 titulo::avanza la línea 8 tras recomendación del sea de aprobar estudio ambiental por estas comunas pasará el nuevo trazado del metro
 titulo::avellanas se suman a los productos en los que chile es el mayor exportador mundial
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
+titulo::aza y mercado del acero es fundamental una competencia justa y en igualdad de condiciones
 titulo::banco central aumenta reservas de oro durante marzo y las deposita en londres
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
 titulo::banco central chile avanza en el pago digital pero el efectivo se niega a desaparecer
@@ -907,6 +913,8 @@ titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán 
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
 titulo::cuándo se estrena la serie de harry potter esta es la fecha oficial
 titulo::cyberday 2026 esperan que ventas crezcan 5 y superen los us540 millones
+titulo::cyberday 2026 uno de cada cuatro chilenos compró algo durante el evento y el gasto promedio superó los 92 mil
+titulo::cyberday 2026 ventas llegan a us531 millones y ticket promedio fue de us104 por compra
 titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
 titulo::cámara de diputados aprueba indicación de sala cuna universal pero quiroz anuncia que recurrirá al tribunal constitucional
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
@@ -1257,6 +1265,7 @@ titulo::operación rusa incluyó campaña de desinformación para tensionar rela
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
+titulo::paleontólogos chilenos confirman que hubo dinosaurios terrestres y aves del cretácico en algarrobo esto dice su estudio
 titulo::para que no queden solos así es knino el primer canal chileno de televisión que busca entretener a los perros cuando no estás en casa
 titulo::para reducir tiempos de espera odontológica ministerio de salud inicia alianza estratégica con universidades de todo el país
 titulo::pascua en chile así puedes obtener 20 juegos gratis
@@ -1360,6 +1369,7 @@ titulo::smart 5 confirma su fecha de aterrizaje en chile
 titulo::smart 5 el suv eléctrico premium en chile que llegó con las tareas hechas
 titulo::sofofa advierte sobre el enfriamiento de la economía y pide simplificar permisos para reactivar us 96000 millones en inversiones
 titulo::son carísimas y la verdad es que no tenemos prioridad para hacerlas minvu corta financiamiento a obras de proyecto nueva alameda y ciclovía queda en suspenso
+titulo::soueast s8 phev un suv familiar que llega con 1400 kilómetros de argumento
 titulo::starlink el internet satelital de elon musk ya supera los 150 mil clientes en chile
 titulo::startup chilena de venta de equipos reacondicionados ingresó a la selecta red mundial de endeavor
 titulo::startup chilena desarrolla una ia para traducir el lenguaje jurídico y ayudarte a entender el estado de tu causa
