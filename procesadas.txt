@@ -175,6 +175,7 @@ https://www.latercera.com/culto/noticia/metro-de-santiago-y-universidad-de-chile
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/educacion/noticia/cientifica-chilena-descubre-el-increible-poder-del-ejercicio-para-tratar-el-cancer-de-mama/
 https://www.latercera.com/educacion/noticia/nadie-sabe-lo-que-es-estudio-chileno-busca-replicar-uno-de-los-principales-misterios-del-universo/
+https://www.latercera.com/educacion/noticia/se-crio-en-osorno-estudio-en-alemania-y-es-premio-nacional-el-cientifico-chileno-mas-citado-del-mundo/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
 https://www.latercera.com/el-deportivo/noticia/christian-garin-tiene-un-positivo-estreno-en-la-qualy-del-masters-1000-de-montecarlo/
 https://www.latercera.com/el-deportivo/noticia/contra-el-publico-chileno-revisa-la-polemica-reaccion-de-alex-michelsen-tras-vencer-a-alejandro-tabilo-en-miami/
@@ -332,6 +333,7 @@ https://www.latercera.com/pulso/noticia/btg-pactual-en-los-ultimos-tres-anos-emp
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
 https://www.latercera.com/pulso/noticia/canales-de-television-chilenos-demandan-a-google-en-el-tdlc-por-abuso-de-posicion-dominante/
+https://www.latercera.com/pulso/noticia/cencosud-inicia-construccion-de-edificio-de-renta-residencial-en-mall-de-la-florida/
 https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-explica-proyecto-para-edificio-de-la-bolsa-de-santiago/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
 https://www.latercera.com/pulso/noticia/chile-alcanza-cobertura-de-internet-virtualmente-universal-y-lleva-brecha-urbano-rural-a-su-minimo-historico/
@@ -709,6 +711,7 @@ https://www.theclinic.cl/2026/06/02/huechuraba-claro-segunda-etapa-refosteracion
 https://www.theclinic.cl/2026/06/02/roberto-mayor-primer-chileno-en-integrar-la-royal-society-me-preocupa-la-situacion-actual-del-ministerio-de-ciencia/
 https://www.theclinic.cl/2026/06/03/chile-es-un-pais-que-envejecio-muy-rapido-la-apuesta-del-centro-de-salud-mayor-por-la-atencion-especializada-de-adultos-mayores/
 https://www.theclinic.cl/2026/06/04/geely-chile-2026/
+https://www.theclinic.cl/2026/06/04/jvrm-aguas-andinas-escasez-hidrica-rio-maipo/
 https://www.theclinic.cl/2026/06/04/mercado-vehiculos-usados-chile-2026/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -812,6 +815,7 @@ titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de d
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
 titulo::cchen lidera combate contra el fraude alimentario mediante huellas isotópicas para certificar autenticidad de la miel chilena
+titulo::cencosud inicia construcción de edificio de renta residencial en mall de la florida
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
 titulo::ceo del aeropuerto de santiago la meta es superar los 27 millones de pasajeros en 2026 aunque se ve difícil con la crisis del petróleo
@@ -1099,6 +1103,7 @@ titulo::josé ignacio mujica es el elegido como nuevo vicepresidente ejecutivo d
 titulo::juan rassmuss se asocia a japonesa sumitomo y a familia canadiense para llevar adelante su proyecto de cobre y oro en domeyko
 titulo::judith marín ministra de la mujer me hubiese gustado que chile vamos antes de criticar el despido hubiera confiado en que era una decisión bien fundada
 titulo::junaeb completa entrega de útiles escolares beneficio abarcó a más de 2 millones de estudiantes en todo el país
+titulo::junta de vigilancia y aguas andinas solicitan declarar zona de escasez hídrica para primera sección del río maipo
 titulo::justicia ambiental da luz verde a data center de amazon en huechuraba de us 205 millones
 titulo::justicia confirma condena a walmart chile por bullying laboral contra trabajadora venezolana
 titulo::justicia ficha a abogada con experiencia en el indh como nueva jefa del programa de derechos humanos y del plan de búsqueda
@@ -1333,6 +1338,7 @@ titulo::samsung lanza en san pedro de atacama su programa de innovación escolar
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
+titulo::se crio en osorno estudió en alemania y es premio nacional el científico chileno más citado del mundo
 titulo::sea da luz verde y recomienda aprobar línea 8 del metro busca conectar providencia con puente alto
 titulo::sea recomienda aprobar la extensión del metro de valparaíso a la calera sugiere ceder terreno de 29 hectáreas a grupo diaguita
 titulo::seat renueva ibiza y arona en chile con más diseño tecnología y espíritu urbano europeo
