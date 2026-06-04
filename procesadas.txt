@@ -69,6 +69,7 @@ https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efe
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
 https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-medida-y-quien-fue-su-autor/
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
+https://www.ex-ante.cl/codelco-nuevo-presidente-ejecutivo-llega-a-desplegar-plan-para-recuperar-us-143-millones-en-bonos-y-parte-con-los-ejecutivos/
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
 https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa-norquim-ingreso-a-evaluacion-ambiental-en-mejillones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
@@ -848,6 +849,7 @@ titulo::cocacola andina invertirá más de us500 millones en los próximos dos a
 titulo::cocacola andina y municipalidad de renca apuestan por tecnología hídrica para ahorrar más de 25 mil metros cúbicos de agua potable cada año
 titulo::cochilco y sobreestimación de producción de codelco el riesgo que nosotros vimos es que efectivamente habían desviaciones
 titulo::codelco exigirá devolución de bonos a 6 mil 300 trabajadores tras grave error en cifras de producción el total de la devolución es de más de 14 millones de dólares
+titulo::codelco nuevo presidente ejecutivo llega a desplegar plan para recuperar us 143 millones en bonos y parte con los ejecutivos
 titulo::codelco sube sus ganancias por mayor precio del cobre y eleva en 94 su aporte al fisco
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
