@@ -87,6 +87,7 @@ https://www.ex-ante.cl/gerente-legal-de-quiborax-por-inedito-proyecto-para-produ
 https://www.ex-ante.cl/gobierno-aprueba-proyecto-del-grupo-errazuriz-en-el-salar-de-atacama-tras-17-anos-en-tramitacion-ambiental/
 https://www.ex-ante.cl/gobierno-destraba-proyectos-de-inversion-por-us-225-millones-y-queda-pendiente-iniciativa-de-grupo-errazuriz/
 https://www.ex-ante.cl/impacto-por-ruido-para-sapo-de-cuatro-ojos-las-exigencias-de-organismos-publicos-a-megaproyecto-eolico-de-us-510-millones/
+https://www.ex-ante.cl/la-cuenta-regresiva-para-la-aprobacion-del-emblematico-proyecto-de-tierras-raras-en-penco-y-la-recomendacion-favorable-del-sea/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
@@ -381,6 +382,7 @@ https://www.latercera.com/pulso/noticia/estudio-juridico-espanol-garrigues-adqui
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
 https://www.latercera.com/pulso/noticia/familia-angelini-aumenta-su-participacion-en-matriz-de-empresas-copec/
+https://www.latercera.com/pulso/noticia/fne-pone-bajo-la-lupa-la-toma-de-control-de-clinica-las-condes-por-euroamerica-y-la-alianza-de-enami-y-rio-tinto/
 https://www.latercera.com/pulso/noticia/ganancias-de-parque-arauco-crecen-casi-un-70-en-el-primer-trimestre/
 https://www.latercera.com/pulso/noticia/gasto-en-pensiones-solidarias-subio-6-el-ano-pasado-llego-a-21-del-pib-y-beneficarios-superaron-los-27-millones/
 https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
@@ -494,6 +496,7 @@ https://www.mineduc.cl/subsecretaria-de-educacion-superior-entrega-mas-de-751-mi
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-154-mil-millones-para-ejecutar-plan-de-atencion-a-33-mil-pacientes-con-espera-prolongada/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
+https://www.minsal.cl/de-donantes-vivos-cuatro-hospitales-publicos-realizan-inedito-trasplante-quintuple-cruzado-de-rinon-en-chile/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
@@ -705,6 +708,8 @@ https://www.theclinic.cl/2026/06/02/diputados-ingresaron-proyecto-de-ley-que-bus
 https://www.theclinic.cl/2026/06/02/huechuraba-claro-segunda-etapa-refosteracion-parque-el-rosal/
 https://www.theclinic.cl/2026/06/02/roberto-mayor-primer-chileno-en-integrar-la-royal-society-me-preocupa-la-situacion-actual-del-ministerio-de-ciencia/
 https://www.theclinic.cl/2026/06/03/chile-es-un-pais-que-envejecio-muy-rapido-la-apuesta-del-centro-de-salud-mayor-por-la-atencion-especializada-de-adultos-mayores/
+https://www.theclinic.cl/2026/06/04/geely-chile-2026/
+https://www.theclinic.cl/2026/06/04/mercado-vehiculos-usados-chile-2026/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -914,6 +919,7 @@ titulo::cómo será la extensión del metrotren que unirá quillota y la calera 
 titulo::cómo volvo superó a tesla en chile
 titulo::cónclave en cerro castillo quiroz adelanta que crédito tributario a empleo beneficiará a 48 millones de trabajadores
 titulo::de curicó al mundo la apuesta de haulmer por digitalizar a los pequeños negocios
+titulo::de donantes vivos cuatro hospitales públicos realizan inédito  trasplante quíntuple cruzado de riñón en chile
 titulo::de la alarma al retroceso gobierno reevalúa proyecto para ampliar principal instituto de rehabilitación del país para construir centro oncológico en peñalolén
 titulo::de la mano de claro y vtr llega knino el primer canal chileno que convierte la televisión en compañía para los perros
 titulo::de ormuz a la ia el banco central alerta sobre un escenario global más incierto pero certifica fortaleza de la banca chilena
@@ -1033,11 +1039,13 @@ titulo::falleció raúl quemada lería el empresario ligado a la recordada dos e
 titulo::familia angelini aumenta su participación en matriz de empresas copec
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
+titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
 titulo::froens la marca chilena que vive una nueva etapa de crecimiento y transformación
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fármaco chileno contra la obesidad busca avanzar hacia pruebas clínicas
 titulo::ganancias de parque arauco crecen casi un 70 en el primer trimestre
 titulo::gasto en pensiones solidarias subió 6 el año pasado llegó a 21 del pib y beneficiarios superaron los 27 millones
+titulo::geely apuesta por duplicar sus ventas mientras acelera la transformación del mercado chileno
 titulo::gerente legal de quiborax por inédito proyecto para producir litio desde desechos mineros puede generar un estándar
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
@@ -1104,6 +1112,7 @@ titulo::la carrera por cargar combustible en chile antes del alza anunciada nos 
 titulo::la ciencia de la gentileza el nuevo modelo de liderazgo que llega a chile desde harvard
 titulo::la cofradía de enap que llegó a la dirección de presupuestos
 titulo::la crisis del sótero del río el hospital más grande de chile hay presupuesto hasta agosto
+titulo::la cuenta regresiva para la aprobación del emblemático proyecto de tierras raras en penco y la recomendación favorable del sea
 titulo::la desconocida tecnología de desalinización de una empresa canadiense en chile
 titulo::la digitalización del capital humano la nueva ventaja estructural de las empresas chilenas
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
@@ -1128,6 +1137,7 @@ titulo::la paradoja del asfalto el mercado automotor chileno acelera entre el al
 titulo::la preocupación de las aerolíneas por problemas de operación que pone en jaque el plan de obras de las pistas del aeropuerto de santiago
 titulo::la propuesta del gobierno para la industria acuícola exime tramitar relocalizaciones en el seia y cambia régimen de caducidad
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
+titulo::la rebelión de la matemática financiera el mercado de vehículos usados en chile cuadruplica el dinamismo del sector cero kilómetro
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
 titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
