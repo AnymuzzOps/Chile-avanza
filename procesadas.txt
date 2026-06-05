@@ -365,6 +365,7 @@ https://www.latercera.com/pulso/noticia/consejo-asesor-de-la-superintendencia-de
 https://www.latercera.com/pulso/noticia/controlador-de-afp-habitat-critica-reduccion-del-encaje-y-licitacion-del-stock-de-afiliados-tras-reforma-de-pensiones/
 https://www.latercera.com/pulso/noticia/correoschile-apuesta-por-la-ultima-milla-con-acuerdos-con-banco-santander-y-cenabast/
 https://www.latercera.com/pulso/noticia/costo-de-internet-en-chile-argentina-peru-conexiones-5g/
+https://www.latercera.com/pulso/noticia/cpc-e-inacap-lanzan-proyecto-para-potenciar-el-desarrollo-de-las-regiones/
 https://www.latercera.com/pulso/noticia/cuanto-esta-el-dolar-hoy-miercoles-1305/
 https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta-sobre-un-escenario-global-mas-incierto-pero-certifica-fortaleza-de-la-banca-chilena/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
@@ -506,6 +507,7 @@ https://www.minsal.cl/de-donantes-vivos-cuatro-hospitales-publicos-realizan-ined
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
 https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
+https://www.minsal.cl/ministra-de-salud-anuncia-inicio-del-proceso-para-construir-un-nuevo-hospital-de-alta-complejidad-para-arica/
 https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construccion-de-nuevo-hospital-del-salvador-que-entrara-en-operacion-en-los-proximos-meses/
 https://www.minsal.cl/minsal-prepara-a-la-red-asistencial-en-la-direccion-estrategica-de-proyectos-en-salud/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
@@ -719,6 +721,7 @@ https://www.theclinic.cl/2026/06/04/geely-chile-2026/
 https://www.theclinic.cl/2026/06/04/jvrm-aguas-andinas-escasez-hidrica-rio-maipo/
 https://www.theclinic.cl/2026/06/04/mercado-vehiculos-usados-chile-2026/
 https://www.theclinic.cl/2026/06/04/soueast-s08-phev-chile-lanzamiento/
+https://www.theclinic.cl/2026/06/05/cencosud-abre-don-salva-asi-es-la-nueva-cadena-de-supermercados-que-ya-planea-su-expansion-a-regiones/
 https://www.theclinic.cl/2026/06/05/operacion-tokio-el-after-que-termino-en-masacre-y-llevo-a-desmantelar-la-red-de-lavado-de-dinero-del-tren-de-aragua-y-detener-a-un-ejecutivo-bancario/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -823,6 +826,7 @@ titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de d
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
 titulo::cchen lidera combate contra el fraude alimentario mediante huellas isotópicas para certificar autenticidad de la miel chilena
+titulo::cencosud abre don salva así es la nueva cadena de supermercados que ya planea su expansión a regiones
 titulo::cencosud inicia construcción de edificio de renta residencial en mall de la florida
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
 titulo::ceo de territoria firma gestora del mut explica proyecto para edificio de la bolsa de santiago
@@ -906,6 +910,7 @@ titulo::corfo en los premios iniciativas sustentables cuando el fomento público
 titulo::correoschile apuesta por la última milla con acuerdos con banco santander y cenabast
 titulo::corte de apelaciones dio trámite a recurso que busca frenar pascua lama 20 proyecto minero pondría en riesgo a tres glaciares y 14 glaciaretes
 titulo::coyhaique busca ser el primer municipio 100 electromovible de chile en cuatro años
+titulo::cpc e inacap lanzan proyecto para potenciar el desarrollo de las regiones
 titulo::crisis de vivienda así funciona el modelo comprar arrendando que inmobiliarias potencian para este 2026 en chile
 titulo::cristóbal silva de acafi lamentablemente los fondos de pensiones tienen muy limitado qué pueden hacer en venture capital
 titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
@@ -1219,6 +1224,7 @@ titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie pue
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
 titulo::ministra arzola valora esfuerzos regionales para fortalecer la educación en antofagasta
+titulo::ministra de salud anuncia inicio del proceso para construir un nuevo hospital de alta complejidad para arica
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
 titulo::ministra rincón anuncia dos proyectos de ley para frenar alzas en cuentas de la luz provocadas por retrasos en fijación de tarifas
 titulo::ministro arrau y subsecretario montt supervisan construcción de nuevo hospital del salvador que entrará en operación en los próximos meses
