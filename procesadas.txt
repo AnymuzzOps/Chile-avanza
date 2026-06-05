@@ -336,6 +336,7 @@ https://www.latercera.com/pulso/noticia/btg-pactual-en-los-ultimos-tres-anos-emp
 https://www.latercera.com/pulso/noticia/cadena-de-cosmeticos-dbs-abrira-17-tiendas-en-chile-y-peru-este-ano-y-explora-nuevos-mercados/
 https://www.latercera.com/pulso/noticia/caen-las-ganancias-de-mega-mientras-chilevision-recorta-sus-perdidas/
 https://www.latercera.com/pulso/noticia/canales-de-television-chilenos-demandan-a-google-en-el-tdlc-por-abuso-de-posicion-dominante/
+https://www.latercera.com/pulso/noticia/ccu-ahora-es-duena-del-100-de-aguas-ccu-nestle-chile-tras-comprar-participacion-a-su-socia-nestle/
 https://www.latercera.com/pulso/noticia/cencosud-inicia-construccion-de-edificio-de-renta-residencial-en-mall-de-la-florida/
 https://www.latercera.com/pulso/noticia/ceo-de-territoria-firma-gestora-del-mut-explica-proyecto-para-edificio-de-la-bolsa-de-santiago/
 https://www.latercera.com/pulso/noticia/ceo-del-aeropuerto-de-santiago-la-meta-es-superar-los-27-millones-de-pasajeros-en-2026-aunque-se-ve-dificil-con-la-crisis-del-petroleo/
@@ -826,6 +827,7 @@ titulo::casaideas y kn produjeron 247 millones de productos en nuevo centro de d
 titulo::caso guzmán por qué solo uno de los involucrados cumple pena en chile y dónde están los demás
 titulo::cataldo tras entrega de resultados simce 2025durante nuestra gestión no solo recuperamos aprendizajes y protegimos trayectorias educativas sino que también logramos avanzar de manera resiliente
 titulo::cchen lidera combate contra el fraude alimentario mediante huellas isotópicas para certificar autenticidad de la miel chilena
+titulo::ccu ahora es dueña del 100 de aguas ccu nestlé chile tras comprar participación a su socia nestlé
 titulo::cencosud abre don salva así es la nueva cadena de supermercados que ya planea su expansión a regiones
 titulo::cencosud inicia construcción de edificio de renta residencial en mall de la florida
 titulo::cencosud refuerza su presencia en colombia y adquiere uno de los principales centros comerciales de ese país por más de us124 millones
