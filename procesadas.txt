@@ -87,6 +87,7 @@ https://www.ex-ante.cl/empresa-de-tecnologia-portatil-para-la-salud-recauda-us-5
 https://www.ex-ante.cl/gerente-legal-de-quiborax-por-inedito-proyecto-para-producir-litio-desde-desechos-mineros-puede-generar-un-estandar/
 https://www.ex-ante.cl/gobierno-aprueba-proyecto-del-grupo-errazuriz-en-el-salar-de-atacama-tras-17-anos-en-tramitacion-ambiental/
 https://www.ex-ante.cl/gobierno-destraba-proyectos-de-inversion-por-us-225-millones-y-queda-pendiente-iniciativa-de-grupo-errazuriz/
+https://www.ex-ante.cl/huachipato-como-sera-el-retorno-de-la-planta-siderurgica-que-cerro-hace-21-meses-y-los-detalles-del-acuerdo-del-grupo-cap-y-aza/
 https://www.ex-ante.cl/impacto-por-ruido-para-sapo-de-cuatro-ojos-las-exigencias-de-organismos-publicos-a-megaproyecto-eolico-de-us-510-millones/
 https://www.ex-ante.cl/la-cuenta-regresiva-para-la-aprobacion-del-emblematico-proyecto-de-tierras-raras-en-penco-y-la-recomendacion-favorable-del-sea/
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
@@ -718,6 +719,7 @@ https://www.theclinic.cl/2026/06/04/geely-chile-2026/
 https://www.theclinic.cl/2026/06/04/jvrm-aguas-andinas-escasez-hidrica-rio-maipo/
 https://www.theclinic.cl/2026/06/04/mercado-vehiculos-usados-chile-2026/
 https://www.theclinic.cl/2026/06/04/soueast-s08-phev-chile-lanzamiento/
+https://www.theclinic.cl/2026/06/05/operacion-tokio-el-after-que-termino-en-masacre-y-llevo-a-desmantelar-la-red-de-lavado-de-dinero-del-tren-de-aragua-y-detener-a-un-ejecutivo-bancario/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -1088,6 +1090,7 @@ titulo::hernán larraín matte si chile vamos no muestra carácter dentro de est
 titulo::hito espacial chileno investigadores locales prueban cómo reacciona la vida en gravedad cero
 titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
 titulo::hospital de santa cruz fortalece atención con incorporación de nuevos médicos especialistas para colchagua en la región de ohiggins
+titulo::huachipato cómo será el retorno de la planta siderúrgica que cerró hace 21 meses y los detalles del acuerdo del grupo cap y aza
 titulo::ignacio briones chile no es un país quebrado
 titulo::ilc sube sus ganancias impulsadas por mejor desempeño de las filiales financieras
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
@@ -1262,6 +1265,7 @@ titulo::nvidia mira chile la gestión del gobierno para instalar la primera fáb
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
+titulo::operación tokio el after que terminó en masacre y llevó a desmantelar la red de lavado de dinero del tren de aragua y detener a un ejecutivo bancario
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
