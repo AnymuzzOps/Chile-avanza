@@ -101,6 +101,7 @@ https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/quien-es-ricardo-arrano-el-nuevo-socio-principal-de-pwc-chile-y-su-desconocida-aficion/
 https://www.ex-ante.cl/salar-futuro-el-proyecto-de-us3-000-millones-que-pondra-a-prueba-la-alianza-entre-codelco-y-sqm-por-el-litio/
+https://www.ex-ante.cl/scooters-electricos-el-nuevo-mercado-que-domina-la-movilidad-urbana-en-chile-y-las-cifras-detras/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapuche-no-chileno/
@@ -1358,6 +1359,7 @@ titulo::salmonchile anuncia incorporación de invermar al gremio
 titulo::samsung lanza en san pedro de atacama su programa de innovación escolar en stem
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
+titulo::scooters eléctricos el nuevo mercado que domina la movilidad urbana en chile y las cifras detrás
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
 titulo::se crio en osorno estudió en alemania y es premio nacional el científico chileno más citado del mundo
 titulo::sea da luz verde y recomienda aprobar línea 8 del metro busca conectar providencia con puente alto
