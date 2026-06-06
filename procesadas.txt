@@ -470,6 +470,7 @@ https://www.latercera.com/sustentabilidad/noticia/la-naturaleza-como-activo-chil
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/sustentabilidad/noticia/vuelve-el-premio-territorio-circular-en-su-4-version-para-destacar-modelos-de-negocio-sostenibles/
+https://www.latercera.com/tecnologia/noticia/apiux-aterriza-su-ai-factory-en-chile-la-apuesta-para-acelerar-el-desarrollo-de-software-corporativo-con-inteligencia-artificial/
 https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
@@ -757,6 +758,7 @@ titulo::ante su separación con la anfp quiénes dirigen actualmente la federaci
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
 titulo::anuncian proceso de postulaciones al subsidio ds49 quiénes pueden acceder al llamado especial
 titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
+titulo::apiux aterriza su ai factory en chile la apuesta para acelerar el desarrollo de software corporativo con inteligencia artificial
 titulo::apostando a la prevención el desafío invisible de la ludopatía adolescente en chile
 titulo::arrau detalla avances del plan escudo fronterizo en colchane expansión de zanjas y mejoramiento de infraestructura
 titulo::arriesgan a multas de más de 100 millones sernac fiscalizará a tiendas del retail por la aplicación de descuentos asociados al pago con tarjetas
