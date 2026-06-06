@@ -241,6 +241,7 @@ https://www.latercera.com/nacional/noticia/abre-nueva-galeria-comercial-en-santi
 https://www.latercera.com/nacional/noticia/arrau-detalla-avances-del-plan-escudo-fronterizo-en-colchane-expansion-de-zanjas-y-mejoramiento-de-infraestructura/
 https://www.latercera.com/nacional/noticia/aumenta-flujo-de-pasajeros-en-el-aeropuerto-de-santiago-por-semana-santa-se-proyectan-mas-de-260-mil-viajeros/
 https://www.latercera.com/nacional/noticia/avion-comercial-proveniente-de-atlanta-tuvo-que-aterrizar-de-emergencia-en-aeropuerto-de-antofagasta/
+https://www.latercera.com/nacional/noticia/biministro-de-grange-supervisa-obras-del-nuevo-borde-costero-de-arica-con-67-de-avance/
 https://www.latercera.com/nacional/noticia/campana-de-vacunacion-llega-al-622-de-avance-y-alerta-a-expertos-adultos-mayores-y-ninos-son-los-mas-atrasados/
 https://www.latercera.com/nacional/noticia/canciller-perez-mackenna-y-subsecretaria-estevez-visitan-india-para-impulsar-acuerdo-comercial-e-inversiones/
 https://www.latercera.com/nacional/noticia/chile-se-convierte-en-estado-miembro-asociado-del-cern-y-entra-al-nucleo-de-la-fisica-mundial/
@@ -809,6 +810,7 @@ titulo::barcelona llega a santiago el nuevo seat ibiza y arona en chile
 titulo::bci y chileglobal ventures lanzan programa para impulsar startups en latinoamérica y miami
 titulo::becas sence para impulsar empleabilidad digital revisa cómo postular
 titulo::bienestar digital infantil mesa intersectorial define hoja de ruta y articula próximos hitos para 2026
+titulo::biministro de grange supervisa obras del nuevo borde costero de arica con 67 de avance
 titulo::biministro mas celebra aumento en el precio del cobre significa una mayor recaudación tributaria para el estado
 titulo::black inmobiliario 2026 en chile ofertas y empresas participantes en el evento de venta de casas y departamentos
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
