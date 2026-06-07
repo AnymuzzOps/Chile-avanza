@@ -376,6 +376,7 @@ https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
+https://www.latercera.com/pulso/noticia/el-feliz-30-aniversario-de-agroberries-ahora-con-un-pie-en-asia/
 https://www.latercera.com/pulso/noticia/el-internet-satelital-de-elon-musk-ya-supera-los-150-mil-clientes-en-chile/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/el-segundo-mejor-arranque-historico-del-litio-exportaciones-casi-se-triplican-en-primer-trimestre-tras-favorables-precios/
@@ -1000,6 +1001,7 @@ titulo::el empleo chileno en crisis
 titulo::el equipo de la mayorista estadounidense pricesmart para competir con los gigantes del retail chileno
 titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
+titulo::el feliz 30 aniversario de agroberries ahora con un pie en asia
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
 titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
