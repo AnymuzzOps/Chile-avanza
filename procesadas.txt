@@ -65,6 +65,7 @@ https://www.ex-ante.cl/asi-es-el-ambicioso-proyecto-del-mercado-de-providencia-q
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-linea-8-del-metro-que-conecta-providencia-con-puente-alto/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-megaproyecto-del-puerto-exterior-de-san-antonio-por-us-4-450-millones-tras-seis-anos-de-tramitacion/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-la-mayor-desaladora-en-chile-por-us-5-000-millones/
+https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-tierras-raras-por-us-130-millones-tras-enfrentar-2-100-observaciones-en-dos-anos/
 https://www.ex-ante.cl/banco-central-aumenta-reservas-de-oro-durante-marzo-y-las-deposita-en-londres/
 https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efectivo-se-niega-a-desaparecer/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
@@ -331,6 +332,7 @@ https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clini
 https://www.latercera.com/pulso/noticia/andina-anuncia-inversiones-por-us500-millones-y-su-presidente-llama-a-recuperar-el-dinamismo-economico/
 https://www.latercera.com/pulso/noticia/andina-los-bronces-la-fne-y-organismos-extranjeros-aprueban-el-plan-minero-conjunto-de-codelco-y-anglo-american/
 https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/
+https://www.latercera.com/pulso/noticia/antofagasta-minerals-del-grupo-luksic-anuncia-inversion-de-us900-millones-para-extender-vida-util-de-minera-zaldivar/
 https://www.latercera.com/pulso/noticia/asi-sera-la-nueva-casa-matriz-que-el-banco-santander-chile-abrira-en-2027/
 https://www.latercera.com/pulso/noticia/aumento-en-requerimiento-de-capital-mayores-costos-serian-para-bci-santander-y-banco-de-chile-y-mercado-se-divide-por-efecto-en-credito/
 https://www.latercera.com/pulso/noticia/avellanas-se-suma-a-los-productos-en-los-chile-es-el-mayor-exportador-mundial/
@@ -766,6 +768,7 @@ titulo::andrea garcía de viña vik el futuro del vino chileno pasa por fortalec
 titulo::anglo american y glencore por fallo judicial que retrotrae proyecto por us3200 millones collahuasi está solicitando una aclaración completa al tribunal y al sea
 titulo::ante su separación con la anfp quiénes dirigen actualmente la federación de fútbol de chile
 titulo::antes de que sea demasiado tarde la nueva amenaza de trump a irán para cerrar un acuerdo
+titulo::antofagasta minerals invertirá us900 millones en solución de agua para extender vida útil de minera zaldívar
 titulo::anuncian proceso de postulaciones al subsidio ds49 quiénes pueden acceder al llamado especial
 titulo::anuncio del gobierno habría impulsado un alza de pagos de deudas cae quiroz asegura que recaudación pasó de 30 millones a 200 millones diarios
 titulo::apiux aterriza su ai factory en chile la apuesta para acelerar el desarrollo de software corporativo con inteligencia artificial
@@ -796,6 +799,7 @@ titulo::automotores  lo que trae la alianza de sura y yuzz en chile
 titulo::autoridad ambiental aprueba línea 8 del metro que conectará providencia con puente alto
 titulo::autoridad ambiental aprueba megaproyecto del puerto exterior de san antonio por us 4450 millones tras seis años de tramitación
 titulo::autoridad ambiental aprueba proyecto de la mayor desaladora en chile por us 5000 millones
+titulo::autoridad ambiental aprueba proyecto de tierras raras por us 130 millones tras enfrentar 2100 observaciones en dos años
 titulo::autoridades rusas niegan presunta campaña de desinformación contra gobierno de milei intentaban provocar una supuesta crisis diplomática entre argentina y chile
 titulo::autos híbridos y eléctricos en chile la cuenta cambia con el alza de combustibles
 titulo::avanza la línea 8 tras recomendación del sea de aprobar estudio ambiental por estas comunas pasará el nuevo trazado del metro
