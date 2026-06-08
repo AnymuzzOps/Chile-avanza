@@ -179,6 +179,7 @@ https://www.latercera.com/culto/noticia/eva-ayllon-regresa-a-chile-para-ofrecer-
 https://www.latercera.com/culto/noticia/metro-de-santiago-y-universidad-de-chile-firman-acuerdo-para-llevar-nueva-sala-del-mac-a-estacion-bellas-artes/
 https://www.latercera.com/culto/noticia/teorema-y-el-menor-la-generacion-dorada-del-freestyle-en-chile-que-se-compara-con-la-copa-america-de-2015/
 https://www.latercera.com/educacion/noticia/cientifica-chilena-descubre-el-increible-poder-del-ejercicio-para-tratar-el-cancer-de-mama/
+https://www.latercera.com/educacion/noticia/hay-5000-vacantes-en-todo-chile-la-feria-de-empleo-100-online-que-organiza-un-importante-instituto-profesional/
 https://www.latercera.com/educacion/noticia/nadie-sabe-lo-que-es-estudio-chileno-busca-replicar-uno-de-los-principales-misterios-del-universo/
 https://www.latercera.com/educacion/noticia/se-crio-en-osorno-estudio-en-alemania-y-es-premio-nacional-el-cientifico-chileno-mas-citado-del-mundo/
 https://www.latercera.com/el-deportivo/noticia/chileno-campeon-sudamericano-en-karting-prepara-su-debut-en-la-formula-4-cez/
@@ -208,6 +209,8 @@ https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-
 https://www.latercera.com/lt-board/noticia/asi-es-ada-la-plataforma-pionera-de-ia-lanzada-por-la-unab-para-acelerar-la-investigacion-cientifica/
 https://www.latercera.com/mineria/noticia/la-mayor-cartera-de-proyectos-de-la-historia-de-chile-daniel-mas-cuenta-los-planes-para-impulsar-la-mineria/
 https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
+https://www.latercera.com/mineria/noticia/nunca-la-ha-superado-la-barrera-de-chile-como-principal-productor-de-cobre-del-mundo/
+https://www.latercera.com/mineria/noticia/plan-de-gobierno-en-mineria-2026-2030-recuperando-el-potencial-productivo-del-cobre-chileno/
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/probado-en-nogales-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
 https://www.latercera.com/mineria/noticia/ultimo-gran-analisis-de-mercado-predice-preocupante-futuro-para-el-cobre/
@@ -1104,6 +1107,7 @@ titulo::griffithjones exconsejera del banco central cuestiona medidas económica
 titulo::hablando claro el nuevo programa que prepara carmen gloria arroyo en mega a cuatro meses de su llegada al canal
 titulo::hacienda ingresa proyecto que sube salario mínimo en 7546 y fija nueva alza por ipc en enero de 2027
 titulo::hacienda ingresará este miércoles proyecto para contraer deuda por us6200 millones
+titulo::hay 5000 vacantes en todo chile la feria de empleo 100 online que organiza un importante instituto profesional
 titulo::hermann gonzález si el conflicto se acaba durante abril la economía chilena puede sortear exitosamente sus efectos
 titulo::hernán larraín matte si chile vamos no muestra carácter dentro de este gobierno puede quedar subsumido en una falta de identidad
 titulo::hito espacial chileno investigadores locales prueban cómo reacciona la vida en gravedad cero
@@ -1284,6 +1288,7 @@ titulo::nuevo ingrediente para la inflación camport y expertos advierten que al
 titulo::nuevo proyecto para mitigar efecto de alza del petróleo en la parafina y bono a taxistas costaría al fisco más de 111 mil millones
 titulo::nuevo smart 5 llega a chile el suv eléctrico premium
 titulo::nuevo tren de alto estándar se estrenó en el  servicio limachevalparaíso se incorporarán cuatro más y aumentarán en 20 su capacidad
+titulo::nunca la ha superado la barrera de chile como principal productor de cobre del mundo
 titulo::nvidia mira chile la gestión del gobierno para instalar la primera fábrica de ia de la empresa más valiosa del mundo
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
@@ -1304,6 +1309,7 @@ titulo::permitirán estudiar la estructura interna de la isla instalan primera r
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::pese a su fuerza a nivel global dólar abre a la baja en chile impulsado por desempeño del cobre
 titulo::peñalolén lanza plan de recuperación de av grecia con murales en accesos de estación del metro
+titulo::plan de gobierno en minería 20262030 recuperando el potencial productivo del cobre chileno
 titulo::plan de invierno 2026 gobierno de santiago identifica 405 puntos críticos en la región metropolitana
 titulo::plan de seguridad contra la prostitución e indigentes el proyecto para que el mercado central recupere su vieja gloria a sus 154 años
 titulo::plan maestro del agua impulsa transformación del parque metropolitano cerros de renca en nuevo pulmón verde de santiago
