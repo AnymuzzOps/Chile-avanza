@@ -54,6 +54,7 @@ https://elpais.com/chile/2026-05-20/desde-cuando-y-como-se-aplica-la-doble-auten
 https://elpais.com/chile/2026-05-26/subsidio-electrico-en-chile-2026-como-postular-al-beneficio-ante-la-nueva-alza-en-la-cuenta-de-la-luz.html
 https://elpais.com/chile/2026-05-28/chile-se-proyecta-como-el-gran-polo-de-los-centros-de-datos-de-america-latina.html
 https://elpais.com/chile/2026-05-30/la-crisis-del-sotero-del-rio-el-hospital-mas-grande-de-chile-hay-presupuesto-hasta-agosto.html
+https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-revela-los-secretos-de-un-bosque-submarino-unico-en-el-mundo.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -1151,6 +1152,7 @@ titulo::la desconocida tecnología de desalinización de una empresa canadiense 
 titulo::la digitalización del capital humano la nueva ventaja estructural de las empresas chilenas
 titulo::la disputa detrás de la millonaria expropiación del club hípico de punta arenas sociedad a cargo pide más de 48 mil millones por las 20 hectáreas
 titulo::la era de los 1300 kilómetros geely ex5 emi aterriza en chile apostando por la autonomía extrema
+titulo::la expedición en la patagonia chilena que revela los secretos de un bosque submarino único en el mundo
 titulo::la ia haciendo las compras por ti el futuro que líderes digitales proyectan para el comercio electrónico en chile a pocos días del cyber day 2026
 titulo::la ilusión del joven equipo de chile con el grupo mundial i de la billie jean king cup
 titulo::la invasión del hogar conectado dreame aterriza en chile con ia avanzada y un ecosistema multidispositivo
