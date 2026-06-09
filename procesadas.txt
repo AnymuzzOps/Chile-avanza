@@ -55,6 +55,7 @@ https://elpais.com/chile/2026-05-26/subsidio-electrico-en-chile-2026-como-postul
 https://elpais.com/chile/2026-05-28/chile-se-proyecta-como-el-gran-polo-de-los-centros-de-datos-de-america-latina.html
 https://elpais.com/chile/2026-05-30/la-crisis-del-sotero-del-rio-el-hospital-mas-grande-de-chile-hay-presupuesto-hasta-agosto.html
 https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-revela-los-secretos-de-un-bosque-submarino-unico-en-el-mundo.html
+https://elpais.com/chile/2026-06-09/ex-bono-marzo-2026-hasta-cuando-se-puede-cobrar-el-aporte-familiar-permanente-en-chile-antes-de-perder-el-dinero.html
 https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presiona-al-senado-de-chile-sobre-el-levantamiento-del-secreto-bancario.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
@@ -211,6 +212,7 @@ https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-
 https://www.latercera.com/lt-board/noticia/asi-es-ada-la-plataforma-pionera-de-ia-lanzada-por-la-unab-para-acelerar-la-investigacion-cientifica/
 https://www.latercera.com/mineria/noticia/la-mayor-cartera-de-proyectos-de-la-historia-de-chile-daniel-mas-cuenta-los-planes-para-impulsar-la-mineria/
 https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
+https://www.latercera.com/mineria/noticia/mas-de-550-productos-made-in-chile-tecnologia-minera-nacional-exporta-mas-de-us1200-millones/
 https://www.latercera.com/mineria/noticia/nunca-la-ha-superado-la-barrera-de-chile-como-principal-productor-de-cobre-del-mundo/
 https://www.latercera.com/mineria/noticia/plan-de-gobierno-en-mineria-2026-2030-recuperando-el-potencial-productivo-del-cobre-chileno/
 https://www.latercera.com/mineria/noticia/probado-en-catemu-el-invento-que-puede-revolucionar-la-extraccion-de-cobre/
@@ -1081,6 +1083,7 @@ titulo::estudio jurídico español garrigues adquiere oficina chilena barros sil
 titulo::estudio para modelar el envejecimiento en los hogares chilenos
 titulo::eva ayllón regresa a chile para ofrecer gira por nueve ciudades
 titulo::evento travel sale bate récord histórico de ventas totaliza us62 millones y ticket promedio sube 33
+titulo::ex bono marzo 2026 hasta cuándo se puede cobrar el aporte familiar permanente en chile antes de perder el dinero
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::familia angelini aumenta su participación en matriz de empresas copec
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
@@ -1285,6 +1288,7 @@ titulo::municipalidad de huechuraba y claro inician segunda etapa del programa d
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
 titulo::municipios se reúnen en seminario que abordó la crisis hídrica del país y la búsqueda de soluciones concretas en el marco de la alianza público  privada
 titulo::más de 17 millones de personas activaron subsidio al gas en su primer día
+titulo::más de 550 productos made in chile tecnología minera nacional exporta más de us1200 millones
 titulo::más de 6 mil asistentes y 90 speakers de todo el mundo los detalles del chile fintech forum 2026
 titulo::más ia menos hidrógeno verde la agenda del nuevo vicepresidente de corfo
 titulo::más potencia menos peso y producción acotada bmw m2 cs y m3 cs touring llegan a chile
