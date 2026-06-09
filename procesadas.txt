@@ -55,6 +55,7 @@ https://elpais.com/chile/2026-05-26/subsidio-electrico-en-chile-2026-como-postul
 https://elpais.com/chile/2026-05-28/chile-se-proyecta-como-el-gran-polo-de-los-centros-de-datos-de-america-latina.html
 https://elpais.com/chile/2026-05-30/la-crisis-del-sotero-del-rio-el-hospital-mas-grande-de-chile-hay-presupuesto-hasta-agosto.html
 https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-revela-los-secretos-de-un-bosque-submarino-unico-en-el-mundo.html
+https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presiona-al-senado-de-chile-sobre-el-levantamiento-del-secreto-bancario.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -1184,6 +1185,7 @@ titulo::la realidad detrás de las grandes inversiones chinas en energías renov
 titulo::la rebelión de la matemática financiera el mercado de vehículos usados en chile cuadruplica el dinamismo del sector cero kilómetro
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
+titulo::la ruta del dinero del tren de aragua presiona al senado de chile sobre el levantamiento del secreto bancario
 titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
 titulo::la solución para dueños de perros dogin la app chilena que permite encontrar cuidadores y paseadores en minutos
 titulo::la tecnología detrás de las plataformas de casino en vivo y su crecimiento en chile
