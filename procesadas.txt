@@ -214,6 +214,7 @@ https://www.latercera.com/emprendimiento/noticia/startups-pymes-y-grandes-empres
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
 https://www.latercera.com/lt-board/noticia/asi-es-ada-la-plataforma-pionera-de-ia-lanzada-por-la-unab-para-acelerar-la-investigacion-cientifica/
+https://www.latercera.com/mineria/noticia/electricidad-y-mineria-alianza-geoestrategica-desde-chile/
 https://www.latercera.com/mineria/noticia/la-mayor-cartera-de-proyectos-de-la-historia-de-chile-daniel-mas-cuenta-los-planes-para-impulsar-la-mineria/
 https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
 https://www.latercera.com/mineria/noticia/mas-de-550-productos-made-in-chile-tecnologia-minera-nacional-exporta-mas-de-us1200-millones/
@@ -1049,6 +1050,7 @@ titulo::el tesla de los mares es chileno el magellan discoverer hace historia as
 titulo::el tsunami judicial de casi us 600 millones que amenaza al fisco por las cuotas pesqueras
 titulo::el visionario proyecto para recuperar un histórico edificio de bandera que lleva 30 años abandonado y transformarlo en departamentos queremos madrilizar santiago
 titulo::el último tren para italia y bolivia el detalle de los repechajes que entregarán seis cupos para completar el mundial 2026
+titulo::electricidad y minería alianza geoestratégica desde chile
 titulo::eliminación de contribuciones beneficiaría a cerca de 207 mil adultos mayores con ingresos de más de 2 millones mensuales
 titulo::emergent cold latam inaugura en chile el mayor frigorífico automatizado de la región
 titulo::emprendimiento para el desarrollo de chile
