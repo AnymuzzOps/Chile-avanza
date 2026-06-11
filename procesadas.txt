@@ -315,6 +315,7 @@ https://www.latercera.com/nacional/noticia/steinert-anuncia-presentacion-de-proy
 https://www.latercera.com/nacional/noticia/tras-fatal-caida-en-las-condes-senado-aprueba-proyecto-que-obliga-medidas-de-seguridad-en-departamentos-y-gobierno-compromete-urgencia/
 https://www.latercera.com/nacional/noticia/valparaiso-se-adjudica-mas-de-127-millones-para-proyectos-patrimoniales/
 https://www.latercera.com/nacional/noticia/vih-fuera-del-foco-expertos-alertan-apagon-en-prevencion-y-campanas-en-chile/
+https://www.latercera.com/nacional/noticia/virus-respiratorios-alcanzan-su-mayor-circulacion-en-lo-que-va-del-ano-y-minsal-urge-a-rezagados-a-vacunarse/
 https://www.latercera.com/opinion/noticia/chile-y-los-minerales-criticos/
 https://www.latercera.com/opinion/noticia/del-jarro-al-punal-el-ocaso-de-la-educacion-chilena/
 https://www.latercera.com/opinion/noticia/energias-renovables-un-gran-negocio-para-chile-y-para-el-medio-ambiente/
@@ -482,6 +483,7 @@ https://www.latercera.com/servicios/noticia/luna-rosa-cuando-y-a-que-hora-de-chi
 https://www.latercera.com/servicios/noticia/subsidio-al-sueldo-minimo-como-solicitar-el-beneficio-y-hasta-cuando-hay-plazo-para-postular/
 https://www.latercera.com/servicios/noticia/ya-estan-disponibles-los-resultados-del-subsidio-de-arriendo-revisa-los-datos-de-la-postulacion-de-2025/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
+https://www.latercera.com/sustentabilidad/noticia/chile-fortalece-liderazgo-mundial-en-ciruela-deshidratada-con-certificacion-sustentable-y-nuevo-apl-para-la-produccion-primaria/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/convocan-a-mas-de-300-voluntarios-en-parque-san-carlos-de-apoquindo-para-restauracion-ecologica/
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
@@ -752,6 +754,7 @@ https://www.theclinic.cl/2026/06/05/cencosud-abre-don-salva-asi-es-la-nueva-cade
 https://www.theclinic.cl/2026/06/05/operacion-tokio-el-after-que-termino-en-masacre-y-llevo-a-desmantelar-la-red-de-lavado-de-dinero-del-tren-de-aragua-y-detener-a-un-ejecutivo-bancario/
 https://www.theclinic.cl/2026/06/09/bancoestado-lanza-oferta-hipotecaria-compatible-con-subsidios-y-garantia-fogaes-financiamiento-puede-llegar-hasta-el-90/
 https://www.theclinic.cl/2026/06/09/en-medio-de-dudas-por-recortes-presupuestarios-minsal-se-compromete-en-dar-continuidad-al-proyecto-del-nuevo-hospital-carlos-van-buren/
+https://www.theclinic.cl/2026/06/11/proyecto-nueva-alameda-asi-sera-el-nuevo-cruce-peatonal-en-lira-que-reemplazara-el-paso-bajo-nivel/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
@@ -875,6 +878,7 @@ titulo::chile cambia la hora el próximo sábado por qué se originó esta medid
 titulo::chile day presidenta del banco central anuncia  medidas para expandir pagos con transferencias electrónicas y marco regulatorio para stablecoins
 titulo::chile encabeza alza de los combustibles en la ocde tras salto del petróleo pero tiene uno de los precios más bajos del bloque
 titulo::chile es un país que envejeció muy rápido la apuesta del centro de salud mayor por la atención especializada de adultos mayores
+titulo::chile fortalece liderazgo mundial en ciruela deshidratada con certificación sustentable y nuevo apl para la producción primaria
 titulo::chile inscribe en la sec de estados unidos un programa de us 6000 millones para futuras emisiones de deuda externa
 titulo::chile interrumpe envío de gas argentino en ñuble y biobío por incumplimiento normativo
 titulo::chile interrumpe una de las zonas de abastecimiento de gas desde argentina por incumplimiento de normativa nacional
@@ -1371,6 +1375,7 @@ titulo::probado en catemu el invento que puede revolucionar la extracción de co
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
 titulo::programa de mejoramiento de viviendas quiénes pueden postular y cuáles son sus montos
 titulo::proyecto bosques alcanza 20 mil hectáreas intervenidas y beneficia a más de 7 mil propietarios
+titulo::proyecto nueva alameda así será el nuevo cruce peatonal en lira que reemplazará el paso bajo nivel
 titulo::puede alterar procesos celulares asociados a la atrofia muscular estudio chileno evidenció los efectos poco explorados del botox
 titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
@@ -1490,6 +1495,7 @@ titulo::ver video coaniquem lanza su colecta nacional 2026 para financiar la reh
 titulo::versus 27 de chile impuesto a las empresas promedia 24 entre los países de la ocde y 21 a nivel mundial
 titulo::video estados unidos negociará con bombas hasta que irán acepte un acuerdo de alto el fuego
 titulo::vih fuera del foco expertos alertan apagón en prevención y campañas en chile
+titulo::virus respiratorios alcanzan su mayor circulación en lo que va del año y minsal urge a rezagados a vacunarse
 titulo::vuelve el premio territorio circular en su 4ª versión para destacar modelos de negocio sostenibles
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::walmart chile reúne a startups academia y empresas en su innovaday 2026
