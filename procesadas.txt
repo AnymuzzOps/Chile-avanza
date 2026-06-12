@@ -462,6 +462,7 @@ https://www.latercera.com/pulso/noticia/riqueza-financiera-de-chile-alcanzo-casi
 https://www.latercera.com/pulso/noticia/rosanna-costa-es-dificil-saber-hoy-cual-es-el-nivel-de-dano-que-se-puede-llegar-a-heredar-de-este-conflicto-belico/
 https://www.latercera.com/pulso/noticia/salfacorp-emite-bono-por-mas-de-us-60-millones-para-financiar-plan-de-inversiones/
 https://www.latercera.com/pulso/noticia/salmonchile-anuncia-incorporacion-de-invermar-al-gremio/
+https://www.latercera.com/pulso/noticia/santiago-es-la-tercera-ciudad-latinoamericana-con-mayor-superficie-de-oficinas-detras-de-sao-paulo-y-de-la-capital-de-mexico/
 https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-el-2026-en-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
@@ -1423,6 +1424,7 @@ titulo::salmonchile anuncia incorporación de invermar al gremio
 titulo::samsung lanza en san pedro de atacama su programa de innovación escolar en stem
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
+titulo::santiago es la tercera ciudad latinoamericana con mayor superficie de oficinas detrás de sao paulo y de la capital de méxico
 titulo::scooters eléctricos el nuevo mercado que domina la movilidad urbana en chile y las cifras detrás
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
 titulo::se crio en osorno estudió en alemania y es premio nacional el científico chileno más citado del mundo
