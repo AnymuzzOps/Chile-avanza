@@ -546,6 +546,7 @@ https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-
 https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstructiva-cambia-la-vida-de-pacientes-de-chiloe/
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
 https://www.minsal.cl/region-de-tarapaca-en-el-hospital-de-iquique-presentan-proyecto-de-capital-humano-especializado/
+https://www.minsal.cl/reporte-semanal-de-campana-de-invierno-2026-subsecretaria-alejandra-pizarro-advierte-sobre-aumento-de-la-circulacion-viral-y-refuerza-llamado-a-vacunarse/
 https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan-alerta-oncologica/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
@@ -1406,6 +1407,7 @@ titulo::reino unido convoca a 35 países incluido chile para analizar reapertura
 titulo::remesas enviadas desde chile retoman alzas en 2025 después de tres años de caídas
 titulo::renault en chile cambia de manos astara releva a inchcape en una apuesta por el crecimiento
 titulo::renta4 baja precio objetivo del ipsa ante alza de los combustibles anunciada por hacienda
+titulo::reporte semanal de campaña de invierno 2026 subsecretaria alejandra pizarro advierte sobre aumento de la circulación viral y refuerza llamado a vacunarse
 titulo::restricción vehicular 2026 el calendario y los automóviles que no podrán circular por santiago de chile
 titulo::revelan que julio césar rodríguez adelantaría su salida de chilevisión se iría antes de abril
 titulo::ricardo arraño es el nuevo socio principal de pwc en chile reemplaza al histórico renzo corona
