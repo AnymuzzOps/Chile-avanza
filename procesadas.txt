@@ -101,6 +101,7 @@ https://www.ex-ante.cl/lo-que-hay-tras-el-round-de-poduje-con-la-camara-chilena-
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/permisologia-gobierno-destraba-inversiones-por-us-6-290-millones-en-70-dias-tras-aprobar-tres-nuevos-proyectos/
+https://www.ex-ante.cl/permisologia-los-recursos-que-pierde-vina-por-seguir-postergando-el-megaproyecto-en-las-salinas-segun-informe-de-la-uc/
 https://www.ex-ante.cl/plan-de-seguridad-contra-la-prostitucion-e-indigentes-el-proyecto-para-que-el-mercado-central-recupere-su-vieja-gloria-a-sus-154-anos/
 https://www.ex-ante.cl/presidente-de-salmonchile-y-polemica-por-platas-de-ong-noruega-generan-inquietud-los-propositos-de-esos-financistas/
 https://www.ex-ante.cl/presos-refugiados-y-libres-la-dispar-suerte-de-los-otros-involucrados-en-el-asesinato-de-jaime-guzman/
@@ -1341,6 +1342,7 @@ titulo::paz corp anota alza en sus ganancias pese a menor escrituración en chil
 titulo::pdi y policía argentina activan operativo para dar con paradero de galvarino apablaza e iniciar extradición a chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
 titulo::permisología gobierno destraba inversiones por us 6290 millones en 70 días tras aprobar tres nuevos proyectos
+titulo::permisología los recursos que pierde viña por seguir postergando el megaproyecto en las salinas según informe de la uc
 titulo::permitirán estudiar la estructura interna de la isla instalan primera red de sismómetros en juan fernández
 titulo::perú también ejecuta obras para una zanja al límite con chile
 titulo::pese a su fuerza a nivel global dólar abre a la baja en chile impulsado por desempeño del cobre
