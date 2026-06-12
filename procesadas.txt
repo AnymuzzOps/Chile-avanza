@@ -472,6 +472,7 @@ https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi
 https://www.latercera.com/pulso/noticia/tribunal-retrotrae-rca-de-proyecto-minero-de-collahuasi-con-inversion-por-us-3200-millones/
 https://www.latercera.com/pulso/noticia/venta-de-viviendas-nuevas-en-la-rm-sube-casi-20-en-primer-trimestre-potenciada-por-subsidio-a-tasa-hipotecaria/
 https://www.latercera.com/pulso/noticia/versus-27-de-chile-impuesto-a-las-empresas-promedia-24-entre-los-paises-de-la-ocde-y-21-a-nivel-mundial/
+https://www.latercera.com/pulso/noticia/walmart-nombra-a-una-estadounidense-de-larga-trayectoria-dentro-de-la-firma-como-la-nueva-ceo-para-su-filial-en-chile/
 https://www.latercera.com/red-activa/noticia/jetsmart-y-fundacion-uc-christus-llevaran-atencion-medica-especializada-a-zonas-aisladas-de-chile/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-chile-vs-cabo-verde-por-el-amistoso-internacional-en-tv-y-streaming/
 https://www.latercera.com/servicios/noticia/a-que-hora-y-donde-ver-a-cobresal-vs-universidad-catolica-en-tv-y-streaming-2/
@@ -1507,6 +1508,7 @@ titulo::virus respiratorios alcanzan su mayor circulación en lo que va del año
 titulo::vuelve el premio territorio circular en su 4ª versión para destacar modelos de negocio sostenibles
 titulo::walmart chile anuncia congelamiento de precios de 2 mil productos hasta julio incluye alimentos de consumo diario en 403 locales y ventas online
 titulo::walmart chile reúne a startups academia y empresas en su innovaday 2026
+titulo::walmart nombra a una estadounidense de larga trayectoria dentro de la firma como la nueva ceo para su filial en chile
 titulo::xiaomi lanza su nuevo ecosistema de hogar inteligente en chile
 titulo::ya están disponibles los resultados del subsidio de arriendo revisa los datos de la postulación de 2025
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
