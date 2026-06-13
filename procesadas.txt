@@ -501,6 +501,7 @@ https://www.latercera.com/sustentabilidad/noticia/el-analisis-del-arquitecto-chi
 https://www.latercera.com/sustentabilidad/noticia/la-ciencia-de-la-gentileza-el-nuevo-modelo-de-liderazgo-que-llega-a-chile-desde-harvard/
 https://www.latercera.com/sustentabilidad/noticia/la-naturaleza-como-activo-chile-consolida-un-modelo-de-conservacion-que-atrae-inversion-extranjera/
 https://www.latercera.com/sustentabilidad/noticia/lanzan-primer-sello-con-respaldo-uc-para-medir-la-conciencia-empresarial-en-chile/
+https://www.latercera.com/sustentabilidad/noticia/potencia-tecnologica-o-nueva-presion-ambiental-el-debate-detras-del-auge-de-los-data-centers-en-chile/
 https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentables-2025-la-nueva-edicion-que-reconocera-a-quienes-transforman-chile-con-impacto-real/
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/sustentabilidad/noticia/vuelve-el-premio-territorio-circular-en-su-4-version-para-destacar-modelos-de-negocio-sostenibles/
@@ -1381,6 +1382,7 @@ titulo::por qué deberías empezar a usar inteligencia artificial si tienes una 
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::por unanimidad senado aprueba proyecto que evita que condenados por vif accedan a pensión de sobrevivencia
 titulo::postgrados en chile opciones requisitos y cómo elegir el programa ideal
+titulo::potencia tecnológica o nueva presión ambiental el debate detrás del auge de los data centers en chile
 titulo::precios de internet en chile son mucho más bajos que en argentina o perú y 5g ya supera las 10 millones de conexiones
 titulo::preferencia por el consumo de agua de la llave en chile aumenta 20 puntos en dos años 59 de los chilenos confían en la calidad del agua potable
 titulo::premios iniciativas sustentables 2025 la nueva edición que reconocerá a quienes transforman chile con impacto real
