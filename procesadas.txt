@@ -98,6 +98,7 @@ https://www.ex-ante.cl/la-cuenta-regresiva-para-la-aprobacion-del-emblematico-pr
 https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empresa-canadiense-en-chile/
 https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
 https://www.ex-ante.cl/la-nueva-ley-de-datos-y-el-punto-ciego-pyme-por-nicole-winkler/
+https://www.ex-ante.cl/la-revancha-de-la-mineria-el-nuevo-ciclo-de-inversiones-por-mas-de-us17-000-millones-que-toma-fuerza-en-chile/
 https://www.ex-ante.cl/lo-que-hay-tras-el-round-de-poduje-con-la-camara-chilena-de-la-construccion/
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
@@ -1229,6 +1230,7 @@ titulo::la propuesta del gobierno para la industria acuícola exime tramitar rel
 titulo::la realidad detrás de las grandes inversiones chinas en energías renovables
 titulo::la rebelión de la matemática financiera el mercado de vehículos usados en chile cuadruplica el dinamismo del sector cero kilómetro
 titulo::la reina las condes y providencia se querellan contra exgerente del parque intercomunal por administración desleal investigan mal uso de 700 millones
+titulo::la revancha de la minería el nuevo ciclo de inversiones por más de us17000 millones que toma fuerza en chile
 titulo::la roja enfrenta a cabo verde en su primer amistoso del año posible formación y la baja de última hora que sufrió chile
 titulo::la ruta del dinero del tren de aragua presiona al senado de chile sobre el levantamiento del secreto bancario
 titulo::la sentencia que falta para iniciar el proyecto de viviendas sociales de poduje cerca del parque arauco
