@@ -393,10 +393,12 @@ https://www.latercera.com/pulso/noticia/cpc-e-inacap-lanzan-proyecto-para-potenc
 https://www.latercera.com/pulso/noticia/cuanto-esta-el-dolar-hoy-miercoles-1305/
 https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta-sobre-un-escenario-global-mas-incierto-pero-certifica-fortaleza-de-la-banca-chilena/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
+https://www.latercera.com/pulso/noticia/director-de-toyota-sobre-el-mercado-chileno-antes-esperabamos-a-que-nos-compraran-un-auto-hoy-hay-que-salir-a-venderlo/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
 https://www.latercera.com/pulso/noticia/el-feliz-30-aniversario-de-agroberries-ahora-con-un-pie-en-asia/
 https://www.latercera.com/pulso/noticia/el-internet-satelital-de-elon-musk-ya-supera-los-150-mil-clientes-en-chile/
+https://www.latercera.com/pulso/noticia/el-mercado-que-segun-la-fne-se-repartieron-las-francesas-pluxee-y-edenred/
 https://www.latercera.com/pulso/noticia/el-penalista-que-presidira-enap/
 https://www.latercera.com/pulso/noticia/el-segundo-mejor-arranque-historico-del-litio-exportaciones-casi-se-triplican-en-primer-trimestre-tras-favorables-precios/
 https://www.latercera.com/pulso/noticia/el-tsunami-judicial-de-casi-us-600-millones-que-amenaza-al-fisco-por-las-cuotas-pesqueras/
@@ -1006,6 +1008,7 @@ titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chi
 titulo::diputados ingresaron proyecto de ley que busca prohibir el uso de redes sociales a menores de 16 años en chile
 titulo::dirección del trabajo por jornada laboral de 42 horas que entró en vigencia principal mecanismo es el acuerdo
 titulo::director de junaeb descarta recorte a programa de alimentación escolar tras reunión con federaciones de manipuladoras de alimentos
+titulo::director ejecutivo de toyota chile antes esperábamos a que nos compraran un auto hoy hay que salir a venderlo
 titulo::don salva la apuesta de cencosud por los supermercados de descuentos en chile que tuvo su estreno en santiago
 titulo::dos liceos chilenos se encuentran entre las 50 mejores escuelas del mundo desde una comuna pequeña y rural se puede soñar en grande
 titulo::dos refuerzos y varios con doble nacionalidad la armada chilena que anima la mls de lionel messi
@@ -1047,6 +1050,7 @@ titulo::el kia soluto se prepara para sumar en chile una versión automática
 titulo::el leapmotor b10 eléctrico ya está en chile un suv compacto con 360 km de autonomía
 titulo::el listado de los trabajos con más vacantes en chile y los sueldos que ofrecen van desde los  450 mil a más de dos millones
 titulo::el mercado que no para las ventas de vehículos usados en chile marcan su mejor marzo desde 2023
+titulo::el mercado que según la fne se repartieron las francesas pluxee y edenred
 titulo::el millonario proyecto de inversión en la carretera austral que permitirá pavimentar tramo de más de 240 kilómetros
 titulo::el millonario proyecto de las condes para remodelar el parque araucano buscan sumar una laguna un anfiteatro y hasta un aviario
 titulo::el ministro de hacienda anuncia una ruptura de relaciones entre el gobierno de gustavo petro y el banco de la república
