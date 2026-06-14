@@ -304,6 +304,7 @@ https://www.latercera.com/nacional/noticia/minsal-amplia-poblacion-objetivo-para
 https://www.latercera.com/nacional/noticia/minsal-anuncia-la-eliminacion-de-la-comision-que-cenabast-cobraba-a-municipios-por-la-compra-de-medicamentos-para-la-aps/
 https://www.latercera.com/nacional/noticia/minsal-anuncia-uso-obligatorio-de-mascarillas-en-las-urgencias-a-partir-de-este-1-de-abril/
 https://www.latercera.com/nacional/noticia/minsal-reafirma-que-recorte-de-hacienda-no-afectara-atenciones-representan-solo-un-11-de-los-recursos-operacionales-de-los-hospitales/
+https://www.latercera.com/nacional/noticia/minvu-entrega-mas-de-2-mil-subsidios-ds1-y-anuncia-nuevo-tramo-para-sectores-medios/
 https://www.latercera.com/nacional/noticia/minvu-entrega-terrenos-del-parque-bicentenario-de-cerrillos-para-desarrollo-de-proyecto-habitacional-que-beneficiara-a-820-familias/
 https://www.latercera.com/nacional/noticia/mop-adjudica-nueva-concesion-de-la-ruta-5-tramo-rio-bueno-puerto-montt-beneficiaria-a-mas-de-530-mil-personas/
 https://www.latercera.com/nacional/noticia/mop-inicia-proceso-de-licitacion-internacional-para-nueva-carcel-de-calama/
@@ -1320,6 +1321,7 @@ titulo::minsal y primera dama llaman a inmunizar a más de 6 mil lactantes contr
 titulo::mintel anuncia uso de inteligencia artificial regulado en ecuador
 titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de las obras tras millonaria inversión poduje apunta a despilfarro de 14 mil millones
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
+titulo::minvu entrega más de 2 mil subsidios ds1 y anuncia nuevo tramo para sectores medios
 titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
 titulo::mop adjudica nueva concesión de la ruta 5 tramo río buenopuerto montt beneficiaría a más de 530 mil personas
 titulo::mop inicia proceso de licitación internacional para nueva cárcel de calama
