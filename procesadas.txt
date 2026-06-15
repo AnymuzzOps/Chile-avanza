@@ -570,6 +570,7 @@ https://www.minsal.cl/subsecretaria-de-salud-publica-llama-a-vacunarse-contra-la
 https://www.minsal.cl/subsecretaria-de-salud-publica-promueve-la-vacunacion-durante-operativo-extramuros-en-zona-franca-de-punta-arenas/
 https://www.minsal.cl/subsecretario-de-redes-asistenciales-da-inicio-a-los-primeros-programas-de-formacion-de-especialistas-en-la-universidad-de-magallanes/
 https://www.minsal.cl/subsecretario-de-redes-asistenciales-inspecciona-inicio-de-atencion-de-listas-de-espera-no-ges-en-hospital-modular-del-ejercito-en-los-angeles/
+https://www.minsal.cl/subsecretario-de-redes-asistenciales-julio-montt-recorre-hospitales-pediatricos-para-monitorear-la-respuesta-de-la-red-frente-al-aumento-de-virus-respiratorios/
 https://www.minsal.cl/subsecretario-julio-montt-lidera-encuentro-nacional-con-la-red-de-salud-publica-enfocado-en-mejorar-la-gestion-de-los-recursos-y-optimizar-la-red-asistencial/
 https://www.theclinic.cl/2026/03/20/el-dinosaurio-marino-paleontologos-descubren-la-primera-especie-de-plesiosaurio-jurasico-hallada-en-chile/
 https://www.theclinic.cl/2026/03/23/ingeniero-chileno-creo-un-software-que-permite-reducir-aglomeraciones-en-el-transporte-publico-tuvo-sus-primeros-ensayos-en-la-linea-1/
@@ -1500,6 +1501,7 @@ titulo::subsecretaria de salud pública llama a vacunarse contra la influenza a 
 titulo::subsecretaria de salud pública promueve la vacunación durante operativo extramuros en zona franca de punta arenas
 titulo::subsecretario de redes asistenciales da inicio a los primeros programas de formación de especialistas en la universidad de magallanes
 titulo::subsecretario de redes asistenciales inspecciona inicio de atención de listas de espera no ges en hospital modular del ejército en los ángeles
+titulo::subsecretario de redes asistenciales julio montt recorre hospitales pediátricos para monitorear la respuesta de la red frente al aumento de virus respiratorios
 titulo::subsecretario julio montt lidera encuentro nacional con la red de salud pública enfocado en mejorar la gestión de los recursos y optimizar la red asistencial
 titulo::subsecretaría de educación superior entrega más de 751 mil beneficios estudiantiles
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
