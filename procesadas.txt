@@ -57,6 +57,7 @@ https://elpais.com/chile/2026-05-30/la-crisis-del-sotero-del-rio-el-hospital-mas
 https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-revela-los-secretos-de-un-bosque-submarino-unico-en-el-mundo.html
 https://elpais.com/chile/2026-06-09/ex-bono-marzo-2026-hasta-cuando-se-puede-cobrar-el-aporte-familiar-permanente-en-chile-antes-de-perder-el-dinero.html
 https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presiona-al-senado-de-chile-sobre-el-levantamiento-del-secreto-bancario.html
+https://elpais.com/chile/2026-06-14/los-pinguinos-papua-no-eran-todos-iguales-un-estudio-liderado-por-chilenos-identifica-una-nueva-especie.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -182,6 +183,7 @@ https://www.lanacion.cl/video-estados-unidos-negociara-con-bombas-hasta-que-iran
 https://www.latercera.com/branded/noticia/las-nuevas-y-efectivas-terapias-para-combatir-las-enfermedades-inflamatorias-intestinales/
 https://www.latercera.com/branded/noticia/migracion-e-inclusion-financiera-el-desafio-pendiente-para-integrarse-plenamente-en-chile/
 https://www.latercera.com/cartas-al-director/noticia/el-empleo-chileno-en-crisis/
+https://www.latercera.com/cartas-al-director/noticia/el-futuro-de-becas-chile/
 https://www.latercera.com/cartas-al-director/noticia/emprendimiento-para-el-desarrollo-de-chile/
 https://www.latercera.com/cartas-al-director/noticia/estimaciones-de-crecimiento-tendencial/
 https://www.latercera.com/culto/noticia/dream-theater-aterriza-en-chile-con-formacion-estelar-la-gente-ha-sido-consistente/
@@ -1053,6 +1055,7 @@ titulo::el estado de chile quebrado cuando no se le toma el peso a las palabras
 titulo::el experimento de codelco y empresa china para transportar cobre en camiones eléctricos en pleno desierto es una oportunidad para ser pioneros
 titulo::el feliz 30 aniversario de agroberries ahora con un pie en asia
 titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a transformar su modelo de abastecimiento y dejar la producción en chile
+titulo::el futuro de becas chile
 titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
 titulo::el kia soluto se prepara para sumar en chile una versión automática
@@ -1270,6 +1273,7 @@ titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el c
 titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::los ocho proyectos pendientes del comité de ministros que suman más de us5000 millones
+titulo::los pingüinos papúa no eran todos iguales un estudio liderado por chilenos identifica una nueva especie
 titulo::los planes de scotiabank en chile para 2026
 titulo::los suv se posicionaron como los autos más vendidos durante el primer trimestre de 2026 mg zx y suzuki fronx fueron los favoritos de los chilenos
 titulo::luna rosa cuándo y a qué hora de chile ver el evento de abril
