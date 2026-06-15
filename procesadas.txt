@@ -432,6 +432,7 @@ https://www.latercera.com/pulso/noticia/hacienda-ingresa-proyecto-que-sube-salar
 https://www.latercera.com/pulso/noticia/hay-casi-1700-opticas-en-chile-rotter-krauss-y-gmo-lideran-un-mercado-atomizado/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
 https://www.latercera.com/pulso/noticia/ilc-sube-sus-ganancias-impulsadas-por-mejor-desempeno-de-sus-filiales-financieras/
+https://www.latercera.com/pulso/noticia/industria-minera-en-chile-ahorraria-mas-de-us-500-millones-al-ano-si-optara-por-infraestructura-hidrica-compartida/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
@@ -441,6 +442,7 @@ https://www.latercera.com/pulso/noticia/justicia-confirma-condena-a-walmart-chil
 https://www.latercera.com/pulso/noticia/la-cofradia-de-enap-que-llego-a-la-direccion-de-presupuestos/
 https://www.latercera.com/pulso/noticia/la-justificacion-del-grupo-angelini-para-aumentar-el-directorio-de-antarchile-y-los-reclamos-de-algunos-minoritarios/
 https://www.latercera.com/pulso/noticia/la-propuesta-del-gobierno-para-la-industria-acuicola-exime-tramitar-relocalizaciones-en-el-seia-y-cambia-regimen-de-caducidad/
+https://www.latercera.com/pulso/noticia/laboratorio-que-creo-el-ozempic-lanza-en-chile-nuevo-medicamento-para-la-obesidad-y-apunta-a-seguir-duplicando-sus-ventas/
 https://www.latercera.com/pulso/noticia/las-primeras-cifras-de-la-red-de-adquirencia-de-banco-de-chile-tras-su-lanzamiento-a-fines-del-2025/
 https://www.latercera.com/pulso/noticia/ley-miscelanea-norma-otorgara-invariabilidad-tributaria-de-hasta-25-anos-a-inversiones-desde-us50-millones/
 https://www.latercera.com/pulso/noticia/lideres-de-lundin-mining-analizan-impactos-por-conflicto-en-medio-oriente-y-detallan-inversiones-en-chile-y-el-proyecto-vicuna/
@@ -1173,6 +1175,7 @@ titulo::ignacio briones chile no es un país quebrado
 titulo::ilc sube sus ganancias impulsadas por mejor desempeño de las filiales financieras
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
 titulo::impacto por ruido para sapo de cuatro ojos las exigencias de organismos públicos a megaproyecto eólico de us 510 millones
+titulo::industria minera en chile ahorraría más de us 500 millones al año si optara por infraestructura hídrica compartida
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
 titulo::inicia horario de invierno qué hora es oficialmente en chile
@@ -1243,6 +1246,7 @@ titulo::la solución para dueños de perros dogin la app chilena que permite enc
 titulo::la tecnología detrás de las plataformas de casino en vivo y su crecimiento en chile
 titulo::la ue y australia firman un acuerdo comercial que elimina 1000 millones en aranceles a las exportaciones europeas
 titulo::laben chile crea sistema de vigilancia para el sector del packaging
+titulo::laboratorio que creó el ozempic lanza en chile nuevo medicamento para la obesidad y apunta a seguir creciendo a doble dígito
 titulo::lanzan primer sello con respaldo uc para medir la conciencia empresarial en chile
 titulo::las aplicaciones que te dicen dónde comprar más barato en chile y que casi nadie está usando
 titulo::las derechas conmemoran el asesinato de jaime guzmán con el primer presidente gremialista de chile
