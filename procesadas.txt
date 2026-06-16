@@ -481,6 +481,8 @@ https://www.latercera.com/pulso/noticia/santiago-es-la-tercera-ciudad-latinoamer
 https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-el-2026-en-junta-de-accionistas/
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
+https://www.latercera.com/pulso/noticia/superintendencia-aplica-historica-multa-de-casi-3800-millones-a-inmobiliaria-por-elusion-ambiental-en-proyecto-de-rio-maullin/
+https://www.latercera.com/pulso/noticia/toctoc-destaca-alto-potencial-inmobiliario-de-extender-la-linea-8-del-metro-a-las-vizcachas/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
 https://www.latercera.com/pulso/noticia/tribunal-acoge-demanda-de-chileactores-y-condena-a-cinepolis-por-uso-no-autorizado-de-obras-audiovisuales/
 https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi-por-fallo-judicial-que-retrotrae-proyecto-por-us3200-millones/
@@ -1515,6 +1517,7 @@ titulo::subsecretaría de educación superior entrega más de 751 mil beneficios
 titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo hay plazo para postular
 titulo::subsidio eléctrico en chile 2026 cómo postular al beneficio ante la nueva alza en la cuenta de la luz
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
+titulo::superintendencia aplica histórica multa de casi 3800 millones a inmobiliaria por elusión ambiental en proyecto de río maullín
 titulo::tcl presenta su nueva generación de tecnología que llegará a chile
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
@@ -1525,6 +1528,7 @@ titulo::tere gott la exitosa marca de libros para colorear abre su primera tiend
 titulo::tesorería inicia cobros de deuda cae 1833 personas con sueldos sobre 5 millones no podrán acceder a convenio y arriesgan demanda y embargo
 titulo::tesorería inicia embargos y retenciones a más de mil deudores del cae con ingresos sobre los 5 millones
 titulo::tierras raras en penco da un nuevo paso aclara ingresa al sistema de evaluación de impacto ambiental la última adenda de su millonario proyecto
+titulo::toctoc destaca alto potencial inmobiliario de extender la línea 8 del metro a las vizcachas
 titulo::tornel en su estreno como presidenta de la cmf anuncia revisión de modelos internos de los bancos podrían liberar us10 mil millones de capital
 titulo::toyota chile lanza beca toyota impulsa  pioneras junto a duoc uc para fomentar la inclusión femenina en el sector automotriz
 titulo::tras fatal caída en las condes senado aprueba proyecto que obliga medidas de seguridad en departamentos y gobierno compromete urgencia
