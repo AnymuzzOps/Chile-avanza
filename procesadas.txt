@@ -482,6 +482,7 @@ https://www.latercera.com/pulso/noticia/scotiabank-chile-presenta-los-ejes-para-
 https://www.latercera.com/pulso/noticia/sec-anuncia-nuevas-multas-a-engie-y-generadora-metropolitana-por-apagon-de-febrero-de-2025/
 https://www.latercera.com/pulso/noticia/sofofa-enfriamiento-economia-simplificar-permisos-para-inversion/
 https://www.latercera.com/pulso/noticia/superintendencia-aplica-historica-multa-de-casi-3800-millones-a-inmobiliaria-por-elusion-ambiental-en-proyecto-de-rio-maullin/
+https://www.latercera.com/pulso/noticia/syncore-demanda-en-espana-a-ohla-por-una-causa-en-chile-y-exige-pago-de-casi-us21-millones/
 https://www.latercera.com/pulso/noticia/toctoc-destaca-alto-potencial-inmobiliario-de-extender-la-linea-8-del-metro-a-las-vizcachas/
 https://www.latercera.com/pulso/noticia/tornel-en-su-estreno-como-presidenta-de-la-cmf-anuncia-revision-de-modelos-internos-de-los-bancos-podrian-liberar-us10-mil-millones-de-capital/
 https://www.latercera.com/pulso/noticia/tribunal-acoge-demanda-de-chileactores-y-condena-a-cinepolis-por-uso-no-autorizado-de-obras-audiovisuales/
@@ -504,6 +505,7 @@ https://www.latercera.com/servicios/noticia/subsidio-al-sueldo-minimo-como-solic
 https://www.latercera.com/servicios/noticia/ya-estan-disponibles-los-resultados-del-subsidio-de-arriendo-revisa-los-datos-de-la-postulacion-de-2025/
 https://www.latercera.com/sustentabilidad/noticia/bosque-nativo-en-chile-el-potencial-de-una-industria-clave-para-el-desarrollo-productivo-sostenible/
 https://www.latercera.com/sustentabilidad/noticia/chile-fortalece-liderazgo-mundial-en-ciruela-deshidratada-con-certificacion-sustentable-y-nuevo-apl-para-la-produccion-primaria/
+https://www.latercera.com/sustentabilidad/noticia/climatech-innovation-summit-2026-reunira-a-lideres-para-acelerar-la-adopcion-tecnologica-en-industrias-estrategicas/
 https://www.latercera.com/sustentabilidad/noticia/cmpc-biopackaging-lanza-en-chile-la-tercera-edicion-de-su-concurso-de-innovacion-con-premio-a-nueva-york/
 https://www.latercera.com/sustentabilidad/noticia/convocan-a-mas-de-300-voluntarios-en-parque-san-carlos-de-apoquindo-para-restauracion-ecologica/
 https://www.latercera.com/sustentabilidad/noticia/corfo-en-los-premios-iniciativas-sustentables-cuando-el-fomento-publico-y-la-sostenibilidad-dejan-de-ser-conversaciones-paralelas/
@@ -785,7 +787,9 @@ https://www.theclinic.cl/2026/06/13/nuevos-enlaces-ciclovias-y-terceras-pistas-l
 https://www.theclinic.cl/2026/06/14/nido-lucia-como-sera-el-nuevo-proyecto-de-los-desarrolladores-del-mut-que-busca-cambiarle-la-cara-al-centro-de-santiago/
 https://www.theclinic.cl/2026/06/15/la-apuesta-de-la-jugueteria-chilena-ansaldo-toys-en-concon-construiran-un-strip-center-exclusivo-para-ninos-que-abrira-en-2027/
 https://www.theclinic.cl/2026/06/15/parque-metropolitano-cerros-renca-alianza/
+https://www.theclinic.cl/2026/06/16/97-mil-estudiantes-que-salieron-de-cuarto-medio-ingresaron-a-la-educacion-superior-este-ano-marcando-record-historico-quintiles-mas-bajos-registraron-su-mayor-alza/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
+titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
 titulo::a qué hora y dónde ver a cobresal vs universidad católica en tv y streaming
 titulo::a qué hora y dónde ver a universidad de chile vs deportes la serena en tv y streaming
@@ -932,6 +936,7 @@ titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 7
 titulo::circulación de influenza aumenta por sexta semana consecutiva y minsal alerta por rezago de vacunación en mayores de 60 años
 titulo::circulartec apuesta por la segunda vida de las baterías de litio
 titulo::claro chile se consolida como líder en 5g según barómetro de nperf
+titulo::climatech innovation summit 2026 reunirá a líderes para acelerar la adopción tecnológica en industrias estratégicas
 titulo::clínica las condes reduce sus pérdidas y prevé retorno a las utilidades en los próximos periodos
 titulo::cmf multa con 324 millones a aseguradora por no pago de garantía a superintendencia de casinos en puerto varas
 titulo::cmpc biopackaging lanza en chile la tercera edición de su concurso de innovación con premio a nueva york
@@ -1518,6 +1523,7 @@ titulo::subsidio al sueldo mínimo cómo solicitar el beneficio y hasta cuándo 
 titulo::subsidio eléctrico en chile 2026 cómo postular al beneficio ante la nueva alza en la cuenta de la luz
 titulo::subsidio familiar automático cuáles son los requisitos para acceder al beneficio
 titulo::superintendencia aplica histórica multa de casi 3800 millones a inmobiliaria por elusión ambiental en proyecto de río maullín
+titulo::syncore demanda en españa a ohla por una causa en chile y exige pago de casi us21 millones
 titulo::tcl presenta su nueva generación de tecnología que llegará a chile
 titulo::tech world 2026 presenta la inteligencia artificial híbrida de lenovo en chile
 titulo::temucuicui desafía al gobierno nuestro territorio es mapuche no chileno
