@@ -112,6 +112,7 @@ https://www.ex-ante.cl/quien-es-annie-walker-la-ejecutiva-enviada-desde-ee-uu-pa
 https://www.ex-ante.cl/quien-es-jose-ignacio-mujica-el-empresario-y-experto-en-inversiones-que-llega-a-liderar-corfo/
 https://www.ex-ante.cl/quien-es-ricardo-arrano-el-nuevo-socio-principal-de-pwc-chile-y-su-desconocida-aficion/
 https://www.ex-ante.cl/quienes-son-las-autoridades-que-decidiran-el-destino-del-emblematico-proyecto-de-tierras-raras-de-us-130-millones/
+https://www.ex-ante.cl/sala-cuna-universal-informe-financiero-detalla-que-proyecto-partira-con-15-mil-ninos-beneficiarios-y-llegara-a-73-449/
 https://www.ex-ante.cl/salar-futuro-el-proyecto-de-us3-000-millones-que-pondra-a-prueba-la-alianza-entre-codelco-y-sqm-por-el-litio/
 https://www.ex-ante.cl/scooters-electricos-el-nuevo-mercado-que-domina-la-movilidad-urbana-en-chile-y-las-cifras-detras/
 https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us-2-000-millones-para-comprar-empresa-de-tecnologia-de-defensa/
@@ -293,6 +294,7 @@ https://www.latercera.com/nacional/noticia/junaeb-completa-entrega-de-utiles-esc
 https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experiencia-en-el-indh-como-nueva-jefa-del-programa-de-derechos-humanos-y-del-plan-de-busqueda/
 https://www.latercera.com/nacional/noticia/la-norma-clave-de-la-ley-argentina-invocada-por-apablaza-para-frenar-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/las-sospechas-que-vinculan-a-chileno-deportado-por-el-ice-en-eeuu-con-las-amenazas-de-muerte-al-alcalde-de-penalolen/
+https://www.latercera.com/nacional/noticia/lleva-mas-de-100-anos-abandonado-iniciativa-busca-rescatar-el-invernadero-del-parque-quinta-normal/
 https://www.latercera.com/nacional/noticia/marca-un-avance-sustantivo-en-la-relacion-chile-y-eeuu-firman-acuerdo-en-seguridad-y-memorandum-sobre-tierras-raras/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
@@ -1273,6 +1275,7 @@ titulo::live andes 20 el proyecto que combina la inteligencia artificial con la 
 titulo::llegada del metro de valparaíso a quillotala calera avanza sea recomienda aprobar la extensión que busca conectar las comunas en 28 minutos
 titulo::llegamos para quedarnos walmart invierte us200 millones para ampliar su centro logístico en pudahuel y traza nuevos pasos en su expansión por chile
 titulo::llegó la cigüeña y trajo una chulenga nace primera cría de guanaco en proyecto de repoblamiento en santuario de la región metropolitana
+titulo::lleva más de 100 años abandonado iniciativa busca rescatar el invernadero del parque quinta normal
 titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región metropolitana
 titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::lo nuevo de mg en chile
@@ -1458,6 +1461,7 @@ titulo::riqueza financiera de chile alcanzó casi los us700 mil millones en 2025
 titulo::roberto mayor primer chileno en integrar la royal society me preocupa la situación actual del ministerio de ciencia
 titulo::ronaldinho es baja para duelo de leyendas en chile lo reemplazará adriano el emperador
 titulo::runway entre las top 50 empresas de ia del mundo
+titulo::sala cuna universal informe financiero detalla que proyecto partirá con 15 mil niños beneficiarios y llegará a 73449
 titulo::salar futuro el proyecto de us3000 millones que pondrá a prueba la alianza entre codelco y sqm por el litio
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
