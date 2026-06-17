@@ -100,6 +100,7 @@ https://www.ex-ante.cl/la-desconocida-tecnologia-de-desalinizacion-de-una-empres
 https://www.ex-ante.cl/la-inversion-de-us175-millones-de-mountain-capital-partners-para-modernizar-la-parva-y-valle-nevado/
 https://www.ex-ante.cl/la-nueva-ley-de-datos-y-el-punto-ciego-pyme-por-nicole-winkler/
 https://www.ex-ante.cl/la-revancha-de-la-mineria-el-nuevo-ciclo-de-inversiones-por-mas-de-us17-000-millones-que-toma-fuerza-en-chile/
+https://www.ex-ante.cl/las-senales-del-ipom-que-explica-la-caida-en-la-inversion-y-el-crecimiento-para-2026-y-el-mejor-panorama-para-2027/
 https://www.ex-ante.cl/lo-que-hay-tras-el-round-de-poduje-con-la-camara-chilena-de-la-construccion/
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
@@ -565,6 +566,7 @@ https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construcci
 https://www.minsal.cl/minsal-prepara-a-la-red-asistencial-en-la-direccion-estrategica-de-proyectos-en-salud/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
+https://www.minsal.cl/ops-dona-vitrinas-clinicas-de-almacenamiento-de-vacunas-al-programa-nacional-de-inmunizaciones/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
 https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstructiva-cambia-la-vida-de-pacientes-de-chiloe/
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
@@ -790,6 +792,7 @@ https://www.theclinic.cl/2026/06/15/la-apuesta-de-la-jugueteria-chilena-ansaldo-
 https://www.theclinic.cl/2026/06/15/parque-metropolitano-cerros-renca-alianza/
 https://www.theclinic.cl/2026/06/16/97-mil-estudiantes-que-salieron-de-cuarto-medio-ingresaron-a-la-educacion-superior-este-ano-marcando-record-historico-quintiles-mas-bajos-registraron-su-mayor-alza/
 https://www.theclinic.cl/2026/06/16/el-ambicioso-plan-de-latamvet-la-red-de-clinicas-veterinarias-chilena-que-proyecta-alcanzar-50-centros-medicos-y-expandirse-por-sudamerica/
+https://www.theclinic.cl/2026/06/17/geografo-chileno-obtiene-importante-premio-internacional-de-geografia-es-el-primer-latinoamericano-en-recibir-esta-distincion/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -799,6 +802,7 @@ titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::a un año de denuncia de la contraloría licencias médicas se desploman casi 20 con 16 millones menos
 titulo::abre nueva galería comercial en santiago en antigua tienda de trajes de novia en calle puente
+titulo::académico chileno obtiene importante premio internacional de geografía es el primer latinoamericano en recibir esta distinción
 titulo::acelerar el suministro de minerales críticos facilitación de proyectos y precios preferentes las claves del acuerdo que firmó chile con estados unidos
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
@@ -1273,6 +1277,7 @@ titulo::las lagunas comienzan a llenarse en san bernardo y el proyecto cerro che
 titulo::las noticias clave del sector tecnológico que están marcando la semana en chile
 titulo::las nuevas y efectivas terapias para combatir las enfermedades inflamatorias intestinales
 titulo::las primeras cifras de la red de adquirencia de banco de chile tras su lanzamiento a fines del 2025
+titulo::las señales del ipom qué explica la caída en la inversión y el crecimiento para 2026 y el mejor panorama para 2027
 titulo::las sospechas que vinculan a chileno deportado por el ice en eeuu con las amenazas de muerte al alcalde de peñalolén
 titulo::las zapatillas todoterreno de merrell que conquistan el trail running en chile
 titulo::latam airlines anota mayor alza desde fines de 2023 tras resultados récord y expectativas de acuerdo en medio oriente
@@ -1384,6 +1389,7 @@ titulo::ofensa moral grave comunidad palestina de chile rechaza participación d
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
 titulo::operación tokio el after que terminó en masacre y llevó a desmantelar la red de lavado de dinero del tren de aragua y detener a un ejecutivo bancario
+titulo::ops dona vitrinas clínicas de almacenamiento de vacunas al programa nacional de inmunizaciones
 titulo::pablo milad por la ley sadp guardiola o pellegrini no vendrían a chile si una comisión técnica les elige los jugadores
 titulo::pablo ruiztagle candidato a la rectoría de la universidad de chile estudiaré todas las acciones legales para que clark dé un paso al costado
 titulo::padre de nicolás zepeda declaró en juicio de su hijo recibió cuatro invitaciones para fugarse de chile
