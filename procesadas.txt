@@ -793,6 +793,8 @@ https://www.theclinic.cl/2026/06/15/parque-metropolitano-cerros-renca-alianza/
 https://www.theclinic.cl/2026/06/16/97-mil-estudiantes-que-salieron-de-cuarto-medio-ingresaron-a-la-educacion-superior-este-ano-marcando-record-historico-quintiles-mas-bajos-registraron-su-mayor-alza/
 https://www.theclinic.cl/2026/06/16/el-ambicioso-plan-de-latamvet-la-red-de-clinicas-veterinarias-chilena-que-proyecta-alcanzar-50-centros-medicos-y-expandirse-por-sudamerica/
 https://www.theclinic.cl/2026/06/17/geografo-chileno-obtiene-importante-premio-internacional-de-geografia-es-el-primer-latinoamericano-en-recibir-esta-distincion/
+https://www.theclinic.cl/2026/06/17/la-nueva-cara-del-bandejon-central-de-la-alameda-tendra-mas-areas-verdes-iluminacion-y-accesibilidad-universal/
+https://www.theclinic.cl/2026/06/17/millonaria-inversion-y-apertura-al-delivery-la-estrategia-del-emblematico-kiosko-roca-de-punta-arenas-para-repuntar-tras-bordear-la-quiebra/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -841,6 +843,7 @@ titulo::así es ada la plataforma pionera de ia lanzada por la unab para acelera
 titulo::así es el ambicioso proyecto del mercado de providencia que construye una empresa que demandó al estado
 titulo::así es uber mujeres la nueva opción de la app que llega a chile y que prioriza el encuentro entre pasajeras y conductoras
 titulo::así fue la emotiva liberación de crías de ñandú en el parque nacional patagonia
+titulo::así se verá la nueva cara que tendrá el bandejón central de la alameda con más áreas verdes rutas peatonales y mejor iluminación
 titulo::así será el proyecto que busca transformar el polígono diagonal paraguay obras parten en agosto y costará más de 1000 millones
 titulo::así será la ciudad sanitaria de la platina el conjunto de centros de salud que acompañará a 4500 nuevas viviendas en la pintana
 titulo::así será la nueva casa matriz que el banco santander chile abrirá en 2027
@@ -1329,6 +1332,7 @@ titulo::metro refuerza trabajos de sanitización tras denuncia sobre presencia d
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
 titulo::migración e inclusión financiera el desafío pendiente para integrarse plenamente en chile
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
+titulo::millonaria inversión y apertura al delivery la estrategia del emblemático kiosko roca de punta arenas para repuntar tras bordear la quiebra
 titulo::mineduc entrega más de 171 mil beneficios estudiantiles para la educación superior 2026 y habilitó proceso de apelación en línea
 titulo::ministerio de trabajo solicita ampliación de plazo de indicaciones a proyecto de sala cuna
 titulo::ministra arzola valora esfuerzos regionales para fortalecer la educación en antofagasta
