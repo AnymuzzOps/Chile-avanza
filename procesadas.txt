@@ -568,6 +568,7 @@ https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con
 https://www.minsal.cl/minsal-y-primera-dama-llaman-a-inmunizar-a-mas-de-6-mil-lactantes-contra-el-virus-respiratorio-sincicial/
 https://www.minsal.cl/ops-dona-vitrinas-clinicas-de-almacenamiento-de-vacunas-al-programa-nacional-de-inmunizaciones/
 https://www.minsal.cl/para-reducir-tiempos-de-espera-odontologica-ministerio-de-salud-inicia-alianza-estrategica-con-universidades-de-todo-el-pais/
+https://www.minsal.cl/por-aumento-de-influenza-minsal-habilita-buscador-de-vacunatorios-abiertos-los-fines-de-semana/
 https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstructiva-cambia-la-vida-de-pacientes-de-chiloe/
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
 https://www.minsal.cl/region-de-tarapaca-en-el-hospital-de-iquique-presentan-proyecto-de-capital-humano-especializado/
@@ -1422,6 +1423,7 @@ titulo::podría potenciar la atención primaria científicos chilenos validan ex
 titulo::poduje anuncia aprobación de emblemático programa de vivienda que quiroz sugirió descontinuar inversión es de 46 mil millones
 titulo::poduje anuncia casas sociales cerca del colegio nido de águilas y parque arauco
 titulo::ponen en venta oficinas y placa comercial del edificio del hotel w en el golf son más de 20 mil metros cuadrados y operación superaría los us 130 millones
+titulo::por aumento de influenza minsal habilita buscador de vacunatorios abiertos los fines de semana
 titulo::por qué deberías empezar a usar inteligencia artificial si tienes una pyme en chile
 titulo::por recortes presupuestarios ministra de ciencias confirma suspensión de becas de magíster y posdoctorados en el extranjero
 titulo::por unanimidad senado aprueba proyecto que evita que condenados por vif accedan a pensión de sobrevivencia
