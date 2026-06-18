@@ -436,6 +436,7 @@ https://www.latercera.com/pulso/noticia/hacienda-ingresa-proyecto-que-sube-salar
 https://www.latercera.com/pulso/noticia/hay-casi-1700-opticas-en-chile-rotter-krauss-y-gmo-lideran-un-mercado-atomizado/
 https://www.latercera.com/pulso/noticia/hermann-gonzalez-si-el-conflicto-se-acaba-durante-abril-la-economia-chilena-puede-sortear-exitosamente-sus-efectos/
 https://www.latercera.com/pulso/noticia/ilc-sube-sus-ganancias-impulsadas-por-mejor-desempeno-de-sus-filiales-financieras/
+https://www.latercera.com/pulso/noticia/indisa-vende-su-participacion-en-el-hospital-clinico-vina-del-mar-a-redinterclinica/
 https://www.latercera.com/pulso/noticia/industria-minera-en-chile-ahorraria-mas-de-us-500-millones-al-ano-si-optara-por-infraestructura-hidrica-compartida/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
 https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
@@ -796,7 +797,9 @@ https://www.theclinic.cl/2026/06/16/el-ambicioso-plan-de-latamvet-la-red-de-clin
 https://www.theclinic.cl/2026/06/17/geografo-chileno-obtiene-importante-premio-internacional-de-geografia-es-el-primer-latinoamericano-en-recibir-esta-distincion/
 https://www.theclinic.cl/2026/06/17/la-nueva-cara-del-bandejon-central-de-la-alameda-tendra-mas-areas-verdes-iluminacion-y-accesibilidad-universal/
 https://www.theclinic.cl/2026/06/17/millonaria-inversion-y-apertura-al-delivery-la-estrategia-del-emblematico-kiosko-roca-de-punta-arenas-para-repuntar-tras-bordear-la-quiebra/
+https://www.theclinic.cl/2026/06/18/estudio-uai-revela-que-municipios-impugnan-solo-el-1-de-los-proyectos-ambientales-en-chile-pero-uno-de-cada-tres-termina-paralizado-cuando-se-oponen/
 https://www.theclinic.cl/2026/06/18/fundador-y-ceo-de-amipass-adelanta-acciones-ante-tribunales-contra-sodexo-y-edenred-por-presunta-colusion-vamos-a-ir-con-todo/
+https://www.theclinic.cl/2026/06/18/un-ambicioso-y-agresivo-plan-de-expansion-kitchen-center-abre-nuevo-local-en-concon-y-apuesta-por-seguir-creciendo-fuera-de-santiago/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1200,6 +1203,7 @@ titulo::ignacio briones chile no es un país quebrado
 titulo::ilc sube sus ganancias impulsadas por mejor desempeño de las filiales financieras
 titulo::impacto mundial encuentran una cápsula del tiempo con vida milenaria en el desierto de chile
 titulo::impacto por ruido para sapo de cuatro ojos las exigencias de organismos públicos a megaproyecto eólico de us 510 millones
+titulo::indisa vende su participación en el hospital clínico viña del mar a redinterclinica
 titulo::industria minera en chile ahorraría más de us 500 millones al año si optara por infraestructura hídrica compartida
 titulo::ine tasa de desempleo en chile se ubica en 83 en trimestre diciembre 2025febrero 2026 y encadena más de tres años sin bajar del 8
 titulo::ingeniero chileno creó un software que permite reducir aglomeraciones en el transporte público tuvo sus primeros ensayos en la línea 1
@@ -1370,6 +1374,7 @@ titulo::mujeres conductoras en el transporte público santiago avanza hacia un s
 titulo::mujeres están postergando su edad de jubilación para acceder a más beneficios de la reforma previsional
 titulo::municipalidad de huechuraba y claro inician segunda etapa del programa de reforestación del futuro parque el rosal
 titulo::municipio de monte patria deberá pagar 280 millones a familia de menor fallecido por covid que no recibió atención oportuna
+titulo::municipios paralizan uno de tres proyectos ambientales cuando se oponen pero estudio revela que solo impugnan el 1 de las iniciativas
 titulo::municipios se reúnen en seminario que abordó la crisis hídrica del país y la búsqueda de soluciones concretas en el marco de la alianza público  privada
 titulo::más de 17 millones de personas activaron subsidio al gas en su primer día
 titulo::más de 550 productos made in chile tecnología minera nacional exporta más de us1200 millones
@@ -1562,6 +1567,7 @@ titulo::tribunal ambiental rechaza reclamos de vecinos y da luz verde a data cen
 titulo::tribunal ambiental responde a collahuasi por fallo judicial que retrotrae proyecto por us3200 millones
 titulo::tribunal retrotrae rca de proyecto minero de collahuasi con inversión por us 3200 millones
 titulo::udi presiona por recorte en el congreso y realiza estudio de costos casi 40 millones es el gasto extra por diputados nuevos desde reforma de bachelet
+titulo::un ambicioso y agresivo plan de expansión kitchen center abre nuevo local en concón y apuesta por seguir creciendo fuera de santiago
 titulo::un arbitrario mega proyecto inmobiliario en ñuñoa por patricio herman y rodolfo acha
 titulo::un bochorno político que daña el prestigio de chile bancada ps condena retiro del apoyo a candidatura de michelle bachelet en la onu
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
