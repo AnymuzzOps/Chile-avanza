@@ -426,6 +426,7 @@ https://www.latercera.com/pulso/noticia/estudio-juridico-espanol-garrigues-adqui
 https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico-de-ventas-totaliza-us62-millones-y-ticket-promedio-sube-33/
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
 https://www.latercera.com/pulso/noticia/familia-angelini-aumenta-su-participacion-en-matriz-de-empresas-copec/
+https://www.latercera.com/pulso/noticia/farmacias-de-la-region-metropolitana-mas-que-se-duplicaron-en-tres-anos/
 https://www.latercera.com/pulso/noticia/fne-pone-bajo-la-lupa-la-toma-de-control-de-clinica-las-condes-por-euroamerica-y-la-alianza-de-enami-y-rio-tinto/
 https://www.latercera.com/pulso/noticia/ganancias-de-parque-arauco-crecen-casi-un-70-en-el-primer-trimestre/
 https://www.latercera.com/pulso/noticia/gasto-en-pensiones-solidarias-subio-6-el-ano-pasado-llego-a-21-del-pib-y-beneficarios-superaron-los-27-millones/
@@ -1157,6 +1158,7 @@ titulo::evento travel sale bate récord histórico de ventas totaliza us62 millo
 titulo::ex bono marzo 2026 hasta cuándo se puede cobrar el aporte familiar permanente en chile antes de perder el dinero
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::familia angelini aumenta su participación en matriz de empresas copec
+titulo::farmacias de la región metropolitana más que se duplicaron en tres años
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
 titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
