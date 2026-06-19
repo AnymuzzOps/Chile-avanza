@@ -565,6 +565,7 @@ https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-par
 https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacion-de-nuevos-medicos-especialistas-para-colchagua-en-la-region-de-ohiggins/
 https://www.minsal.cl/ministra-de-salud-anuncia-expansion-del-hospital-carlos-van-buren-y-presenta-hoja-de-ruta-para-destrabar-historico-proyecto/
 https://www.minsal.cl/ministra-de-salud-anuncia-inicio-del-proceso-para-construir-un-nuevo-hospital-de-alta-complejidad-para-arica/
+https://www.minsal.cl/ministra-de-salud-presenta-estrategia-conjunta-con-metro-de-santiago-para-incentivar-la-vacunacion-en-estas-vacaciones-de-invierno/
 https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construccion-de-nuevo-hospital-del-salvador-que-entrara-en-operacion-en-los-proximos-meses/
 https://www.minsal.cl/minsal-prepara-a-la-red-asistencial-en-la-direccion-estrategica-de-proyectos-en-salud/
 https://www.minsal.cl/minsal-reduce-el-ajuste-fiscal-solicitado-por-hacienda-con-foco-en-eficiencia-y-gestion-sin-afectar-la-atencion-de-pacientes/
@@ -802,6 +803,7 @@ https://www.theclinic.cl/2026/06/17/millonaria-inversion-y-apertura-al-delivery-
 https://www.theclinic.cl/2026/06/18/estudio-uai-revela-que-municipios-impugnan-solo-el-1-de-los-proyectos-ambientales-en-chile-pero-uno-de-cada-tres-termina-paralizado-cuando-se-oponen/
 https://www.theclinic.cl/2026/06/18/fundador-y-ceo-de-amipass-adelanta-acciones-ante-tribunales-contra-sodexo-y-edenred-por-presunta-colusion-vamos-a-ir-con-todo/
 https://www.theclinic.cl/2026/06/18/un-ambicioso-y-agresivo-plan-de-expansion-kitchen-center-abre-nuevo-local-en-concon-y-apuesta-por-seguir-creciendo-fuera-de-santiago/
+https://www.theclinic.cl/2026/06/19/amigo-de-artistas-floyymenor-y-cris-mj-industria-musical-chilena-crece-89-en-2025-superando-lo-us100-millones-en-ingresos-y-se-consolida-en-latinoamerica/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -827,6 +829,7 @@ titulo::alerta oncológica servicios de salud reciben formalmente 154 mil millon
 titulo::alton barron nuevo doctor honoris causa de la unab la inteligencia artificial nunca podrá mirar a los ojos a un paciente
 titulo::alza histórica de combustibles hacienda anuncia aumento de 370 en bencinas y 580 del diésel y plan para mitigar efecto
 titulo::amenazas de muerte y protección policial ser alcalde en chile se vuelve un trabajo peligroso
+titulo::amigo de artistas floyymenor y cris mj industria musical chilena crece 89 en 2025 superando lo us100 millones en ingresos y se consolida en latinoamérica
 titulo::andes salud adquiere el control de clínica imet de la región de magallanes y anuncia expansión del centro de salud
 titulo::andina anuncia inversiones por us500 millones y su presidente llama a recuperar el dinamismo económico
 titulo::andinalos bronces la fne y organismos extranjeros aprueban el plan minero conjunto de codelco y anglo american
@@ -1350,6 +1353,7 @@ titulo::ministra arzola valora esfuerzos regionales para fortalecer la educació
 titulo::ministra de salud anuncia expansión del hospital carlos van buren en valparaíso
 titulo::ministra de salud anuncia expansión del hospital carlos van buren y presenta hoja de ruta para destrabar histórico proyecto
 titulo::ministra de salud anuncia inicio del proceso para construir un nuevo hospital de alta complejidad para arica
+titulo::ministra de salud presenta estrategia conjunta con metro de santiago para incentivar la vacunación en estas vacaciones de invierno
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
 titulo::ministra rincón anuncia dos proyectos de ley para frenar alzas en cuentas de la luz provocadas por retrasos en fijación de tarifas
 titulo::ministro arrau y subsecretario montt supervisan construcción de nuevo hospital del salvador que entrará en operación en los próximos meses
