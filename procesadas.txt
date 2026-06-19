@@ -165,6 +165,7 @@ https://www.lanacion.cl/la-tecnologia-detras-de-las-plataformas-de-casino-en-viv
 https://www.lanacion.cl/las-noticias-clave-del-sector-tecnologico-que-estan-marcando-la-semana-en-chile/
 https://www.lanacion.cl/manifestacion-de-estudiantes-vandalizan-perimetro-del-monumento-a-baquedano/
 https://www.lanacion.cl/ministra-de-salud-anuncia-expansion-del-hospital-carlos-van-buren-en-valparaiso/
+https://www.lanacion.cl/ministra-de-salud-presenta-estrategia-con-metro-para-incrementar-vacunacion/
 https://www.lanacion.cl/minsal-informa-que-uso-de-mascarillas-sera-obligatorio-en-servicios-de-urgencia-entre-el-1-de-abril-y-el-31-de-agosto/
 https://www.lanacion.cl/parvulos-chilenos-tras-la-ruta-del-artemis-ii-visitaran-la-nasa-premiados-por-su-buena-asistencia/
 https://www.lanacion.cl/poduje-anuncia-casas-sociales-cerca-del-colegio-nido-de-aguilas-y-parque-arauco/
@@ -321,6 +322,7 @@ https://www.latercera.com/nacional/noticia/plan-de-invierno-2026-gobierno-de-san
 https://www.latercera.com/nacional/noticia/por-unanimidad-senado-aprueba-proyecto-que-evita-que-condenados-por-vif-accedan-a-pension-de-sobrevivencia/
 https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimiento-que-gesta-para-entrar-al-corazon-del-telescopio-mas-grande-del-mundo/
 https://www.latercera.com/nacional/noticia/presidente-kast-presenta-proyecto-de-mejora-de-la-carretera-austral/
+https://www.latercera.com/nacional/noticia/programa-buses-de-la-justicia-contabiliza-atenciones-a-mas-de-186-mil-personas-con-orientacion-gratuita/
 https://www.latercera.com/nacional/noticia/proyecto-bosques-alcanza-20-mil-hectareas-intervenidas-y-beneficia-a-mas-de-7-mil-propietarios/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/senado-despacha-proyecto-que-protege-identidad-registral-de-vehiculos-policiales/
@@ -428,6 +430,7 @@ https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresari
 https://www.latercera.com/pulso/noticia/familia-angelini-aumenta-su-participacion-en-matriz-de-empresas-copec/
 https://www.latercera.com/pulso/noticia/farmacias-de-la-region-metropolitana-mas-que-se-duplicaron-en-tres-anos/
 https://www.latercera.com/pulso/noticia/fne-pone-bajo-la-lupa-la-toma-de-control-de-clinica-las-condes-por-euroamerica-y-la-alianza-de-enami-y-rio-tinto/
+https://www.latercera.com/pulso/noticia/fondo-estadounidense-apollo-global-management-controlara-a-la-chilena-vidrios-lirquen/
 https://www.latercera.com/pulso/noticia/ganancias-de-parque-arauco-crecen-casi-un-70-en-el-primer-trimestre/
 https://www.latercera.com/pulso/noticia/gasto-en-pensiones-solidarias-subio-6-el-ano-pasado-llego-a-21-del-pib-y-beneficarios-superaron-los-27-millones/
 https://www.latercera.com/pulso/noticia/gobierno-confirma-continuidad-del-subsidio-electrico-y-busca-formula-para-deuda-de-distribuidoras/
@@ -469,6 +472,7 @@ https://www.latercera.com/pulso/noticia/presentan-proyecto-eolico-por-mas-de-us5
 https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-por-el-historico-apagon-de-2025-nos-dejo-una-gran-leccion-de-resiliencia/
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/primeros-avances-en-la-ley-de-ferias-libres-indican-cerca-de-12000-contribuyentes-inscritos/
+https://www.latercera.com/pulso/noticia/proyecto-por-us500-millones-para-continuidad-operacional-de-minera-mantos-blancos-ingresa-a-tramite-ambiental/
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-mineria-inversiones-gobierno-peligroso-sin-cuentas-ordenadas/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
@@ -559,6 +563,7 @@ https://www.mineduc.cl/subsecretaria-de-educacion-superior-entrega-mas-de-751-mi
 https://www.mineduc.cl/ultimos-dias-para-postular-a-beneficios-estudiantiles-en-educacion-superior-2026/
 https://www.minsal.cl/alerta-oncologica-servicios-de-salud-reciben-formalmente-154-mil-millones-para-ejecutar-plan-de-atencion-a-33-mil-pacientes-con-espera-prolongada/
 https://www.minsal.cl/campana-de-vacunacion-ministra-de-salud-refuerza-llamado-a-proteger-de-la-influenza-a-la-poblacion-escolar/
+https://www.minsal.cl/chile-fortalece-la-cooperacion-regional-en-reunion-de-ministros-de-salud-del-mercosur/
 https://www.minsal.cl/de-donantes-vivos-cuatro-hospitales-publicos-realizan-inedito-trasplante-quintuple-cruzado-de-rinon-en-chile/
 https://www.minsal.cl/en-el-dia-mundial-de-la-salud-presidente-kast-minsal-y-alcalde-de-santiago-destacan-la-efectividad-del-programa-nacional-de-vacunacion/
 https://www.minsal.cl/hospital-de-arica-incorporo-nuevos-electrocardiografos-para-fortalecer-diagnostico-y-atencion-de-pacientes/
@@ -931,6 +936,7 @@ titulo::chile cambia la hora el próximo sábado por qué se originó esta medid
 titulo::chile day presidenta del banco central anuncia  medidas para expandir pagos con transferencias electrónicas y marco regulatorio para stablecoins
 titulo::chile encabeza alza de los combustibles en la ocde tras salto del petróleo pero tiene uno de los precios más bajos del bloque
 titulo::chile es un país que envejeció muy rápido la apuesta del centro de salud mayor por la atención especializada de adultos mayores
+titulo::chile fortalece la cooperación regional en reunión de ministros de salud del mercosur
 titulo::chile fortalece liderazgo mundial en ciruela deshidratada con certificación sustentable y nuevo apl para la producción primaria
 titulo::chile inscribe en la sec de estados unidos un programa de us 6000 millones para futuras emisiones de deuda externa
 titulo::chile interrumpe envío de gas argentino en ñuble y biobío por incumplimiento normativo
@@ -1165,6 +1171,7 @@ titulo::farmacias de la región metropolitana más que se duplicaron en tres añ
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
 titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
+titulo::fondo estadounidense apollo global management controlará a la chilena vidrios lirquén
 titulo::froens la marca chilena que vive una nueva etapa de crecimiento y transformación
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
 titulo::fundador y ceo de amipass adelanta acciones ante tribunales contra pluxee y edenred por presunta colusión vamos a ir con todo
@@ -1353,6 +1360,7 @@ titulo::ministra arzola valora esfuerzos regionales para fortalecer la educació
 titulo::ministra de salud anuncia expansión del hospital carlos van buren en valparaíso
 titulo::ministra de salud anuncia expansión del hospital carlos van buren y presenta hoja de ruta para destrabar histórico proyecto
 titulo::ministra de salud anuncia inicio del proceso para construir un nuevo hospital de alta complejidad para arica
+titulo::ministra de salud presenta estrategia con metro para incrementar vacunación
 titulo::ministra de salud presenta estrategia conjunta con metro de santiago para incentivar la vacunación en estas vacaciones de invierno
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
 titulo::ministra rincón anuncia dos proyectos de ley para frenar alzas en cuentas de la luz provocadas por retrasos en fijación de tarifas
@@ -1458,9 +1466,11 @@ titulo::pricesmart cadena de supermercados estadounidense llega a chile y antici
 titulo::primeros avances en la ley de ferias libres indican cerca de 12000 contribuyentes inscritos
 titulo::probado en catemu el invento que puede revolucionar la extracción de cobre
 titulo::probado en nogales el invento que puede revolucionar la extracción de cobre
+titulo::programa buses de la justicia contabiliza atenciones a más de 186 mil personas con orientación gratuita
 titulo::programa de mejoramiento de viviendas quiénes pueden postular y cuáles son sus montos
 titulo::proyecto bosques alcanza 20 mil hectáreas intervenidas y beneficia a más de 7 mil propietarios
 titulo::proyecto nueva alameda así será el nuevo cruce peatonal en lira que reemplazará el paso bajo nivel
+titulo::proyecto por us500 millones para continuidad operacional de minera mantos blancos ingresa a trámite ambiental
 titulo::puede alterar procesos celulares asociados a la atrofia muscular estudio chileno evidenció los efectos poco explorados del botox
 titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
