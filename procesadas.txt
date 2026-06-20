@@ -69,6 +69,7 @@ https://www.ex-ante.cl/autoridad-ambiental-aprueba-linea-8-del-metro-que-conecta
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-megaproyecto-del-puerto-exterior-de-san-antonio-por-us-4-450-millones-tras-seis-anos-de-tramitacion/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-la-mayor-desaladora-en-chile-por-us-5-000-millones/
 https://www.ex-ante.cl/autoridad-ambiental-aprueba-proyecto-de-tierras-raras-por-us-130-millones-tras-enfrentar-2-100-observaciones-en-dos-anos/
+https://www.ex-ante.cl/balanza-comercial-alta-y-cobre-record-la-luz-externa-que-deja-el-ipom-pese-al-frenazo/
 https://www.ex-ante.cl/banco-central-aumenta-reservas-de-oro-durante-marzo-y-las-deposita-en-londres/
 https://www.ex-ante.cl/banco-central-chile-avanza-en-el-pago-digital-pero-el-efectivo-se-niega-a-desaparecer/
 https://www.ex-ante.cl/bank-of-america-se-enfria-el-optimismo-global-y-chile-aparece-como-el-mejor-de-la-region-andina/
@@ -885,6 +886,7 @@ titulo::avanza la línea 8 tras recomendación del sea de aprobar estudio ambien
 titulo::avellanas se suman a los productos en los que chile es el mayor exportador mundial
 titulo::avión comercial proveniente de atlanta tuvo que aterrizar de emergencia en el aeropuerto de antofagasta
 titulo::aza y mercado del acero es fundamental una competencia justa y en igualdad de condiciones
+titulo::balanza comercial alta y cobre récord la luz externa que deja el ipom pese al frenazo
 titulo::banco central aumenta reservas de oro durante marzo y las deposita en londres
 titulo::banco central baja crecimiento sube inflación y alerta por los efectos del alza del petróleo
 titulo::banco central chile avanza en el pago digital pero el efectivo se niega a desaparecer
