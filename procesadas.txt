@@ -324,6 +324,7 @@ https://www.latercera.com/nacional/noticia/presidente-checo-en-chile-el-movimien
 https://www.latercera.com/nacional/noticia/presidente-kast-presenta-proyecto-de-mejora-de-la-carretera-austral/
 https://www.latercera.com/nacional/noticia/programa-buses-de-la-justicia-contabiliza-atenciones-a-mas-de-186-mil-personas-con-orientacion-gratuita/
 https://www.latercera.com/nacional/noticia/proyecto-bosques-alcanza-20-mil-hectareas-intervenidas-y-beneficia-a-mas-de-7-mil-propietarios/
+https://www.latercera.com/nacional/noticia/refuerzan-red-de-vacunacion-contra-la-influenza-ante-bajas-inoculaciones-en-grupos-de-riesgo/
 https://www.latercera.com/nacional/noticia/se-inicia-restauracion-ecologica-para-proteger-al-pinguino-de-humboldt-en-isla-cachagua/
 https://www.latercera.com/nacional/noticia/senado-despacha-proyecto-que-protege-identidad-registral-de-vehiculos-policiales/
 https://www.latercera.com/nacional/noticia/sin-ser-prioridad-para-el-ejecutivo-gore-de-la-rm-toma-el-guante-y-proyecta-820-nuevos-kilometros-de-ciclovias/
@@ -1493,6 +1494,7 @@ titulo::recuperación del eje bandera obras alcanzan 67 de avance
 titulo::red movilidad estrenará dos nuevas micros este fin de semana revisa los nuevos recorridos que conectarán la pintana con puente alto y macul con la florida
 titulo::red movilidad tendrá el primer bus a base de hidrógeno en chile en agosto será presentado y estaría en las calles a inicios de 2027
 titulo::reemplaza eficazmente compuestos químicos mucho más tóxicos chilenos crean material sustentable para detectar fármacos en el agua
+titulo::refuerzan red de vacunación contra la influenza ante bajas inoculaciones en grupos de riesgo
 titulo::región de atacama capstone copper planea nueva inversión de casi us 30 millones en mantoverde
 titulo::región de los lagos operativo de cirugía plástica reconstructiva cambia la vida de pacientes de chiloé
 titulo::región de magallanes porvenir y puerto williams se suman a la atención de neurología por telemedicina
