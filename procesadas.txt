@@ -121,6 +121,7 @@ https://www.ex-ante.cl/shield-ai-startup-que-fabrica-drones-militares-recauda-us
 https://www.ex-ante.cl/shock-petrolero-y-alza-de-combustibles-frenan-bajas-de-tasas-banco-central-mantiene-la-tpm-en-45/
 https://www.ex-ante.cl/temucuicui-desafia-al-gobierno-nuestro-territorio-es-mapuche-no-chileno/
 https://www.ex-ante.cl/una-cronica-de-vigilancia-en-un-mundo-que-aprende-a-esconderse-por-natalia-aranguiz/
+https://www.ex-ante.cl/zoom-al-portafolio-de-territoria-los-proyectos-con-los-que-la-firma-detras-del-mut-expande-su-modelo-en-santiago/
 https://www.fayerwayer.com/ciencia/2026/03/25/cientificos-recrean-un-nido-de-dinosaurios-y-resuelven-un-misterio-de-70-millones-de-anos/
 https://www.fayerwayer.com/ciencia/2026/04/06/impacto-mundial-encuentran-una-capsula-del-tiempo-con-vida-milenaria-en-el-desierto-de-chile/
 https://www.fayerwayer.com/entretenimiento/2026/03/26/cuando-se-estrena-la-serie-de-harry-potter-esta-es-la-fecha-oficial/
@@ -1624,5 +1625,6 @@ titulo::walmart nombra a una estadounidense de larga trayectoria dentro de la fi
 titulo::xiaomi lanza su nuevo ecosistema de hogar inteligente en chile
 titulo::ya están disponibles los resultados del subsidio de arriendo revisa los datos de la postulación de 2025
 titulo::zelenski se reúne con el presidente de siria para negociar nuevos acuerdos de seguridad
+titulo::zoom al portafolio de territoria los proyectos con los que la firma detrás del mut expande su modelo en santiago
 titulo::último gran análisis de mercado predice preocupante futuro para el cobre
 titulo::últimos días para postular a beneficios estudiantiles en educación superior 2026
