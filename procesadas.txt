@@ -224,6 +224,7 @@ https://www.latercera.com/emprendimiento/noticia/startups-pymes-y-grandes-empres
 https://www.latercera.com/lt-board/noticia/alton-barron-nuevo-doctor-honoris-causa-de-la-unab-la-inteligencia-artificial-nunca-podra-mirar-a-los-ojos-a-un-paciente/
 https://www.latercera.com/lt-board/noticia/apostando-a-la-prevencion-el-desafio-invisible-de-la-ludopatia-adolescente-en-chile/
 https://www.latercera.com/lt-board/noticia/asi-es-ada-la-plataforma-pionera-de-ia-lanzada-por-la-unab-para-acelerar-la-investigacion-cientifica/
+https://www.latercera.com/lt-board/noticia/universidad-andres-bello-y-clinica-las-condes-presentan-su-alianza-estrategica-para-fortalecer-la-formacion-en-salud/
 https://www.latercera.com/mineria/noticia/electricidad-y-mineria-alianza-geoestrategica-desde-chile/
 https://www.latercera.com/mineria/noticia/la-mayor-cartera-de-proyectos-de-la-historia-de-chile-daniel-mas-cuenta-los-planes-para-impulsar-la-mineria/
 https://www.latercera.com/mineria/noticia/litio-cobre-plata-el-agresivo-plan-de-bolivia-para-convertirse-en-lider-mundial-en-mineria/
@@ -1603,6 +1604,7 @@ titulo::un bochorno político que daña el prestigio de chile bancada ps condena
 titulo::un estudiante de un colegio del norte de chile en calama mata a una docente y hiere a otras cuatro personas
 titulo::un humedal de bolsillo para chile
 titulo::una crónica de vigilancia en un mundo que aprende a esconderse por natalia aránguiz
+titulo::universidad andrés bello y clínica las condes presentan su alianza estratégica para fortalecer la formación en salud
 titulo::universidad católica sufre inesperado atraso en su vuelo y llegará con lo justo para enfrentar a cobresal despegan a las 13 horas y juegan a las 18 horas
 titulo::universidad de chile trae al premio nobel de economía guido imbens y ali rauh directora de applied science uber
 titulo::valparaíso aprueba adjudicación para histórica remodelación de la plaza sotomayor contará con inversión de 3370 millones
