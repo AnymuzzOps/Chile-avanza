@@ -447,6 +447,7 @@ https://www.latercera.com/pulso/noticia/ilc-sube-sus-ganancias-impulsadas-por-me
 https://www.latercera.com/pulso/noticia/indisa-vende-su-participacion-en-el-hospital-clinico-vina-del-mar-a-redinterclinica/
 https://www.latercera.com/pulso/noticia/industria-minera-en-chile-ahorraria-mas-de-us-500-millones-al-ano-si-optara-por-infraestructura-hidrica-compartida/
 https://www.latercera.com/pulso/noticia/internet-fijo-chile-registra-la-banda-ancha-mas-economica-de-america-latina-segun-jpmorgan/
+https://www.latercera.com/pulso/noticia/inversion-aprobada-ambientalmente-en-primeros-100-dias-de-kast-marca-record-y-supera-a-la-de-tres-gobiernos-anteriores/
 https://www.latercera.com/pulso/noticia/inversion-proyectada-en-la-construccion-alcanza-record-pero-advierten-de-deficit-de-mano-de-obra-calificada-para-ejecutarla/
 https://www.latercera.com/pulso/noticia/itau-chile-renueva-su-directorio-con-la-llegada-de-un-exhistorico-de-santander-y-aprueba-dividendo-mayor-a-los-pasados/
 https://www.latercera.com/pulso/noticia/jose-mujica-el-nuevo-vicepresidente-ejecutivo-de-corfo/
@@ -1234,6 +1235,7 @@ titulo::ingeniero chileno creó un software que permite reducir aglomeraciones e
 titulo::inicia horario de invierno qué hora es oficialmente en chile
 titulo::iniciativa chilena apunta a reducir el impacto ambiental de la calefacción a leña con biofiltración
 titulo::inria chile impulsa dos proyectos binacionales en inteligencia artificial
+titulo::inversión aprobada ambientalmente en primeros 100 días de kast marca récord y supera a la de tres gobiernos anteriores
 titulo::inversión proyectada en la construcción alcanza récord pero advierten de déficit de mano de obra calificada para ejecutarla
 titulo::investigador chileno simuló un terremoto 67 en la falla de san ramón esto fue lo que pasó
 titulo::investigadores chilenos reciben reconocimiento internacional por avance en inteligencia artificial
