@@ -59,6 +59,7 @@ https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-re
 https://elpais.com/chile/2026-06-09/ex-bono-marzo-2026-hasta-cuando-se-puede-cobrar-el-aporte-familiar-permanente-en-chile-antes-de-perder-el-dinero.html
 https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presiona-al-senado-de-chile-sobre-el-levantamiento-del-secreto-bancario.html
 https://elpais.com/chile/2026-06-14/los-pinguinos-papua-no-eran-todos-iguales-un-estudio-liderado-por-chilenos-identifica-una-nueva-especie.html
+https://elpais.com/chile/2026-06-22/condonacion-de-intereses-y-multas-por-deudas-tributarias-en-chile-como-acceder-al-beneficio.html
 https://elpais.com/chile/2026-06-22/pdi-de-chile-encuentra-a-52-de-64-ninos-haitianos-que-estaban-inubicables-estaban-con-sus-familias-y-escolarizados.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
@@ -310,6 +311,7 @@ https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-for
 https://www.latercera.com/nacional/noticia/mas-de-17-millones-de-personas-activaron-subsidio-al-gas-en-su-primer-dia/
 https://www.latercera.com/nacional/noticia/megatoma-cde-inicia-ofensiva-para-bajar-en-6759-millones-el-pago-por-la-expropiacion-y-pide-retener-dineros-en-disputa/
 https://www.latercera.com/nacional/noticia/metro-de-santiago-informa-estaciones-fuera-de-servicio-en-la-linea-5/
+https://www.latercera.com/nacional/noticia/metro-inaugura-puertas-en-anden-de-san-pablo-sistema-se-aplicara-en-otras-cinco-estaciones-este-ano/
 https://www.latercera.com/nacional/noticia/mideso-prepara-ingreso-de-proyecto-de-ley-que-buscara-restringir-el-ingreso-de-menores-de-edad-a-redes-sociales/
 https://www.latercera.com/nacional/noticia/ministro-poduje-anuncia-proyectos-de-viviendas-sociales-cerca-del-nido-de-aguilas-y-del-parque-arauco/
 https://www.latercera.com/nacional/noticia/ministro-poduje-recalca-que-minvu-avanza-segun-lo-programado-en-reconstruccion-de-penco/
@@ -1012,6 +1014,7 @@ titulo::con inteligencia artificial municipio de renca firma inédito acuerdo pa
 titulo::con la animación de martín cárcamo y fecha de estreno confirmada canal 13 afina detalles de su nueva apuesta por el humor liderada por luis slimming
 titulo::con una inversión de más de 1000 millones el gobierno de santiago busca remodelar el polígono de diagonal paraguay
 titulo::conaf exigirá guía y equipamiento obligatorio en torres del paine por inicio anticipado de temporada invernal
+titulo::condonación de intereses y multas por deudas tributarias en chile cómo acceder al beneficio del sii y la tesorería
 titulo::confirman la fecha de llegada de wegovy a chile el tratamiento más fuerte que ozempic para el manejo de la obesidad
 titulo::confluencia impulsa innovación en economía azul en biobío
 titulo::congelamiento a precio del transporte público y subsidio a taxis gobierno anuncia siete medidas para enfrentar alza histórica de combustibles
@@ -1375,6 +1378,7 @@ titulo::meta openai nvidia y google la gira del gobierno para atraer inversión 
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::metro de santiago informa normalización de servicios en la línea 5
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
+titulo::metro inaugura puertas en andén de san pablo sistema se aplicará en otras cinco estaciones este año
 titulo::metro refuerza trabajos de sanitización tras denuncia sobre presencia de ratones en la estación universidad de chile
 titulo::microdatos de la u de chile nuevamente se adjudica el trabajo de campo de la encuesta casen 2026
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
