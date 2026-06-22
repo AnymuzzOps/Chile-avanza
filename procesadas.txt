@@ -26,6 +26,7 @@ https://cambio21.cl/politica/siguen-las-malas-noticias-banco-central-se-hace-eco
 https://cambio21.cl/tendencias/autoridades-rusas-niegan-presunta-campana-de-desinformacion-contra-gobierno-de-milei-intentaban-provocar-una-supuesta-crisis-diplomatica-entre-argentina-y-chile-69d11f5016c2500abb0fc5a3
 https://cambio21.cl/tendencias/chileactores-gana-a-gigante-amazon-justicia-ordena-pagar-6-500-millones-6a1f289fcf79a211e9575123
 https://cambio21.cl/tendencias/el-crecimiento-de-los-casinos-online-y-el-desafio-del-estado-chileno-69cd7199ed484c348801ff72
+https://cambio21.cl/tendencias/fonasa-inicio-la-devolucion-de-mas-de-6-mil-millones-de-cotizaciones-en-exceso-revisa-como-saber-si-eres-beneficiario-y-cuando-se-paga-el-dinero-6a398a407fe335334f7b3513
 https://cambio21.cl/tendencias/mala-noticia-entrega-el-imacec-actividad-economica-cae-0-3-en-febrero-y-crecimiento-es-de-0-6-en-12-meses-69cd150a9392b70ae066d8bb
 https://cambio21.cl/tendencias/por-recortes-presupuestarios-ministra-de-ciencias-confirma-suspension-de-becas-de-magister-y-posdoctorados-en-el-extranjero-69c2e10496d85030f33dc0a3
 https://cambio21.cl/tendencias/tesoreria-inicia-embargos-y-retenciones-a-mas-de-mil-deudores-del-cae-con-ingresos-sobre-los-5-millones-69eaa58192ea9624bb71dff5
@@ -84,6 +85,7 @@ https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millo
 https://www.ex-ante.cl/como-han-evolucionado-los-directorios-de-startups-en-chile-por-luis-hernan-paul/
 https://www.ex-ante.cl/como-la-dupla-quiroz-toledo-impulso-el-record-de-inversion-de-us-22-258-millones-en-dos-meses/
 https://www.ex-ante.cl/cuales-son-las-siete-favoritas-del-mercado-las-razones-detras-del-rally-de-las-acciones-que-lideran-el-ipsa-en-2026/
+https://www.ex-ante.cl/cuales-son-los-principales-proyectos-que-impulsaron-el-record-de-inversion-aprobado-en-los-primeros-100-dias-de-kast/
 https://www.ex-ante.cl/cyberday-2026-ventas-llegan-a-us531-millones-y-ticket-promedio-fue-de-us104-por-compra/
 https://www.ex-ante.cl/duenos-de-lundin-mining-y-megaproyecto-minero-vicuna-es-uno-de-los-yacimientos-mas-grandes-de-los-ultimos-30-anos/
 https://www.ex-ante.cl/el-equipo-de-la-mayorista-estadounidense-pricesmart-para-competir-con-los-gigantes-del-retail-chileno/
@@ -469,6 +471,7 @@ https://www.latercera.com/pulso/noticia/mas-ia-menos-hidrogeno-verde-la-agenda-d
 https://www.latercera.com/pulso/noticia/megarreforma-del-gobierno-impuesto-a-empresas-baja-a-23-a-2029-y-medida-para-empleo-beneficiaria-a-mas-de-4-millones-de-personas/
 https://www.latercera.com/pulso/noticia/megarreforma-hacienda-proyecta-una-recaudacion-de-hasta-us800-millones-por-nueva-ventana-para-retirar-el-fut/
 https://www.latercera.com/pulso/noticia/mercado-reduce-proyeccion-de-inflacion-para-2026-pero-tambien-recorta-la-estimacion-de-crecimiento-economico/
+https://www.latercera.com/pulso/noticia/microdatos-de-la-u-de-chile-nuevamente-se-adjudica-levantamiento-encuesta-casen-2026/
 https://www.latercera.com/pulso/noticia/ministerio-de-trabajo-solicita-ampliacion-de-plazo-de-indicaciones-a-proyecto-de-sala-cuna/
 https://www.latercera.com/pulso/noticia/mop-llama-a-licitacion-para-nueva-carcel-en-calama-presupuesto-de-la-obra-asciende-a-us-394-millones/
 https://www.latercera.com/pulso/noticia/muchas-gracias-por-todo-la-sentida-despedida-de-la-presidenta-global-de-santander-ana-botin-al-chileno-claudio-melandri/
@@ -822,6 +825,7 @@ https://www.theclinic.cl/2026/06/19/red-movilidad-tendra-el-primer-bus-a-base-de
 https://www.theclinic.cl/2026/06/20/como-es-el-nuevo-hospital-del-salvador-tras-154-anos-prepara-su-cambio-de-casa-a-un-complejo-que-duplica-su-tamano-y-capacidad/
 https://www.theclinic.cl/2026/06/20/reabren-piscina-olimpica-temperada-del-parque-ohiggins-tras-inversion-de-1-550-millones-y-con-descuentos-de-hasta-un-34-para-vecinos-de-santiago-mira-los-detalles/
 https://www.theclinic.cl/2026/06/22/la-nueva-cara-de-la-linea-1-con-la-primera-instalacion-completa-de-puertas-en-el-anden-en-san-pablo-metro-confirma-avances-en-nuevas-estaciones/
+https://www.theclinic.cl/2026/06/22/se-estima-necesario-reconsiderar-la-ejecucion-conaset-solicita-continuar-con-la-ciclovia-de-la-alameda-pese-a-la-negativa-de-poduje-al-proyecto/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1029,6 +1033,7 @@ titulo::crisis de vivienda así funciona el modelo comprar arrendando que inmobi
 titulo::cristóbal silva de acafi lamentablemente los fondos de pensiones tienen muy limitado qué pueden hacer en venture capital
 titulo::cuatro de los cinco fondos de pensiones anotaron ganancias en abril solo el e cerró en rojo
 titulo::cupón de gas licuado en chile cómo activar y obtener el beneficio entregado por el gobierno
+titulo::cuáles son los principales proyectos que impulsaron el récord de inversión aprobado en los primeros 100 días de kast
 titulo::cuáles son los vehículos con nuevas energías más vendidos en chile
 titulo::cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centrosur de chile
 titulo::cuándo se cambia la hora en chile los relojes tendrán que atrasarse en 60 minutos para iniciar el horario de invierno
@@ -1188,6 +1193,7 @@ titulo::fijan remate de proyecto inmobiliario a orillas del lago en puerto varas
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
 titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
+titulo::fonasa inició la devolución de más de 6 mil millones de cotizaciones en exceso revisa cómo saber si eres beneficiario y cuándo se paga el dinero
 titulo::fondo estadounidense apollo global management controlará a la chilena vidrios lirquén
 titulo::froens la marca chilena que vive una nueva etapa de crecimiento y transformación
 titulo::fundación alegría impulsa programa de becas para formar pediatras chilenos en el boston childrens hospital de estados unidos
@@ -1370,6 +1376,7 @@ titulo::meta y youtube declarados responsables por la adicción de menores a red
 titulo::metro de santiago informa normalización de servicios en la línea 5
 titulo::metro de santiago y universidad de chile firman acuerdo para llevar nueva sala del mac a estación bellas artes
 titulo::metro refuerza trabajos de sanitización tras denuncia sobre presencia de ratones en la estación universidad de chile
+titulo::microdatos de la u de chile nuevamente se adjudica el trabajo de campo de la encuesta casen 2026
 titulo::mideso prepara ingreso de proyecto de ley que buscará restringir el acceso de menores de edad a redes sociales
 titulo::migración e inclusión financiera el desafío pendiente para integrarse plenamente en chile
 titulo::mil kilómetros de argumento dfsk llega a chile con un suv que nadie puede ignorar por la autonomía
@@ -1544,6 +1551,7 @@ titulo::santiago es la tercera ciudad latinoamericana con mayor superficie de of
 titulo::scooters eléctricos el nuevo mercado que domina la movilidad urbana en chile y las cifras detrás
 titulo::se abre el financiamiento para construir viviendas e infraestructura con madera
 titulo::se crio en osorno estudió en alemania y es premio nacional el científico chileno más citado del mundo
+titulo::se estima necesario reconsiderar la ejecución conaset solicita continuar con la ciclovía de la alameda pese a la negativa de poduje al proyecto
 titulo::sea da luz verde y recomienda aprobar línea 8 del metro busca conectar providencia con puente alto
 titulo::sea recomienda aprobar la extensión del metro de valparaíso a la calera sugiere ceder terreno de 29 hectáreas a grupo diaguita
 titulo::seat renueva ibiza y arona en chile con más diseño tecnología y espíritu urbano europeo
