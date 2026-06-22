@@ -58,6 +58,7 @@ https://elpais.com/chile/2026-06-08/la-expedicion-en-la-patagonia-chilena-que-re
 https://elpais.com/chile/2026-06-09/ex-bono-marzo-2026-hasta-cuando-se-puede-cobrar-el-aporte-familiar-permanente-en-chile-antes-de-perder-el-dinero.html
 https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presiona-al-senado-de-chile-sobre-el-levantamiento-del-secreto-bancario.html
 https://elpais.com/chile/2026-06-14/los-pinguinos-papua-no-eran-todos-iguales-un-estudio-liderado-por-chilenos-identifica-una-nueva-especie.html
+https://elpais.com/chile/2026-06-22/pdi-de-chile-encuentra-a-52-de-64-ninos-haitianos-que-estaban-inubicables-estaban-con-sus-familias-y-escolarizados.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -283,6 +284,7 @@ https://www.latercera.com/nacional/noticia/coyhaique-busca-ser-el-primer-municip
 https://www.latercera.com/nacional/noticia/declaran-la-primera-preemergencia-ambiental-del-ano-para-este-lunes-en-la-rm-revisa-la-restriccion-vehicular/
 https://www.latercera.com/nacional/noticia/declaran-primera-alerta-ambiental-del-ano-para-este-domingo-en-la-region-metropolitana/
 https://www.latercera.com/nacional/noticia/delegacion-de-valparaiso-anuncia-que-cinco-terrenos-que-fueron-tomados-ilegalmente-han-sido-recuperados/
+https://www.latercera.com/nacional/noticia/desde-vender-mermeladas-a-administrar-un-hospital-mas-de-150-mil-personas-han-aplicado-ia-en-chile-para-potenciar-trabajos/
 https://www.latercera.com/nacional/noticia/detectan-monito-del-monte-en-parque-nacional-queulat-y-destacan-buen-estado-del-ecosistema/
 https://www.latercera.com/nacional/noticia/dia-mundial-sin-tabaco-minsal-alerta-que-un-117-de-los-adolescentes-consume-en-chile/
 https://www.latercera.com/nacional/noticia/director-de-junaeb-descarta-recorte-a-programa-de-alimentacion-escolar-tras-reunion-con-federaciones-de-manipuladoras-de-alimentos/
@@ -433,6 +435,7 @@ https://www.latercera.com/pulso/noticia/evento-travel-sale-bate-record-historico
 https://www.latercera.com/pulso/noticia/fallecio-raul-quemada-leria-el-empresario-ligado-a-la-recordada-dos-en-uno-y-fundador-de-trendy/
 https://www.latercera.com/pulso/noticia/familia-angelini-aumenta-su-participacion-en-matriz-de-empresas-copec/
 https://www.latercera.com/pulso/noticia/farmacias-de-la-region-metropolitana-mas-que-se-duplicaron-en-tres-anos/
+https://www.latercera.com/pulso/noticia/fijan-remate-de-proyecto-inmobiliario-a-orillas-del-lago-en-puerto-varas-en-un-minimo-de-us-8-millones/
 https://www.latercera.com/pulso/noticia/fne-pone-bajo-la-lupa-la-toma-de-control-de-clinica-las-condes-por-euroamerica-y-la-alianza-de-enami-y-rio-tinto/
 https://www.latercera.com/pulso/noticia/fondo-estadounidense-apollo-global-management-controlara-a-la-chilena-vidrios-lirquen/
 https://www.latercera.com/pulso/noticia/ganancias-de-parque-arauco-crecen-casi-un-70-en-el-primer-trimestre/
@@ -818,6 +821,7 @@ https://www.theclinic.cl/2026/06/19/amigo-de-artistas-floyymenor-y-cris-mj-indus
 https://www.theclinic.cl/2026/06/19/red-movilidad-tendra-el-primer-bus-a-base-de-hidrogeno-en-chile-en-agosto-sera-presentado-y-estaria-en-las-calles-a-inicios-de-2027/
 https://www.theclinic.cl/2026/06/20/como-es-el-nuevo-hospital-del-salvador-tras-154-anos-prepara-su-cambio-de-casa-a-un-complejo-que-duplica-su-tamano-y-capacidad/
 https://www.theclinic.cl/2026/06/20/reabren-piscina-olimpica-temperada-del-parque-ohiggins-tras-inversion-de-1-550-millones-y-con-descuentos-de-hasta-un-34-para-vecinos-de-santiago-mira-los-detalles/
+https://www.theclinic.cl/2026/06/22/la-nueva-cara-de-la-linea-1-con-la-primera-instalacion-completa-de-puertas-en-el-anden-en-san-pablo-metro-confirma-avances-en-nuevas-estaciones/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1064,6 +1068,7 @@ titulo::denuncian que más de 900 funcionarios públicos apostaron casi 11500 mi
 titulo::desarrollo de cobre de alta pureza se instala como desafío en chile
 titulo::desde cuándo y cómo se aplica la doble autenticación en la clave única en chile
 titulo::desde gloria hutt a juan benavides los cuatros nuevos directores que ingresarán a santander chile
+titulo::desde vender mermeladas a administrar un hospital más de 150 mil personas han aplicado ia en chile para potenciar trabajos
 titulo::detectan monito del monte en parque nacional queulat y destacan buen estado del ecosistema
 titulo::diablos y diablas van por el mundial de hockey sub 21 los rivales de chile en el panamericano santiago 2026 que comienza el lunes
 titulo::diputados ingresaron proyecto de ley que busca prohibir el uso de redes sociales a menores de 16 años en chile
@@ -1179,6 +1184,7 @@ titulo::ex bono marzo 2026 hasta cuándo se puede cobrar el aporte familiar perm
 titulo::falleció raúl quemada lería el empresario ligado a la recordada dos en uno y fundador de trendy
 titulo::familia angelini aumenta su participación en matriz de empresas copec
 titulo::farmacias de la región metropolitana más que se duplicaron en tres años
+titulo::fijan remate de proyecto inmobiliario a orillas del lago en puerto varas en un mínimo de us 8 millones
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
 titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
@@ -1285,6 +1291,7 @@ titulo::la millonaria victoria de chileactores en tribunales contra el gigante a
 titulo::la moneda ajusta la estrategia para enfrentar su proyecto ancla de reconstrucción nacional
 titulo::la naturaleza como activo chile consolida un modelo de conservación que atrae inversión extranjera
 titulo::la norma clave de la ley argentina invocada por apablaza para frenar su detención y extradición a chile
+titulo::la nueva cara de la línea 1 con la primera instalación completa de puertas en el andén en san pablo metro confirma avances en nuevas estaciones
 titulo::la nueva cara del bandejón central de santa elena en maipú tras años de abandono será un parque tras millonaria inversión públicoprivada
 titulo::la nueva ley de datos y el punto ciego pyme por nicole winkler
 titulo::la nueva marca del grupo chery aterriza con fuerza lepas en el salón de beijing apunta directo a chile
@@ -1440,6 +1447,7 @@ titulo::para reducir tiempos de espera odontológica ministerio de salud inicia 
 titulo::parque metropolitano cerros de renca avanza gracias a la colaboración entre sector público empresas y comunidad
 titulo::pascua en chile así puedes obtener 20 juegos gratis
 titulo::paz corp anota alza en sus ganancias pese a menor escrituración en chile
+titulo::pdi de chile encuentra a 52 de 64 niños haitianos que estaban inubicables estaban con sus familias y escolarizados
 titulo::pdi y policía argentina activan operativo para dar con paradero de galvarino apablaza e iniciar extradición a chile
 titulo::perdí mi trabajo por un bot y ahora cobro 1000 usd al mes la realidad del nuevo subsidio de ia
 titulo::permisología gobierno destraba inversiones por us 6290 millones en 70 días tras aprobar tres nuevos proyectos
