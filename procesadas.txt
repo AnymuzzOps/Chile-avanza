@@ -80,6 +80,7 @@ https://www.ex-ante.cl/chile-cambia-la-hora-este-sabado-por-que-se-origino-esta-
 https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaque/
 https://www.ex-ante.cl/codelco-nuevo-presidente-ejecutivo-llega-a-desplegar-plan-para-recuperar-us-143-millones-en-bonos-y-parte-con-los-ejecutivos/
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
+https://www.ex-ante.cl/como-avanza-el-cable-submarino-de-google-con-el-estado-luego-de-que-el-gobierno-dejara-el-proyecto-chino-en-el-congelador/
 https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa-norquim-ingreso-a-evaluacion-ambiental-en-mejillones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millones-que-consolida-el-atractivo-energetico-de-ohiggins/
@@ -1049,6 +1050,7 @@ titulo::cyberday 2026 ventas llegan a us531 millones y ticket promedio fue de us
 titulo::cámara de diputados aprobó idea de legislar proyecto escuelas protegidas
 titulo::cámara de diputados aprueba indicación de sala cuna universal pero quiroz anuncia que recurrirá al tribunal constitucional
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
+titulo::cómo avanza el cable submarino de google con el estado luego de que el gobierno dejara el proyecto chino en el congelador
 titulo::cómo conseguir una de las 15 mil nuevas becas que google entrega en chile para aprender ia
 titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el nuevo hospital del salvador tras 154 años prepara su cambio de casa a un complejo que duplica su tamaño y capacidad
