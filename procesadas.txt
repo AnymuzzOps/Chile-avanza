@@ -222,6 +222,7 @@ https://www.latercera.com/emprendimiento/noticia/autismo-conecta-fue-el-gran-gan
 https://www.latercera.com/emprendimiento/noticia/bci-y-chileglobal-ventures-lanzan-programa-para-impulsar-la-expansion-de-startups-en-latinoamerica-y-miami/
 https://www.latercera.com/emprendimiento/noticia/cristobal-silva-de-acafi-lamentablemente-los-fondos-de-pensiones-tienen-muy-limitado-que-pueden-hacer-en-venture-capital/
 https://www.latercera.com/emprendimiento/noticia/de-curico-al-mundo-la-apuesta-de-haulmer-por-digitalizar-a-los-pequenos-negocios/
+https://www.latercera.com/emprendimiento/noticia/deep-tech-y-tecnologia-digital-lanzan-nueva-convocatoria-para-emprendimientos-de-alto-potencial/
 https://www.latercera.com/emprendimiento/noticia/mas-de-6-mil-asistentes-y-90-speakers-de-todo-el-mundo-los-detalles-del-chile-fintech-forum-2026/
 https://www.latercera.com/emprendimiento/noticia/plataforma-chilena-circulo-senior-lanza-app-con-ia-para-la-generacion-mayor-a-55-anos/
 https://www.latercera.com/emprendimiento/noticia/startup-chilena-de-venta-de-equipos-reacondicionados-ingreso-a-la-selecta-red-mundial-de-endeavor/
@@ -828,6 +829,7 @@ https://www.theclinic.cl/2026/06/20/como-es-el-nuevo-hospital-del-salvador-tras-
 https://www.theclinic.cl/2026/06/20/reabren-piscina-olimpica-temperada-del-parque-ohiggins-tras-inversion-de-1-550-millones-y-con-descuentos-de-hasta-un-34-para-vecinos-de-santiago-mira-los-detalles/
 https://www.theclinic.cl/2026/06/22/la-nueva-cara-de-la-linea-1-con-la-primera-instalacion-completa-de-puertas-en-el-anden-en-san-pablo-metro-confirma-avances-en-nuevas-estaciones/
 https://www.theclinic.cl/2026/06/22/se-estima-necesario-reconsiderar-la-ejecucion-conaset-solicita-continuar-con-la-ciclovia-de-la-alameda-pese-a-la-negativa-de-poduje-al-proyecto/
+https://www.theclinic.cl/2026/06/23/programa-migrantes-pucv-onu-valparaiso/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1068,6 +1070,7 @@ titulo::de ormuz a la ia el banco central alerta sobre un escenario global más 
 titulo::debe reportarse y no puede salir del país chiqui tapia es procesado por presunta apropiación indebida de us 14 millones
 titulo::declaran la primera preemergencia ambiental del año para este lunes en la rm revisa la restricción vehicular
 titulo::declaran primera alerta ambiental del año para este domingo en la región metropolitana
+titulo::deep tech y tecnología digital lanzan nueva convocatoria para emprendimientos de alto potencial
 titulo::deepal g318 en chile el suv electrificado que lleva el offroad a un nuevo nivel
 titulo::del jarro al puñal el ocaso de la educación chilena
 titulo::delegación de valparaíso anuncia que cinco terrenos que fueron tomados ilegalmente han sido recuperados
@@ -1445,6 +1448,7 @@ titulo::nuevos enlaces ciclovías y terceras pistas los cambios del tramo de la 
 titulo::nunca la ha superado la barrera de chile como principal productor de cobre del mundo
 titulo::nvidia mira chile la gestión del gobierno para instalar la primera fábrica de ia de la empresa más valiosa del mundo
 titulo::ofensa moral grave comunidad palestina de chile rechaza participación de empresa israelí en fidae 2026
+titulo::onu distinguirá trabajo de la corporación la matriz y la pucv con comunidad migrante en valparaíso
 titulo::operación renta 2026 cuándo y quiénes deben declarar impuestos en chile
 titulo::operación rusa incluyó campaña de desinformación para tensionar relación entre chile y argentina
 titulo::operación tokio el after que terminó en masacre y llevó a desmantelar la red de lavado de dinero del tren de aragua y detener a un ejecutivo bancario
