@@ -61,6 +61,7 @@ https://elpais.com/chile/2026-06-09/la-ruta-del-dinero-del-tren-de-aragua-presio
 https://elpais.com/chile/2026-06-14/los-pinguinos-papua-no-eran-todos-iguales-un-estudio-liderado-por-chilenos-identifica-una-nueva-especie.html
 https://elpais.com/chile/2026-06-22/condonacion-de-intereses-y-multas-por-deudas-tributarias-en-chile-como-acceder-al-beneficio.html
 https://elpais.com/chile/2026-06-22/pdi-de-chile-encuentra-a-52-de-64-ninos-haitianos-que-estaban-inubicables-estaban-con-sus-familias-y-escolarizados.html
+https://elpais.com/chile/2026-06-23/encontrados-los-64-menores-haitianos-que-se-hallaban-si-paradero-conocido-en-chile-estaban-con-familiares-y-regularizados.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -488,6 +489,7 @@ https://www.latercera.com/pulso/noticia/presidente-de-isa-duena-de-interchile-po
 https://www.latercera.com/pulso/noticia/presidente-del-bci-ignacio-yarur-resalta-la-importancia-del-crecimiento-de-las-empresas-pero-con-cohesion-social/
 https://www.latercera.com/pulso/noticia/primeros-avances-en-la-ley-de-ferias-libres-indican-cerca-de-12000-contribuyentes-inscritos/
 https://www.latercera.com/pulso/noticia/proyecto-por-us500-millones-para-continuidad-operacional-de-minera-mantos-blancos-ingresa-a-tramite-ambiental/
+https://www.latercera.com/pulso/noticia/quebrada-blanca-de-teck-reduce-perdidas-tras-casi-triplicar-ventas-de-cobre-en-el-primer-trimestre/
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-mineria-inversiones-gobierno-peligroso-sin-cuentas-ordenadas/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
@@ -1166,6 +1168,7 @@ titulo::enap confirma gran alza en precio de las bencinas hasta 3915 más por li
 titulo::enap descarta falta de stock de combustibles no existen problemas de abastecimiento
 titulo::enap gana más de us 200 millones en un primer trimestre marcado por la guerra y alza global del petróleo
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
+titulo::encontrados los 64 menores haitianos que se hallaban sin paradero conocido en chile estaban con familiares y regularizados
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
 titulo::entel anuncia plan de inversiones por 575 mil millones para 2026 con foco en red móvil y expansión del negocio hogar
@@ -1511,6 +1514,7 @@ titulo::proyecto nueva alameda así será el nuevo cruce peatonal en lira que re
 titulo::proyecto por us500 millones para continuidad operacional de minera mantos blancos ingresa a trámite ambiental
 titulo::puede alterar procesos celulares asociados a la atrofia muscular estudio chileno evidenció los efectos poco explorados del botox
 titulo::párvulos chilenos tras la ruta del artemis ii visitarán la nasa premiados por su buena asistencia
+titulo::quebrada blanca de teck reduce pérdidas tras casi triplicar ventas de cobre en el primer trimestre
 titulo::quinta convocatoria del subsidio eléctrico revisa los montos del beneficio
 titulo::quiroz ante la minería mundial chile es un gran destino de inversiones un gobierno sin cuentas ordenadas se vuelve peligroso
 titulo::quiroz descarta recortes a la pgu no se va a tocar ningún beneficio
