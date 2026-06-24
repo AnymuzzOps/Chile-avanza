@@ -588,6 +588,7 @@ https://www.minsal.cl/hospital-de-santa-cruz-fortalece-atencion-con-incorporacio
 https://www.minsal.cl/hospital-puerto-montt-avanza-en-su-mision-de-convertirse-en-centro-de-trasplantes-para-la-macrozona-sur-austral/
 https://www.minsal.cl/ministra-de-salud-anuncia-expansion-del-hospital-carlos-van-buren-y-presenta-hoja-de-ruta-para-destrabar-historico-proyecto/
 https://www.minsal.cl/ministra-de-salud-anuncia-inicio-del-proceso-para-construir-un-nuevo-hospital-de-alta-complejidad-para-arica/
+https://www.minsal.cl/ministra-de-salud-may-chomali-anuncia-urgencia-a-proyectos-sobre-fertilidad/
 https://www.minsal.cl/ministra-de-salud-presenta-estrategia-conjunta-con-metro-de-santiago-para-incentivar-la-vacunacion-en-estas-vacaciones-de-invierno/
 https://www.minsal.cl/ministro-arrau-y-subsecretario-montt-supervisan-construccion-de-nuevo-hospital-del-salvador-que-entrara-en-operacion-en-los-proximos-meses/
 https://www.minsal.cl/minsal-prepara-a-la-red-asistencial-en-la-direccion-estrategica-de-proyectos-en-salud/
@@ -1401,6 +1402,7 @@ titulo::ministra arzola valora esfuerzos regionales para fortalecer la educació
 titulo::ministra de salud anuncia expansión del hospital carlos van buren en valparaíso
 titulo::ministra de salud anuncia expansión del hospital carlos van buren y presenta hoja de ruta para destrabar histórico proyecto
 titulo::ministra de salud anuncia inicio del proceso para construir un nuevo hospital de alta complejidad para arica
+titulo::ministra de salud may chomali anuncia urgencia a proyectos sobre fertilidad
 titulo::ministra de salud presenta estrategia con metro para incrementar vacunación
 titulo::ministra de salud presenta estrategia conjunta con metro de santiago para incentivar la vacunación en estas vacaciones de invierno
 titulo::ministra del medio ambiente británica tras visita a chile es posible luchar contra el cambio climático y al mismo tiempo lograr un sólido crecimiento económico
