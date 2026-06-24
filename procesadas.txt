@@ -63,6 +63,7 @@ https://elpais.com/chile/2026-06-14/los-pinguinos-papua-no-eran-todos-iguales-un
 https://elpais.com/chile/2026-06-22/condonacion-de-intereses-y-multas-por-deudas-tributarias-en-chile-como-acceder-al-beneficio.html
 https://elpais.com/chile/2026-06-22/pdi-de-chile-encuentra-a-52-de-64-ninos-haitianos-que-estaban-inubicables-estaban-con-sus-familias-y-escolarizados.html
 https://elpais.com/chile/2026-06-23/encontrados-los-64-menores-haitianos-que-se-hallaban-si-paradero-conocido-en-chile-estaban-con-familiares-y-regularizados.html
+https://elpais.com/chile/2026-06-24/bono-logro-escolar-2026-en-chile-quienes-reciben-el-beneficio-y-como-obtener-hasta-85000-pesos.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -932,6 +933,7 @@ titulo::black inmobiliario 2026 en chile ofertas y empresas participantes en el 
 titulo::bolsonaro sale de la uci diez días después pero sin previsión de alta hospitalaria
 titulo::bono base familiar conoce los requisitos para recibir el beneficio que se paga por dos años
 titulo::bono invierno 2026 en chile quiénes reciben y cuándo se entrega el beneficio
+titulo::bono logro escolar 2026 en chile quiénes reciben el beneficio y cómo obtener hasta 85000 pesos
 titulo::bono logro escolar conoce su monto para este 2026 y cuándo se paga
 titulo::bosques marinos en riesgo estudio de la u de chile advierte fuerte reducción del hábitat de macroalgas chilenas
 titulo::brasileña ascenty y necesidad del cable chino cuanto más conectividad tenga chile más competitivo va a ser
