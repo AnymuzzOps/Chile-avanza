@@ -401,6 +401,7 @@ https://www.latercera.com/pulso/noticia/clinica-las-condes-reduce-sus-perdidas-y
 https://www.latercera.com/pulso/noticia/cobre-supera-la-guerra-y-esta-cerca-de-nivel-maximo/
 https://www.latercera.com/pulso/noticia/cochilco-y-sobreestimacion-de-produccion-de-codelco-el-riesgo-que-nosotros-vimos-es-que-efectivamente-habian-desviaciones/
 https://www.latercera.com/pulso/noticia/codelco-sube-sus-ganancias-por-mayor-precio-del-cobre-y-eleva-en-94-su-aporte-al-fisco/
+https://www.latercera.com/pulso/noticia/codelco-y-anglo-american-cierran-acuerdo-que-abrira-27-millones-de-toneladas-adicionales-de-cobre-en-21-anos/
 https://www.latercera.com/pulso/noticia/comercio-electronico-crecio-9-en-2025-en-el-pais-y-alcanzo-record-historico/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-baja-de-impuesto-a-las-empresas-y-la-reintegracion-pero-se-cae-fin-de-franquicia-del-sence/
 https://www.latercera.com/pulso/noticia/comision-de-hacienda-aprueba-proyecto-de-medidas-paliativas-por-el-alza-de-los-combustibles/
@@ -1008,6 +1009,7 @@ titulo::cochilco y sobreestimación de producción de codelco el riesgo que noso
 titulo::codelco exigirá devolución de bonos a 6 mil 300 trabajadores tras grave error en cifras de producción el total de la devolución es de más de 14 millones de dólares
 titulo::codelco nuevo presidente ejecutivo llega a desplegar plan para recuperar us 143 millones en bonos y parte con los ejecutivos
 titulo::codelco sube sus ganancias por mayor precio del cobre y eleva en 94 su aporte al fisco
+titulo::codelco y anglo american cierran acuerdo que aportará 27 millones de toneladas adicionales de cobre en 21 años
 titulo::comercio electrónico creció 9 en 2025 en el país y alcanzó récord histórico
 titulo::comienza a regir la alerta sanitaria oncológica minsal contará con facultades extraordinarias para atender a pacientes que esperan diagnóstico o tratamiento
 titulo::comisión de evaluación ambiental aprueba ampliación del puerto de san antonio así se verá la nueva estructura portuaria que comenzará su construcción en 2027
