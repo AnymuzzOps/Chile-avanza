@@ -604,6 +604,7 @@ https://www.minsal.cl/region-de-los-lagos-operativo-de-cirugia-plastica-reconstr
 https://www.minsal.cl/region-de-magallanes-porvenir-y-puerto-williams-se-suman-a-la-atencion-de-neurologia-por-telemedicina/
 https://www.minsal.cl/region-de-tarapaca-en-el-hospital-de-iquique-presentan-proyecto-de-capital-humano-especializado/
 https://www.minsal.cl/reporte-semanal-de-campana-de-invierno-2026-subsecretaria-alejandra-pizarro-advierte-sobre-aumento-de-la-circulacion-viral-y-refuerza-llamado-a-vacunarse/
+https://www.minsal.cl/salud-y-trabajo-llaman-a-mayores-de-60-anos-a-vacunarse-y-recuerdan-derecho-a-medio-dia-laboral-para-ir-a-vacunatorios/
 https://www.minsal.cl/servicio-salud-antofagasta-alcanzo-un-73-de-avance-en-plan-alerta-oncologica/
 https://www.minsal.cl/subsecretaria-de-salud-publica-en-mayo-debemos-tener-un-70-de-avance-de-vacunacion-contra-la-influenza/
 https://www.minsal.cl/subsecretaria-de-salud-publica-encabeza-operativo-de-vacunacion-extramuros-en-la-region-de-ohiggins/
@@ -1568,6 +1569,7 @@ titulo::salar futuro el proyecto de us3000 millones que pondrá a prueba la alia
 titulo::salen más a cuenta estos son los automóviles eléctricos más económicos en chile méxico colombia y argentina
 titulo::salfacorp emite bono por más de us 60 millones para financiar plan de inversiones
 titulo::salmonchile anuncia incorporación de invermar al gremio
+titulo::salud y trabajo llaman a mayores de 60 años a vacunarse y recuerdan derecho a medio día laboral para ir a vacunatorios
 titulo::samsung lanza en san pedro de atacama su programa de innovación escolar en stem
 titulo::samsung renueva su gama media en chile los nuevos galaxy a57 y a37 apuestan por democratizar la inteligencia artificial
 titulo::sangre azotes y terror así era la semana santa en el chile antiguo
