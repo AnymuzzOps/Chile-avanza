@@ -559,6 +559,7 @@ https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-i
 https://www.latercera.com/tendencias/noticia/como-sensores-sismicos-han-detectado-mas-de-1200-desprendimientos-de-hielo-en-glaciares-segun-un-estudio-chileno/
 https://www.latercera.com/tendencias/noticia/confirman-la-fecha-de-llegada-de-wegovy-a-chile-el-tratamiento-mas-fuerte-que-ozempic-para-el-manejo-de-la-obesidad/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
+https://www.latercera.com/tendencias/noticia/el-innovador-tratamiento-de-cancer-de-prostata-en-solo-cinco-sesiones-liderado-por-una-oncologa-chilena/
 https://www.latercera.com/tendencias/noticia/en-pleno-desierto-de-atacama-el-telescopio-submilimetrico-mas-alto-del-mundo-ya-esta-operativo-en-chile/
 https://www.latercera.com/tendencias/noticia/investigador-chileno-simulo-un-terremoto-67-en-la-falla-de-san-ramon-esto-fue-lo-que-paso/
 https://www.latercera.com/tendencias/noticia/las-empanadas-de-queso-chilenas-conquistan-mcdonalds-suiza-y-generan-polemica-en-argentina/
@@ -1143,6 +1144,7 @@ titulo::el fin de su planta en maipú los motivos que llevaron a electrolux a tr
 titulo::el futuro de becas chile
 titulo::el fármaco chileno para la obesidad
 titulo::el hombre que trajo el primer mac a chile
+titulo::el innovador tratamiento de cáncer de próstata en solo cinco sesiones liderado por una oncóloga chilena
 titulo::el kia soluto se prepara para sumar en chile una versión automática
 titulo::el leapmotor b10 eléctrico ya está en chile un suv compacto con 360 km de autonomía
 titulo::el listado de los trabajos con más vacantes en chile y los sueldos que ofrecen van desde los  450 mil a más de dos millones
