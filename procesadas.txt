@@ -496,6 +496,7 @@ https://www.latercera.com/pulso/noticia/quebrada-blanca-de-teck-reduce-perdidas-
 https://www.latercera.com/pulso/noticia/quinenco-anuncia-pago-de-dividendo-por-mas-de-us630-millones/
 https://www.latercera.com/pulso/noticia/quiroz-mineria-inversiones-gobierno-peligroso-sin-cuentas-ordenadas/
 https://www.latercera.com/pulso/noticia/quiroz-y-pacheco-se-reunen-para-conversar-de-la-situacion-de-codelco-de-cara-a-la-proxima-junta-de-accionistas/
+https://www.latercera.com/pulso/noticia/reforma-de-pensiones-el-modelo-que-proponen-fintual-y-clapes-uc-de-cara-al-diseno-de-fondos-generacionales-de-las-afp/
 https://www.latercera.com/pulso/noticia/region-de-atacama-capstone-copper-planea-nueva-inversion-de-casi-us-30-millones-en-mantoverde/
 https://www.latercera.com/pulso/noticia/reingresan-proyecto-parque-eolico-las-lilas-y-monto-de-inversion-baja-de-us5100-millones-a-us510-millones/
 https://www.latercera.com/pulso/noticia/remesas-enviadas-desde-chile-retoman-alzas-en-2025-despues-de-tres-anos-de-caidas/
@@ -1548,6 +1549,7 @@ titulo::recuperación del eje bandera obras alcanzan 67 de avance
 titulo::red movilidad estrenará dos nuevas micros este fin de semana revisa los nuevos recorridos que conectarán la pintana con puente alto y macul con la florida
 titulo::red movilidad tendrá el primer bus a base de hidrógeno en chile en agosto será presentado y estaría en las calles a inicios de 2027
 titulo::reemplaza eficazmente compuestos químicos mucho más tóxicos chilenos crean material sustentable para detectar fármacos en el agua
+titulo::reforma de pensiones el modelo que proponen fintual y clapes uc de cara al diseño de fondos generacionales de las afp
 titulo::refuerzan red de vacunación contra la influenza ante bajas inoculaciones en grupos de riesgo
 titulo::región de atacama capstone copper planea nueva inversión de casi us 30 millones en mantoverde
 titulo::región de los lagos operativo de cirugía plástica reconstructiva cambia la vida de pacientes de chiloé
