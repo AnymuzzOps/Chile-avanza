@@ -556,6 +556,7 @@ https://www.latercera.com/tecnologia/noticia/apiux-aterriza-su-ai-factory-en-chi
 https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
+https://www.latercera.com/tecnologia/noticia/serie-honor-600-precio-chile/
 https://www.latercera.com/tecnologia/noticia/tcl-experience-2026-portafolio-chile/
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
@@ -1082,6 +1083,7 @@ titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingre
 titulo::cómo es el nuevo hospital del salvador tras 154 años prepara su cambio de casa a un complejo que duplica su tamaño y capacidad
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
 titulo::cómo es la hornilla el megaproyecto solar de us 120 millones que consolida el atractivo energético de ohiggins
+titulo::cómo es la serie honor 600 que llega a chile con ia avanzada cámara nocturna de 200mp y batería de 7000mah
 titulo::cómo han evolucionado los directorios de startups en chile por luis hernán paúl
 titulo::cómo la dupla quiroztoledo impulsó el récord de inversión de us 22258 millones en dos meses
 titulo::cómo podría impactar el rally del cobre y del litio a la economía y a las arcas fiscales este año
