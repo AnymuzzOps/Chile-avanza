@@ -311,6 +311,7 @@ https://www.latercera.com/nacional/noticia/justicia-ficha-a-abogada-con-experien
 https://www.latercera.com/nacional/noticia/la-norma-clave-de-la-ley-argentina-invocada-por-apablaza-para-frenar-su-detencion-y-extradicion-a-chile/
 https://www.latercera.com/nacional/noticia/las-sospechas-que-vinculan-a-chileno-deportado-por-el-ice-en-eeuu-con-las-amenazas-de-muerte-al-alcalde-de-penalolen/
 https://www.latercera.com/nacional/noticia/lleva-mas-de-100-anos-abandonado-iniciativa-busca-rescatar-el-invernadero-del-parque-quinta-normal/
+https://www.latercera.com/nacional/noticia/los-alcances-del-proyecto-anunciado-por-kast-que-agiliza-la-regularizacion-de-titulos-de-dominio-en-casos-de-catastrofes/
 https://www.latercera.com/nacional/noticia/marca-un-avance-sustantivo-en-la-relacion-chile-y-eeuu-firman-acuerdo-en-seguridad-y-memorandum-sobre-tierras-raras/
 https://www.latercera.com/nacional/noticia/marcha-de-estudiantes-contra-medidas-del-gobierno-se-desplaza-hacia-el-congreso-en-santiago/
 https://www.latercera.com/nacional/noticia/maria-jesus-wulf-creemos-que-para-fortalecer-los-beneficios-sociales-hay-que-ordenar-las-cuentas-fiscales/
@@ -1386,6 +1387,7 @@ titulo::lluvia o sol el pronóstico del tiempo para semana santa en la región m
 titulo::lluvias intensas se viene el niño godzilla para este invierno en chile
 titulo::lo nuevo de mg en chile
 titulo::lo que hay tras el round de poduje con la cámara chilena de la construcción
+titulo::los alcances del proyecto anunciado por kast que agiliza la regularización de títulos de dominio en casos de catástrofes
 titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
 titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
