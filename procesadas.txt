@@ -113,6 +113,7 @@ https://www.ex-ante.cl/la-revancha-de-la-mineria-el-nuevo-ciclo-de-inversiones-p
 https://www.ex-ante.cl/las-senales-del-ipom-que-explica-la-caida-en-la-inversion-y-el-crecimiento-para-2026-y-el-mejor-panorama-para-2027/
 https://www.ex-ante.cl/lo-que-hay-tras-el-round-de-poduje-con-la-camara-chilena-de-la-construccion/
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
+https://www.ex-ante.cl/los-hitos-de-alan-meyer-el-historico-ejecutivo-que-lidero-la-fuerte-expansion-de-mercado-libre-en-chile/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
 https://www.ex-ante.cl/permisologia-gobierno-destraba-inversiones-por-us-6-290-millones-en-70-dias-tras-aprobar-tres-nuevos-proyectos/
 https://www.ex-ante.cl/permisologia-los-recursos-que-pierde-vina-por-seguir-postergando-el-megaproyecto-en-las-salinas-segun-informe-de-la-uc/
@@ -1397,6 +1398,7 @@ titulo::los alcances del proyecto anunciado por kast que agiliza la regularizaci
 titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el colista oviedo y queda a dos puntos del descenso
 titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
+titulo::los hitos de alan meyer el histórico ejecutivo que lideró la fuerte expansión de mercado libre en chile
 titulo::los ocho proyectos pendientes del comité de ministros que suman más de us5000 millones
 titulo::los pingüinos papúa no eran todos iguales un estudio liderado por chilenos identifica una nueva especie
 titulo::los planes de scotiabank en chile para 2026
