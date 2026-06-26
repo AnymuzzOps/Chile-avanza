@@ -426,6 +426,7 @@ https://www.latercera.com/pulso/noticia/cuanto-esta-el-dolar-hoy-miercoles-1305/
 https://www.latercera.com/pulso/noticia/de-ormuz-a-la-ia-el-banco-central-alerta-sobre-un-escenario-global-mas-incierto-pero-certifica-fortaleza-de-la-banca-chilena/
 https://www.latercera.com/pulso/noticia/desde-gloria-hutt-a-juan-benavides-los-cuatros-nuevos-directores-que-ingresaran-a-santander-chile/
 https://www.latercera.com/pulso/noticia/director-de-toyota-sobre-el-mercado-chileno-antes-esperabamos-a-que-nos-compraran-un-auto-hoy-hay-que-salir-a-venderlo/
+https://www.latercera.com/pulso/noticia/division-de-fusiones-de-la-fne-recomienda-aprobar-nuevos-locales-de-cencosud-en-santiago/
 https://www.latercera.com/pulso/noticia/economia-chilena-vuelve-a-caer-en-febrero-y-mercado-ve-que-el-pib-2026-tendria-un-techo-en-torno-a-2/
 https://www.latercera.com/pulso/noticia/efecto-de-la-guerra-en-medio-oriente-en-chile-suben-las-ventas-de-cobre-pero-las-compras-de-petroleo-se-disparan/
 https://www.latercera.com/pulso/noticia/el-feliz-30-aniversario-de-agroberries-ahora-con-un-pie-en-asia/
@@ -852,6 +853,7 @@ https://www.theclinic.cl/2026/06/25/el-impacto-de-la-ley-de-etiquetado-a-10-anos
 https://www.theclinic.cl/2026/06/25/habia-un-apetito-por-seiko-en-chile-como-dos-chilenos-convencieron-a-la-famosa-marca-de-relojes-japonesa-de-instalarse-en-el-pais/
 https://www.theclinic.cl/2026/06/25/kia-soluto-automatico-chile/
 https://www.theclinic.cl/2026/06/25/lepas-en-chile-llegada-2026/
+https://www.theclinic.cl/2026/06/26/gildemeister-apuesta-por-los-furgones-electricos-para-empresas-en-chile-con-la-llegada-de-farizon/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1234,6 +1236,7 @@ titulo::farmacias de la región metropolitana más que se duplicaron en tres añ
 titulo::fijan remate de proyecto inmobiliario a orillas del lago en puerto varas en un mínimo de us 8 millones
 titulo::fiscal héctor barros estamos frente a una chilenización del delito o una adaptación local de bandas transnacionales
 titulo::fiscalización de conaf en la araucanía confirma alta efectividad en reforestación de araucarias
+titulo::fne aprueba nuevos locales de cencosud en santiago centro y recoleta
 titulo::fne pone bajo la lupa la toma de control de clínica las condes por euroamerica y la alianza de enami y rio tinto
 titulo::fonasa inició la devolución de más de 6 mil millones de cotizaciones en exceso revisa cómo saber si eres beneficiario y cuándo se paga el dinero
 titulo::fondo estadounidense apollo global management controlará a la chilena vidrios lirquén
@@ -1245,6 +1248,7 @@ titulo::ganancias de parque arauco crecen casi un 70 en el primer trimestre
 titulo::gasto en pensiones solidarias subió 6 el año pasado llegó a 21 del pib y beneficiarios superaron los 27 millones
 titulo::geely apuesta por duplicar sus ventas mientras acelera la transformación del mercado chileno
 titulo::gerente legal de quiborax por inédito proyecto para producir litio desde desechos mineros puede generar un estándar
+titulo::gildemeister apuesta por los furgones eléctricos para empresas en chile con la llegada de farizon
 titulo::gildemeister toma la representación de gac motor en chile
 titulo::gildemeister toma las riendas de gac motor en chile y apuesta por la electromovilidad china
 titulo::gobierno aprueba proyecto del grupo errázuriz en el salar de atacama tras 17 años en tramitación ambiental
