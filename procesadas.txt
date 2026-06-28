@@ -115,6 +115,7 @@ https://www.ex-ante.cl/lo-que-hay-tras-el-round-de-poduje-con-la-camara-chilena-
 https://www.ex-ante.cl/los-detalles-del-proyecto-de-viviendas-sociales-de-poduje-camino-al-nido-de-aguilas/
 https://www.ex-ante.cl/los-hitos-de-alan-meyer-el-historico-ejecutivo-que-lidero-la-fuerte-expansion-de-mercado-libre-en-chile/
 https://www.ex-ante.cl/mercado-de-capitales-la-buena-noticia-que-chile-no-debiera-desaprovechar-por-francisco-guzman/
+https://www.ex-ante.cl/mop-aborda-plan-para-cuadruplicar-ritmo-de-inversion-en-concesiones-el-estado-debe-volver-a-ser-un-destino-atractivo/
 https://www.ex-ante.cl/permisologia-gobierno-destraba-inversiones-por-us-6-290-millones-en-70-dias-tras-aprobar-tres-nuevos-proyectos/
 https://www.ex-ante.cl/permisologia-los-recursos-que-pierde-vina-por-seguir-postergando-el-megaproyecto-en-las-salinas-segun-informe-de-la-uc/
 https://www.ex-ante.cl/plan-de-seguridad-contra-la-prostitucion-e-indigentes-el-proyecto-para-que-el-mercado-central-recupere-su-vieja-gloria-a-sus-154-anos/
@@ -1466,6 +1467,7 @@ titulo::minvu confirma que buscarán revivir chile nativo pese al abandono de la
 titulo::minvu enfrenta falencias en red de parques urbanos y apuesta por reforzar seguridad en mapocho río y parque cerrillos mientras busca reimpulsar chile nativo
 titulo::minvu entrega más de 2 mil subsidios ds1 y anuncia nuevo tramo para sectores medios
 titulo::minvu entrega terrenos del parque bicentenario de cerrillos para desarrollo de proyecto habitacional que beneficiará a 820 familias
+titulo::mop aborda plan para cuadruplicar ritmo de inversión en concesiones el estado debe volver a ser un destino atractivo
 titulo::mop adjudica nueva concesión de la ruta 5 tramo río buenopuerto montt beneficiaría a más de 530 mil personas
 titulo::mop inicia proceso de licitación internacional para nueva cárcel de calama
 titulo::mop llama a licitación para nueva cárcel en calama presupuesto de la obra asciende a us 394 millones
