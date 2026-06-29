@@ -443,6 +443,7 @@ https://www.latercera.com/pulso/noticia/emergent-cold-latam-inaugura-en-chile-el
 https://www.latercera.com/pulso/noticia/empresas-cierran-2025-con-ganancias-por-mas-de-us32-mil-millones-y-codelco-anota-las-mayores-utilidades/
 https://www.latercera.com/pulso/noticia/enap-descarta-falta-de-stock-de-combustibles-no-existen-problemas-de-abastecimiento/
 https://www.latercera.com/pulso/noticia/enap-gana-mas-de-us-200-millones-en-un-primer-trimestre-marcado-por-la-guerra-y-alza-global-del-petroleo/
+https://www.latercera.com/pulso/noticia/encuesta-ey-empresas-en-chile-identifican-menor-riesgo-por-entorno-economico-pero-alertan-por-mayor-competencia/
 https://www.latercera.com/pulso/noticia/entel-anuncia-plan-de-inversiones-por-casi-us650-millones-para-2026-y-juan-hurtado-se-despide-de-la-firma/
 https://www.latercera.com/pulso/noticia/envejecimiento-de-la-fuerza-laboral-9-de-cada-10-empresas-en-chile-no-tienen-estrategias-para-gestionarlo/
 https://www.latercera.com/pulso/noticia/espanola-vidrala-concreta-adquisicion-de-cristalerias-toro-en-chile/
@@ -1207,6 +1208,7 @@ titulo::enap descarta falta de stock de combustibles no existen problemas de aba
 titulo::enap gana más de us 200 millones en un primer trimestre marcado por la guerra y alza global del petróleo
 titulo::enap oficializa histórica alza de los combustibles a partir de este jueves
 titulo::encontrados los 64 menores haitianos que se hallaban sin paradero conocido en chile estaban con familiares y regularizados
+titulo::encuesta ey empresas en chile identifican menor riesgo por entorno económico pero alertan por mayor competencia
 titulo::endeavor chile renueva su directorio y suma a líderes de la minería la banca y el venture capital
 titulo::enel green power construye proyecto de baterías en planta híbrida con generación solar y eólica
 titulo::energías renovables un gran negocio para chile y para el medio ambiente
