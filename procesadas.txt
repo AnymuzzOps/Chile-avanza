@@ -861,6 +861,7 @@ https://www.theclinic.cl/2026/06/25/kia-soluto-automatico-chile/
 https://www.theclinic.cl/2026/06/25/lepas-en-chile-llegada-2026/
 https://www.theclinic.cl/2026/06/26/alumnos-del-instituto-nacional-representaran-a-chile-en-olimpiadas-de-matematicas-en-china-100-de-educacion-publica-son-representantes-de-que-se-puede/
 https://www.theclinic.cl/2026/06/26/gildemeister-apuesta-por-los-furgones-electricos-para-empresas-en-chile-con-la-llegada-de-farizon/
+https://www.theclinic.cl/2026/06/30/mesa-de-trabajo-entrega-propuestas-al-gobierno-para-reducir-la-tasa-de-desempleo-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
 titulo::a qué hora y dónde ver a chile vs cabo verde por el amistoso internacional en tv y streaming
@@ -1432,6 +1433,7 @@ titulo::megarreforma hacienda proyecta una recaudación de hasta us800 millones 
 titulo::megatoma cde inicia ofensiva para bajar en 6759 millones el pago por la expropiación y pide retener dineros en disputa
 titulo::mercado de capitales la buena noticia que chile no debiera desaprovechar por francisco guzmán
 titulo::mercado reduce proyección de inflación para 2026 pero también recorta la estimación de crecimiento económico
+titulo::mesa de trabajo entrega propuestas al gobierno para reducir la tasa de desempleo en chile
 titulo::meta openai nvidia y google la gira del gobierno para atraer inversión en tecnología a chile
 titulo::meta y youtube declarados responsables por la adicción de menores a redes sociales deberán pagarle tres millones de dólares a una joven
 titulo::metro de santiago informa normalización de servicios en la línea 5
