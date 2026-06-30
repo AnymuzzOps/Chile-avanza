@@ -568,6 +568,7 @@ https://www.latercera.com/tecnologia/noticia/tcl-experience-2026-portafolio-chil
 https://www.latercera.com/tecnologia/noticia/tech-world-2026-presenta-la-inteligencia-artificial-hibrida-de-lenovo-en-chile/
 https://www.latercera.com/tecnologia/noticia/xiaomi-hogar-inteligente-chile-2026/
 https://www.latercera.com/tendencias/noticia/8-beneficios-para-la-salud-de-las-inyecciones-para-bajar-de-peso-como-ozempic-segun-la-evidencia-cientifica/
+https://www.latercera.com/tendencias/noticia/cientificos-chilenos-hallan-una-bacteria-intestinal-que-podria-frenar-la-perdida-muscular-en-la-vejez/
 https://www.latercera.com/tendencias/noticia/como-sensores-sismicos-han-detectado-mas-de-1200-desprendimientos-de-hielo-en-glaciares-segun-un-estudio-chileno/
 https://www.latercera.com/tendencias/noticia/confirman-la-fecha-de-llegada-de-wegovy-a-chile-el-tratamiento-mas-fuerte-que-ozempic-para-el-manejo-de-la-obesidad/
 https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/
@@ -861,6 +862,7 @@ https://www.theclinic.cl/2026/06/25/kia-soluto-automatico-chile/
 https://www.theclinic.cl/2026/06/25/lepas-en-chile-llegada-2026/
 https://www.theclinic.cl/2026/06/26/alumnos-del-instituto-nacional-representaran-a-chile-en-olimpiadas-de-matematicas-en-china-100-de-educacion-publica-son-representantes-de-que-se-puede/
 https://www.theclinic.cl/2026/06/26/gildemeister-apuesta-por-los-furgones-electricos-para-empresas-en-chile-con-la-llegada-de-farizon/
+https://www.theclinic.cl/2026/06/30/hoy-es-el-ultimo-dia-para-activar-el-cupon-de-gas-licuado-y-26-millones-de-hogares-no-lo-han-hecho-revisa-como-acceder-al-beneficio-de-27-000/
 https://www.theclinic.cl/2026/06/30/mesa-de-trabajo-entrega-propuestas-al-gobierno-para-reducir-la-tasa-de-desempleo-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
 titulo::97 mil estudiantes que salieron de cuarto medio ingresaron a la educación superior este año marcando récord histórico quintiles más bajos registraron su mayor alza
@@ -1017,6 +1019,7 @@ titulo::chilenos son finalistas de prestigioso concurso europeo de inventores cr
 titulo::china pide sinceridad para un acuerdo de paz y critica nuevamente la ofensiva de estados unidos e israel contra irán
 titulo::christian garin tiene un positivo estreno en la qualy del masters 1000 de montecarlo
 titulo::científica chilena descubre el increíble poder del ejercicio para tratar el cáncer de mama
+titulo::científicos chilenos hallan una bacteria intestinal que podría frenar la pérdida muscular en la vejez
 titulo::científicos recrean un nido de dinosaurios y resuelven un misterio de 70 millones de años
 titulo::circulación de influenza aumenta por sexta semana consecutiva y minsal alerta por rezago de vacunación en mayores de 60 años
 titulo::circulartec apuesta por la segunda vida de las baterías de litio
@@ -1293,6 +1296,7 @@ titulo::hito espacial chileno investigadores locales prueban cómo reacciona la 
 titulo::hospital de arica incorporó nuevos electrocardiógrafos para fortalecer diagnóstico y atención de pacientes
 titulo::hospital de santa cruz fortalece atención con incorporación de nuevos médicos especialistas para colchagua en la región de ohiggins
 titulo::hospital puerto montt avanza en su misión de convertirse en centro de trasplantes para la macrozona sur austral
+titulo::hoy es el último día para activar el cupón de gas licuado y 26 millones de hogares no lo han hecho revisa cómo acceder al beneficio de 27000
 titulo::huachipato cómo será el retorno de la planta siderúrgica que cerró hace 21 meses y los detalles del acuerdo del grupo cap y aza
 titulo::ignacio briones chile no es un país quebrado
 titulo::ilc sube sus ganancias impulsadas por mejor desempeño de las filiales financieras
