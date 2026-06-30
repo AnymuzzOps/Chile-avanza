@@ -85,6 +85,7 @@ https://www.ex-ante.cl/chile-para-ahorrar-tambien-hay-que-crecer-por-felipe-jaqu
 https://www.ex-ante.cl/codelco-nuevo-presidente-ejecutivo-llega-a-desplegar-plan-para-recuperar-us-143-millones-en-bonos-y-parte-con-los-ejecutivos/
 https://www.ex-ante.cl/comite-de-ministros-aprueba-megaproyecto-inmobiliario-maratue-por-us-2-000-millones/
 https://www.ex-ante.cl/como-avanza-el-cable-submarino-de-google-con-el-estado-luego-de-que-el-gobierno-dejara-el-proyecto-chino-en-el-congelador/
+https://www.ex-ante.cl/como-el-gobierno-destrabo-el-megaproyecto-kimal-lo-aguirre-que-unira-antofagasta-y-santiago-por-us-1-480-millones/
 https://www.ex-ante.cl/como-es-el-megaproyecto-de-us-900-millones-que-la-empresa-norquim-ingreso-a-evaluacion-ambiental-en-mejillones/
 https://www.ex-ante.cl/como-es-el-plan-de-mercado-libre-para-fortalecer-su-operacion-en-chile-con-inversion-de-us-750-millones/
 https://www.ex-ante.cl/como-es-la-hornilla-el-megaproyecto-solar-de-us-120-millones-que-consolida-el-atractivo-energetico-de-ohiggins/
@@ -862,6 +863,7 @@ https://www.theclinic.cl/2026/06/25/kia-soluto-automatico-chile/
 https://www.theclinic.cl/2026/06/25/lepas-en-chile-llegada-2026/
 https://www.theclinic.cl/2026/06/26/alumnos-del-instituto-nacional-representaran-a-chile-en-olimpiadas-de-matematicas-en-china-100-de-educacion-publica-son-representantes-de-que-se-puede/
 https://www.theclinic.cl/2026/06/26/gildemeister-apuesta-por-los-furgones-electricos-para-empresas-en-chile-con-la-llegada-de-farizon/
+https://www.theclinic.cl/2026/06/30/comite-de-ministros-respalda-megaproyecto-electrico-y-mantiene-calificacion-ambiental-favorable-de-dos-iniciativas-por-us1-510-millones/
 https://www.theclinic.cl/2026/06/30/hoy-es-el-ultimo-dia-para-activar-el-cupon-de-gas-licuado-y-26-millones-de-hogares-no-lo-han-hecho-revisa-como-acceder-al-beneficio-de-27-000/
 https://www.theclinic.cl/2026/06/30/mesa-de-trabajo-entrega-propuestas-al-gobierno-para-reducir-la-tasa-de-desempleo-en-chile/
 titulo::8 beneficios para la salud de las inyecciones para bajar de peso como ozempic según la evidencia científica
@@ -1048,6 +1050,7 @@ titulo::comité de ministros aprueba proyecto maratué y un ajuste a la línea 7
 titulo::comité de ministros aprueba proyectos de energías renovables por más de us1000 millones
 titulo::comité de ministros confirma la rca de volta el millonario proyecto que marca un hito para la industria del amoníaco verde en el país
 titulo::comité de ministros da luz verde a tres proyectos de inversion que suman us2828 millones
+titulo::comité de ministros respalda megaproyecto eléctrico y mantiene calificación ambiental favorable de dos iniciativas por us1510 millones
 titulo::comité de ministros revisará cuatro proyectos de inversión que suman us345
 titulo::comunidad palestina de chile condena la restricción al acceso del santo sepulcro en jerusalén durante semana santa
 titulo::comunidades educativas afectadas por los incendios en el biobío reciben donación de computadores e internet gratuito con conectividad satelital
@@ -1093,6 +1096,7 @@ titulo::cámara de diputados aprueba indicación de sala cuna universal pero qui
 titulo::cámaras trampa logran capturar la presencia del monito del monte en el parque nacional queulat en aysén marsupial chileno se encuentra en problemas de conservación
 titulo::cómo avanza el cable submarino de google con el estado luego de que el gobierno dejara el proyecto chino en el congelador
 titulo::cómo conseguir una de las 15 mil nuevas becas que google entrega en chile para aprender ia
+titulo::cómo el gobierno destrabó el megaproyecto kimallo aguirre que unirá antofagasta y santiago por us 1480 millones
 titulo::cómo es el megaproyecto de us 900 millones que la empresa norquim ingresó a evaluación ambiental en mejillones
 titulo::cómo es el nuevo hospital del salvador tras 154 años prepara su cambio de casa a un complejo que duplica su tamaño y capacidad
 titulo::cómo es el plan de mercado libre para fortalecer su operación en chile con inversión de us 750 millones
