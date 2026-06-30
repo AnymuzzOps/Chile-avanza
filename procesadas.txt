@@ -559,6 +559,7 @@ https://www.latercera.com/sustentabilidad/noticia/premios-iniciativas-sustentabl
 https://www.latercera.com/sustentabilidad/noticia/sin-enchufe-las-barreras-legales-y-tecnicas-que-frenan-la-electromovilidad-en-los-edificios-de-chile/
 https://www.latercera.com/sustentabilidad/noticia/vuelve-el-premio-territorio-circular-en-su-4-version-para-destacar-modelos-de-negocio-sostenibles/
 https://www.latercera.com/tecnologia/noticia/apiux-aterriza-su-ai-factory-en-chile-la-apuesta-para-acelerar-el-desarrollo-de-software-corporativo-con-inteligencia-artificial/
+https://www.latercera.com/tecnologia/noticia/los-lentes-con-inteligencia-artificial-ray-ban-meta-y-oakley-meta-llegan-a-chile/
 https://www.latercera.com/tecnologia/noticia/motorola-fold-razr-70-ultra-chile/
 https://www.latercera.com/tecnologia/noticia/samsung-chile-solve-for-tomorrow-2026/
 https://www.latercera.com/tecnologia/noticia/samsung-renueva-su-gama-media-en-chile-los-nuevos-galaxy-a57-y-a37-apuestan-por-democratizar-la-inteligencia-artificial/
@@ -1407,6 +1408,7 @@ titulo::los chilenos pasan a segundo plano con el nuevo dt sevilla cae ante el c
 titulo::los detalles del proyecto de viviendas sociales de poduje cerca del colegio nido de águilas
 titulo::los días clave para el futuro de julio césar rodríguez adelanta su salida de chilevisión y prepara viaje para analizar proyectos en el extranjero
 titulo::los hitos de alan meyer el histórico ejecutivo que lideró la fuerte expansión de mercado libre en chile
+titulo::los lentes con inteligencia artificial rayban meta y oakley meta llegan a chile precios y modelos disponibles
 titulo::los ocho proyectos pendientes del comité de ministros que suman más de us5000 millones
 titulo::los pingüinos papúa no eran todos iguales un estudio liderado por chilenos identifica una nueva especie
 titulo::los planes de scotiabank en chile para 2026
