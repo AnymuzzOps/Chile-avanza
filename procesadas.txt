@@ -308,6 +308,7 @@ https://www.latercera.com/nacional/noticia/este-ano-vamos-a-estar-operando-minis
 https://www.latercera.com/nacional/noticia/fiscal-hector-barros-estamos-frente-a-una-chilenizacion-del-delito-o-una-adaptacion-local-de-bandas-transnacionales/
 https://www.latercera.com/nacional/noticia/fiscalizacion-de-conaf-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias/
 https://www.latercera.com/nacional/noticia/gobierno-dara-suma-urgencia-a-proyecto-de-ley-que-elimina-feriado-electoral-para-permitir-funcionamiento-del-comercio/
+https://www.latercera.com/nacional/noticia/gobierno-de-santiago-impulsa-estrategia-para-reactivar-empleo-en-la-region-con-foco-en-labor-del-hub-metropolitano/
 https://www.latercera.com/nacional/noticia/gobierno-detalla-planificacion-estrategica-de-chile-en-la-antartica-y-enfatiza-importancia-de-recuperar-villa-las-estrellas/
 https://www.latercera.com/nacional/noticia/gobierno-explica-ejes-sociales-en-el-congreso-y-descarta-recortes-de-beneficios-por-ajuste-fiscal/
 https://www.latercera.com/nacional/noticia/gobierno-llama-a-vacunarse-contra-la-influenza-para-evitar-contagios-por-gripe-aviar/
@@ -1276,6 +1277,7 @@ titulo::gobierno confirma a cristián muga como presidente del directorio de ena
 titulo::gobierno confirma continuidad del subsidio eléctrico y busca fórmula para deuda de distribuidoras
 titulo::gobierno confirmó continuidad del subsidio eléctrico y anunció nuevo proceso
 titulo::gobierno dará suma urgencia a proyecto de ley que elimina feriado electoral para permitir funcionamiento del comercio
+titulo::gobierno de santiago impulsa estrategia para reactivar empleo en la región con foco en labor del hub metropolitano
 titulo::gobierno define ubicación del nuevo hospital de la zona norte de santiago se construirá en lampa en predio que costará más de 9400 millones
 titulo::gobierno destraba proyectos de inversión por us 225 millones y queda pendiente iniciativa de grupo errázuriz
 titulo::gobierno detalla planificación estratégica de chile en la antártica y enfatiza importancia de recuperar villa las estrellas
