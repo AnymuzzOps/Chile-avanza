@@ -65,6 +65,7 @@ https://elpais.com/chile/2026-06-22/pdi-de-chile-encuentra-a-52-de-64-ninos-hait
 https://elpais.com/chile/2026-06-23/encontrados-los-64-menores-haitianos-que-se-hallaban-si-paradero-conocido-en-chile-estaban-con-familiares-y-regularizados.html
 https://elpais.com/chile/2026-06-24/bono-logro-escolar-2026-en-chile-quienes-reciben-el-beneficio-y-como-obtener-hasta-85000-pesos.html
 https://elpais.com/chile/2026-06-25/devolucion-del-seguro-laboral-en-chile-como-saber-si-corresponde-el-reembolso-de-cotizaciones.html
+https://elpais.com/chile/2026-07-01/abastible-se-une-a-hub-metropolitano-y-hub-huechuraba-para-promover-el-emprendimiento-en-santiago-de-chile.html
 https://elpais.com/economia/2026-03-24/la-ue-y-australia-firman-un-acuerdo-comercial-que-elimina-1000-millones-en-aranceles-a-las-exportaciones-europeas.html
 https://www.conicyt.cl/blog/2019/10/28/investigadores-chilenos-reciben-reconocimiento-internacional-por-avance-en-inteligencia-artificial/
 https://www.conicyt.cl/blog/2020/01/15/conicyt-se-transforma-en-la-agencia-nacional-de-investigacion-y-desarrollo/
@@ -874,6 +875,7 @@ titulo::a qué hora y dónde ver a universidad de chile vs deportes la serena en
 titulo::a qué hora y dónde ver a uruguay vs chile por el sudamericano sub 17
 titulo::a qué hora y dónde ver el amistoso de chile contra nueva zelanda en tv y streaming
 titulo::a un año de denuncia de la contraloría licencias médicas se desploman casi 20 con 16 millones menos
+titulo::abastible se une a hub metropolitano y hub huechuraba para promover el emprendimiento en santiago de chile
 titulo::abre nueva galería comercial en santiago en antigua tienda de trajes de novia en calle puente
 titulo::académico chileno obtiene importante premio internacional de geografía es el primer latinoamericano en recibir esta distinción
 titulo::acelerar el suministro de minerales críticos facilitación de proyectos y precios preferentes las claves del acuerdo que firmó chile con estados unidos
