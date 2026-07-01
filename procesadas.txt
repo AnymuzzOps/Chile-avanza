@@ -376,6 +376,7 @@ https://www.latercera.com/publirreportajes/noticia/la-digitalizacion-del-capital
 https://www.latercera.com/publirreportajes/noticia/toyota-chile-lanza-beca-toyota-impulsa-pioneras-junto-a-duoc-uc-para-fomentar-la-inclusion-femenina-en-el-sector-automotriz/
 https://www.latercera.com/pulso/noticia/a-un-ano-de-denuncia-de-la-contraloria-licencias-medicas-se-desploman-casi-20-con-16-millones-menos/
 https://www.latercera.com/pulso/noticia/acciones-de-latam-airlines-se-disparan-tras-resultados-record-y-menores-tensiones-en-medio-oriente/
+https://www.latercera.com/pulso/noticia/ad-portas-del-teleferico-ciudad-empresarial-recupera-nivel-de-vacancia-de-oficinas-de-la-prepandemia-y-espera-proyectos-de-vivienda/
 https://www.latercera.com/pulso/noticia/aes-chile-inicia-operaciones-de-planta-solar-y-consolida-hub-andes-solar-como-el-mas-grande-de-latinoamerica/
 https://www.latercera.com/pulso/noticia/andes-salud-adquiere-el-control-de-clinica-imet-de-la-region-de-magallanes-y-anuncia-expansion-del-centro-de-salud/
 https://www.latercera.com/pulso/noticia/andina-anuncia-inversiones-por-us500-millones-y-su-presidente-llama-a-recuperar-el-dinamismo-economico/
@@ -883,6 +884,7 @@ titulo::acelerar el suministro de minerales críticos facilitación de proyectos
 titulo::acreencias bancarias más de 106000 millones sin cobrar por sus dueños en bancos y cooperativas
 titulo::acusan contradicción se profundiza malestar oficialista por posible recorte de 72 mil millones en seguridad
 titulo::ad portas de histórico bencinazo uber cabify y didi anuncian medidas para evitar alza de tarifas y proteger ingresos de conductores
+titulo::ad portas del teleférico ciudad empresarial recupera nivel de vacancia de oficinas de la prepandemia y espera proyectos de vivienda
 titulo::adjudican concesión de la nueva ruta pie de monte en biobío así será la nueva autopista que conectará el puente industrial con la ruta 160
 titulo::aes chile inicia operaciones de planta solar y consolida hub andes solar como el más grande de latinoamérica
 titulo::afp uno superó los 15 millones de afiliados y concentra el 125 del total de afiliados del sistema
